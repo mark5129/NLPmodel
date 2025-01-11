@@ -1,0 +1,7 @@
+
+# Declare the number of vertical Units that are to be assesed for the Finding of page titles, this can be optimized at a later stage. It is used in the pdf_titles_to_vsc.py
+# Has to be integer!
+Units: 100
+
+# Which pdf is to be scanned 
+pdf_path : 'Policer/p6-39-arsrejseforsikring-basisplus_dk_03.24.pdf'
