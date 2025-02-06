@@ -10,3 +10,10 @@ pip install scikit-learn pandas numpy
 nltk.download('punkt')
 
 pip install pdfplumber
+ed
+ee
+de
+de
+d
+e
+d
