@@ -10,7 +10,7 @@ with open('parameters.yaml', 'r') as file:
 
 if parameters['preprocess_data'] == True:
     # Define stop words
-    stop_words = set(stopwords.words('danish'))
+    stop_words_dk = set(stopwords.words('danish'))
 
     # Function to remove stop words
     def remove_stopwords(text):
