@@ -8,7 +8,8 @@ This repository is made to build the NLP model for the bachelor project
 - pandas
 - yaml
 - nltk stopwords
-- 
+- sentence-transformers
+- time
 
 
 # Loading parameters
