@@ -1,4 +1,20 @@
 
 # Here we define the parameters used in various scripts.
 
-var1: 20
+# Names of files and directories
+
+# Raw data
+pro_media_dir: data/pro_media.csv
+reg_media_dir: data/reg_media.csv
+
+# Cleaned data
+pro_media_cleaned_dir: data/pro_media_cleaned.csv
+reg_media_cleaned_dir: data/reg_media_cleaned.csv
+
+
+# Whether to perform the data preprocessing step
+preprocess_data: True
+
+# Whether to perform the model training step
+train_model: False
+
