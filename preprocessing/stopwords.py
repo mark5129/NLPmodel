@@ -15,7 +15,7 @@ if parameters['preprocess_data'] == True:
     # Function to remove stop words
     def remove_stopwords(text):
         word_tokens = word_tokenize(text)
-        filtered_text = [word for word in word_tokens if word.lower() not in stop_words]
+        filtered_text = [word for word in word_tokens if word.lower() not in stop_words_dk]
         return ' '.join(filtered_text)
 
     # Perform cleaning on pro_media.csv
