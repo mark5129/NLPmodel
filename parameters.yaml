@@ -1,6 +1,15 @@
 
 # Here we define the parameters used in various scripts.
 
+# Whether to perform the data preprocessing step
+preprocess_data: False
+
+# Whether to perform the model training step
+train_model: True
+
+# K-means clustering
+num_topics: 5
+
 # Names of files and directories
 
 # Raw data
@@ -15,12 +24,5 @@ reg_media_cleaned_dir: data/reg_media_cleaned.csv
 pro_media_embedded_dir: data/pro_media_embedded.csv
 reg_media_embedded_dir: data/reg_media_embedded.csv
 
-# Whether to perform the data preprocessing step
-preprocess_data: True
 
-# Whether to perform the model training step
-train_model: False
-
-# K-means clustering
-num_topics: 5
 

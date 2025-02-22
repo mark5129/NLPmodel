@@ -3,9 +3,20 @@ import yaml
 with open('parameters.yaml', 'r') as file:
     parameters = yaml.safe_load(file)
 
-from sentence_transformers import SentenceTransformer
 import time
+
+start_time = time.time()
+print(start_time)
+
+from sentence_transformers import SentenceTransformer
+
 import pandas as pd
+
+
+end_time = time.time()
+elapsed_time = end_time - start_time
+
+print(f"Embeddings generated in {elapsed_time:.2f} seconds.")
 
 # Step 1: Load the CSV OR XLSX file
 df = pd.read_csv('pro_media_cleaned.csv') # Your csv file name

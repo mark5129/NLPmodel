@@ -1,0 +1,8 @@
+id,time,preprocess_data,train_model,num_topics,pro_media_dir,reg_media_dir,pro_media_cleaned_dir,reg_media_cleaned_dir,pro_media_embedded_dir,reg_media_embedded_dir
+1,Sat Feb 22 22:27:55 2025,raw_data/pro_media.csv,raw_data/reg_media.csv,data/pro_media_cleaned.csv,data/reg_media_cleaned.csv,data/pro_media_embedded.csv,data/reg_media_embedded.csv,False,False,5
+2,Sat Feb 22 22:29:09 2025,False,False,5,raw_data/pro_media.csv,raw_data/reg_media.csv,data/pro_media_cleaned.csv,data/reg_media_cleaned.csv,data/pro_media_embedded.csv,data/reg_media_embedded.csv
+3,Sat Feb 22 22:29:39 2025,False,False,5,raw_data/pro_media.csv,raw_data/reg_media.csv,data/pro_media_cleaned.csv,data/reg_media_cleaned.csv,data/pro_media_embedded.csv,data/reg_media_embedded.csv
+4,Sat Feb 22 22:31:51 2025,False,False,5,raw_data/pro_media.csv,raw_data/reg_media.csv,data/pro_media_cleaned.csv,data/reg_media_cleaned.csv,data/pro_media_embedded.csv,data/reg_media_embedded.csv
+5,Sat Feb 22 22:32:32 2025,False,False,5,raw_data/pro_media.csv,raw_data/reg_media.csv,data/pro_media_cleaned.csv,data/reg_media_cleaned.csv,data/pro_media_embedded.csv,data/reg_media_embedded.csv
+6,Sat Feb 22 22:46:37 2025,False,True,5,raw_data/pro_media.csv,raw_data/reg_media.csv,data/pro_media_cleaned.csv,data/reg_media_cleaned.csv,data/pro_media_embedded.csv,data/reg_media_embedded.csv
+7,Sat Feb 22 22:47:06 2025,False,True,5,raw_data/pro_media.csv,raw_data/reg_media.csv,data/pro_media_cleaned.csv,data/reg_media_cleaned.csv,data/pro_media_embedded.csv,data/reg_media_embedded.csv

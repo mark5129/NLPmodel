@@ -8,7 +8,6 @@ import torch
 from sklearn.cluster import KMeans
 
 
-
 # Load pre-trained multilingual BERT model and tokenizer
 tokenizer = BertTokenizer.from_pretrained('bert-base-multilingual-cased')
 model = BertModel.from_pretrained('bert-base-multilingual-cased')

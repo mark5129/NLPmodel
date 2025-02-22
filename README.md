@@ -10,6 +10,7 @@ This repository is made to build the NLP model for the bachelor project
 - nltk stopwords
 - sentence-transformers
 - time
+- csv
 
 
 # Loading parameters
