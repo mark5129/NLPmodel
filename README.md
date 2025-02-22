@@ -1,4 +1,4 @@
-# NLPmodel
+# NLPmodel pipeline
 
 This repository is made to build the pipeline for the NLP models that we would like to test for our bachelor project.
 
