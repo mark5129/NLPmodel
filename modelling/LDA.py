@@ -21,7 +21,8 @@ def LDAModel(text_column, number_of_topics, language, current_id):
     Returns:
     text (str): The transformed text.
     """
-    stop_words=set(nltk.corpus.stopwords.words(language))
+    stop_words=list(nltk.corpus.stopwords.words(language))
+
 
     vect =TfidfVectorizer(stop_words=stop_words,max_features=1000)
     vect_text=vect.fit_transform(text_column)
