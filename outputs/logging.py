@@ -43,9 +43,9 @@ def log_parameters(parameters: dict):
         writer = csv.writer(file)
         # Write header if the file is empty
         if last_id == 0:
-            writer.writerow(['id', 'time', 'preprocess_data','train_model','num_topics', 'what_data'])
+            writer.writerow(['id', 'time', 'preprocess_data','train_model','num_topics', 'what_data', 'train_specter2', 'train_lda'])
         # Write the current ID, time, and parameters
-        writer.writerow([current_id, time.ctime(), parameters['preprocess_data'], parameters['train_model'],parameters['num_topics'], parameters['what_data']])
+        writer.writerow([current_id, time.ctime(), parameters['preprocess_data'], parameters['train_model'],parameters['num_topics'], parameters['what_data'], parameters['train_specter2'], parameters['train_lda']])
         print('Parameters are saved to log.csv')
     
     return current_id, time.ctime()
