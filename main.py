@@ -52,8 +52,17 @@ else:
 
 if parameters['train_model'] == True:
 
-    reg_media = pd.read_csv(parameters['reg_media_cleaned_dir'])
-    pro_media = pd.read_csv(parameters['pro_media_cleaned_dir'])
+    if parameters['what_data'] == 'raw':
+        reg_media = pd.read_csv(parameters['reg_media_dir'])
+        pro_media = pd.read_csv(parameters['pro_media_dir'])
+    elif parameters['what_data'] == 'cleaned':
+        reg_media = pd.read_csv(parameters['reg_media_cleaned_dir'])
+        pro_media = pd.read_csv(parameters['pro_media_cleaned_dir'])
+    elif parameters['what_data'] == 'stemmed':
+        reg_media = pd.read_csv(parameters['reg_media_stemmed_dir'])
+        pro_media = pd.read_csv(parameters['pro_media_stemmed_dir'])
+    else:
+        print('No or wrong data source selected in parameters.yaml')
 
     number_of_topics = parameters['num_topics']
     reg_text_column = reg_media['Content']
