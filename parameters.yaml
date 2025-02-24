@@ -35,6 +35,8 @@ reg_media_stemmed_dir: data/reg_media_stemmed_eng.csv
 # Specter model
 train_specter2: True
 
+#LDA mode
 
+train_lda: False
 
 
