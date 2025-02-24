@@ -37,6 +37,8 @@ This is where all the parameters for all code can be found. If something has to 
 - time
 - csv
 - random
+- asyncio
+- googletrans
 
 
 # Loading parameters
