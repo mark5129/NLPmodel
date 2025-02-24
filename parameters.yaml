@@ -2,10 +2,10 @@
 # Here we define the parameters used in various scripts.
 
 # Whether to perform the data preprocessing step
-preprocess_data: False
+preprocess_data: True
 
 # Whether to perform the model training step
-train_model: True
+train_model: False
 
 # K-means clustering
 num_topics: 5
@@ -16,13 +16,13 @@ num_topics: 5
 pro_media_dir: raw_data/pro_media.csv
 reg_media_dir: raw_data/reg_media.csv
 
-# Cleaned data
+# stopwords removed
 pro_media_cleaned_dir: data/pro_media_cleaned.csv
 reg_media_cleaned_dir: data/reg_media_cleaned.csv
 
-# processed data
-pro_media_embedded_dir: data/pro_media_embedded.csv
-reg_media_embedded_dir: data/reg_media_embedded.csv
+# stemming of words
+pro_media_stemmed_dir: data/pro_media_stemmed.csv
+reg_media_stemmed_dir: data/reg_media_stemmed.csv
 
 
 

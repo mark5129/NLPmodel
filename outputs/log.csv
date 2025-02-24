@@ -6,3 +6,5 @@ id,time,preprocess_data,train_model,num_topics,pro_media_dir,reg_media_dir,pro_m
 5,Sat Feb 22 22:32:32 2025,False,False,5,raw_data/pro_media.csv,raw_data/reg_media.csv,data/pro_media_cleaned.csv,data/reg_media_cleaned.csv,data/pro_media_embedded.csv,data/reg_media_embedded.csv
 6,Sat Feb 22 22:46:37 2025,False,True,5,raw_data/pro_media.csv,raw_data/reg_media.csv,data/pro_media_cleaned.csv,data/reg_media_cleaned.csv,data/pro_media_embedded.csv,data/reg_media_embedded.csv
 7,Sat Feb 22 22:47:06 2025,False,True,5,raw_data/pro_media.csv,raw_data/reg_media.csv,data/pro_media_cleaned.csv,data/reg_media_cleaned.csv,data/pro_media_embedded.csv,data/reg_media_embedded.csv
+8,Mon Feb 24 09:47:50 2025,True,False,5,raw_data/pro_media.csv,raw_data/reg_media.csv,data/pro_media_cleaned.csv,data/reg_media_cleaned.csv,data/pro_media_stemmed.csv,data/reg_media_stemmed.csv
+9,Mon Feb 24 09:48:13 2025,True,False,5,raw_data/pro_media.csv,raw_data/reg_media.csv,data/pro_media_cleaned.csv,data/reg_media_cleaned.csv,data/pro_media_stemmed.csv,data/reg_media_stemmed.csv
