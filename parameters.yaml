@@ -32,5 +32,9 @@ reg_media_cleaned_dir: data/reg_media_cleaned_eng.csv
 pro_media_stemmed_dir: data/pro_media_stemmed_eng.csv
 reg_media_stemmed_dir: data/reg_media_stemmed_eng.csv
 
+# Specter model
+train_specter2: True
+
+
 
 
