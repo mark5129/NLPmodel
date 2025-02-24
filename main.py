@@ -74,19 +74,3 @@ if parameters['train_model'] == True:
 
 else:
     print('Model training is turned off in parameters.yaml')
-
-from modelling.Specter2 import Specter2Model
-
-if parameters['train_specter2'] == True:
-    if parameters['what_data'] == 'cleaned':
-        reg_media = pd.read_csv(parameters['reg_media_cleaned_dir'])
-        pro_media = pd.read_csv(parameters['pro_media_cleaned_dir'])
-    else:
-        print('No or wrong data source selected in parameters.yaml')
-
-    reg_text_column = reg_media['Content']
-    pro_text_column = pro_media['Full text']
-
-    Specter2Model(reg_text_column, current_id)
-    Specter2Model(pro_text_column, current_id)
-    print('Specter2 embeddings are generated.')
