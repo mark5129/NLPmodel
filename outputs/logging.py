@@ -42,3 +42,5 @@ def log_parameters(parameters: dict):
         # Write the current ID, time, and parameters
         writer.writerow([current_id, time.ctime()] + list(parameters.values()))
         print('Parameters are saved to log.csv')
+    
+    return current_id, time.ctime()

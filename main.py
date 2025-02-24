@@ -19,7 +19,7 @@ with open('parameters.yaml', 'r') as file:
     parameters = yaml.safe_load(file)
 
 # Save the parameters to a CSV file
-log_parameters(parameters)
+current_id, time = log_parameters(parameters)
 
 if parameters['preprocess_data'] == True:
     
