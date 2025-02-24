@@ -2,10 +2,10 @@
 # Here we define the parameters used in various scripts.
 
 # Whether to perform the data preprocessing step
-preprocess_data: True
+preprocess_data: False
 
 # Whether to perform the model training step
-train_model: False
+train_model: True
 
 # K-means clustering
 num_topics: 10
@@ -31,6 +31,10 @@ reg_media_cleaned_dir: data/reg_media_cleaned_eng.csv
 # stemming of words
 pro_media_stemmed_dir: data/pro_media_stemmed_eng.csv
 reg_media_stemmed_dir: data/reg_media_stemmed_eng.csv
+
+# Specter model
+train_specter2: True
+
 
 
 
