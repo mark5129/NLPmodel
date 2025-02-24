@@ -69,8 +69,8 @@ if parameters['train_model'] == True:
     pro_text_column = pro_media['Full text']
 
     LDAModel(reg_text_column, number_of_topics, current_id)
-
     LDAModel(pro_text_column, number_of_topics, current_id)
+    print('LDA model is trained')
 
 else:
     print('Model training is turned off in parameters.yaml')

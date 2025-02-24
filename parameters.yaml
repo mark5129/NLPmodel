@@ -12,7 +12,7 @@ num_topics: 10
 
 # What data to use?
 # raw, cleaned, stemmed
-what_data: stemmed
+what_data: cleaned
 
 # Names of files and directories
 
