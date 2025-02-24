@@ -10,7 +10,7 @@ from sklearn.decomposition import LatentDirichletAllocation
 import csv
 import os
 
-def LDAModel(text_column, number_of_topics, current_id):
+def LDAModel(text_column, number_of_topics, language, current_id):
     """
     Transforms a text into a sentence embedding.
 
@@ -21,7 +21,7 @@ def LDAModel(text_column, number_of_topics, current_id):
     Returns:
     text (str): The transformed text.
     """
-    stop_words=set(nltk.corpus.stopwords.words('english'))
+    stop_words=set(nltk.corpus.stopwords.words(language))
 
     vect =TfidfVectorizer(stop_words=stop_words,max_features=1000)
     vect_text=vect.fit_transform(text_column)

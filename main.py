@@ -69,8 +69,8 @@ if parameters['train_model'] == True:
     reg_text_column = reg_media['Content']
     pro_text_column = pro_media['Full text']
 
-    #LDAModel(reg_text_column, number_of_topics, current_id)
-    #LDAModel(pro_text_column, number_of_topics, current_id)
+    LDAModel(reg_text_column, number_of_topics, 'english', current_id)
+    LDAModel(pro_text_column, number_of_topics,'english', current_id)
     print('LDA model is trained')
     if parameters['train_specter2'] == True:
 

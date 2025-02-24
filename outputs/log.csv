@@ -30,3 +30,5 @@ id,time,preprocess_data,train_model,num_topics,what_data
 8495005837,Mon Feb 24 15:29:12 2025,False,True,10,stemmed
 4900326285,Mon Feb 24 15:29:37 2025,False,True,10,stemmed
 1285842042,Mon Feb 24 15:36:15 2025,False,True,10,stemmed
+9816311276,Mon Feb 24 15:31:31 2025,False,True,10,stemmed
+6983457192,Mon Feb 24 15:32:03 2025,False,True,10,stemmed
