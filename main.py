@@ -24,26 +24,26 @@ current_id, time = log_parameters(parameters)
 if parameters['preprocess_data'] == True:
     
     # Perform cleaning on pro_media.csv
-    df_pro = pd.read_csv(parameters['pro_media_dir']) # Load the CSV file
-    df_pro['Full text'] = df_pro['Full text'].apply(lambda x: remove_stopwords(x, 'danish')) # Apply the function to the text column
+    df_pro = pd.read_csv(parameters['pro_media_translated_dir']) # Load the CSV file
+    df_pro['Full text'] = df_pro['Full text'].apply(lambda x: remove_stopwords(x, 'english')) # Apply the function to the text column
     df_pro.to_csv(parameters['pro_media_cleaned_dir'], index=False) # Save the cleaned text to a new CSV file
     print('pro_media.csv is cleaned')
 
     # Perform cleaning on reg_media.csv
-    df_reg = pd.read_csv(parameters['reg_media_dir'])
-    df_reg['Content'] = df_reg['Content'].apply(lambda x: remove_stopwords(x, 'danish'))
-    df_reg.to_csv('reg_media_cleaned_dir', index=False)
+    df_reg = pd.read_csv(parameters['reg_media_translated_dir'])
+    df_reg['Content'] = df_reg['Content'].apply(lambda x: remove_stopwords(x, 'english'))
+    df_reg.to_csv(parameters['reg_media_cleaned_dir'], index=False)
     print('reg_media.csv is cleaned')
 
     # Perform sentence stemming on pro_media.csv
     df_pro = pd.read_csv(parameters['pro_media_cleaned_dir']) # Load the CSV file
-    df_pro['Full text'] = df_pro['Full text'].apply(lambda x: stemming(x, 'danish'))
+    df_pro['Full text'] = df_pro['Full text'].apply(lambda x: stemming(x, 'english'))
     df_pro.to_csv(parameters['pro_media_stemmed_dir'], index=False) # Save the embeddings to a new CSV file
     print('pro_media.csv is stemmed')
 
     # Perform cleaning on reg_media.csv
     df_reg = pd.read_csv(parameters['reg_media_cleaned_dir'])
-    df_reg['Content'] = df_reg['Content'].apply(lambda x: stemming(x, 'danish'))
+    df_reg['Content'] = df_reg['Content'].apply(lambda x: stemming(x, 'english'))
     df_reg.to_csv(parameters['reg_media_stemmed_dir'], index=False)
     print('reg_media.csv is stemmed')
     
