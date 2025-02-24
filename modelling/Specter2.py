@@ -22,9 +22,9 @@ def Specter2Model(text_column, current_id):
     Returns:
     embeddings (torch.Tensor): Specter2 embeddings for all documents.
     """
-    # Load the Specter2 model
-    tokenizer = AutoTokenizer.from_pretrained("allenai/specter2")
-    model = AutoModel.from_pretrained("allenai/specter2")
+    tokenizer = AutoTokenizer.from_pretrained("allenai/specter")
+    model = AutoModel.from_pretrained("allenai/specter")
+
 
     embeddings_list = []
 
@@ -46,3 +46,31 @@ def Specter2Model(text_column, current_id):
     print(f'Specter2 embeddings saved for ID {current_id}')
 
     return df_embeddings
+
+
+#if parameters['train_specter2'] == True:
+
+    #Specter2Model(reg_text_column, current_id)
+    #Specter2Model(pro_text_column, current_id)
+    #print('Specter2 embeddings are generated.')
+
+#else:
+    #print('Model training is turned off in parameters.yaml')
+    
+
+if __name__ == "__main__":
+    # Dummy example data for testing
+    import pandas as pd
+
+    # Example test data
+    sample_texts = pd.Series([
+        "This is an example of a scientific article discussing renewable energy.",
+        "Another article exploring the challenges and opportunities of energy islands."
+    ])
+
+    # Provide a test ID for saving outputs
+    test_current_id = "test_run"
+
+    # Call the function
+    Specter2Model(sample_texts, test_current_id)
+    print("Specter2 model ran successfully with test data.")

@@ -10,6 +10,7 @@ from outputs.logging import log_parameters, update_header_if_needed
 
 # import functions for modelling
 from modelling.LDA import LDAModel
+from modelling.Specter2 import Specter2Model
 
 
 # load parameters from yaml file.
@@ -68,25 +69,14 @@ if parameters['train_model'] == True:
     reg_text_column = reg_media['Content']
     pro_text_column = pro_media['Full text']
 
-    LDAModel(reg_text_column, number_of_topics, current_id)
-    LDAModel(pro_text_column, number_of_topics, current_id)
+    #LDAModel(reg_text_column, number_of_topics, current_id)
+    #LDAModel(pro_text_column, number_of_topics, current_id)
     print('LDA model is trained')
+    if parameters['train_specter2'] == True:
+
+        Specter2Model(reg_text_column, current_id)
+        Specter2Model(pro_text_column, current_id)
+        print('Specter2 embeddings are generated.')
 
 else:
     print('Model training is turned off in parameters.yaml')
-
-from modelling.Specter2 import Specter2Model
-
-if parameters['train_specter2'] == True:
-    if parameters['what_data'] == 'cleaned':
-        reg_media = pd.read_csv(parameters['reg_media_cleaned_dir'])
-        pro_media = pd.read_csv(parameters['pro_media_cleaned_dir'])
-    else:
-        print('No or wrong data source selected in parameters.yaml')
-
-    reg_text_column = reg_media['Content']
-    pro_text_column = pro_media['Full text']
-
-    Specter2Model(reg_text_column, current_id)
-    Specter2Model(pro_text_column, current_id)
-    print('Specter2 embeddings are generated.')

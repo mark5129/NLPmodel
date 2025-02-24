@@ -2,10 +2,10 @@
 # Here we define the parameters used in various scripts.
 
 # Whether to perform the data preprocessing step
-preprocess_data: True
+preprocess_data: False
 
 # Whether to perform the model training step
-train_model: False
+train_model: True
 
 # K-means clustering
 num_topics: 10
