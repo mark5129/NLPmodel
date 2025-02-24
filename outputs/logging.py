@@ -31,9 +31,10 @@ def log_parameters(parameters: dict):
                 last_id = 0
     else:
         last_id = 0
+    
+    
     # generate random number with 10 digits
     current_id = random.randint(1000000000, 9999999999)
-
 
     # Increment the ID for the current run
     #current_id = last_id + 1
