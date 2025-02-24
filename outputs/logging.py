@@ -1,6 +1,7 @@
 import csv
 import time
 import os
+import random
 
 def update_header_if_needed(parameters: dict):
     if os.path.exists('outputs/log.csv'):
@@ -30,17 +31,20 @@ def log_parameters(parameters: dict):
                 last_id = 0
     else:
         last_id = 0
+    # generate random number with 10 digits
+    current_id = random.randint(1000000000, 9999999999)
+
 
     # Increment the ID for the current run
-    current_id = last_id + 1
+    #current_id = last_id + 1
 
     with open('outputs/log.csv', mode='a', newline='') as file:
         writer = csv.writer(file)
         # Write header if the file is empty
         if last_id == 0:
-            writer.writerow(['id', 'time'] + list(parameters.keys()))
+            writer.writerow(['id', 'time', 'preprocess_data','train_model','num_topics', 'what_data'])
         # Write the current ID, time, and parameters
-        writer.writerow([current_id, time.ctime()] + list(parameters.values()))
+        writer.writerow([current_id, time.ctime(), parameters['preprocess_data'], parameters['train_model'],parameters['num_topics'], parameters['what_data']])
         print('Parameters are saved to log.csv')
     
     return current_id, time.ctime()

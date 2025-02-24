@@ -8,7 +8,7 @@ preprocess_data: False
 train_model: True
 
 # K-means clustering
-num_topics: 5
+num_topics: 10
 
 # What data to use?
 # raw, cleaned, stemmed
