@@ -14,6 +14,28 @@ num_topics: 10
 # raw, cleaned, stemmed
 what_data: stemmed
 
+# Hyperparameters for the models:
+
+# NMF model
+train_nmf: False
+random_state: 42
+max_features: 1000
+n_top_words: 10
+
+# Specter model
+train_specter2: False
+
+#LDA mode
+train_lda: True
+
+
+
+
+
+
+
+
+
 # Names of files and directories
 
 # Raw data
@@ -31,11 +53,3 @@ reg_media_cleaned_dir: data/reg_media_cleaned_eng.csv
 # stemming of words
 pro_media_stemmed_dir: data/pro_media_stemmed_eng.csv
 reg_media_stemmed_dir: data/reg_media_stemmed_eng.csv
-
-# Specter model
-train_specter2: True
-
-#LDA mode
-train_lda: False
-
-

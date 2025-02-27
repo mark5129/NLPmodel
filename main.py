@@ -11,6 +11,7 @@ from outputs.logging import log_parameters, update_header_if_needed
 # import functions for modelling
 from modelling.LDA import LDAModel
 from modelling.Specter2 import Specter2Model
+from modelling.NMF import NMF_model
 
 
 # load parameters from yaml file.
@@ -54,8 +55,8 @@ else:
 if parameters['train_model'] == True:
 
     if parameters['what_data'] == 'raw':
-        reg_media = pd.read_csv(parameters['reg_media_dir'])
-        pro_media = pd.read_csv(parameters['pro_media_dir'])
+        reg_media = pd.read_csv(parameters['reg_media_translated_dir'])
+        pro_media = pd.read_csv(parameters['pro_media_translated_dir'])
     elif parameters['what_data'] == 'cleaned':
         reg_media = pd.read_csv(parameters['reg_media_cleaned_dir'])
         pro_media = pd.read_csv(parameters['pro_media_cleaned_dir'])
@@ -65,22 +66,27 @@ if parameters['train_model'] == True:
     else:
         print('No or wrong data source selected in parameters.yaml')
 
-    number_of_topics = parameters['num_topics']
     reg_text_column = reg_media['Content']
     pro_text_column = pro_media['Full text']
 
 
     if parameters['train_lda'] == True:
         
-        LDAModel(reg_text_column, number_of_topics, 'english', current_id)
-        LDAModel(pro_text_column, number_of_topics, 'english', current_id)
+        LDAModel(reg_text_column, 'english', current_id, 'reg')
+        LDAModel(pro_text_column, 'english', current_id, 'pro')
         print('LDA model is trained')
 
     if parameters['train_specter2'] == True:
 
-        Specter2Model(reg_text_column, current_id)
-        Specter2Model(pro_text_column, current_id)
+        Specter2Model(reg_text_column, current_id, 'reg')
+        Specter2Model(pro_text_column, current_id, 'pro')
         print('Specter2 embeddings are generated.')
+
+    if parameters['train_nmf'] == True:
+
+        NMF_model(reg_text_column, current_id, 'reg')
+        NMF_model(pro_text_column, current_id, 'pro')
+        print('NMF model is trained')
 
 else:
     print('Model training is turned off in parameters.yaml')

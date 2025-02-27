@@ -11,7 +11,7 @@ import pandas as pd
 import os
 import csv
 
-def Specter2Model(text_column, current_id):
+def Specter2Model(text_column, current_id, doc_type):
     """
     Generates embeddings using Specter2 for scientific literature comparison.
 
@@ -42,7 +42,7 @@ def Specter2Model(text_column, current_id):
         os.makedirs(output_dir)
 
     df_embeddings = pd.DataFrame(embeddings_list)
-    df_embeddings.to_csv(os.path.join(output_dir, f'{current_id}_Specter2_embeddings.csv'), index=False)
+    df_embeddings.to_csv(os.path.join(output_dir, f'{current_id}_{doc_type}_Specter2_embeddings.csv'), index=False)
     print(f'Specter2 embeddings saved for ID {current_id}')
 
     return df_embeddings

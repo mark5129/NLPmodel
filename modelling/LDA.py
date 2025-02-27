@@ -10,7 +10,7 @@ from sklearn.decomposition import LatentDirichletAllocation
 import csv
 import os
 
-def LDAModel(text_column, number_of_topics, language, current_id):
+def LDAModel(text_column, language, current_id, doc_type):
     """
     Transforms a text into a sentence embedding.
 
@@ -27,15 +27,14 @@ def LDAModel(text_column, number_of_topics, language, current_id):
     vect =TfidfVectorizer(stop_words=stop_words,max_features=1000)
     vect_text=vect.fit_transform(text_column)
 
-    lda_model=LatentDirichletAllocation(n_components=number_of_topics,
-    learning_method='online',random_state=42,max_iter=1) 
+    lda_model=LatentDirichletAllocation(n_components=parameters['num_topics'], learning_method='online',random_state=42,max_iter=1) 
     lda_top=lda_model.fit_transform(vect_text)
 
     output_dir = 'outputs/LDA_topics'
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    with open(os.path.join(output_dir, str(current_id) + '_LDA_topics.csv'), 'w', newline='') as csvfile:
+    with open(os.path.join(output_dir, f'{current_id}_{doc_type}_LDA_topics.csv'), 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(['Topic', 'Words'])
         vocab = vect.get_feature_names_out()
@@ -43,7 +42,7 @@ def LDAModel(text_column, number_of_topics, language, current_id):
             vocab_comp = zip(vocab, comp)
             sorted_words = sorted(vocab_comp, key=lambda x: x[1], reverse=True)[:10]
             topic_words = " ".join([t[0] for t in sorted_words])
-            writer.writerow([f'Topic {i}', topic_words])
+            writer.writerow([f'{i}', topic_words])
 
 
     return lda_top
