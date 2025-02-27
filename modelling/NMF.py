@@ -35,3 +35,11 @@ def NMF_model(documents, current_id, doc_type):
 
     topics_df.to_csv(os.path.join(output_dir, f'{current_id}_{doc_type}_nmf_topics.csv'), index=False)
     print(f'NMF Topics saved for ID {current_id}')
+
+    # Get the topic distribution for each document
+    doc_topic_matrix = nmf_model.transform(tfidf_matrix)
+
+    # Save the document-topic matrix to a CSV file
+    doc_topic_df = pd.DataFrame(doc_topic_matrix)
+    doc_topic_df.to_csv(os.path.join(output_dir, f'{current_id}_{doc_type}_nmf_doc_topics.csv'), index=False)
+    print(f'Document-Topic matrix saved for ID {current_id}')
