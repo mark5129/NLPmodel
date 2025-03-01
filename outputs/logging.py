@@ -43,7 +43,21 @@ def log_parameters(parameters: dict):
         writer = csv.writer(file)
         # Write header if the file is empty
         if last_id == 0:
-            writer.writerow(['id', 'time', 'preprocess_data', 'train_model', 'num_topics', 'what_data', 'train_nmf', 'nmf_random_state', 'nmf_max_features', 'nmf_n_top_words', 'train_specter2', 'train_lda'])
+            writer.writerow([
+                'id', 
+                'time', 
+                'preprocess_data', 
+                'train_model', 
+                'num_topics', 
+                'what_data', 
+                'train_nmf', 
+                'nmf_random_state', 
+                'nmf_max_features', 
+                'nmf_n_top_words', 
+                'train_specter2', 
+                'train_lda'
+            ])
+            
         # Write the current ID, time, and parameters
         writer.writerow([
             current_id, 
