@@ -7,20 +7,18 @@ preprocess_data: False
 # Whether to perform the model training step
 train_model: True
 
-# K-means clustering
-num_topics: 10
-
 # What data to use?
 # raw, cleaned, stemmed
 what_data: stemmed
 
 # Hyperparameters for the models:
-
-# NMF model
-train_nmf: False
+num_topics: 10
 random_state: 42
 max_features: 1000
 n_top_words: 10
+
+# NMF model
+train_nmf: False
 
 # Specter model
 train_specter2: False
