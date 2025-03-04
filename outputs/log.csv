@@ -1,4 +1,4 @@
-id,time,preprocess_data,train_model,num_topics,what_data
+id,time,preprocess_data,train_model,num_topics,what_data,train_nmf,nmf_random_state,nmf_max_features,nmf_n_top_words,train_specter2,train_lda
 1,Sat Feb 22 22:27:55 2025
 2,Sat Feb 22 22:29:09 2025,False,False,5
 3,Sat Feb 22 22:29:39 2025,False,False,5
@@ -41,3 +41,4 @@ id,time,preprocess_data,train_model,num_topics,what_data
 1253082409,Thu Feb 27 22:33:29 2025,False,True,10,stemmed,False,False
 4014230839,Thu Feb 27 22:34:12 2025,False,True,10,stemmed,False,True
 9200734598,Thu Feb 27 22:38:18 2025,False,True,10,stemmed,False,42,1000,10,False,True
+9473394320,Tue Mar  4 20:24:48 2025,False,True,10,stemmed,False,42,1000,10,False,True

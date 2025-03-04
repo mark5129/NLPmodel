@@ -50,12 +50,12 @@ def log_parameters(parameters: dict):
                 'train_model', 
                 'num_topics', 
                 'what_data', 
-                'train_nmf', 
                 'nmf_random_state', 
                 'nmf_max_features', 
                 'nmf_n_top_words', 
                 'train_specter2', 
-                'train_lda'
+                'train_lda',
+                'train_nmf'
             ])
             
         # Write the current ID, time, and parameters
@@ -66,12 +66,12 @@ def log_parameters(parameters: dict):
             parameters['train_model'], 
             parameters['num_topics'], 
             parameters['what_data'], 
-            parameters['train_nmf'], 
             parameters['random_state'], 
             parameters['max_features'], 
             parameters['n_top_words'], 
             parameters['train_specter2'], 
-            parameters['train_lda']
+            parameters['train_lda'],
+            parameters['train_nmf']
         ])
         print('Parameters are saved to log.csv')
     

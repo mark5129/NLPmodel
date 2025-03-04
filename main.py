@@ -12,6 +12,7 @@ from outputs.logging import log_parameters, update_header_if_needed
 from modelling.LDA import LDAModel
 from modelling.Specter2 import Specter2Model
 from modelling.NMF import NMF_model
+from modelling.XLM_Roberta import XLM_Roberta_model
 
 
 # load parameters from yaml file.
