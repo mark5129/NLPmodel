@@ -8,11 +8,6 @@ with open('parameters.yaml', 'r') as file:
     parameters = yaml.safe_load(file)
 
 import pandas as pd
-reg_media = pd.read_csv(parameters['reg_media_stemmed_dir'])
-pro_media = pd.read_csv(parameters['pro_media_stemmed_dir'])
-
-
-from bertopic import BERTopic
 
 def BERTopicModel(text_column, doc_type):
     """
