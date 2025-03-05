@@ -16,6 +16,7 @@ from modelling.Specter2 import Specter2Model
 from modelling.NMF import NMF_model
 from modelling.XLM_Roberta import XLM_Roberta_model
 from modelling.BERTopic import BERTopicModel
+from modelling.minilm12 import MiniLM12
 
 # load parameters from yaml file.
 import yaml
