@@ -16,7 +16,7 @@ num_topics: 10
 random_state: 42
 max_features: 1000
 n_top_words: 10
-nr_topics: 10
+nr_topics: 10 # Number of topics for BERTopic model
 
 # NMF model
 train_nmf: True
