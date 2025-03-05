@@ -94,6 +94,7 @@ if parameters['train_model'] == True:
     if parameters['train_bert'] == True:
         reg_topics, reg_topic_model = BERTopicModel(reg_text_column, "reg_media")
         pro_topics, pro_topic_model = BERTopicModel(pro_text_column, "pro_media")
+        print('BERTopic model is trained')
 
 
 else:
