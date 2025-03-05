@@ -30,6 +30,9 @@ train_lda: False
 #Bert model
 train_bert: False
 
+# Minilm12
+train_minilm12: False
+
 # Names of files and directories
 
 # Raw data
