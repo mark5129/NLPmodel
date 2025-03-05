@@ -3,37 +3,26 @@ import yaml
 with open('parameters.yaml', 'r') as file:
     parameters = yaml.safe_load(file)
 
-import time
-
-start_time = time.time()
-print(start_time)
-
+import os
 from sentence_transformers import SentenceTransformer
-
 import pandas as pd
 
+def MiniLM12(text_data, current_id, doc_type):
+    
+    #model = SentenceTransformer('all-MiniLM-L6-v2') ## English model
+    model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2') ## Multilingual model
+    # Step 3: Generate embeddings
 
-end_time = time.time()
-elapsed_time = end_time - start_time
+    embeddings = model.encode(text_data, show_progress_bar=True, batch_size=32)
 
-print(f"Embeddings generated in {elapsed_time:.2f} seconds.")
+    # Save embeddings to CSV
+    output_dir = 'outputs/MiniLm12'
 
-# Step 1: Load the CSV OR XLSX file
-df = pd.read_csv('pro_media_cleaned.csv') # Your csv file name
-#df = pd.read_excel ('TEXT.xlsx')
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
 
-# Step 2: Prepare the text data
-text_data = df['Full text'][1].tolist()
+    df_embeddings = pd.DataFrame(embeddings)
+    df_embeddings.to_csv(os.path.join(output_dir, f'{current_id}_{doc_type}_MiniLm12_embeddings.csv'), index=False)
+    print(f'MiniLm12 embeddings saved for ID {current_id}')
 
-# Step 3: Generate embeddings with progress bar and timer
-#model = SentenceTransformer('all-MiniLM-L6-v2') ## English model
-model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2') ## Multilingual model
-# Step 3: Generate embeddings
-start_time = time.time()
-
-embeddings = model.encode(text_data, show_progress_bar=True, batch_size=32)
-
-end_time = time.time()
-elapsed_time = end_time - start_time
-
-print(f"Embeddings generated in {elapsed_time:.2f} seconds.")
+    return embeddings

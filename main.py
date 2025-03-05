@@ -96,6 +96,11 @@ if parameters['train_model'] == True:
         reg_topics, reg_topic_model = BERTopicModel(reg_text_column, "reg_media")
         pro_topics, pro_topic_model = BERTopicModel(pro_text_column, "pro_media")
         print('BERTopic model is trained')
+    
+    if parameters['train_minilm12'] == True:
+        MiniLM12(reg_text_column, current_id, 'reg')
+        MiniLM12(pro_text_column, current_id, 'pro')
+        print('MiniLM12 embeddings are generated.')
 
 
 else:
