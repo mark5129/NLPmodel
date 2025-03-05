@@ -27,7 +27,7 @@ def BERTopicModel(text_column, doc_type):
     """
     
     # Initialize and fit BERTopic
-    topic_model = BERTopic(nr_topics="auto")
+    topic_model = BERTopic(nr_topics=parameters['rn_topics'])
     topics, probs = topic_model.fit_transform(text_column)
 
     print("test1")
