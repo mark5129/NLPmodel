@@ -11,7 +11,6 @@ import pandas as pd
 reg_media = pd.read_csv(parameters['reg_media_stemmed_dir'])
 pro_media = pd.read_csv(parameters['pro_media_stemmed_dir'])
 
-print("test0")
 
 from bertopic import BERTopic
 
@@ -31,7 +30,6 @@ def BERTopicModel(text_column, doc_type):
     topic_model = BERTopic(nr_topics="auto", min_topic_size=5) 
     topics, probs = topic_model.fit_transform(text_column)
 
-    print("test1")
     output_dir = "outputs/BERTopic"
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -55,25 +53,5 @@ def BERTopicModel(text_column, doc_type):
 
     return topics, topic_model
 
-
-print("test2")
-
-reg_text_column = reg_media['Content']
-pro_text_column = pro_media['Full text']
-
-print("test3")
-
-# Capture the output from the function
-reg_topics, reg_topic_model = BERTopicModel(reg_text_column, "reg_media")
-pro_topics, pro_topic_model = BERTopicModel(pro_text_column, "pro_media")
-
-
-print("test4")
-
-# Print the output
-print("Regular Media Topics:", reg_topics)
-print("Regular Media Topics:", reg_topic_model)
-print("Professional Media Topics:", pro_topics)
-print("Professional Media Topics:", pro_topic_model)
 
 

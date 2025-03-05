@@ -2,7 +2,7 @@
 # Here we define the parameters used in various scripts.
 
 # Whether to perform the data preprocessing step
-preprocess_data: True
+preprocess_data: False
 
 # Whether to perform the model training step
 train_model: True
@@ -19,7 +19,7 @@ n_top_words: 10
 nr_topics: 10 # Number of topics for BERTopic model
 
 # NMF model
-train_nmf: True
+train_nmf: False
 
 # Specter model
 train_specter2: False
@@ -31,7 +31,7 @@ train_lda: False
 train_bert: False
 
 # Minilm12
-train_minilm12: False
+train_minilm12: True
 
 # Names of files and directories
 

@@ -85,27 +85,27 @@ def Specter2Model(text_column, current_id, doc_type):
     print("Specter2 model ran successfully with test data.")
 
 # Define the correct file path
-file_path = os.path.join("outputs/Specter2_op", "1285842042_Specter2_embeddings.csv")
+#file_path = os.path.join("outputs/Specter2_op", "1285842042_Specter2_embeddings.csv")
 
 # Load the embeddings using the correct path
-embeddings = pd.read_csv(file_path)
+#embeddings = pd.read_csv(file_path)
 
 # Compute cosine similarity between first two embeddings
-similarity = cosine_similarity([embeddings.iloc[0]], [embeddings.iloc[1]])
+#similarity = cosine_similarity([embeddings.iloc[0]], [embeddings.iloc[1]])
 
 # Print the similarity score
-print(f"Cosine Similarity: {similarity[0][0]}")
+#print(f"Cosine Similarity: {similarity[0][0]}")
 
 # Reduce dimensionality to 2D
-umap_2d = umap.UMAP(n_components=2, random_state=42)
-reduced_2d = umap_2d.fit_transform(embeddings)
+#umap_2d = umap.UMAP(n_components=2, random_state=42)
+#reduced_2d = umap_2d.fit_transform(embeddings)
 
 # Plot the results
-plt.figure(figsize=(10, 6))
-sns.scatterplot(x=reduced_2d[:, 0], y=reduced_2d[:, 1])
-plt.title("Specter2 Embeddings (2D UMAP)")
-plt.xlabel("UMAP Dimension 1")
-plt.ylabel("UMAP Dimension 2")
-plt.show()
+#plt.figure(figsize=(10, 6))
+#sns.scatterplot(x=reduced_2d[:, 0], y=reduced_2d[:, 1])
+#plt.title("Specter2 Embeddings (2D UMAP)")
+#plt.xlabel("UMAP Dimension 1")
+#plt.ylabel("UMAP Dimension 2")
+#plt.show()
 
 # find labels for the data to color the plot
