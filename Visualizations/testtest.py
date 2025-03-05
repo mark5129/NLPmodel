@@ -12,6 +12,7 @@ import nltk
 from sentence_transformers import SentenceTransformer
 import time
 import yaml
+from transformers import AutoTokenizer, AutoModel
 with open('parameters.yaml', 'r') as file:
     parameters = yaml.safe_load(file)
 

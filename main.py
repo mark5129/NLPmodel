@@ -72,6 +72,8 @@ if parameters['train_model'] == True:
 
     reg_text_column = reg_media['Content']
     pro_text_column = pro_media['Full text']
+    merged_media = pd.read_csv(parameters['merged_stemmed_dir'])
+    merged_text_column = merged_media['Content']
 
 
     if parameters['train_lda'] == True:
@@ -100,6 +102,7 @@ if parameters['train_model'] == True:
     if parameters['train_minilm12'] == True:
         MiniLM12(reg_text_column, current_id, 'reg')
         MiniLM12(pro_text_column, current_id, 'pro')
+        MiniLM12(merged_text_column, current_id, 'merged')
         print('MiniLM12 embeddings are generated.')
 
 
