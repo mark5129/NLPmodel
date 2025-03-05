@@ -102,6 +102,7 @@ if parameters['train_model'] == True:
     if parameters['train_minilm12'] == True:
         MiniLM12(reg_text_column, current_id, 'reg')
         MiniLM12(pro_text_column, current_id, 'pro')
+        MiniLM12(merged_text_column, current_id, 'merged')
         print('MiniLM12 embeddings are generated.')
 
 
