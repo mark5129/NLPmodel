@@ -43,7 +43,9 @@ def BERTopicModel(text_column, doc_type):
     df_topics.to_csv(os.path.join(output_dir, f"{doc_type}_BERTopic_results.csv"), index=False)
     print(f"BERTopic results saved: {doc_type}_BERTopic_results.csv")
 
+    # ✅ Return both topics and the trained model
     return topics, topic_model
+
 
 print("test2")
 
@@ -56,6 +58,7 @@ print("test3")
 reg_topics, reg_topic_model = BERTopicModel(reg_text_column, "reg_media")
 pro_topics, pro_topic_model = BERTopicModel(pro_text_column, "pro_media")
 
+
 print("test4")
 
 # Print the output
@@ -63,3 +66,5 @@ print("Regular Media Topics:", reg_topics)
 print("Regular Media Topics:", reg_topic_model)
 print("Professional Media Topics:", pro_topics)
 print("Professional Media Topics:", pro_topic_model)
+
+

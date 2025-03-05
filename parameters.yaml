@@ -30,13 +30,6 @@ train_lda: False
 #Bert model
 train_bert: False
 
-
-
-
-
-
-
-
 # Names of files and directories
 
 # Raw data
