@@ -3,6 +3,7 @@ import pandas as pd
 import os
 from bertopic import BERTopic
 import yaml
+import numpy as np
 with open('parameters.yaml', 'r') as file:
     parameters = yaml.safe_load(file)
 
@@ -27,7 +28,7 @@ def BERTopicModel(text_column, doc_type):
     """
     
     # Initialize and fit BERTopic
-    topic_model = BERTopic(nr_topics=parameters['rn_topics'])
+    topic_model = BERTopic(nr_topics="auto", min_topic_size=5) 
     topics, probs = topic_model.fit_transform(text_column)
 
     print("test1")
@@ -43,7 +44,15 @@ def BERTopicModel(text_column, doc_type):
     df_topics.to_csv(os.path.join(output_dir, f"{doc_type}_BERTopic_results.csv"), index=False)
     print(f"BERTopic results saved: {doc_type}_BERTopic_results.csv")
 
-    # ✅ Return both topics and the trained model
+    if topic_model.embedding_model:
+        embeddings = topic_model.embedding_model.embed(text_column.tolist())  # Extract embeddings
+        np.save(os.path.join(output_dir, f"{doc_type}_BERTopic_embeddings.npy"), embeddings)
+        print(f"✅ Saved embeddings for {doc_type}!")
+
+    # ✅ Save the trained model
+    topic_model.save(os.path.join(output_dir, f"{doc_type}_BERTopic_model.pkl"))
+    print(f"✅ Saved BERTopic model for {doc_type}!")
+
     return topics, topic_model
 
 
