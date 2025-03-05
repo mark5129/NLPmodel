@@ -45,9 +45,7 @@ def BERTopicModel(text_column, doc_type):
 
     return topics, topic_model
 
-
 print("test2")
-
 
 reg_text_column = reg_media['Content']
 pro_text_column = pro_media['Full text']
@@ -57,7 +55,6 @@ print("test3")
 # Capture the output from the function
 reg_topics, reg_topic_model = BERTopicModel(reg_text_column, "reg_media")
 pro_topics, pro_topic_model = BERTopicModel(pro_text_column, "pro_media")
-
 
 print("test4")
 
