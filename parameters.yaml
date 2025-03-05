@@ -29,13 +29,6 @@ train_lda: False
 #Bert model
 train_bert: True
 
-
-
-
-
-
-
-
 # Names of files and directories
 
 # Raw data
