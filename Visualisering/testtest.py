@@ -24,8 +24,8 @@ df= pd.read_csv(parameters['reg_media_stemmed_dir'])
 text_data = df['Content'].tolist()
 
 # Step 3: Generate embeddings with progress bar and timer
-#model = SentenceTransformer('all-MiniLM-L6-v2') ## English model
-model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2') ## Multilingual model
+model = SentenceTransformer('all-MiniLM-L6-v2') ## English model
+#model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2') ## Multilingual model
 # Step 3: Generate embeddings
 start_time = time.time()
 
@@ -35,12 +35,6 @@ end_time = time.time()
 elapsed_time = end_time - start_time
 
 print(f"Embeddings generated in {elapsed_time:.2f} seconds.")
-
-
-
-
-
-
 
 # Ensure embeddings are in NumPy array format
 embeddings = np.array(embeddings)

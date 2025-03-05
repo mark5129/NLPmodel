@@ -22,7 +22,7 @@ nr_topics: 10 # Number of topics for BERTopic model
 train_nmf: False
 
 # Specter model
-train_specter2: False
+train_specter2: True
 
 #LDA mode
 train_lda: False
@@ -31,7 +31,7 @@ train_lda: False
 train_bert: False
 
 # Minilm12
-train_minilm12: True
+train_minilm12: False
 
 # Names of files and directories
 
