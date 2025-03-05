@@ -1,6 +1,8 @@
 # import libraries
 import pandas as pd
-
+import seaborn as sns
+import os
+import csv
 # import functions for preprocessing
 from preprocessing.stopwords import remove_stopwords
 from preprocessing.stemming import stemming
@@ -13,7 +15,7 @@ from modelling.LDA import LDAModel
 from modelling.Specter2 import Specter2Model
 from modelling.NMF import NMF_model
 from modelling.XLM_Roberta import XLM_Roberta_model
-
+from modelling.BERTopic import BERTopicModel
 
 # load parameters from yaml file.
 import yaml
@@ -88,6 +90,11 @@ if parameters['train_model'] == True:
         NMF_model(reg_text_column, current_id, 'reg')
         NMF_model(pro_text_column, current_id, 'pro')
         print('NMF model is trained')
+    
+    if parameters['train_bert'] == True:
+        reg_topics, reg_topic_model = BERTopicModel(reg_text_column, "reg_media")
+        pro_topics, pro_topic_model = BERTopicModel(pro_text_column, "pro_media")
+
 
 else:
     print('Model training is turned off in parameters.yaml')
