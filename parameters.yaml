@@ -50,3 +50,6 @@ reg_media_cleaned_dir: data/reg_media_cleaned_eng.csv
 # stemming of words
 pro_media_stemmed_dir: data/pro_media_stemmed_eng.csv
 reg_media_stemmed_dir: data/reg_media_stemmed_eng.csv
+
+# Merged stemmed text
+merged_stemmed_dir: data/merged_media_stemmed_eng.csv

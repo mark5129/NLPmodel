@@ -72,6 +72,8 @@ if parameters['train_model'] == True:
 
     reg_text_column = reg_media['Content']
     pro_text_column = pro_media['Full text']
+    merged_media = pd.read_csv(parameters['merged_stemmed_dir'])
+    merged_text_column = merged_media['Content']
 
 
     if parameters['train_lda'] == True:
