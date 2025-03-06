@@ -28,7 +28,7 @@ def NMF_model(documents, current_id, doc_type):
     topics_df = pd.DataFrame(topics)
 
     # Save embeddings to CSV
-    output_dir = 'outputs/NMF_topics'
+    output_dir = 'outputs/NMF'
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)

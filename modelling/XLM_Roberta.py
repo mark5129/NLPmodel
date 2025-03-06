@@ -24,7 +24,7 @@ def XLM_Roberta_model(text_column, current_id, doc_type):
     embeddings_df = pd.DataFrame(embeddings)
 
     # Save the topics to a CSV file
-    output_dir = 'outputs/XLM_Roberta_topics'
+    output_dir = 'outputs/XLM_Roberta'
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)

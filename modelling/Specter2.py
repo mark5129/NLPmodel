@@ -45,7 +45,7 @@ def Specter2Model(text_column, current_id, doc_type):
         embeddings_list.append(embeddings.flatten())
 
     # Save embeddings to CSV
-    output_dir = 'outputs/Specter2_op'
+    output_dir = 'outputs/Specter2'
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
