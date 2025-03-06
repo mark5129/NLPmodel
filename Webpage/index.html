@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualization Browser</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 40px; }
+        .menu { margin-bottom: 10px; }
+        .menu-item { margin: 10px 0; }
+        .menu button { font-size: 18px; padding: 10px 20px; }
+    </style>
+</head>
+<body>
+    <h1>NLP model Bachelor</h1>
+
+    <div class="container">
+        <div class="menu">
+            <button onclick="showContent('home')" id="btn-home">Home</button>
+            <button onclick="showContent('plots')" id="btn-plots">Data Map Plot</button>
+            <button onclick="showContent('services')" id="btn-services">About</button>
+            <button onclick="showContent('contact')" id="btn-contact">Contact</button>
+        </div>
+
+        <div class="content">
+            <div id="home"> <h2>Home</h2> <p>Welcome to the homepage! This is a page to show all the visualizations made in this NLP project</p> </div>
+
+            <div id="plots" style="display: none;"> 
+                <h2>Data Map Plots</h2> 
+                <p>Learn more about us here.</p> 
+                <script src="loaddatamapplot.js"></script>
+            </div>
+            <div id="services" style="display: none;"> 
+                <h2>About</h2> 
+                <p>We are three friends from DTU collaborating together on this bachelor</p>
+
+                <p>Simen Fjeld</p> 
+                <img src="Pictures/Simen.png" alt="Simen Fjeld" style="width:200px;height:auto;">
+                <p>Markus Heuer</p>
+                <img src="Pictures/Markus.png" alt="Simen Fjeld" style="width:200px;height:auto;">
+                <p>Jonas Sætre</p>
+                <img src="Pictures/Jonas.png" alt="Simen Fjeld" style="width:200px;height:auto;">
+            </div>
+            <div id="contact" style="display: none;"> 
+                <h2>Contact</h2> 
+                <p>Please Dont Get in touch with us.</p> 
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        function showContent(sectionId) {
+            // Hide all content sections
+            document.querySelectorAll(".content div").forEach(div => div.style.display = "none");
+
+            // Show the selected section
+            document.getElementById(sectionId).style.display = "block";
+
+            // Reset all button styles
+            document.querySelectorAll(".menu button").forEach(btn => btn.style.backgroundColor = "");
+
+            // Highlight the active menu button
+            document.getElementById(`btn-${sectionId}`).style.backgroundColor = "lightblue";
+        }
+    </script>
+</body>
+</html>
