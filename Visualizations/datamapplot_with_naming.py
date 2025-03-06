@@ -145,7 +145,7 @@ def data_mapplot_with_naming(embeddings, df, current_id, doc_type, model_name):
         output_dir = 'Visualizations/outputs/'
 
         # Save the plot to an HTML file
-        plot.save(f"{output_dir}_{current_id}_{doc_type}_{model_name}_datamapplot.html")
+        plot.save(f"{output_dir}{current_id}_{doc_type}_{model_name}_datamapplot.html")
 
         print("Plot saved successfully.")
     except Exception as e:

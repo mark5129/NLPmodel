@@ -34,7 +34,7 @@ if parameters['preprocess_data'] == True:
     
     # Perform cleaning on pro_media.csv
     df_pro = pd.read_csv(parameters['pro_media_translated_dir']) # Load the CSV file
-    df_pro['Full text'] = df_pro['Full text'].apply(lambda x: remove_stopwords(x, 'english')) # Apply the function to the text column
+    df_pro['Content'] = df_pro['Content'].apply(lambda x: remove_stopwords(x, 'english')) # Apply the function to the text column
     df_pro.to_csv(parameters['pro_media_cleaned_dir'], index=False) # Save the cleaned text to a new CSV file
     print('pro_media.csv is cleaned')
 
@@ -46,7 +46,7 @@ if parameters['preprocess_data'] == True:
 
     # Perform sentence stemming on pro_media.csv
     df_pro = pd.read_csv(parameters['pro_media_cleaned_dir']) # Load the CSV file
-    df_pro['Full text'] = df_pro['Full text'].apply(lambda x: stemming(x, 'english'))
+    df_pro['Content'] = df_pro['Content'].apply(lambda x: stemming(x, 'english'))
     df_pro.to_csv(parameters['pro_media_stemmed_dir'], index=False) # Save the embeddings to a new CSV file
     print('pro_media.csv is stemmed')
 
@@ -74,7 +74,7 @@ if parameters['train_model'] == True:
         print('No or wrong data source selected in parameters.yaml')
 
     reg_text_column = reg_media['Content']
-    pro_text_column = pro_media['Full text']
+    pro_text_column = pro_media['Content']
     merged_media = pd.read_csv(parameters['merged_stemmed_dir'])
     merged_text_column = merged_media['Content']
 

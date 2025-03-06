@@ -1,18 +1,22 @@
 import pandas as pd
 
-from Visualizations.datamapplot_with_naming import data_mapplot_with_naming
+from datamapplot_with_naming import data_mapplot_with_naming
 
 # This script only runs on embeddings from various models.
 
-# Load the merged media file to get texts
-df = pd.read_csv('data/merged_media_stemmed_eng.csv')
 
 #Load embeddings from embeddings file
 which_model = ['MiniLm12', 'Specter2', 'XLM_Roberta']
 
+# Load the merged media file to get texts
+file = 'outputs/MiniLm12/9076229774_merged_MiniLm12_embeddings.csv'
+df_file = 'data/merged_media_stemmed_eng.csv'
 
-embeddings = pd.read_csv(f'outputs/{model}_op/{current_id}_merged_{model}_embeddings.csv')
-data_mapplot_with_naming(embeddings, df, 'Manual run', 'merged', model)
+#file = 'outputs/Specter2/4575903620_Specter2_embeddings.csv'
+#df_file = 'data/pro_media_stemmed_eng.csv'
 
 
-data_mapplot_with_naming(embeddings, df, current_id, doc_type, model_name)
+
+df = pd.read_csv(df_file)
+embeddings = pd.read_csv(file)
+data_mapplot_with_naming(embeddings, df, 'Manual run', 'Merged', 'MiniLm12')
