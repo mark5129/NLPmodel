@@ -92,7 +92,7 @@ def data_mapplot_with_naming(embeddings, df, current_id, doc_type, model_name):
         labels_layers.append(labels_topic)
 
     # Step 3: Prepare hover text
-    hover_text = df['Content'].astype(str).tolist()
+    hover_text = df['Title'].astype(str).tolist()
 
     # Step 4: Create a color palette
     color_palette = list(mcolors.TABLEAU_COLORS.values())
