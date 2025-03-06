@@ -129,8 +129,8 @@ def data_mapplot_with_naming(embeddings, df, current_id, doc_type, model_name):
             *labels_layers,  # Use the labels with topic names
             hover_text=hover_text,
             font_family="Merriweather",
-            title="Interviews",
-            sub_title="Interactive plot of Interviews",
+            title=f"{model_name}",
+            sub_title=f"{model_name} Interactive plot",
             enable_search=True,
             darkmode=True,
             marker_color_array=marker_color_array,
