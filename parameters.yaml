@@ -5,7 +5,7 @@
 preprocess_data: False
 
 # Whether to perform the model training step
-train_model: False
+train_model: True
 
 # Whether to Visualize data or not 
 Create_Visualizations: True
