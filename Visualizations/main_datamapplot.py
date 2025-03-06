@@ -6,17 +6,16 @@ from datamapplot_with_naming import data_mapplot_with_naming
 
 
 #Load embeddings from embeddings file
-which_model = ['MiniLm12', 'Specter2', 'XLM_Roberta']
+which_model = ['XLM_Roberta', 'Specter2', 'MiniLm12']
 
 # Load the merged media file to get texts
-file = 'outputs/MiniLm12/9076229774_merged_MiniLm12_embeddings.csv'
-df_file = 'data/merged_media_stemmed_eng.csv'
+file = ['outputs/XLM_Roberta/5694260457_merged_XLM_Roberta_embeddings.csv',
+        'outputs/Specter2/5694260457_merged_Specter2_embeddings.csv',
+        'outputs/MiniLm12/5694260457_merged_MiniLm12_embeddings.csv']
 
-#file = 'outputs/Specter2/4575903620_Specter2_embeddings.csv'
-#df_file = 'data/pro_media_stemmed_eng.csv'
+df_file = pd.read_csv('data/merged_media_stemmed_eng.csv')
 
-
-
-df = pd.read_csv(df_file)
-embeddings = pd.read_csv(file)
-data_mapplot_with_naming(embeddings, df, 'Manual run', 'Merged', 'MiniLm12')
+for i in range(len(which_model)):
+    embeddings = pd.read_csv(file[i])
+    model = which_model[i]
+    data_mapplot_with_naming(embeddings, df_file, 'manualrun', 'merged', model)
