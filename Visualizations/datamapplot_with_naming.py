@@ -38,7 +38,7 @@ def get_cluster_topic(cluster_texts, language='english', n_terms=5):
     return []
         
 
-def data_mapplot_with_naming(embeddings, df):
+def data_mapplot_with_naming(embeddings, df, current_id, doc_type, model_name):
 
     # Ensure embeddings are in NumPy array format
     embeddings = np.array(embeddings)
@@ -145,18 +145,9 @@ def data_mapplot_with_naming(embeddings, df):
         output_dir = 'Visualizations/outputs/'
 
         # Save the plot to an HTML file
-        plot.save(f"{output_dir}Interviews_TF_IDF.html")
+        plot.save(f"{output_dir}_{current_id}_{doc_type}_{model_name}_datamapplot.html")
 
         print("Plot saved successfully.")
     except Exception as e:
         print(f"Error creating or displaying the plot: {e}")
 
-
-# Load the embeddings from csv file
-embeddings = pd.read_csv('Visualizations/outputs/9076229774_merged_MiniLm12_embeddings.csv')
-# Ensure embeddings are in NumPy array format
-embeddings = np.array(embeddings)
-
-df = pd.read_csv('data/merged_media_stemmed_eng.csv')
-
-data_mapplot_with_naming(embeddings, df)
