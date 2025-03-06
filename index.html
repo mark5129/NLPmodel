@@ -19,35 +19,86 @@
             <button onclick="showContent('home')" id="btn-home">Home</button>
             <button onclick="showContent('plots')" id="btn-plots">Data Map Plot</button>
             <button onclick="showContent('services')" id="btn-services">About</button>
-            <button onclick="showContent('contact')" id="btn-contact">Contact</button>
+            <button onclick="showContent('contact')" id="btn-contact">State of Log file</button>
         </div>
 
         <div class="content">
-            <div id="home"> <h2>Home</h2> <p>Welcome to the homepage! This is a page to show all the visualizations made in this NLP project</p> </div>
-
+            <div id="home"> 
+                <h2>Home</h2> 
+                <p>Welcome to the homepage! This is a page to show all the visualizations and other made in this NLP project</p> 
+                <p>The project is a contribution to Good by Devicing which is a project by the European Research Center (ERC) </p>
+                <a href="https://www.good-by-devicing.org" target="_blank">Good-by-Devicing</a>
+                <p>Below you can find our Git repo, which is the source for all our code, this webpage included</p>
+                <a href="https://github.com/mark5129/NLPmodel" target="_blank">Repository</a>
+                
+            </div>
             <div id="plots" style="display: none;"> 
                 <h2>Data Map Plots</h2> 
-                <p>Learn more about us here.</p> 
-                <object data="Visualizations/Outputs/manualrun_merged_XLM_Roberta_datamapplot.html" width="1000" height="800"></object>
-                <object data="Visualizations/Outputs/manualrun_merged_MiniLm12_datamapplot.html" width="1000" height="800"></object>
-                <object data="Visualizations/Outputs/manualrun_merged_Specter2_datamapplot.html" width="1000" height="800"></object>
-                <script src="Webpage/loaddatamapplot.js"></script>
+                <p>We have tested different models for topic modelling. As statistical models we have LDA and NMF, which are harder to visualize, since they output bag of words for a number of topics.</p>
+                <p>Other than the statistical methods we are also investigating various Language models which can be used for topic modelling as well. They run differently since they embed each document in a multidimensional space
+                    this makes it possible to cluster the documents and visualize them in a 2D plot. Below you can see the different models we have tested and the resulting plots.
+                </p>
+                <button onclick="togglePlot('plot1')">XLM Roberta</button>
+                <button onclick="togglePlot('plot2')">MiniLm12</button>
+                <button onclick="togglePlot('plot3')">Specter2</button>
+                <p></p>
+                <div id="plot1" style="display: none;">
+                    <object data="visualizations/outputs/manualrun_merged_XLM_Roberta_datamapplot.html" width="100%" height="800"></object>
+                </div>
+                <div id="plot2" style="display: none;">
+                    <object data="visualizations/outputs/manualrun_merged_MiniLm12_datamapplot.html" width="100%" height="800"></object>
+                </div>
+                <div id="plot3" style="display: none;">
+                    <object data="visualizations/outputs/manualrun_merged_Specter2_datamapplot.html" width="100%" height="800"></object>
+                </div>
+                <script>
+                    function togglePlot(plotId, button) {
+                        var plot = document.getElementById(plotId);
+                        var buttons = document.querySelectorAll('button');
+                        
+                        // Toggle visibility of the plot
+                        if (plot.style.display === "none") {
+                            plot.style.display = "block";
+                        } else {
+                            plot.style.display = "none";
+                        }
+                    }
+                </script>
             </div>
             <div id="services" style="display: none;"> 
                 <h2>About</h2> 
-                <p>We are three friends from DTU collaborating together on this bachelor</p>
+                <p>We are three friends from DTU collaborating together on this bachelor supervised by Anders Kristian Munk</p> 
+                <a href="https://www.dtu.dk/english/person/anders-kristian-munk?id=34141&entity=profile" target="_blank">Anders Kristian Munk</a>
+                
 
-                <p>Simen Fjeld</p> 
-                <img src="Webpage/Pictures/Simen.png" alt="Simen Fjeld" style="width:200px;height:auto;">
-                <p>Markus Heuer</p>
-                <img src="Webpage/Pictures/Markus.png" alt="Simen Fjeld" style="width:200px;height:auto;">
-                <p>Jonas Sætre</p>
-                <img src="Webpage/Pictures/Jonas.png" alt="Simen Fjeld" style="width:200px;height:auto;">
+                <div style="display: flex; justify-content: space-around; align-items: center;">
+                    <div style="width: 300px; text-align: center;">
+                        <h3>Simen Fjeld</h3> 
+                        <p>S224920@dtu.dk</p>
+                        <a href="https://www.linkedin.com/in/simen-fjeld-28a04424a/" target="_blank">Linked-in</a>
+                        <p></p>
+                        <img src="webpage/pictures/Simen.png" alt="Simen Fjeld" style="width:200px;height:auto;">
+                    </div>
+                    <div style="width: 300px; text-align: center;">
+                        <h3>Markus Heuer</h3>
+                        <p>S224933@dtu.dk</p>
+                        <a href="https://www.linkedin.com/in/markus-kaad-heuer-b99205155/" target="_blank">Linked-in</a>
+                        <p></p>
+                        <img src="webpage/pictures/Markus.png" alt="Markus Heuer" style="width:200px;height:auto;">
+                    </div>
+                    <div style="width: 300px; text-align: center;">
+                        <h3>Jonas Sætre</h3>
+                        <p>S224941@dtu.dk</p>
+                        <a href="https://www.linkedin.com/in/jonas-sætre-871a291a3/" target="_blank">Linked-in</a>
+                        <p></p>
+                        <img src="webpage/pictures/Jonas.png" alt="Jonas Sætre" style="width:200px;height:auto;">
+                    </div>
+                </div>
+                
             </div>
             <div id="contact" style="display: none;"> 
-                <h2>Contact</h2> 
-                <p>Please Dont Get in touch with us.</p> 
-                
+                <h2>Log Data</h2> 
+                <iframe src="outputs/log.csv" width="100%" height="500"></iframe>
             </div>
         </div>
     </div>

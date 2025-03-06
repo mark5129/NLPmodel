@@ -142,7 +142,7 @@ def data_mapplot_with_naming(embeddings, df, current_id, doc_type, model_name):
             cluster_boundary_line_width=2,
         )
         # Save Visualization to CSV
-        output_dir = 'Visualizations/outputs/'
+        output_dir = 'visualizations/outputs/'
 
         # Save the plot to an HTML file
         plot.save(f"{output_dir}{current_id}_{doc_type}_{model_name}_datamapplot.html")

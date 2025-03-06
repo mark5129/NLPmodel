@@ -19,7 +19,7 @@ from modelling.BERTopic import BERTopicModel
 from modelling.minilm12 import MiniLM12
 
 # import functions for visualisation
-from Visualizations.datamapplot_with_naming import data_mapplot_with_naming
+from visualizations.datamapplot_with_naming import data_mapplot_with_naming
 
 # load parameters from yaml file.
 import yaml
