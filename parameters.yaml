@@ -16,7 +16,6 @@ num_topics: 10
 random_state: 42
 max_features: 1000
 n_top_words: 10
-nr_topics: 10 # Number of topics for BERTopic model
 
 # NMF model
 train_nmf: False
@@ -29,9 +28,13 @@ train_lda: False
 
 #Bert model
 train_bert: False
+nr_topics: 10 # Number of topics for BERTopic model
 
 # Minilm12
-train_minilm12: False
+train_minilm12: True
+
+# XLM roberta
+train_xlm_roberta: True
 
 # Names of files and directories
 

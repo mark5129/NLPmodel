@@ -14,7 +14,7 @@ from outputs.logging import log_parameters, update_header_if_needed
 from modelling.LDA import LDAModel
 from modelling.Specter2 import Specter2Model
 from modelling.NMF import NMF_model
-#from modelling.XLM_Roberta import XLM_Roberta_model
+from modelling.XLM_Roberta import XLM_Roberta_model
 from modelling.BERTopic import BERTopicModel
 from modelling.minilm12 import MiniLM12
 
@@ -86,6 +86,7 @@ if parameters['train_model'] == True:
 
         Specter2Model(reg_text_column, current_id, 'reg')
         Specter2Model(pro_text_column, current_id, 'pro')
+        Specter2Model(merged_text_column, current_id, 'merged')
         print('Specter2 embeddings are generated.')
 
     if parameters['train_nmf'] == True:
@@ -104,6 +105,12 @@ if parameters['train_model'] == True:
         MiniLM12(pro_text_column, current_id, 'pro')
         MiniLM12(merged_text_column, current_id, 'merged')
         print('MiniLM12 embeddings are generated.')
+    
+    if parameters['train_xlm_roberta'] == True:
+        XLM_Roberta_model(reg_text_column, current_id, 'reg')
+        XLM_Roberta_model(pro_text_column, current_id, 'pro')
+        XLM_Roberta_model(merged_text_column, current_id, 'merged')
+        print('XLM-Roberta embeddings are generated.')
 
 
 else:
