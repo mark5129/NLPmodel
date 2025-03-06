@@ -123,6 +123,13 @@ try:
         cluster_boundary_line_width=2,
     )
 
+    # Save embeddings to CSV
+    output_dir = 'Visualizations/outputs/'
+
+    # Save the plot to an HTML file
+    plot.save(f"{output_dir}Interviews_TF_IDF.html.html")
+
+
     # ✅ Save the plot
     plot_filename = "outputs/Specter2_op/SPECTER2_tSNE_User_Clusters.html"
     plot.save(plot_filename)

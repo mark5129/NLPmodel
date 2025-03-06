@@ -76,8 +76,11 @@ try:
         cluster_boundary_line_width=2,
     )
 
+    # Save embeddings to CSV
+    output_dir = 'Visualizations/outputs/'
+
     # Save the plot to an HTML file
-    plot.save("Interviews: Clusters_Generic_Names.html")
+    plot.save(f"{output_dir}Interviews: Clusters_Generic_Names.html")
     print("Plot with generic cluster names saved successfully.")
 except Exception as e:
     print(f"Error creating or saving the plot: {e}")

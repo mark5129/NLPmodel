@@ -30,4 +30,12 @@ plt.title("BERTopic Topic Clusters (2D UMAP)")
 plt.xlabel("UMAP Dimension 1")
 plt.ylabel("UMAP Dimension 2")
 plt.legend(title="Topics")
-plt.show()
+
+# Save embeddings to CSV
+output_dir = 'Visualizations/outputs/'
+
+# save plt figure as image
+
+plt.savefig(f"{output_dir}pro_media_BERTopic_clusters.png")
+print(f"✅ Saved BERTopic clusters plot as pro_media_BERTopic_clusters.png")
+
