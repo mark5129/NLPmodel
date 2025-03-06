@@ -20,7 +20,7 @@ def BERTopicModel(text_column, doc_type):
     topics (list): A list of topic assignments for each document.
     topic_model (BERTopic): The trained BERTopic model.
     """
-    
+
     # Initialize and fit BERTopic
     topic_model = BERTopic(nr_topics="auto", min_topic_size=5) 
     topics, probs = topic_model.fit_transform(text_column)
@@ -47,6 +47,3 @@ def BERTopicModel(text_column, doc_type):
     print(f"✅ Saved BERTopic model for {doc_type}!")
 
     return topics, topic_model
-
-
-

@@ -45,3 +45,6 @@ id,time,preprocess_data,train_model,num_topics,what_data,train_nmf,nmf_random_st
 6599549818,Wed Mar  5 10:43:35 2025,False,True,10,stemmed,42,1000,10,False,False,False
 9113608909,Wed Mar  5 13:00:40 2025,True,True,10,stemmed,42,1000,10,False,False,False
 2583467673,Wed Mar  5 13:04:25 2025,True,True,10,stemmed,42,1000,10,False,False,False
+3281761101,Wed Mar  5 23:21:38 2025,False,True,10,stemmed,42,1000,10,False,False,False
+6420195449,Wed Mar  5 23:45:10 2025,False,True,10,stemmed,42,1000,10,True,False,False
+6071542766,Wed Mar  5 23:46:19 2025,False,True,10,stemmed,42,1000,10,True,False,False
