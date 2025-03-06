@@ -59,6 +59,9 @@ if parameters['preprocess_data'] == True:
 else:
     print('Data preprocessing is turned off in parameters.yaml')
 
+
+
+
 if parameters['train_model'] == True:
 
     if parameters['what_data'] == 'raw':
@@ -118,6 +121,9 @@ if parameters['train_model'] == True:
 
 else:
     print('Model training is turned off in parameters.yaml')
+
+
+
 
 if parameters['Create_Visualizations'] == True:
 
