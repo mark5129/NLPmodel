@@ -76,7 +76,7 @@ try:
         cluster_boundary_line_width=2,
     )
 
-    # Save embeddings to CSV
+    # Save Visualization to CSV
     output_dir = 'Visualizations/outputs/'
 
     # Save the plot to an HTML file

@@ -31,7 +31,7 @@ plt.xlabel("UMAP Dimension 1")
 plt.ylabel("UMAP Dimension 2")
 plt.legend(title="Topics")
 
-# Save embeddings to CSV
+# Save Visualization to CSV
 output_dir = 'Visualizations/outputs/'
 
 # save plt figure as image

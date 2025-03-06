@@ -34,13 +34,3 @@ def XLM_Roberta_model(text_column, current_id, doc_type):
 
 
     return embeddings_df
-
-
-reg_media = pd.read_csv(parameters['reg_media_stemmed_dir'])
-pro_media = pd.read_csv(parameters['pro_media_stemmed_dir'])
-
-reg_text_column = reg_media['Content']
-pro_text_column = pro_media['Full text']
-
-XLM_Roberta_model(reg_text_column, '101', 'reg')
-XLM_Roberta_model(pro_text_column, '101', 'pro')

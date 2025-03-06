@@ -118,8 +118,11 @@ try:
         cluster_boundary_line_width=2,
     )
 
+    # Save Visualization to CSV
+    output_dir = 'Visualizations/outputs/'
+
     # Save the plot
-    plot.save("outputs/Specter2_op/pro_media_SPECTER2_tSNE_Clusters.html")
+    plot.save(f"{output_dir}pro_media_SPECTER2_tSNE_Clusters.html")
     print("✅ Plot with SPECTER2 embeddings saved successfully.")
 except Exception as e:
     print(f"❌ Error creating or saving the plot: {e}")

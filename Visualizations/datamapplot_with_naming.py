@@ -141,7 +141,7 @@ def data_mapplot_with_naming(embeddings, df):
             cluster_boundary_polygons=False,  # Disable if not needed
             cluster_boundary_line_width=2,
         )
-        # Save embeddings to CSV
+        # Save Visualization to CSV
         output_dir = 'Visualizations/outputs/'
 
         # Save the plot to an HTML file
@@ -153,7 +153,7 @@ def data_mapplot_with_naming(embeddings, df):
 
 
 # Load the embeddings from csv file
-embeddings = pd.read_csv('outputs/MiniLm12/9076229774_merged_MiniLm12_embeddings.csv')
+embeddings = pd.read_csv('Visualizations/outputs/9076229774_merged_MiniLm12_embeddings.csv')
 # Ensure embeddings are in NumPy array format
 embeddings = np.array(embeddings)
 
