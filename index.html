@@ -51,19 +51,6 @@
                 <div id="plot3" style="display: none;">
                     <object data="visualizations/outputs/manualrun_merged_Specter2_datamapplot.html" width="100%" height="800"></object>
                 </div>
-                <script>
-                    function togglePlot(plotId, button) {
-                        var plot = document.getElementById(plotId);
-                        var buttons = document.querySelectorAll('button');
-                        
-                        // Toggle visibility of the plot
-                        if (plot.style.display === "none") {
-                            plot.style.display = "block";
-                        } else {
-                            plot.style.display = "none";
-                        }
-                    }
-                </script>
             </div>
             <div id="services" style="display: none;"> 
                 <h2>About</h2> 
@@ -109,6 +96,24 @@
 
             // Highlight the active menu button
             document.getElementById(`btn-${sectionId}`).style.backgroundColor = "lightblue";
+        }
+
+        function togglePlot(plotId, button) {
+            var plot = document.getElementById(plotId);
+            var buttons = document.querySelectorAll('button');
+            
+            // Toggle visibility of the plot
+            if (plot.style.display === "none") {
+                plot.style.display = "block";
+            } else {
+                plot.style.display = "none";
+            }
+
+            // Reset all button styles
+            document.querySelectorAll('button').forEach(btn => btn.style.backgroundColor = "");
+
+            // Highlight the active menu button
+            document.getElementById(`btn-${plotId}`).style.backgroundColor = "lightblue";
         }
     </script>
 </body>
