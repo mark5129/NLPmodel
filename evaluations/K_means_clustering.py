@@ -1,16 +1,16 @@
-import numpy as np
-from sklearn.manifold import TSNE
+# load parameters from yaml file.
+import yaml
 from sklearn.cluster import KMeans
-import datamapplot
-import matplotlib.colors as mcolors
+from sklearn.manifold import TSNE
+import numpy as np
+import os
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.corpus import stopwords
-
-# load parameters from yaml file.
-import yaml
 with open('parameters.yaml', 'r') as file:
     parameters = yaml.safe_load(file)
+
+
 
 def get_cluster_topic(cluster_texts, language='english', n_terms=5):
     # Define stop words for different languages
@@ -41,9 +41,8 @@ def get_cluster_topic(cluster_texts, language='english', n_terms=5):
     except Exception as e:
         print(f"Error in get_cluster_topic: {e}")
     return []
-        
 
-def data_mapplot_with_naming(embeddings, df, current_id, doc_type, model_name):
+def K_means_clustering(embeddings, df, current_id, doc_type, model_name):
 
     # Ensure embeddings are in NumPy array format
     embeddings = np.array(embeddings)
@@ -55,15 +54,16 @@ def data_mapplot_with_naming(embeddings, df, current_id, doc_type, model_name):
     perplexity = min(30, (n_samples - 1) // 3)
 
     # Step 1: Create a data map using t-SNE
-    tsne = TSNE(n_components=2, perplexity=perplexity, random_state=parameters['random_state'])
+    tsne = TSNE(n_components=2, perplexity=perplexity, random_state=42)
     data_map = tsne.fit_transform(embeddings)
 
     # Step 2: Perform hierarchical clustering
     n_clusters_list = [parameters['num_topics']]  # Adjust these numbers for your desired hierarchy levels
     labels_layers = []
+    topics_names = pd.DataFrame(columns=['topic_int', 'topic_names'])
 
     for n_clusters in n_clusters_list:
-        kmeans = KMeans(n_clusters=n_clusters, random_state=42)
+        kmeans = KMeans(n_clusters=n_clusters, random_state=parameters['random_state'])
         labels_int = kmeans.fit_predict(data_map)
 
         used_topics = set()
@@ -92,67 +92,37 @@ def data_mapplot_with_naming(embeddings, df, current_id, doc_type, model_name):
 
             label_topic_map[label] = f"{label}: {topic_name}"
 
+            # Save topic names for each cluster
+            topics_names.loc[label, 'topic_int'] = label
+            
+            topics_names.loc[label, 'topic_names'] = topic_name
+
         # Convert integer labels to topic names
         labels_topic = np.array([label_topic_map.get(label, f"{label}: Unknown") for label in labels_int])
         labels_layers.append(labels_topic)
 
-    # Step 3: Prepare hover text
-    hover_text = df['Title'].astype(str).tolist()
+        
+    
+    
 
-    # Step 4: Create a color palette
-    color_palette = list(mcolors.TABLEAU_COLORS.values())
+    # Save embeddings to CSV
+    output_dir = 'evaluations/outputs/'
 
-    # Step 5: Generate marker colors using the last layer of labels
-    labels = labels_layers[-1]  # Use the last layer for coloring
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
 
-    # Create a color mapping
-    unique_labels = np.unique(labels)
-    color_mapping = {label: color_palette[i % len(color_palette)] for i, label in enumerate(unique_labels)}
+    df_labels_int = pd.DataFrame(labels_int)
+    df_labels_int.columns = ['topic_int']
 
-    # Generate marker colors
-    marker_color_array = [color_mapping[label] for label in labels]
+    df_labels_int = df_labels_int.merge(topics_names, on='topic_int', how='left')
 
-    # Step 6: Set marker sizes
-    marker_size_array = df['Content'].str.len().values.astype(np.float32)
-    min_size, max_size = 5, 15
-    # Normalize marker sizes between min_size and max_size
-    if marker_size_array.max() != marker_size_array.min():
-        marker_size_array = min_size + (max_size - min_size) * (
-            (marker_size_array - marker_size_array.min()) / (marker_size_array.max() - marker_size_array.min())
-        )
-    else:
-        marker_size_array = np.full_like(marker_size_array, (min_size + max_size) / 2)
+    sources = df['Source']
 
-    # Step 7: Set point radius min and max pixels
-    point_radius_min_pixels = 2
-    point_radius_max_pixels = 10
 
-    # Create the interactive plot
-    try:
-        plot = datamapplot.create_interactive_plot(
-            data_map,
-            *labels_layers,  # Use the labels with topic names
-            hover_text=hover_text,
-            font_family="Merriweather",
-            title=f"{model_name}",
-            sub_title=f"Interactive plot",
-            enable_search=True,
-            darkmode=True,
-            marker_color_array=marker_color_array,
-            marker_size_array=marker_size_array,
-            point_radius_min_pixels=point_radius_min_pixels,
-            point_radius_max_pixels=point_radius_max_pixels,
-            point_line_width=0,
-            cluster_boundary_polygons=False,  # Disable if not needed
-            cluster_boundary_line_width=2,
-        )
-        # Save Visualization to CSV
-        output_dir = 'visualizations/outputs/'
+    df_labels_int['Source'] = sources
+    
+    df_labels_int.to_csv(os.path.join(output_dir, f'{current_id}_{doc_type}_{model_name}_Kmeans.csv'), index=False)
+    print(f'{model_name} k-means klustering saved for ID {current_id}')
 
-        # Save the plot to an HTML file
-        plot.save(f"{output_dir}{current_id}_{doc_type}_{model_name}_datamapplot.html")
-
-        print("Plot saved successfully.")
-    except Exception as e:
-        print(f"Error creating or displaying the plot: {e}")
-
+    
+    
