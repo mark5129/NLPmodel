@@ -8,7 +8,7 @@ from preprocessing.stopwords import remove_stopwords
 from preprocessing.stemming import stemming
 
 #from preprocessing.sentence_transforming import sentence_transformer
-from outputs.logging import log_parameters, update_header_if_needed
+from modelling.outputs.logging import log_parameters, update_header_if_needed
 
 # import functions for modelling
 from modelling.LDA import LDAModel
@@ -146,7 +146,7 @@ if parameters['Create_Visualizations'] == True:
         
         df = pd.read_csv('data/merged_media_stemmed_eng.csv')
         for model in which_model:
-            embeddings = pd.read_csv(f'outputs/{model}/{current_id}_merged_{model}_embeddings.csv')
+            embeddings = pd.read_csv(f'modelling/outputs/{model}/{current_id}_merged_{model}_embeddings.csv')
             data_mapplot_with_naming(embeddings, df, current_id, 'merged', model)
         
     else:

@@ -25,7 +25,7 @@ def BERTopicModel(text_column, doc_type):
     topic_model = BERTopic(nr_topics="auto", min_topic_size=5) 
     topics, probs = topic_model.fit_transform(text_column)
 
-    output_dir = "outputs/BERTopic"
+    output_dir = "modelling/outputs/BERTopic"
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 

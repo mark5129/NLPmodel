@@ -30,7 +30,7 @@ def LDAModel(text_column, language, current_id, doc_type):
     lda_model=LatentDirichletAllocation(n_components=parameters['num_topics'], learning_method='online',random_state=42,max_iter=1) 
     lda_top=lda_model.fit_transform(vect_text)
 
-    output_dir = 'outputs/LDA'
+    output_dir = 'modelling/outputs/LDA'
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 

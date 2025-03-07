@@ -24,20 +24,20 @@ n_top_words: 10
 train_nmf: False
 
 # Specter model
-train_specter2: True
+train_specter2: False
 
 #LDA mode
-train_lda: False
+train_lda: True
 
 #Bert model
 train_bert: False
 nr_topics: 10 # Number of topics for BERTopic model
 
 # Minilm12
-train_minilm12: True
+train_minilm12: False
 
 # XLM roberta
-train_xlm_roberta: True
+train_xlm_roberta: False
 
 # Names of files and directories
 

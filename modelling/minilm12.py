@@ -16,7 +16,7 @@ def MiniLM12(text_data, current_id, doc_type):
     embeddings = model.encode(text_data, show_progress_bar=True, batch_size=32)
 
     # Save embeddings to CSV
-    output_dir = 'outputs/MiniLm12'
+    output_dir = 'modelling/outputs/MiniLm12'
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)

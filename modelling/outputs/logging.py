@@ -4,8 +4,8 @@ import os
 import random
 
 def update_header_if_needed(parameters: dict):
-    if os.path.exists('outputs/log.csv'):
-        with open('outputs/log.csv', mode='r') as file:
+    if os.path.exists('modelling/outputs/log.csv'):
+        with open('modelling/outputs/log.csv', mode='r') as file:
             reader = csv.reader(file)
             rows = list(reader)
             if rows:
@@ -21,8 +21,8 @@ def update_header_if_needed(parameters: dict):
 
 def log_parameters(parameters: dict):
     # Check if log.csv exists and get the last ID
-    if os.path.exists('outputs/log.csv'):
-        with open('outputs/log.csv', mode='r') as file:
+    if os.path.exists('modelling/outputs/log.csv'):
+        with open('modelling/outputs/log.csv', mode='r') as file:
             reader = csv.reader(file)
             rows = list(reader)
             if len(rows) > 1:
@@ -39,7 +39,7 @@ def log_parameters(parameters: dict):
     # Increment the ID for the current run
     #current_id = last_id + 1
 
-    with open('outputs/log.csv', mode='a', newline='') as file:
+    with open('modelling/outputs/log.csv', mode='a', newline='') as file:
         writer = csv.writer(file)
         # Write header if the file is empty
         if last_id == 0:
