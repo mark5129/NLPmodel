@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualization Browser</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 40px; }
+        .menu { margin-bottom: 10px; }
+        .menu button { font-size: 18px; padding: 10px 20px; }
+        .submenu { margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <h1>NLP Model Bachelor</h1>
+
+    <div class="container">
+        <div class="menu">
+            <button onclick="showContent('home')" id="btn-home">Home</button>
+            <button onclick="showContent('plots')" id="btn-plots">Data Map Plot</button>
+            <button onclick="showContent('services')" id="btn-services">About</button>
+            <button onclick="showContent('contact')" id="btn-contact">State of Log file</button>
+        </div>
+
+        <div class="content">
+            <div id="home"> 
+                <h2>Home</h2>
+                <p>Welcome to the homepage! This is a page to show all the visualizations and other made in this NLP project.</p>
+            </div>
+
+            <div id="plots" style="display: none;"> 
+                <h2>Data Map Plots</h2>
+                <p>Select a model to view its visualization:</p>
+                <div class="submenu">
+                    <button onclick="showContent1('plot1')" id="btn-plot1">XLM Roberta</button>
+                    <button onclick="showContent1('plot2')" id="btn-plot2">MiniLm12</button>
+                    <button onclick="showContent1('plot3')" id="btn-plot3">Specter2</button>
+                </div>
+                <div class="plots-content">
+                    <div id="plot1" class="plot">
+                        <object data="visualizations/outputs/manualrun_merged_XLM_Roberta_datamapplot.html" width="100%" height="800"></object>
+                    </div>
+                    <div id="plot2" class="plot">
+                        <object data="visualizations/outputs/manualrun_merged_MiniLm12_datamapplot.html" width="100%" height="800"></object>
+                    </div>
+                    <div id="plot3" class="plot">
+                        <object data="visualizations/outputs/manualrun_merged_Specter2_datamapplot.html" width="100%" height="800"></object>
+                    </div>
+                </div>
+                
+            </div>
+
+            <div id="services" style="display: none;"> 
+                <h2>About</h2>
+                <p>We are three friends from DTU collaborating together on this bachelor supervised by Anders Kristian Munk.</p>
+            </div>
+
+            <div id="contact" style="display: none;"> 
+                <h2>Log Data</h2>
+                <iframe src="modelling/outputs/log.csv" width="100%" height="500"></iframe>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        function showContent(sectionId) {
+            document.querySelectorAll(".content div").forEach(div => div.style.display = "none");
+            document.getElementById(sectionId).style.display = "block";
+            document.querySelectorAll(".menu button").forEach(btn => btn.style.backgroundColor = "");
+            document.getElementById(`btn-${sectionId}`).style.backgroundColor = "lightblue";
+        }
+
+        function showContent1(sectionId) {
+            document.querySelectorAll(".plot").forEach(div => div.style.display = "none");
+            document.getElementById(sectionId).style.display = "block";
+            document.querySelectorAll(".submenu button").forEach(btn => btn.style.backgroundColor = "");
+            document.getElementById(`btn-${sectionId}`).style.backgroundColor = "lightblue";
+        }
+
+        function togglePlot(plotId) {
+            document.querySelectorAll(".plot").forEach(div => div.style.display = "none");
+            document.getElementById(plotId).style.display = "block";
+        }
+    </script>
+</body>
+</html>
