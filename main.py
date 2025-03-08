@@ -23,6 +23,7 @@ from evaluations.K_means_clustering import K_means_clustering
 
 # import functions for visualisation
 from visualizations.datamapplot_with_naming import data_mapplot_with_naming
+from visualizations.topic_source_plot import topic_source_plot
 
 # load parameters from yaml file.
 import yaml
@@ -178,7 +179,9 @@ if parameters['Create_Visualizations'] == True:
         df = pd.read_csv('data/merged_media_stemmed_eng.csv')
         for model in which_model:
             embeddings = pd.read_csv(f'modelling/outputs/{model}/{current_id}_merged_{model}_embeddings.csv')
+            kmeans = pd.read_csv(f'evaluations/outputs/{current_id}_merged_{model}_Kmeans.csv')
             data_mapplot_with_naming(embeddings, df, current_id, 'merged', model)
+            topic_source_plot(kmeans, current_id, 'merged', model)
         
     else:
         print('Model training is turned off in parameters.yaml and therefore datamaplot cannot run in main script.')

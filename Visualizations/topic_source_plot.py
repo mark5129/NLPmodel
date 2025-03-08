@@ -11,15 +11,17 @@ def topic_source_plot(data, current_id, doc_type, model_name):
     count_data['Proportion'] = count_data.apply(lambda row: row['Count'] / source_counts[row['Source']], axis=1)
 
     # Plot the data
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(12, 8))
     sns.barplot(x='topic_names', y='Proportion', hue='Source', data=count_data)
     plt.ylabel('Proportion')
     plt.title(f'Proportion of Topic Names by Source ({model_name})')
-    plt.xticks(rotation=45)
+    plt.xticks(rotation=45, ha='right')
+    plt.tight_layout()  # Adjust layout to make room for the rotated x labels
     
     # Save Visualization to CSV
     output_dir = 'visualizations/outputs/'
 
     plt.savefig(f"{output_dir}{current_id}_{doc_type}_{model_name}_sourceplot.png")
+    print(f"Saved sourceplot for {model_name} to {output_dir}")
 
 
