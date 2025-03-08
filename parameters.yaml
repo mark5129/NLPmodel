@@ -7,11 +7,12 @@ preprocess_data: False
 # Whether to perform the model training step
 train_model: True
 
+# Whether to perform the model evaluation step
+Calculate_evaluations: True
+
 # Whether to Visualize data or not 
 Create_Visualizations: True
 
-# Whether to perform the model evaluation step
-Calculate_evaluations: True
 
 # What data to use?
 # raw, cleaned, stemmed
@@ -27,20 +28,20 @@ n_top_words: 10
 train_nmf: False
 
 # Specter model
-train_specter2: False
+train_specter2: True
 
 #LDA mode
-train_lda: True
+train_lda: False
 
 #Bert model
 train_bert: False
 nr_topics: 10 # Number of topics for BERTopic model
 
 # Minilm12
-train_minilm12: False
+train_minilm12: True
 
 # XLM roberta
-train_xlm_roberta: False
+train_xlm_roberta: True
 
 # Names of files and directories
 
