@@ -1,0 +1,25 @@
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+def topic_source_plot(data, current_id, doc_type, model_name):
+    # Count the instances
+    count_data = data.groupby(['topic_names', 'Source']).size().reset_index(name='Count')
+
+    # Calculate the proportion
+    source_counts = data['Source'].value_counts().to_dict()
+    count_data['Proportion'] = count_data.apply(lambda row: row['Count'] / source_counts[row['Source']], axis=1)
+
+    # Plot the data
+    plt.figure(figsize=(10, 6))
+    sns.barplot(x='topic_names', y='Proportion', hue='Source', data=count_data)
+    plt.ylabel('Proportion')
+    plt.title(f'Proportion of Topic Names by Source ({model_name})')
+    plt.xticks(rotation=45)
+    
+    # Save Visualization to CSV
+    output_dir = 'visualizations/outputs/'
+
+    plt.savefig(f"{output_dir}{current_id}_{doc_type}_{model_name}_sourceplot.png")
+
+
