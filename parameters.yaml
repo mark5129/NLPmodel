@@ -10,6 +10,9 @@ train_model: True
 # Whether to Visualize data or not 
 Create_Visualizations: True
 
+# Whether to perform the model evaluation step
+Calculate_evaluations: True
+
 # What data to use?
 # raw, cleaned, stemmed
 what_data: stemmed

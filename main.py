@@ -18,6 +18,9 @@ from modelling.XLM_Roberta import XLM_Roberta_model
 from modelling.BERTopic import BERTopicModel
 from modelling.minilm12 import MiniLM12
 
+# Import functions for evaluation
+from evaluations.K_means_clustering import K_means_clustering
+
 # import functions for visualisation
 from visualizations.datamapplot_with_naming import data_mapplot_with_naming
 
@@ -122,7 +125,35 @@ if parameters['train_model'] == True:
 else:
     print('Model training is turned off in parameters.yaml')
 
+if parameters['Calculate_evaluations'] == True:
 
+    # This mapplot only runs on embeddings based on merged files, this vissualization can also be run in visualization main script.
+    if parameters['train_model'] == True:
+        # This determines which model to use for the mapplot
+        which_model = ['MiniLm12', 'Specter2', 'XLM_Roberta']
+
+        if parameters['train_minilm12'] == False:
+            # remove minilm12 from which model list
+            which_model.remove('MiniLm12')
+        
+        if parameters['train_specter2'] == False:
+            # remove specter2 from which model list
+            which_model.remove('Specter2')
+        
+        if parameters['train_xlm_roberta'] == False:
+            # remove xlm_roberta from which model list
+            which_model.remove('XLM_Roberta')
+        
+        df = pd.read_csv('data/merged_media_stemmed_eng.csv')
+        for model in which_model:
+            embeddings = pd.read_csv(f'modelling/outputs/{model}/{current_id}_merged_{model}_embeddings.csv')
+            K_means_clustering(embeddings, df, current_id, 'merged', model)
+        
+    else:
+        print('Model evaluations is turned off in parameters.yaml and therefore datamaplot cannot run in main script.')
+
+else:
+    print('Visualizations is turned off in parameters.yaml')
 
 
 if parameters['Create_Visualizations'] == True:
