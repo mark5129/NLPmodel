@@ -91,6 +91,12 @@ if parameters['train_model'] == True:
         LDAModel(reg_text_column, 'english', current_id, 'reg')
         LDAModel(pro_text_column, 'english', current_id, 'pro')
         print('LDA model is trained')
+    
+    if parameters['train_nmf'] == True:
+
+        NMF_model(reg_text_column, current_id, 'reg')
+        NMF_model(pro_text_column, current_id, 'pro')
+        print('NMF model is trained')
 
     if parameters['train_specter2'] == True:
 
@@ -98,16 +104,11 @@ if parameters['train_model'] == True:
         Specter2Model(pro_text_column, current_id, 'pro')
         Specter2Model(merged_text_column, current_id, 'merged')
         print('Specter2 embeddings are generated.')
-
-    if parameters['train_nmf'] == True:
-
-        NMF_model(reg_text_column, current_id, 'reg')
-        NMF_model(pro_text_column, current_id, 'pro')
-        print('NMF model is trained')
     
     if parameters['train_bert'] == True:
-        reg_topics, reg_topic_model = BERTopicModel(reg_text_column, "reg_media")
-        pro_topics, pro_topic_model = BERTopicModel(pro_text_column, "pro_media")
+        reg_topics, reg_topic_model = BERTopicModel(reg_text_column, current_id, "reg")
+        pro_topics, pro_topic_model = BERTopicModel(pro_text_column, current_id, "pro")
+        merged_topics, merged_topic_model = BERTopicModel(merged_text_column, current_id, "merged")
         print('BERTopic model is trained')
     
     if parameters['train_minilm12'] == True:
@@ -131,7 +132,7 @@ if parameters['Calculate_evaluations'] == True:
     # This mapplot only runs on embeddings based on merged files, this vissualization can also be run in visualization main script.
     if parameters['train_model'] == True:
         # This determines which model to use for the mapplot
-        which_model = ['MiniLm12', 'Specter2', 'XLM_Roberta']
+        which_model = ['MiniLm12', 'Specter2', 'XLM_Roberta', 'BERTopic']
 
         if parameters['train_minilm12'] == False:
             # remove minilm12 from which model list
@@ -144,6 +145,10 @@ if parameters['Calculate_evaluations'] == True:
         if parameters['train_xlm_roberta'] == False:
             # remove xlm_roberta from which model list
             which_model.remove('XLM_Roberta')
+        
+        if parameters['train_bert'] == False:
+            # remove xlm_roberta from which model list
+            which_model.remove('BERTopic')
         
         df = pd.read_csv('data/merged_media_stemmed_eng.csv')
         for model in which_model:
@@ -162,7 +167,7 @@ if parameters['Create_Visualizations'] == True:
     # This mapplot only runs on embeddings based on merged files, this vissualization can also be run in visualization main script.
     if parameters['train_model'] == True:
         # This determines which model to use for the mapplot
-        which_model = ['MiniLm12', 'Specter2', 'XLM_Roberta']
+        which_model = ['MiniLm12', 'Specter2', 'XLM_Roberta', 'BERTopic']
 
         if parameters['train_minilm12'] == False:
             # remove minilm12 from which model list
@@ -175,6 +180,10 @@ if parameters['Create_Visualizations'] == True:
         if parameters['train_xlm_roberta'] == False:
             # remove xlm_roberta from which model list
             which_model.remove('XLM_Roberta')
+        
+        if parameters['train_bert'] == False:
+            # remove xlm_roberta from which model list
+            which_model.remove('BERTopic')
         
         df = pd.read_csv('data/merged_media_stemmed_eng.csv')
         for model in which_model:

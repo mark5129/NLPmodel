@@ -24,18 +24,17 @@ random_state: 42
 max_features: 1000
 n_top_words: 10
 
+#LDA mode
+train_lda: False
+
 # NMF model
 train_nmf: False
 
 # Specter model
 train_specter2: True
 
-#LDA mode
-train_lda: False
-
 #Bert model
-train_bert: False
-nr_topics: 10 # Number of topics for BERTopic model
+train_bert: True
 
 # Minilm12
 train_minilm12: True

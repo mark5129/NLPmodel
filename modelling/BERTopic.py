@@ -9,7 +9,7 @@ with open('parameters.yaml', 'r') as file:
 
 import pandas as pd
 
-def BERTopicModel(text_column, doc_type):
+def BERTopicModel(text_column, current_id, doc_type):
     """
     Analyzes the text data and returns the topics and the trained BERTopic model.
 
@@ -38,8 +38,11 @@ def BERTopicModel(text_column, doc_type):
     print(f"BERTopic results saved: {doc_type}_BERTopic_results.csv")
 
     if topic_model.embedding_model:
-        embeddings = topic_model.embedding_model.embed(text_column.tolist())  # Extract embeddings
-        np.save(os.path.join(output_dir, f"{doc_type}_BERTopic_embeddings.npy"), embeddings)
+        embeddings = topic_model.embedding_model.embed(text_column.tolist())
+        # make embeddings to pd df
+        df_embeddings = pd.DataFrame(embeddings)
+        # save embeddings
+        df_embeddings.to_csv(os.path.join(output_dir, f'{current_id}_{doc_type}_BERTopic_embeddings.csv'))
         print(f"✅ Saved embeddings for {doc_type}!")
 
     # ✅ Save the trained model
