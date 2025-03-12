@@ -31,7 +31,7 @@ train_lda: False
 train_nmf: False
 
 # Specter model
-train_specter2: True
+train_specter2: False
 
 #Bert model
 train_bert: True
