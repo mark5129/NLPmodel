@@ -22,8 +22,8 @@ from modelling.minilm12 import MiniLM12
 from evaluations.K_means_clustering import K_means_clustering
 
 # import functions for visualisation
-from visualizations.datamapplot_with_naming import data_mapplot_with_naming
-from visualizations.topic_source_plot import topic_source_plot
+from Visualizations.datamapplot_with_naming import data_mapplot_with_naming
+from Visualizations.topic_source_plot import topic_source_plot
 
 # load parameters from yaml file.
 import yaml
