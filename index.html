@@ -42,6 +42,7 @@
                 <button onclick="togglePlot('plot2')">MiniLm12</button>
                 <button onclick="togglePlot('plot3')">Specter2</button>
                 <button onclick="togglePlot('plot4')">BERTopic</button>
+                <button onclick="togglePlot('plot5')">Comparison</button>
                 <p></p>
                 <div id="plot1" style="display: none;">
                     <object data="visualizations/outputs/manualrun_merged_XLM_Roberta_datamapplot.html" width="100%" height="800"></object>
@@ -61,6 +62,12 @@
                 <div id="plot4" style="display: none;">
                     <object data="visualizations/outputs/manualrun_merged_BERTopic_datamapplot.html" width="100%" height="800"></object>
 
+                    <img src="visualizations/outputs/manualrun_merged_BERTopic_sourceplot.png" alt="BERTopic_sourceplot" style="width:1000px;height:auto;">
+                </div>
+                <div id="plot5" style="display: none;">
+                    <img src="visualizations/outputs/manualrun_merged_XLM_Roberta_sourceplot.png" alt="XLM_roberta_sourceplot" style="width:1000px;height:auto;">
+                    <img src="visualizations/outputs/manualrun_merged_MiniLm12_sourceplot.png" alt="MiniLm12_sourceplot" style="width:1000px;height:auto;">
+                    <img src="visualizations/outputs/manualrun_merged_Specter2_sourceplot.png" alt="Specter2_sourceplot" style="width:1000px;height:auto;">
                     <img src="visualizations/outputs/manualrun_merged_BERTopic_sourceplot.png" alt="BERTopic_sourceplot" style="width:1000px;height:auto;">
                 </div>
             </div>
