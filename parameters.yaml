@@ -25,13 +25,13 @@ max_features: 1000
 n_top_words: 10
 
 #LDA mode
-train_lda: False
+train_lda: True
 
 # NMF model
-train_nmf: False
+train_nmf: True
 
 # Specter model
-train_specter2: False
+train_specter2: True
 
 #Bert model
 train_bert: True
@@ -47,6 +47,7 @@ train_xlm_roberta: True
 # Raw data
 pro_media_dir: raw_data/pro_media.csv
 reg_media_dir: raw_data/reg_media.csv
+sci_media_dir: raw_data/sci_media.csv
 
 # Translated text
 reg_media_translated_dir: data/reg_media_translated.csv
@@ -55,10 +56,12 @@ pro_media_translated_dir: data/pro_media_translated.csv
 # stopwords removed
 pro_media_cleaned_dir: data/pro_media_cleaned_eng.csv
 reg_media_cleaned_dir: data/reg_media_cleaned_eng.csv
+sci_media_cleaned_dir: data/sci_media_cleaned_eng.csv
 
 # stemming of words
 pro_media_stemmed_dir: data/pro_media_stemmed_eng.csv
 reg_media_stemmed_dir: data/reg_media_stemmed_eng.csv
+sci_media_stemmed_dir: data/sci_media_stemmed_eng.csv
 
 # Merged stemmed text
 merged_stemmed_dir: data/merged_media_stemmed_eng.csv

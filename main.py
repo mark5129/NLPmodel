@@ -48,6 +48,12 @@ if parameters['preprocess_data'] == True:
     df_reg.to_csv(parameters['reg_media_cleaned_dir'], index=False)
     print('reg_media.csv is cleaned')
 
+    # Perform cleaning on sci_media.csv
+    df_sci = pd.read_csv(parameters['sci_media_dir'])
+    df_sci['Content'] = df_sci['Content'].apply(lambda x: remove_stopwords(x, 'english'))
+    df_sci.to_csv(parameters['sci_media_cleaned_dir'], index=False)
+    print('sci_media.csv is cleaned')
+
     # Perform sentence stemming on pro_media.csv
     df_pro = pd.read_csv(parameters['pro_media_cleaned_dir']) # Load the CSV file
     df_pro['Content'] = df_pro['Content'].apply(lambda x: stemming(x, 'english'))
@@ -59,6 +65,12 @@ if parameters['preprocess_data'] == True:
     df_reg['Content'] = df_reg['Content'].apply(lambda x: stemming(x, 'english'))
     df_reg.to_csv(parameters['reg_media_stemmed_dir'], index=False)
     print('reg_media.csv is stemmed')
+
+    # Perform cleaning on reg_media.csv
+    df_sci = pd.read_csv(parameters['sci_media_cleaned_dir'])
+    df_sci['Content'] = df_sci['Content'].apply(lambda x: stemming(x, 'english'))
+    df_sci.to_csv(parameters['sci_media_stemmed_dir'], index=False)
+    print('sci_media.csv is stemmed')
     
 else:
     print('Data preprocessing is turned off in parameters.yaml')
@@ -88,38 +100,40 @@ if parameters['train_model'] == True:
 
     if parameters['train_lda'] == True:
         
-        LDAModel(reg_text_column, 'english', current_id, 'reg')
-        LDAModel(pro_text_column, 'english', current_id, 'pro')
+        #LDAModel(reg_text_column, 'english', current_id, 'reg')
+        #LDAModel(pro_text_column, 'english', current_id, 'pro')
+        LDAModel(merged_text_column, 'english', current_id, 'merged')
         print('LDA model is trained')
     
     if parameters['train_nmf'] == True:
 
-        NMF_model(reg_text_column, current_id, 'reg')
-        NMF_model(pro_text_column, current_id, 'pro')
+        #NMF_model(reg_text_column, current_id, 'reg')
+        #NMF_model(pro_text_column, current_id, 'pro')
+        NMF_model(merged_text_column, current_id, 'merged')
         print('NMF model is trained')
 
     if parameters['train_specter2'] == True:
 
-        Specter2Model(reg_text_column, current_id, 'reg')
-        Specter2Model(pro_text_column, current_id, 'pro')
+        #Specter2Model(reg_text_column, current_id, 'reg')
+        #Specter2Model(pro_text_column, current_id, 'pro')
         Specter2Model(merged_text_column, current_id, 'merged')
         print('Specter2 embeddings are generated.')
     
     if parameters['train_bert'] == True:
-        reg_topics, reg_topic_model = BERTopicModel(reg_text_column, current_id, "reg")
-        pro_topics, pro_topic_model = BERTopicModel(pro_text_column, current_id, "pro")
+        #reg_topics, reg_topic_model = BERTopicModel(reg_text_column, current_id, "reg")
+        #pro_topics, pro_topic_model = BERTopicModel(pro_text_column, current_id, "pro")
         merged_topics, merged_topic_model = BERTopicModel(merged_text_column, current_id, "merged")
         print('BERTopic model is trained')
     
     if parameters['train_minilm12'] == True:
-        MiniLM12(reg_text_column, current_id, 'reg')
-        MiniLM12(pro_text_column, current_id, 'pro')
+        #MiniLM12(reg_text_column, current_id, 'reg')
+        #MiniLM12(pro_text_column, current_id, 'pro')
         MiniLM12(merged_text_column, current_id, 'merged')
         print('MiniLM12 embeddings are generated.')
     
     if parameters['train_xlm_roberta'] == True:
-        XLM_Roberta_model(reg_text_column, current_id, 'reg')
-        XLM_Roberta_model(pro_text_column, current_id, 'pro')
+        #XLM_Roberta_model(reg_text_column, current_id, 'reg')
+        #XLM_Roberta_model(pro_text_column, current_id, 'pro')
         XLM_Roberta_model(merged_text_column, current_id, 'merged')
         print('XLM-Roberta embeddings are generated.')
 
@@ -159,7 +173,7 @@ if parameters['Calculate_evaluations'] == True:
         print('Model evaluations is turned off in parameters.yaml and therefore datamaplot cannot run in main script.')
 
 else:
-    print('Visualizations is turned off in parameters.yaml')
+    print('Calculate evaluations is turned off in parameters.yaml')
 
 
 if parameters['Create_Visualizations'] == True:
