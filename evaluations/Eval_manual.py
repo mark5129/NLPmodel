@@ -9,10 +9,10 @@ from K_means_clustering import K_means_clustering
 which_model = ['XLM_Roberta', 'Specter2', 'MiniLm12', 'BERTopic']
 
 # Load the merged media file to get texts
-file = ['modelling/outputs/XLM_Roberta/5694260457_merged_XLM_Roberta_embeddings.csv',
-        'modelling/outputs/Specter2/5694260457_merged_Specter2_embeddings.csv',
-        'modelling/outputs/MiniLm12/5694260457_merged_MiniLm12_embeddings.csv',
-        'modelling/outputs/BERTopic/1925352208_merged_BERTopic_embeddings.csv']
+file = ['modelling/outputs/XLM_Roberta/2418438043_merged_XLM_Roberta_embeddings.csv',
+        'modelling/outputs/Specter2/2418438043_merged_Specter2_embeddings.csv',
+        'modelling/outputs/MiniLm12/2418438043_merged_MiniLm12_embeddings.csv',
+        'modelling/outputs/BERTopic/2418438043_merged_BERTopic_embeddings.csv']
 
 df_file = pd.read_csv('data/merged_media_stemmed_eng.csv')
 
