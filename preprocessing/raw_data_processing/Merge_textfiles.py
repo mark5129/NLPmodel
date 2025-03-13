@@ -6,7 +6,7 @@ pro_media_df = pd.read_csv('data/pro_media_stemmed_eng.csv')
 reg_media_df = pd.read_csv('data/reg_media_stemmed_eng.csv')
 
 # Define the columns to keep from each dataframe
-pro_media_columns = ['Date', 'Title', 'Outlet', 'Full text']  # Replace with actual column names
+pro_media_columns = ['Date', 'Title', 'Outlet', 'Content']  # Replace with actual column names
 reg_media_columns = ['Date', 'Title', 'Outlet', 'Content']  # Replace with actual column names
 
 # Select the specified columns from each dataframe
