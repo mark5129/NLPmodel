@@ -30,12 +30,23 @@
                 <p>This project investigates the discourse surrounding Denmark’s energy islands initiative by analyzing how the topic is discussed across scientific literature, professional media, and regional media. Using Natural Language Processing (NLP) techniques, particularly topic modeling methods such as BERTopic and Latent Dirichlet Allocation (LDA), the study aims to identify key themes, trends, and differences in how energy islands are framed in different contexts. The project contributes to the European Research Center (ERC) project Goodbye Devising, which seeks to integrate local citizen values and environmental concerns into the early stages of green energy planning. By applying NLP-based text analysis, this research provides insights for policymakers, scientists, and communicators to bridge the gap between expert knowledge and public understanding of Denmark’s energy transition.</p>
                 <a href="https://www.good-by-devicing.org" target="_blank">Good-by-Devicing</a>
                 <h3>The Pipeline: (written by us)</h3>
-                <p>Initially some preprocessing is done to the data to prepare it for the Language models to calculate the embeddings. The preprocessing consists of Translation, Stop word removal and Stemming. 
+                <p>
+                    Initially some preprocessing is done to the data to prepare it for the Language models to calculate the embeddings. The preprocessing consists of Translation, Stop word removal and Stemming. 
                     Then the various models (XLM-Roberta, Specter 2, MiniLM12), are calculating their document embeddings, placing each document (1429 documents) in a 383 dimensional vector space.
+                </p>
+                <p>
                     Based on these embeddings k-means clustering is conducted to find clusters of documents, which are close to each other in the vector space, reflecting a similar semantic representation.
+                </p>    
+                <p>
                     For each cluster Latent Dirichlet Allocation (LDA) is used to come up with a topic for the cluster based on the bag of words which is an output of LDA. This is visualized in 2D in the Data map plot pane.
+                </p>    
+                <p>
                     After this clustering it is interesting to investigate what the source is for the documents in each cluster. Therefore a simple grouped bar plot is created to show where the documents in each cluster originate - meaning which source it comes from.
-                    </p>
+                </p>    
+                <p>
+                    Below you can find our Git repo, which is the source for all our code, this webpage included
+                </p>
+                    
                 <a href="https://github.com/mark5129/NLPmodel" target="_blank">Repository</a>
                 
             </div>
