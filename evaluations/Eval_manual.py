@@ -1,12 +1,12 @@
 import pandas as pd
 
-from K_means_clustering import K_means_clustering
+from BERTopic_cluster_topics import K_means_clustering
 
 # This script only runs on embeddings from various models.
 
 
 #Load embeddings from embeddings file
-which_model = ['XLM_Roberta', 'Specter2', 'MiniLm12', 'BERTopic']
+which_model = ['XLM_Roberta', 'Specter2', 'MiniLm12']
 
 # Load the merged media file to get texts
 file = ['modelling/outputs/XLM_Roberta/2418438043_merged_XLM_Roberta_embeddings.csv',
