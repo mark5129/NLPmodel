@@ -25,22 +25,24 @@ max_features: 1000
 n_top_words: 10
 
 #LDA mode
-train_lda: True
+train_lda: False
 
 # NMF model
-train_nmf: True
+train_nmf: False
 
 # Specter model
-train_specter2: True
+train_specter2: False
 
 #Bert model
-train_bert: True
+train_bert: False
 
 # Minilm12
-train_minilm12: True
+train_minilm12: False
 
 # XLM roberta
-train_xlm_roberta: True
+train_xlm_roberta: False
+
+train_specter2_Actually: True
 
 # Names of files and directories
 

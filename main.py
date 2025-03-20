@@ -17,7 +17,7 @@ from modelling.NMF import NMF_model
 from modelling.XLM_Roberta import XLM_Roberta_model
 from modelling.BERTopic import BERTopicModel
 from modelling.minilm12 import MiniLM12
-
+from modelling.Specter2Actually import Specter2ActuallyModel
 # Import functions for evaluation
 from evaluations.K_means_clustering import K_means_clustering
 
@@ -136,6 +136,12 @@ if parameters['train_model'] == True:
         #XLM_Roberta_model(pro_text_column, current_id, 'pro')
         XLM_Roberta_model(merged_text_column, current_id, 'merged')
         print('XLM-Roberta embeddings are generated.')
+    
+    if parameters['train_specter2_Actually'] == True:
+        #Specter2ActuallyModel(reg_text_column, current_id, 'reg')
+        #Specter2ActuallyModel(pro_text_column, current_id, 'pro')
+        Specter2ActuallyModel(merged_text_column, current_id, 'merged')
+        print('Specter2 embeddings are generated.')
 
 
 else:
