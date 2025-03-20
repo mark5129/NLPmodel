@@ -1,0 +1,124 @@
+import yaml
+from sklearn.cluster import KMeans
+from sklearn.manifold import TSNE
+import numpy as np
+import os
+import pandas as pd
+from bertopic import BERTopic
+from nltk.corpus import stopwords
+
+with open('parameters.yaml', 'r') as file:
+    parameters = yaml.safe_load(file)
+
+def BERTopic_cluster_topic(cluster_texts, language='english', n_terms=5):
+    # Define stop words for different languages
+    stop_words = {
+        'english': stopwords.words('english')
+    }
+    
+    cluster_texts = [text for text in cluster_texts if isinstance(text, str) and text.strip()]
+    if not cluster_texts:
+        return []
+
+    try:
+        # Initialize BERTopic
+        topic_model = BERTopic(language=language, nr_topics=parameters['num_topics'])
+        topics, _ = topic_model.fit_transform(cluster_texts)
+
+        # Get the top terms for each topic
+        topic_info = topic_model.get_topic_info()
+        
+        # For each topic, retrieve the top terms
+        top_terms = []
+        for topic in topic_info['Topic']:
+            if topic == -1:  # Skip outliers
+                continue
+            terms = topic_model.get_topic(topic)[:n_terms]  # Get the top n_terms from the topic
+            # Extract the term names (words) from the tuples
+            topic_terms = [term[0] for term in terms]  # term[0] gives the word itself
+            top_terms.extend(topic_terms)  # Add them to the list
+
+        # Ensure to return only unique terms and limit to n_terms
+        top_terms = list(dict.fromkeys(top_terms))  # Remove duplicates
+        return top_terms[:n_terms]  # Return only the first n_terms (up to 5 terms)
+
+    except Exception as e:
+        print(f"Error in get_cluster_topic_with_bertopic: {e}")
+    return []
+
+
+def K_means_clustering(embeddings, df, current_id, doc_type, model_name):
+
+    # Ensure embeddings are in NumPy array format
+    embeddings = np.array(embeddings)
+
+    # Number of samples
+    n_samples = embeddings.shape[0]
+
+    # Adjust perplexity based on the number of samples
+    perplexity = min(30, (n_samples - 1) // 3)
+
+    # Step 1: Create a data map using t-SNE
+    tsne = TSNE(n_components=2, perplexity=perplexity, random_state=42)
+    data_map = tsne.fit_transform(embeddings)
+
+    # Step 2: Perform hierarchical clustering
+    n_clusters_list = [parameters['num_topics']]  # Adjust these numbers for your desired hierarchy levels
+    labels_layers = []
+    topics_names = pd.DataFrame(columns=['topic_int', 'topic_names'])
+
+    for n_clusters in n_clusters_list:
+        kmeans = KMeans(n_clusters=n_clusters, random_state=parameters['random_state'])
+        labels_int = kmeans.fit_predict(data_map)
+
+        used_topics = set()
+
+        # Generate topic names for each cluster
+        label_topic_map = {}
+        for label in range(n_clusters):
+            indices = np.where(labels_int == label)[0]
+            if len(indices) == 0:
+                label_topic_map[label] = f"{label}: No data"
+                continue
+            cluster_texts = df['Content'].iloc[indices].astype(str).tolist()
+            top_terms = BERTopic_cluster_topic(cluster_texts, language='english', n_terms=5)
+
+            # Select the first unused term as the topic name
+            topic_name = None
+            for term in top_terms:
+                if term not in used_topics:
+                    topic_name = term
+                    used_topics.add(term)
+                    break
+
+            if topic_name is None:
+                # All terms have been used; default to the highest scoring term with cluster label
+                topic_name = f"{top_terms[0]} {label}" if top_terms else f"Cluster {label}"
+
+            label_topic_map[label] = f"{label}: {topic_name}"
+
+            # Save topic names for each cluster
+            topics_names.loc[label, 'topic_int'] = label
+            topics_names.loc[label, 'topic_names'] = topic_name
+
+        # Convert integer labels to topic names
+        labels_topic = np.array([label_topic_map.get(label, f"{label}: Unknown") for label in labels_int])
+        labels_layers.append(labels_topic)
+
+    # Save embeddings to CSV
+    output_dir = 'evaluations/outputs/'
+
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
+    df_labels_int = pd.DataFrame(labels_int)
+    df_labels_int.columns = ['topic_int']
+
+    df_labels_int = df_labels_int.merge(topics_names, on='topic_int', how='left')
+
+    sources = df['Source']
+
+    df_labels_int['Source'] = sources
+    
+    df_labels_int.to_csv(os.path.join(output_dir, f'{current_id}_{doc_type}_{model_name}_Kmeans.csv'), index=False)
+    print(f'{model_name} k-means clustering saved for ID {current_id}')
