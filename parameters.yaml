@@ -37,10 +37,10 @@ train_specter2: False
 train_bert: False
 
 # Minilm12
-train_minilm12: False
+train_minilm12: True
 
 # XLM roberta
-train_xlm_roberta: False
+train_xlm_roberta: True
 
 train_specter2_Actually: True
 
@@ -67,3 +67,4 @@ sci_media_stemmed_dir: data/sci_media_stemmed_eng.csv
 
 # Merged stemmed text
 merged_stemmed_dir: data/merged_media_stemmed_eng.csv
+
