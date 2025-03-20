@@ -86,14 +86,19 @@ if parameters['train_model'] == True:
     elif parameters['what_data'] == 'cleaned':
         reg_media = pd.read_csv(parameters['reg_media_cleaned_dir'])
         pro_media = pd.read_csv(parameters['pro_media_cleaned_dir'])
+        sci_media = pd.read_csv(parameters['sci_media_cleaned_dir'])
     elif parameters['what_data'] == 'stemmed':
         reg_media = pd.read_csv(parameters['reg_media_stemmed_dir'])
         pro_media = pd.read_csv(parameters['pro_media_stemmed_dir'])
+        sci_media = pd.read_csv(parameters['sci_media_stemmed_dir'])
+
+        
     else:
         print('No or wrong data source selected in parameters.yaml')
 
     reg_text_column = reg_media['Content']
     pro_text_column = pro_media['Content']
+    sci_text_column = sci_media['Content']
     merged_media = pd.read_csv(parameters['merged_stemmed_dir'])
     merged_text_column = merged_media['Content']
 
@@ -102,6 +107,7 @@ if parameters['train_model'] == True:
         
         #LDAModel(reg_text_column, 'english', current_id, 'reg')
         #LDAModel(pro_text_column, 'english', current_id, 'pro')
+        #LDAModel(sci_text_column, 'english', current_id, 'sci')
         LDAModel(merged_text_column, 'english', current_id, 'merged')
         print('LDA model is trained')
     
@@ -109,43 +115,52 @@ if parameters['train_model'] == True:
 
         #NMF_model(reg_text_column, current_id, 'reg')
         #NMF_model(pro_text_column, current_id, 'pro')
+        #NMF_model(sci_text_column, current_id, 'sci')
         NMF_model(merged_text_column, current_id, 'merged')
         print('NMF model is trained')
 
-    if parameters['train_specter2'] == True:
+    #if parameters['train_specter2'] == True:
 
         #Specter2Model(reg_text_column, current_id, 'reg')
         #Specter2Model(pro_text_column, current_id, 'pro')
-        Specter2Model(merged_text_column, current_id, 'merged')
-        print('Specter2 embeddings are generated.')
+        #Specter2Model(sci_text_column, current_id, 'sci')
+        #Specter2Model(merged_text_column, current_id, 'merged')
+        #print('Specter2 embeddings are generated.')
     
     #if parameters['train_bert'] == True:
         #reg_topics, reg_topic_model = BERTopicModel(reg_text_column, current_id, "reg")
         #pro_topics, pro_topic_model = BERTopicModel(pro_text_column, current_id, "pro")
+        #pro_topics, pro_topic_model = BERTopicModel(sci_text_column, current_id, "sci")
         #merged_topics, merged_topic_model = BERTopicModel(merged_text_column, current_id, "merged")
         #print('BERTopic model is trained')
     
     if parameters['train_minilm12'] == True:
-        #MiniLM12(reg_text_column, current_id, 'reg')
-        #MiniLM12(pro_text_column, current_id, 'pro')
-        MiniLM12(merged_text_column, current_id, 'merged')
+        MiniLM12(reg_text_column, current_id, 'reg')
+        MiniLM12(pro_text_column, current_id, 'pro')
+        MiniLM12(sci_text_column, current_id, 'sci')
+        #MiniLM12(merged_text_column, current_id, 'merged')
         print('MiniLM12 embeddings are generated.')
     
     if parameters['train_xlm_roberta'] == True:
-        #XLM_Roberta_model(reg_text_column, current_id, 'reg')
-        #XLM_Roberta_model(pro_text_column, current_id, 'pro')
-        XLM_Roberta_model(merged_text_column, current_id, 'merged')
+        XLM_Roberta_model(reg_text_column, current_id, 'reg')
+        XLM_Roberta_model(pro_text_column, current_id, 'pro')
+        XLM_Roberta_model(sci_text_column, current_id, 'sci')
+        #XLM_Roberta_model(merged_text_column, current_id, 'merged')
         print('XLM-Roberta embeddings are generated.')
     
     if parameters['train_specter2_Actually'] == True:
-        #Specter2ActuallyModel(reg_text_column, current_id, 'reg')
-        #Specter2ActuallyModel(pro_text_column, current_id, 'pro')
-        Specter2ActuallyModel(merged_text_column, current_id, 'merged')
+        Specter2ActuallyModel(reg_text_column, current_id, 'reg')
+        Specter2ActuallyModel(pro_text_column, current_id, 'pro')
+        Specter2ActuallyModel(sci_text_column, current_id, 'sci')
+        #Specter2ActuallyModel(merged_text_column, current_id, 'merged')
         print('Specter2 embeddings are generated.')
 
 
 else:
     print('Model training is turned off in parameters.yaml')
+
+
+
 
 if parameters['Calculate_evaluations'] == True:
 
