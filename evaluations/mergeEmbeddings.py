@@ -35,7 +35,7 @@ def merge_embeddings(model_name, current_id, output_dir="modelling/outputs"):
         merged_df = pd.concat(dfs, ignore_index=True)
         
         # Save merged embeddings
-        merged_output_path = os.path.join(output_dir, model_name, f"{current_id}_merged_{model_name}_embeddings.csv")
+        merged_output_path = os.path.join(output_dir, model_name, f"{current_id}_merged_embeddings_{model_name}_embeddings.csv")
         merged_df.to_csv(merged_output_path, index=False)
         
         print(f"Merged embeddings saved: {merged_output_path}")

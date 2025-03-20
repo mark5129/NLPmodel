@@ -18,8 +18,11 @@ from modelling.XLM_Roberta import XLM_Roberta_model
 from modelling.BERTopic import BERTopicModel
 from modelling.minilm12 import MiniLM12
 from modelling.Specter2Actually import Specter2ActuallyModel
+
+
 # Import functions for evaluation
 from evaluations.K_means_clustering import K_means_clustering
+from evaluations.mergeEmbeddings import merge_embeddings
 
 # import functions for visualisation
 from Visualizations.datamapplot_with_naming import data_mapplot_with_naming
@@ -155,10 +158,13 @@ if parameters['train_model'] == True:
         #Specter2ActuallyModel(merged_text_column, current_id, 'merged')
         print('Specter2 embeddings are generated.')
 
+    merge_embeddings('MiniLM12', current_id)
+    merge_embeddings('Specter2Actually', current_id)
+    merge_embeddings('XLM_Roberta', current_id)
+    print('Embeddings are merged')
 
 else:
     print('Model training is turned off in parameters.yaml')
-
 
 
 
@@ -167,13 +173,13 @@ if parameters['Calculate_evaluations'] == True:
     # This mapplot only runs on embeddings based on merged files, this vissualization can also be run in visualization main script.
     if parameters['train_model'] == True:
         # This determines which model to use for the mapplot
-        which_model = ['MiniLm12', 'Specter2', 'XLM_Roberta', 'BERTopic']
+        which_model = ['MiniLm12', 'Specter2Actually', 'XLM_Roberta']
 
         if parameters['train_minilm12'] == False:
             # remove minilm12 from which model list
             which_model.remove('MiniLm12')
         
-        if parameters['train_specter2'] == False:
+        if parameters['train_specter2_Actually'] == False:
             # remove specter2 from which model list
             which_model.remove('Specter2')
         
@@ -181,14 +187,14 @@ if parameters['Calculate_evaluations'] == True:
             # remove xlm_roberta from which model list
             which_model.remove('XLM_Roberta')
         
-        if parameters['train_bert'] == False:
-            # remove xlm_roberta from which model list
-            which_model.remove('BERTopic')
-        
         df = pd.read_csv('data/merged_media_stemmed_eng.csv')
         for model in which_model:
             embeddings = pd.read_csv(f'modelling/outputs/{model}/{current_id}_merged_{model}_embeddings.csv')
             K_means_clustering(embeddings, df, current_id, 'merged', model)
+        
+        for model in which_model:
+            embeddings = pd.read_csv(f'modelling/outputs/{model}/{current_id}_merged_embeddings_{model}_embeddings.csv')
+            K_means_clustering(embeddings, df, current_id, 'merged_embeddings', model)
         
     else:
         print('Model evaluations is turned off in parameters.yaml and therefore datamaplot cannot run in main script.')
@@ -202,23 +208,19 @@ if parameters['Create_Visualizations'] == True:
     # This mapplot only runs on embeddings based on merged files, this vissualization can also be run in visualization main script.
     if parameters['train_model'] == True:
         # This determines which model to use for the mapplot
-        which_model = ['MiniLm12', 'Specter2', 'XLM_Roberta', 'BERTopic']
+        which_model = ['MiniLm12', 'Specter2', 'XLM_Roberta']
 
         if parameters['train_minilm12'] == False:
             # remove minilm12 from which model list
             which_model.remove('MiniLm12')
         
-        if parameters['train_specter2'] == False:
+        if parameters['train_specter2_Actually'] == False:
             # remove specter2 from which model list
-            which_model.remove('Specter2')
+            which_model.remove('Specter2Actually')
         
         if parameters['train_xlm_roberta'] == False:
             # remove xlm_roberta from which model list
             which_model.remove('XLM_Roberta')
-        
-        if parameters['train_bert'] == False:
-            # remove xlm_roberta from which model list
-            which_model.remove('BERTopic')
         
         df = pd.read_csv('data/merged_media_stemmed_eng.csv')
         for model in which_model:
@@ -226,6 +228,12 @@ if parameters['Create_Visualizations'] == True:
             kmeans = pd.read_csv(f'evaluations/outputs/{current_id}_merged_{model}_Kmeans.csv')
             data_mapplot_with_naming(embeddings, df, current_id, 'merged', model)
             topic_source_plot(kmeans, current_id, 'merged', model)
+        
+        for model in which_model:
+            embeddings = pd.read_csv(f'modelling/outputs/{model}/{current_id}_merged_embeddings_{model}_embeddings.csv')
+            kmeans = pd.read_csv(f'evaluations/outputs/{current_id}_merged_embeddings_{model}_Kmeans.csv')
+            data_mapplot_with_naming(embeddings, df, current_id, 'merged_embeddings', model)
+            topic_source_plot(kmeans, current_id, 'merged_embeddings', model)
         
     else:
         print('Model training is turned off in parameters.yaml and therefore datamaplot cannot run in main script.')

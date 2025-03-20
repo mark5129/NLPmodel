@@ -17,7 +17,8 @@
     <div class="container">
         <div class="menu">
             <button onclick="showContent('home')" id="btn-home">Home</button>
-            <button onclick="showContent('plots')" id="btn-plots">Data Map Plot</button>
+            <button onclick="showContent('plots1')" id="btn-plots">Version 1 Data Map Plot</button>
+            <button onclick="showContent('plots2')" id="btn-plots">Version 2 Data Map Plot</button>
             <button onclick="showContent('services')" id="btn-services">About</button>
             <button onclick="showContent('contact')" id="btn-contact">State of Log file</button>
         </div>
@@ -50,8 +51,8 @@
                 <a href="https://github.com/mark5129/NLPmodel" target="_blank">Repository</a>
                 
             </div>
-            <div id="plots" style="display: none;"> 
-                <h2>Data Map Plots</h2> 
+            <div id="plots1" style="display: none;"> 
+                <h2>Data Map Plots Version 1</h2> 
                 <p>We have tested different models for topic modelling. As statistical models we have LDA and NMF, which are harder to visualize, since they output bag of words for a number of topics.</p>
                 <p>Other than the statistical methods we are also investigating various Language models which can be used for topic modelling as well. They run differently since they embed each document in a multidimensional space
                     this makes it possible to cluster the documents and visualize them in a 2D plot. Below you can see the different models we have tested and the resulting plots.
@@ -109,6 +110,56 @@
                     <img src="Visualizations/Outputs/manualrun_merged_MiniLm12_sourceplot.png" alt="MiniLm12_sourceplot" style="width:1000px;height:auto;">
                     <img src="Visualizations/Outputs/manualrun_merged_Specter2_sourceplot.png" alt="Specter2_sourceplot" style="width:1000px;height:auto;">
                     <img src="Visualizations/Outputs/manualrun_merged_BERTopic_sourceplot.png" alt="BERTopic_sourceplot" style="width:1000px;height:auto;">
+                </div>
+            </div>
+            <div id="plots2" style="display: none;"> 
+                <h2>Data Map Plots Version 2</h2> 
+                <p>We have tested different models for topic modelling. As statistical models we have LDA and NMF, which are harder to visualize, since they output bag of words for a number of topics.</p>
+                <p>Other than the statistical methods we are also investigating various Language models which can be used for topic modelling as well. They run differently since they embed each document in a multidimensional space
+                    this makes it possible to cluster the documents and visualize them in a 2D plot. Below you can see the different models we have tested and the resulting plots.
+                </p>
+                <h3>When clicking the button please let it run for a couple of seconds</h3>
+                <p>The plots shown are quite large. Also you have to "deselect" a model after viewing it before going to the next one</p>
+                <button onclick="togglePlot('plot1')">XLM Roberta</button>
+                <button onclick="togglePlot('plot2')">MiniLm12</button>
+                <button onclick="togglePlot('plot3')">Specter2</button>
+                <button onclick="togglePlot('plot4')">Comparison</button>
+                <p></p>
+                <div id="plot1" style="display: none;">
+                    <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
+                    <object data="Visualizations/Outputs/manualrun_merged_XLM_Roberta_datamapplot.html" width="100%" height="800"></object>
+
+                    <p>In the plot above different clusters are shown, and a LDA model is currently used to give each cluster a name. We are though interested in investigating which source the documents in each cluster come from
+                        and therefore we have made a source plot below. This plot shows the same clusters as the datamap plot, but with the source of the documents in each cluster.
+                    </p>
+                    <img src="Visualizations/Outputs/manualrun_merged_XLM_Roberta_sourceplot.png" alt="XLM_roberta_sourceplot" style="width:1000px;height:auto;">
+                </div>
+                <div id="plot2" style="display: none;">
+                    <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
+                    <object data="Visualizations/Outputs/manualrun_merged_MiniLm12_datamapplot.html" width="100%" height="800"></object>
+
+                    <p>In the plot above different clusters are shown, and a LDA model is currently used to give each cluster a name. We are though interested in investigating which source the documents in each cluster come from
+                        and therefore we have made a source plot below. This plot shows the same clusters as the datamap plot, but with the source of the documents in each cluster.
+                    </p>
+                    <img src="Visualizations/Outputs/manualrun_merged_MiniLm12_sourceplot.png" alt="MiniLm12_sourceplot" style="width:1000px;height:auto;">
+                </div>
+                <div id="plot3" style="display: none;">
+                    <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
+                    <object data="Visualizations/Outputs/manualrun_merged_Specter2_datamapplot.html" width="100%" height="800"></object>
+
+                    <p>In the plot above different clusters are shown, and a LDA model is currently used to give each cluster a name. We are though interested in investigating which source the documents in each cluster come from
+                        and therefore we have made a source plot below. This plot shows the same clusters as the datamap plot, but with the source of the documents in each cluster.
+                    </p>
+                    <img src="Visualizations/Outputs/manualrun_merged_Specter2_sourceplot.png" alt="Specter2_sourceplot" style="width:1000px;height:auto;">
+                </div>
+                <div id="plot4" style="display: none;">
+                    <p>
+                        Below you can see a comparison of the different models we have tested. The comparison is made by looking at the source of the documents in each cluster. The source is shown in the legend, and the different models are shown in different colors.
+                        The comparison is made to see if the different models are able to cluster the documents in a similar way, and if the source of the documents in each cluster is similar.
+                    </p>
+                    <img src="Visualizations/Outputs/manualrun_merged_XLM_Roberta_sourceplot.png" alt="XLM_roberta_sourceplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Outputs/manualrun_merged_MiniLm12_sourceplot.png" alt="MiniLm12_sourceplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Outputs/manualrun_merged_Specter2_sourceplot.png" alt="Specter2_sourceplot" style="width:1000px;height:auto;">
                 </div>
             </div>
             <div id="services" style="display: none;"> 
