@@ -20,26 +20,13 @@ def merge_embeddings(model_name, current_id, output_dir="modelling/outputs"):
     reg_file = os.path.join(output_dir, model_name, f"{current_id}_reg_{model_name}_embeddings.csv")
     sci_file = os.path.join(output_dir, model_name, f"{current_id}_sci_{model_name}_embeddings.csv")
 
-    # Load embeddings if they exist
-    dfs = []
-    for file, source in zip([pro_file, reg_file, sci_file], ["Pro Media", "Reg Media", "Sci Media"]):
-        if os.path.exists(file):
-            df = pd.read_csv(file)
-            df["Source"] = source  # Add a column to track the source
-            dfs.append(df)
-        else:
-            print(f"Warning: {file} not found. Skipping.")
+    pro_media_df = pd.read_csv(pro_file)
+    reg_media_df = pd.read_csv(reg_file)
+    sci_media_df = pd.read_csv(sci_file)
 
-    # Merge all available embeddings
-    if dfs:
-        merged_df = pd.concat(dfs, ignore_index=True)
-        
-        # Save merged embeddings
-        merged_output_path = os.path.join(output_dir, model_name, f"{current_id}_merged_embeddings_{model_name}_embeddings.csv")
-        merged_df.to_csv(merged_output_path, index=False)
-        
-        print(f"Merged embeddings saved: {merged_output_path}")
-        return merged_df
-    else:
-        print(f"No embeddings found for model {model_name}. Merging skipped.")
-        return None
+    merged_df = pd.concat([pro_media_df, reg_media_df, sci_media_df])
+
+    # Save merged embeddings
+    merged_output_path = os.path.join(output_dir, model_name, f"{current_id}_merged_embeddings_{model_name}_embeddings.csv")
+    merged_df.to_csv(merged_output_path, index=False)
+

@@ -141,32 +141,30 @@ if parameters['train_model'] == True:
         MiniLM12(reg_text_column, current_id, 'reg')
         MiniLM12(pro_text_column, current_id, 'pro')
         MiniLM12(sci_text_column, current_id, 'sci')
-        #MiniLM12(merged_text_column, current_id, 'merged')
+        MiniLM12(merged_text_column, current_id, 'merged')
         print('MiniLM12 embeddings are generated.')
     
     if parameters['train_xlm_roberta'] == True:
         XLM_Roberta_model(reg_text_column, current_id, 'reg')
         XLM_Roberta_model(pro_text_column, current_id, 'pro')
         XLM_Roberta_model(sci_text_column, current_id, 'sci')
-        #XLM_Roberta_model(merged_text_column, current_id, 'merged')
+        XLM_Roberta_model(merged_text_column, current_id, 'merged')
         print('XLM-Roberta embeddings are generated.')
     
     if parameters['train_specter2_Actually'] == True:
         Specter2ActuallyModel(reg_text_column, current_id, 'reg')
         Specter2ActuallyModel(pro_text_column, current_id, 'pro')
         Specter2ActuallyModel(sci_text_column, current_id, 'sci')
-        #Specter2ActuallyModel(merged_text_column, current_id, 'merged')
+        Specter2ActuallyModel(merged_text_column, current_id, 'merged')
         print('Specter2 embeddings are generated.')
 
-    merge_embeddings('MiniLM12', current_id)
+    merge_embeddings('MiniLm12', current_id)
     merge_embeddings('Specter2Actually', current_id)
     merge_embeddings('XLM_Roberta', current_id)
     print('Embeddings are merged')
 
 else:
     print('Model training is turned off in parameters.yaml')
-
-
 
 if parameters['Calculate_evaluations'] == True:
 
@@ -181,7 +179,7 @@ if parameters['Calculate_evaluations'] == True:
         
         if parameters['train_specter2_Actually'] == False:
             # remove specter2 from which model list
-            which_model.remove('Specter2')
+            which_model.remove('Specter2Actually')
         
         if parameters['train_xlm_roberta'] == False:
             # remove xlm_roberta from which model list
@@ -208,7 +206,7 @@ if parameters['Create_Visualizations'] == True:
     # This mapplot only runs on embeddings based on merged files, this vissualization can also be run in visualization main script.
     if parameters['train_model'] == True:
         # This determines which model to use for the mapplot
-        which_model = ['MiniLm12', 'Specter2', 'XLM_Roberta']
+        which_model = ['MiniLm12', 'Specter2Actually', 'XLM_Roberta']
 
         if parameters['train_minilm12'] == False:
             # remove minilm12 from which model list
