@@ -10,8 +10,6 @@ from nltk.corpus import stopwords
 with open('parameters.yaml', 'r') as file:
     parameters = yaml.safe_load(file)
 
-
-
 def get_cluster_topic(cluster_texts, language='english', n_terms=5):
     # Define stop words for different languages
     stop_words = {
