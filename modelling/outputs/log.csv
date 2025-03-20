@@ -73,3 +73,4 @@ id,time,preprocess_data,train_model,num_topics,what_data,train_nmf,nmf_random_st
 6768992945,Thu Mar 20 13:23:21 2025,False,True,10,stemmed,42,1000,10,False,False,False
 8854853448,Thu Mar 20 13:26:03 2025,False,True,10,stemmed,42,1000,10,False,False,False
 4533651053,Thu Mar 20 13:29:48 2025,False,True,10,stemmed,42,1000,10,False,False,False
+2759590858,Thu Mar 20 13:50:45 2025,False,True,10,stemmed,42,1000,10,False,False,False
