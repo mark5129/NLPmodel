@@ -22,8 +22,8 @@ from modelling.Specter2Actually import Specter2ActuallyModel
 from evaluations.K_means_clustering import K_means_clustering
 
 # import functions for visualisation
-from visualizations.datamapplot_with_naming import data_mapplot_with_naming
-from visualizations.topic_source_plot import topic_source_plot
+from Visualizations.datamapplot_with_naming import data_mapplot_with_naming
+from Visualizations.topic_source_plot import topic_source_plot
 
 # load parameters from yaml file.
 import yaml
@@ -119,11 +119,11 @@ if parameters['train_model'] == True:
         Specter2Model(merged_text_column, current_id, 'merged')
         print('Specter2 embeddings are generated.')
     
-    if parameters['train_bert'] == True:
+    #if parameters['train_bert'] == True:
         #reg_topics, reg_topic_model = BERTopicModel(reg_text_column, current_id, "reg")
         #pro_topics, pro_topic_model = BERTopicModel(pro_text_column, current_id, "pro")
-        merged_topics, merged_topic_model = BERTopicModel(merged_text_column, current_id, "merged")
-        print('BERTopic model is trained')
+        #merged_topics, merged_topic_model = BERTopicModel(merged_text_column, current_id, "merged")
+        #print('BERTopic model is trained')
     
     if parameters['train_minilm12'] == True:
         #MiniLM12(reg_text_column, current_id, 'reg')
