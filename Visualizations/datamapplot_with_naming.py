@@ -36,7 +36,7 @@ def data_mapplot_with_naming(k_means,embeddings, df, current_id, doc_type, model
     
     # Step 5: Generate marker colors using the last layer of labels
     labels = k_means['topic_int']
-    labels_layers = k_means['labels_layers']
+    labels_layers = k_means['labels_layer']
 
     # Create a color mapping
     unique_labels = np.unique(labels)

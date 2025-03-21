@@ -26,7 +26,7 @@ def create_bokeh_plot(k_means, embeddings, df, current_id, doc_type, model_name)
     data_map = tsne.fit_transform(embeddings)
 
     # Perform K-Means clustering
-    cluster_labels = k_means['labels_layers']
+    cluster_labels = k_means['labels_layer']
 
     # Store axis limits globally
     x_min, x_max = data_map[:, 0].min(), data_map[:, 0].max()
