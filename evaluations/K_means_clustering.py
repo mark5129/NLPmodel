@@ -99,6 +99,13 @@ def K_means_clustering(embeddings, df, current_id, doc_type, model_name):
         labels_topic = np.array([label_topic_map.get(label, f"{label}: Unknown") for label in labels_int])
         labels_layers.append(labels_topic)
 
+        # Merge topic names with labels_layers
+        topics_names = topics_names.merge(
+            pd.DataFrame(labels_layers[-1], columns=['labels_layer']).assign(topic_int=labels_int),
+            on='topic_int',
+            how='left'
+        )
+
     # Save embeddings to CSV
     output_dir = 'evaluations/outputs/'
 
@@ -117,6 +124,8 @@ def K_means_clustering(embeddings, df, current_id, doc_type, model_name):
     
     df_labels_int.to_csv(os.path.join(output_dir, f'{current_id}_{doc_type}_{model_name}_Kmeans.csv'), index=False)
     print(f'{model_name} k-means klustering saved for ID {current_id}')
+
+    return labels_layers
 
     
     
