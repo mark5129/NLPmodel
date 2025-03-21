@@ -4,6 +4,7 @@ import seaborn as sns
 import os
 import csv
 # import functions for preprocessing
+from preprocessing.Clean_rows import clean_rows
 from preprocessing.stopwords import remove_stopwords
 from preprocessing.stemming import stemming
 
@@ -38,6 +39,9 @@ with open('parameters.yaml', 'r') as file:
 current_id, time = log_parameters(parameters)
 
 if parameters['preprocess_data'] == True:
+
+    # Clean sci_media.
+    clean_rows
     
     # Perform cleaning on pro_media.csv
     df_pro = pd.read_csv(parameters['pro_media_translated_dir']) # Load the CSV file
@@ -53,6 +57,7 @@ if parameters['preprocess_data'] == True:
 
     # Perform cleaning on sci_media.csv
     df_sci = pd.read_csv(parameters['sci_media_dir'])
+    df_sci = clean_rows(df_sci)
     df_sci['Content'] = df_sci['Content'].apply(lambda x: remove_stopwords(x, 'english'))
     df_sci.to_csv(parameters['sci_media_cleaned_dir'], index=False)
     print('sci_media.csv is cleaned')
