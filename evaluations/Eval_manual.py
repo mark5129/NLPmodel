@@ -1,6 +1,6 @@
 import pandas as pd
 
-from K_means_clustering import K_means_clustering
+from BERTopic_cluster_topics import K_means_clustering
 
 # This script only runs on embeddings from various models.
 
