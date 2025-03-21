@@ -116,19 +116,26 @@ def K_means_clustering(embeddings, df, current_id, doc_type, model_name):
                 label_topic_map[label] = f"{label}: No data"
                 continue
             cluster_texts = df['Content'].iloc[indices].astype(str).tolist()
-            top_terms = BERTopic_cluster_topic(cluster_texts, nr_words=10)
+            top_terms = BERTopic_cluster_topic(cluster_texts, nr_words=3)
 
-            # Select the first unused term as the topic name
-            topic_name = None
-            for term in top_terms:
-                if term not in used_topics:
-                    topic_name = term
-                    used_topics.add(term)
-                    break
+            # We pick the first subtopic from this dict and join its words into a single string.
+            if top_terms:
+                # Grab the first subtopic ID
+                first_subtopic_id = sorted(top_terms.keys())[0]
+                # Get the words for that subtopic
+                words_list = top_terms[first_subtopic_id]
+                # Join them with commas (or spaces, if you prefer)
+                topic_name = ", ".join(words_list)
 
-            if topic_name is None:
-                # All terms have been used; default to the highest scoring term with cluster label
-                topic_name = f"{top_terms[0]} {label}" if top_terms else f"Cluster {label}"
+                # Optional check if we've used that exact phrase before
+                if topic_name in used_topics:
+                    topic_name = f"{topic_name} (cluster_{label})"
+                used_topics.add(topic_name)
+                
+            else:
+                # If no subtopics were found by BERTopic (rare), fallback
+                topic_name = f"Cluster {label}"
+
 
             label_topic_map[label] = f"{label}: {topic_name}"
 
@@ -157,4 +164,3 @@ def K_means_clustering(embeddings, df, current_id, doc_type, model_name):
     
     df_labels_int.to_csv(os.path.join(output_dir, f'{current_id}_{doc_type}_{model_name}_Kmeans.csv'), index=False)
     print(f'{model_name} k-means clustering saved for ID {current_id}')
-
