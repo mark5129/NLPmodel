@@ -195,7 +195,7 @@ if parameters['Calculate_evaluations'] == True:
             K_means_clustering(embeddings, df, current_id, 'merged_embeddings', model)
         
     else:
-        print('Model evaluations is turned off in parameters.yaml and therefore datamaplot cannot run in main script.')
+        print('Model training is turned off in parameters.yaml and therefore datamaplot cannot run in main script.')
 
 else:
     print('Calculate evaluations is turned off in parameters.yaml')
