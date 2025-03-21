@@ -24,7 +24,7 @@ random_state: 42
 max_features: 1000
 n_top_words: 10
 
-# Number of topic words
+# Number of topic words (bag of words)
 nr_words: 6
 
 #LDA mode

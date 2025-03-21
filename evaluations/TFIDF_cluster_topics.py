@@ -10,7 +10,7 @@ from nltk.corpus import stopwords
 with open('parameters.yaml', 'r') as file:
     parameters = yaml.safe_load(file)
 
-def get_cluster_topic(cluster_texts, language='english', n_terms=5):
+def TFIDF_cluster_topic(cluster_texts, language='english', n_terms=5):
     # Define stop words for different languages
     stop_words = {
         'english': stopwords.words('english')
@@ -40,7 +40,7 @@ def get_cluster_topic(cluster_texts, language='english', n_terms=5):
         print(f"Error in get_cluster_topic: {e}")
     return []
 
-def K_means_clustering(embeddings, df, current_id, doc_type, model_name):
+def TFIDF_clustering(embeddings, df, current_id, doc_type, model_name):
 
     # Ensure embeddings are in NumPy array format
     embeddings = np.array(embeddings)
@@ -74,7 +74,7 @@ def K_means_clustering(embeddings, df, current_id, doc_type, model_name):
                 label_topic_map[label] = f"{label}: No data"
                 continue
             cluster_texts = df['Content'].iloc[indices].astype(str).tolist()
-            top_terms = get_cluster_topic(cluster_texts, language='english', n_terms=5)
+            top_terms = TFIDF_cluster_topic(cluster_texts, language='english', n_terms=5)
 
             # Select the first unused term as the topic name
             topic_name = None

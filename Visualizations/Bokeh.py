@@ -86,6 +86,6 @@ def create_bokeh_plot(k_means, embeddings, df, current_id, doc_type, model_name)
 
     # Save and show plot
     output_file(f"visualizations/outputs/{current_id}_{doc_type}_{model_name}_bokehplot.html")
-    show(column(select, p))
+    #show(column(select, p))
 
     print("Bokeh plot saved successfully.")

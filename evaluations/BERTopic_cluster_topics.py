@@ -82,7 +82,7 @@ def BERTopic_cluster_topic(cluster_texts, nr_words):
 
 
 
-def K_means_clustering(embeddings, df, current_id, doc_type, model_name):
+def Bertopic_clustering_naming(embeddings, df, current_id, doc_type, model_name):
 
     # Ensure embeddings are in NumPy array format
     embeddings = np.array(embeddings)

@@ -22,7 +22,7 @@ from modelling.Specter2Actually import Specter2ActuallyModel
 
 
 # Import functions for evaluation
-from evaluations.K_means_clustering import K_means_clustering
+from evaluations.TFIDF_cluster_topics import TFIDF_clustering
 from evaluations.mergeEmbeddings import merge_embeddings
 
 # import functions for visualisation
@@ -71,13 +71,13 @@ if parameters['preprocess_data'] == True:
     df_pro.to_csv(parameters['pro_media_stemmed_dir'], index=False) # Save the embeddings to a new CSV file
     print('pro_media.csv is stemmed')
 
-    # Perform cleaning on reg_media.csv
+    # Perform sentence stemming on reg_media.csv
     df_reg = pd.read_csv(parameters['reg_media_cleaned_dir'])
     df_reg['Content'] = df_reg['Content'].apply(lambda x: stemming(x, 'english'))
     df_reg.to_csv(parameters['reg_media_stemmed_dir'], index=False)
     print('reg_media.csv is stemmed')
 
-    # Perform cleaning on reg_media.csv
+    # Perform sentence stemming on sci_media.csv
     df_sci = pd.read_csv(parameters['sci_media_cleaned_dir'])
     df_sci['Content'] = df_sci['Content'].apply(lambda x: stemming(x, 'english'))
     df_sci.to_csv(parameters['sci_media_stemmed_dir'], index=False)
@@ -196,11 +196,11 @@ if parameters['Calculate_evaluations'] == True:
         df = pd.read_csv('data/merged_media_stemmed_eng.csv')
         for model in which_model:
             embeddings = pd.read_csv(f'modelling/outputs/{model}/{current_id}_merged_{model}_embeddings.csv')
-            K_means_clustering(embeddings, df, current_id, 'merged', model)
+            TFIDF_clustering(embeddings, df, current_id, 'merged', model)
         
         for model in which_model:
             embeddings = pd.read_csv(f'modelling/outputs/{model}/{current_id}_merged_embeddings_{model}_embeddings.csv')
-            K_means_clustering(embeddings, df, current_id, 'merged_embeddings', model)
+            TFIDF_clustering(embeddings, df, current_id, 'merged_embeddings', model)
         
     else:
         print('Model training is turned off in parameters.yaml and therefore datamaplot cannot run in main script.')
@@ -229,22 +229,20 @@ if parameters['Create_Visualizations'] == True:
             which_model.remove('XLM_Roberta')
         
         df = pd.read_csv('data/merged_media_stemmed_eng.csv')
+        
         for model in which_model:
             embeddings = pd.read_csv(f'modelling/outputs/{model}/{current_id}_merged_{model}_embeddings.csv')
             kmeans = pd.read_csv(f'evaluations/outputs/{current_id}_merged_{model}_Kmeans.csv')
             data_mapplot_with_naming(kmeans, embeddings, df, current_id, 'merged', model)
             topic_source_plot(kmeans, current_id, 'merged', model)
+            create_bokeh_plot(kmeans, embeddings, df, current_id, 'merged', model)
         
         for model in which_model:
             embeddings = pd.read_csv(f'modelling/outputs/{model}/{current_id}_merged_embeddings_{model}_embeddings.csv')
             kmeans = pd.read_csv(f'evaluations/outputs/{current_id}_merged_embeddings_{model}_Kmeans.csv')
             data_mapplot_with_naming(kmeans, embeddings, df, current_id, 'merged_embeddings', model)
             topic_source_plot(kmeans, current_id, 'merged_embeddings', model)
-
-        for model in which_model:
-            embeddings = pd.read_csv(f'modelling/outputs/{model}/{current_id}_merged_{model}_embeddings.csv')
-            kmeans = pd.read_csv(f'evaluations/outputs/{current_id}_merged_embeddings_{model}_Kmeans.csv')
-            create_bokeh_plot(kmeans, embeddings, df, current_id, 'merged', model)  # 🔹 New Bokeh visualization
+            create_bokeh_plot(kmeans, embeddings, df, current_id, 'merged_embeddings', model)
 
         
     else:

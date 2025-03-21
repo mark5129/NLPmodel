@@ -1,30 +1,44 @@
 import pandas as pd
 
-from BERTopic_cluster_topics import K_means_clustering
-
+from BERTopic_cluster_topics import Bertopic_clustering_naming
+from TFIDF_cluster_topics import TFIDF_clustering
 # This script only runs on embeddings from various models.
 
+# Which cluster namning technique to use?
+# TFIDF or Bertopic
+#namning_technique = 'Bertopic'
+namning_technique = 'TFIDF'
 
 #Load embeddings from embeddings file
 which_model = ['XLM_Roberta', 'Specter2Actually', 'MiniLm12']
 
-# Load the merged media file to get texts
-file = ['modelling/outputs/XLM_Roberta/6751423855_merged_XLM_Roberta_embeddings.csv',
-        'modelling/outputs/Specter2Actually/6751423855_merged_Specter2Actually_embeddings.csv',
-        'modelling/outputs/MiniLm12/6751423855_merged_MiniLm12_embeddings.csv']
+# Determine the latest run ID to know which embeddings to use
+Latest_run_id = '6771440725'
 
+# Load the data file for the merged documents
 df_file = pd.read_csv('data/merged_media_stemmed_eng.csv')
 
-for i in range(len(which_model)):
-    embeddings = pd.read_csv(file[i])
-    model = which_model[i]
-    K_means_clustering(embeddings, df_file, 'manualrun', 'merged', model)
+# Run clustering for merged document embeddings
+for model in which_model:
+    
+    embeddings = pd.read_csv(f'modelling/outputs/{model}/{Latest_run_id}_merged_{model}_embeddings.csv')
 
-file = ['modelling/outputs/XLM_Roberta/6751423855_merged_embeddings_XLM_Roberta_embeddings.csv',
-        'modelling/outputs/Specter2Actually/6751423855_merged_embeddings_Specter2Actually_embeddings.csv',
-        'modelling/outputs/MiniLm12/6751423855_merged_embeddings_MiniLm12_embeddings.csv']
+    if namning_technique == 'TFIDF':
+        TFIDF_clustering(embeddings, df_file, 'manualrun', 'merged', model)
+    elif namning_technique == 'Bertopic':
+        Bertopic_clustering_naming(embeddings, df_file, 'manualrun', 'merged', model)
+    else:
+        print('No clustering method selected')
+        break
 
-for i in range(len(which_model)):
-    embeddings = pd.read_csv(file[i])
-    model = which_model[i]
-    K_means_clustering(embeddings, df_file, 'manualrun', 'merged_embeddings', model)
+# Run clustering for merged embeddings
+for model in which_model:
+    embeddings = pd.read_csv(f'modelling/outputs/{model}/{Latest_run_id}_merged_embeddings_{model}_embeddings.csv')
+
+    if namning_technique == 'TFIDF':
+        TFIDF_clustering(embeddings, df_file, 'manualrun', 'merged_embeddings', model)
+    elif namning_technique == 'Bertopic':
+        Bertopic_clustering_naming(embeddings, df_file, 'manualrun', 'merged_embeddings', model)
+    else:
+        print('No clustering method selected')
+        break
