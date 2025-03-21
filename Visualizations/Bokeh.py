@@ -10,7 +10,7 @@ from bokeh.layouts import column
 global_x_min, global_x_max = None, None
 global_y_min, global_y_max = None, None
 
-def create_bokeh_plot(embeddings, df, current_id, doc_type, model_name):
+def create_bokeh_plot(k_means, embeddings, df, current_id, doc_type, model_name):
     """
     Generates an interactive Bokeh plot of text embeddings with clustering.
     Ensures all plots share the same axis range for consistency.
@@ -26,9 +26,7 @@ def create_bokeh_plot(embeddings, df, current_id, doc_type, model_name):
     data_map = tsne.fit_transform(embeddings)
 
     # Perform K-Means clustering
-    n_clusters = 6  # Adjust based on data
-    kmeans = KMeans(n_clusters=n_clusters, random_state=42)
-    cluster_labels = kmeans.fit_predict(data_map)
+    cluster_labels = k_means['labels_layers']
 
     # Store axis limits globally
     x_min, x_max = data_map[:, 0].min(), data_map[:, 0].max()
@@ -91,8 +89,3 @@ def create_bokeh_plot(embeddings, df, current_id, doc_type, model_name):
     show(column(select, p))
 
     print("Bokeh plot saved successfully.")
-# Import functions for visualisation
-from Visualizations.bokeh_plot import create_bokeh_plot  # New import for interactive Bokeh plots
-for model in which_model:
-    embeddings = pd.read_csv(f'modelling/outputs/{model}/{current_id}_merged_{model}_embeddings.csv')
-    create_bokeh_plot(embeddings, df, current_id, 'merged', model)  # 🔹 New Bokeh visualization

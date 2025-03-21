@@ -28,6 +28,9 @@ from evaluations.mergeEmbeddings import merge_embeddings
 # import functions for visualisation
 from Visualizations.datamapplot_with_naming import data_mapplot_with_naming
 from Visualizations.topic_source_plot import topic_source_plot
+# Import functions for visualisation
+from Visualizations.Bokeh import create_bokeh_plot  # New import for interactive Bokeh plots
+
 
 # load parameters from yaml file.
 import yaml
@@ -237,6 +240,12 @@ if parameters['Create_Visualizations'] == True:
             kmeans = pd.read_csv(f'evaluations/outputs/{current_id}_merged_embeddings_{model}_Kmeans.csv')
             data_mapplot_with_naming(kmeans, embeddings, df, current_id, 'merged_embeddings', model)
             topic_source_plot(kmeans, current_id, 'merged_embeddings', model)
+
+        for model in which_model:
+            embeddings = pd.read_csv(f'modelling/outputs/{model}/{current_id}_merged_{model}_embeddings.csv')
+            kmeans = pd.read_csv(f'evaluations/outputs/{current_id}_merged_embeddings_{model}_Kmeans.csv')
+            create_bokeh_plot(kmeans, embeddings, df, current_id, 'merged', model)  # 🔹 New Bokeh visualization
+
         
     else:
         print('Model training is turned off in parameters.yaml and therefore datamaplot cannot run in main script.')
