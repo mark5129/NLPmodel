@@ -224,13 +224,13 @@ if parameters['Create_Visualizations'] == True:
         for model in which_model:
             embeddings = pd.read_csv(f'modelling/outputs/{model}/{current_id}_merged_{model}_embeddings.csv')
             kmeans = pd.read_csv(f'evaluations/outputs/{current_id}_merged_{model}_Kmeans.csv')
-            data_mapplot_with_naming(embeddings, df, current_id, 'merged', model)
+            data_mapplot_with_naming(kmeans, embeddings, df, current_id, 'merged', model)
             topic_source_plot(kmeans, current_id, 'merged', model)
         
         for model in which_model:
             embeddings = pd.read_csv(f'modelling/outputs/{model}/{current_id}_merged_embeddings_{model}_embeddings.csv')
             kmeans = pd.read_csv(f'evaluations/outputs/{current_id}_merged_embeddings_{model}_Kmeans.csv')
-            data_mapplot_with_naming(embeddings, df, current_id, 'merged_embeddings', model)
+            data_mapplot_with_naming(kmeans, embeddings, df, current_id, 'merged_embeddings', model)
             topic_source_plot(kmeans, current_id, 'merged_embeddings', model)
         
     else:
