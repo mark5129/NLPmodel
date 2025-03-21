@@ -116,7 +116,7 @@ def K_means_clustering(embeddings, df, current_id, doc_type, model_name):
                 label_topic_map[label] = f"{label}: No data"
                 continue
             cluster_texts = df['Content'].iloc[indices].astype(str).tolist()
-            top_terms = BERTopic_cluster_topic(cluster_texts, nr_words=5)
+            top_terms = BERTopic_cluster_topic(cluster_texts, parameters['nr_words'])
 
             # We pick the first subtopic from this dict and join its words into a single string.
             if top_terms:

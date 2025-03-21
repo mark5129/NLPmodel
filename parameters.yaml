@@ -24,6 +24,9 @@ random_state: 42
 max_features: 1000
 n_top_words: 10
 
+# Number of topic words
+nr_words: 6
+
 #LDA mode
 train_lda: False
 
