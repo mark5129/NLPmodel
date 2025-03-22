@@ -29,7 +29,7 @@ def topic_source_plot(data, current_id, doc_type, model_name):
     plt.tight_layout()  # Adjust layout to make room for the rotated x labels
     
     # Save Visualization to CSV
-    output_dir = 'visualizations/outputs/'
+    output_dir = 'Visualizations/outputs/'
 
     plt.savefig(f"{output_dir}{current_id}_{doc_type}_{model_name}_sourceplot.png")
     print(f"Saved sourceplot for {model_name} to {output_dir}")
