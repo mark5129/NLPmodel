@@ -5,6 +5,7 @@ from sklearn.cluster import KMeans
 from bokeh.plotting import figure, output_file, show
 from bokeh.models import ColumnDataSource, HoverTool, Select, CustomJS
 from bokeh.layouts import column
+from bokeh.io import save
 
 # Global variables to store axis limits across multiple plots
 global_x_min, global_x_max = None, None
@@ -84,8 +85,9 @@ def create_bokeh_plot(k_means, embeddings, df, current_id, doc_type, model_name)
 
     select.js_on_change('value', callback)
 
-    # Save and show plot
-    output_file(f"visualizations/outputs/{current_id}_{doc_type}_{model_name}_bokehplot.html")
-    #show(column(select, p))
+    # Save plot without showing
+    output_file(f'Visualizations/outputs/{current_id}_{doc_type}_{model_name}_bokehplot.html')
+
+    save(column(select, p))
 
     print("Bokeh plot saved successfully.")

@@ -58,7 +58,7 @@ def TFIDF_clustering(embeddings, df, current_id, doc_type, model_name):
     # Step 2: Perform hierarchical clustering
     n_clusters_list = [parameters['num_topics']]  # Adjust these numbers for your desired hierarchy levels
     labels_layers = []
-    topics_names = pd.DataFrame(columns=['topic_int', 'topic_names'])
+    topics_names = pd.DataFrame(columns=['topic_int', 'topic_names', 'labels_layer'])
 
     for n_clusters in n_clusters_list:
         kmeans = KMeans(n_clusters=n_clusters, random_state=parameters['random_state'])
@@ -95,16 +95,8 @@ def TFIDF_clustering(embeddings, df, current_id, doc_type, model_name):
             
             topics_names.loc[label, 'topic_names'] = topic_name
 
-        # Convert integer labels to topic names
-        labels_topic = np.array([label_topic_map.get(label, f"{label}: Unknown") for label in labels_int])
-        labels_layers.append(labels_topic)
+            topics_names.loc[label, 'labels_layer'] = f'{label}: {topic_name}'
 
-        # Merge topic names with labels_layers
-        topics_names = topics_names.merge(
-            pd.DataFrame(labels_layers[-1], columns=['labels_layer']).assign(topic_int=labels_int),
-            on='topic_int',
-            how='left'
-        )
 
     # Save embeddings to CSV
     output_dir = 'evaluations/outputs/'
