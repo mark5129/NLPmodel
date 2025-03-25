@@ -54,12 +54,7 @@ def outline_plot(k_means, embeddings, df, current_id, doc_type, model_name):
     for cluster_id in sorted(df_plot["cluster_int"].unique()):
         cluster_points = df_plot[df_plot["cluster_int"] == cluster_id][["x", "y"]].values
         cluster_sources = df_plot[df_plot["cluster_int"] == cluster_id]["source"]
-
-        # Plot points with colors based on their source
-        for source in palette.keys():
-            source_points = df_plot[(df_plot["cluster_int"] == cluster_id) & (df_plot["source"] == source)][["x", "y"]].values
-            plt.scatter(source_points[:, 0], source_points[:, 1], color=palette[source], s=10, label=source)
-
+        
         # Compute and plot convex hull for the cluster
         if len(cluster_points) >= 3:  # ConvexHull requires at least 3 points
             hull = ConvexHull(cluster_points)
@@ -69,6 +64,12 @@ def outline_plot(k_means, embeddings, df, current_id, doc_type, model_name):
                 np.append(hull_points[:, 1], hull_points[0, 1]),
                 linestyle='--', linewidth=1.5
             )
+        
+        # Plot points with colors based on their source
+        for source in palette.keys():
+            source_points = df_plot[(df_plot["cluster_int"] == cluster_id) & (df_plot["source"] == source)][["x", "y"]].values
+            plt.scatter(source_points[:, 0], source_points[:, 1], color=palette[source], s=10, label=source)
+
 
         # Add cluster name as text at the centroid of the cluster
         centroid_x = cluster_points[:, 0].mean()
