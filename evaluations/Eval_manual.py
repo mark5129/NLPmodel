@@ -13,7 +13,7 @@ namning_technique = 'TFIDF'
 which_model = ['XLM_Roberta', 'Specter2Actually', 'MiniLm12']
 
 # Determine the latest run ID to know which embeddings to use
-Latest_run_id = '6771440725'
+Latest_run_id = '4552557450'
 
 # Load the data file for the merged documents
 df_file = pd.read_csv('data/merged_media_stemmed_eng.csv')
