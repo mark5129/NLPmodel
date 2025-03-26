@@ -9,27 +9,27 @@ from Cluster_outlines import outline_plot
 
 # Determine the latest run ID to know which embeddings to use
 # Important that this number is the same as the one used in the manual eval script also
-Latest_run_id = '6771440725'
+Latest_run_id = '4552557450'
 
 #Load embeddings from embeddings file
 which_model = ['XLM_Roberta', 'Specter2Actually', 'MiniLm12']
 
 df_file = pd.read_csv('data/merged_media_stemmed_eng.csv')
 
-# for model in which_model:
-#     embeddings = pd.read_csv(f'modelling/outputs/{model}/{Latest_run_id}_merged_{model}_embeddings.csv')
-#     kmeans = pd.read_csv(f'evaluations/outputs/manualrun_merged_{model}_Kmeans.csv')
+for model in which_model:
+    embeddings = pd.read_csv(f'modelling/outputs/{model}/{Latest_run_id}_merged_{model}_embeddings.csv')
+    kmeans = pd.read_csv(f'evaluations/outputs/manualrun_merged_{model}_Kmeans.csv')
 
-#     data_mapplot_with_naming(kmeans, embeddings, df_file, 'manualrun', 'merged', model)
-#     topic_source_plot(kmeans, 'manualrun', 'merged', model)
-#     create_bokeh_plot(kmeans, embeddings, df_file, 'manualrun', 'merged', model)
-
+    data_mapplot_with_naming(kmeans, embeddings, df_file, 'manualrun', 'merged', model)
+    topic_source_plot(kmeans, 'manualrun', 'merged', model)
+    create_bokeh_plot(kmeans, embeddings, df_file, 'manualrun', 'merged', model)
+    outline_plot(kmeans, embeddings, df_file, 'manualrun', 'merged', model)
 
 for model in which_model:
     embeddings = pd.read_csv(f'modelling/outputs/{model}/{Latest_run_id}_merged_embeddings_{model}_embeddings.csv')
     kmeans = pd.read_csv(f'evaluations/outputs/manualrun_merged_embeddings_{model}_Kmeans.csv')
 
-    #data_mapplot_with_naming(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model)
-    #topic_source_plot(kmeans, 'manualrun', 'merged_embeddings', model)
-    #create_bokeh_plot(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model)
+    data_mapplot_with_naming(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model)
+    topic_source_plot(kmeans, 'manualrun', 'merged_embeddings', model)
+    create_bokeh_plot(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model)
     outline_plot(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model)

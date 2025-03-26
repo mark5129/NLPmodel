@@ -27,6 +27,9 @@ n_top_words: 10
 # Number of topic words (bag of words)
 nr_words: 6
 
+# Number of summaries
+num_summaries: 1
+
 #LDA mode
 train_lda: False
 
