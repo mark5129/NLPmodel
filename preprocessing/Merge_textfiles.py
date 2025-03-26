@@ -36,5 +36,3 @@ def Merging_textfiles():
     merged_df.to_csv(parameters['merged_stemmed_dir'], index=False)
 
     print('Text files are merged successfully!')
-
-Merging_textfiles()
