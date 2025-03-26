@@ -10,7 +10,7 @@ global_x_min, global_x_max = None, None
 global_y_min, global_y_max = None, None
 
 
-def outline_plot(k_means, embeddings, df, current_id, doc_type, model_name):
+def cluster_plot(k_means, embeddings, df, current_id, doc_type, model_name):
 
     global global_x_min, global_x_max, global_y_min, global_y_max
 
@@ -65,10 +65,9 @@ def outline_plot(k_means, embeddings, df, current_id, doc_type, model_name):
                 linestyle='--', linewidth=1.5
             )
         
-        # Plot points with colors based on their source
-        for source in palette.keys():
-            source_points = df_plot[(df_plot["cluster_int"] == cluster_id) & (df_plot["source"] == source)][["x", "y"]].values
-            plt.scatter(source_points[:, 0], source_points[:, 1], color=palette[source], s=10, label=source)
+        # Plot points with colors based on their cluster
+        cluster_points = df_plot[df_plot["cluster_int"] == cluster_id][["x", "y"]].values
+        plt.scatter(cluster_points[:, 0], cluster_points[:, 1], label=f"Cluster {cluster_id}", s=10)
 
 
         # Add cluster name as text at the centroid of the cluster
@@ -81,7 +80,7 @@ def outline_plot(k_means, embeddings, df, current_id, doc_type, model_name):
     # Add legend for the sources
     handles = [plt.Line2D([0], [0], marker='o', color='w', markerfacecolor=color, markersize=10, label=source)
                for source, color in palette.items()]
-    plt.legend(handles=handles, title="Source")
+    #plt.legend(handles=handles, title="Source")
 
     plt.title(f"Cluster Visualization for {model_name}")
     plt.xlabel("t-SNE Dimension 1")
@@ -93,8 +92,8 @@ def outline_plot(k_means, embeddings, df, current_id, doc_type, model_name):
     # Save Visualization to CSV
     output_dir = 'Visualizations/outputs/'
 
-    plt.savefig(f"{output_dir}{current_id}_{doc_type}_{model_name}_outlineplot.png")
-    print(f"Saved Outlineplot for {model_name} to {output_dir}")
+    plt.savefig(f"{output_dir}{current_id}_{doc_type}_{model_name}_clusterplot.png")
+    print(f"Saved clusterplot for {model_name} to {output_dir}")
 
 
 

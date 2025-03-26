@@ -36,7 +36,8 @@ def data_mapplot_with_naming(k_means,embeddings, df, current_id, doc_type, model
     
     # Step 5: Generate marker colors using the last layer of labels
     labels = k_means['topic_int']
-    labels_layers = k_means['labels_layer']
+    labels_layers = []
+    labels_layers = [list(k_means['labels_layer'])]  # Convert to a list
 
     # Create a color mapping
     unique_labels = np.unique(labels)
@@ -85,7 +86,7 @@ def data_mapplot_with_naming(k_means,embeddings, df, current_id, doc_type, model
         # Save the plot to an HTML file
         plot.save(f"{output_dir}{current_id}_{doc_type}_{model_name}_datamapplot.html")
 
-        print("Plot saved successfully.")
+        print("Data map Plot saved successfully.")
     except Exception as e:
         print(f"Error creating or displaying the plot: {e}")
 
