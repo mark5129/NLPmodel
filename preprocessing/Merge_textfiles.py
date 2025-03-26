@@ -1,10 +1,15 @@
+# load parameters from yaml file.
+import yaml
+with open('parameters.yaml', 'r') as file:
+    parameters = yaml.safe_load(file)
+
 import pandas as pd
 
 def Merging_textfiles():
     # Load the CSV files
-    pro_media_df = pd.read_csv('data/pro_media_stemmed_eng.csv')
-    reg_media_df = pd.read_csv('data/reg_media_stemmed_eng.csv')
-    sci_media_df = pd.read_csv('data/sci_media_stemmed_eng.csv')
+    pro_media_df = pd.read_csv(parameters['pro_media_stemmed_dir'])
+    reg_media_df = pd.read_csv(parameters['reg_media_stemmed_dir'])
+    sci_media_df = pd.read_csv(parameters['sci_media_stemmed_dir'])
 
     # Define the columns to keep from each dataframe
     pro_media_columns = ['Date', 'Title', 'Outlet', 'Content']  # Replace with actual column names
@@ -28,6 +33,8 @@ def Merging_textfiles():
     merged_df = pd.concat([pro_media_df, reg_media_df, sci_media_df])
 
     # Save the merged dataframe to a new CSV file
-    merged_df.to_csv('data/merged_media_stemmed_eng.csv', index=False)
+    merged_df.to_csv(parameters['merged_stemmed_dir'], index=False)
 
     print('Text files are merged successfully!')
+
+Merging_textfiles()
