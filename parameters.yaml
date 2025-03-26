@@ -2,16 +2,16 @@
 # Here we define the parameters used in various scripts.
 
 # Whether to perform the data preprocessing step
-preprocess_data: True
+preprocess_data: False
 
 # Whether to perform the model training step
 train_model: True
 
 # Whether to perform the model evaluation step
-Calculate_evaluations: True
+Calculate_evaluations: False
 
 # Whether to Visualize data or not 
-Create_Visualizations: True
+Create_Visualizations: False
 
 
 # What data to use?
