@@ -7,6 +7,7 @@ import csv
 from preprocessing.Clean_rows import clean_rows
 from preprocessing.stopwords import remove_stopwords
 from preprocessing.stemming import stemming
+from preprocessing.Merge_textfiles import Merging_textfiles
 
 #from preprocessing.sentence_transforming import sentence_transformer
 from modelling.outputs.logging import log_parameters, update_header_if_needed
@@ -28,7 +29,6 @@ from evaluations.mergeEmbeddings import merge_embeddings
 # import functions for visualisation
 from Visualizations.datamapplot_with_naming import data_mapplot_with_naming
 from Visualizations.topic_source_plot import topic_source_plot
-# Import functions for visualisation
 from Visualizations.Bokeh import create_bokeh_plot  # New import for interactive Bokeh plots
 
 
@@ -82,6 +82,8 @@ if parameters['preprocess_data'] == True:
     df_sci['Content'] = df_sci['Content'].apply(lambda x: stemming(x, 'english'))
     df_sci.to_csv(parameters['sci_media_stemmed_dir'], index=False)
     print('sci_media.csv is stemmed')
+
+    Merging_textfiles()
     
 else:
     print('Data preprocessing is turned off in parameters.yaml')
