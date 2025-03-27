@@ -10,14 +10,14 @@ from FindOptimalTopic import assign_main_topic_name
 # Which cluster namning technique to use?
 # TFIDF or Bertopic
 #namning_technique = 'Bertopic'
-#namning_technique = 'TFIDF'
-namning_technique = 'BERT'
+namning_technique = 'TFIDF'
+#namning_technique = 'BERT'
 
 #Load embeddings from embeddings file
 which_model = ['XLM_Roberta', 'Specter2Actually', 'MiniLm12']
 
 # Determine the latest run ID to know which embeddings to use
-Latest_run_id = '4552557450'
+Latest_run_id = '1303156299'
 
 # Load the data file for the merged documents
 df_file = pd.read_csv('data/merged_media_stemmed_eng.csv')
@@ -29,10 +29,9 @@ for model in which_model:
 
     if namning_technique == 'TFIDF':
         TFIDF_clustering(embeddings, df_file, 'manualrun', 'merged', model)
+        clustering_and_naming(embeddings, df_file, 'manualrun', 'merged', model)
     elif namning_technique == 'Bertopic':
         Bertopic_clustering_naming(embeddings, df_file, 'manualrun', 'merged', model)
-    elif namning_technique == 'BERT':
-        clustering_and_naming(embeddings, df_file, 'manualrun', 'merged', model)
     else:
         print('No clustering method selected')
         break
@@ -46,10 +45,9 @@ for model in which_model:
 
     if namning_technique == 'TFIDF':
         TFIDF_clustering(embeddings, df_file, 'manualrun', 'merged_embeddings', model)
+        clustering_and_naming(embeddings, df_file, 'manualrun', 'merged_embeddings', model)
     elif namning_technique == 'Bertopic':
         Bertopic_clustering_naming(embeddings, df_file, 'manualrun', 'merged_embeddings', model)
-    elif namning_technique == 'BERT':
-        clustering_and_naming(embeddings, df_file, 'manualrun', 'merged_embeddings', model)
     else:
         print('No clustering method selected')
         break

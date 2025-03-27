@@ -5,14 +5,6 @@ from sklearn.preprocessing import StandardScaler
 import hdbscan
 import os
 
-# Load the data
-Latest_run_id = '4552557450'
-which_model = ['XLM_Roberta', 'Specter2Actually', 'MiniLm12']
-df_file = pd.read_csv('data/merged_media_stemmed_eng.csv')
-
-# Which embeddings?
-doc_type = ['merged', 'merged_embeddings']
-
 def clustering_and_naming(embeddings, df_file, run_id, doc, model):
     """
     Run topic modeling using BERTopic with UMAP dimensionality reduction and HDBSCAN clustering.

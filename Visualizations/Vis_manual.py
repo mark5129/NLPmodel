@@ -10,7 +10,7 @@ from Cluster_plot import cluster_plot
 
 # Determine the latest run ID to know which embeddings to use
 # Important that this number is the same as the one used in the manual eval script also
-Latest_run_id = '4552557450'
+Latest_run_id = '1303156299'
 
 #Load embeddings from embeddings file
 which_model = ['XLM_Roberta', 'Specter2Actually', 'MiniLm12']
