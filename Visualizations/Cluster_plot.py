@@ -39,7 +39,7 @@ def cluster_plot(k_means, embeddings, df, current_id, doc_type, model_name):
     df_plot = pd.DataFrame(data_map, columns=["x", "y"])
     df_plot["title"] = df["Title"].values
     df_plot["cluster_int"] = k_means['topic_int']
-    df_plot["cluster_name"] = k_means['labels_layer']
+    df_plot["cluster_name"] = k_means['main_topic_name']
     df_plot["source"] = df["Source"].values  # Ensure DataFrame contains "Source" column
 
     # Define a fixed color palette for the sources
