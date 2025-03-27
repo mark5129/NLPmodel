@@ -49,7 +49,10 @@ def clustering_and_naming(embeddings, df_file, run_id, doc, model):
     result_df['labels_layer'] = result_df['topic_int'].map(
         lambda x: topic_info[topic_info['Topic'] == x]['Name'].values[0] if x != -1 else 'Noise'
     )
-    
+
+    # Filter out noise (topic_int = -1)
+    result_df = result_df[result_df['topic_int'] != -1]  # Uncomment this line if you want to remove noise points
+
     # Replace underscores with commas in 'labels_layer'
     result_df['labels_layer'] = result_df['labels_layer'].str.replace('_', ', ')
 
