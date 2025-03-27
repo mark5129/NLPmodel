@@ -3,7 +3,7 @@ import pandas as pd
 from datamapplot_with_naming import data_mapplot_with_naming
 from topic_source_plot import topic_source_plot
 from Bokeh import create_bokeh_plot
-from Cluster_outlines import outline_plot
+from ClusterSource_outlines import outline_plot
 from Cluster_plot import cluster_plot
 
 # This script only runs on embeddings from various models.

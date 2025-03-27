@@ -90,4 +90,4 @@ def create_bokeh_plot(k_means, embeddings, df, current_id, doc_type, model_name)
 
     save(column(select, p))
 
-    print("Bokeh plot saved successfully.")
+    print(f"{model_name} with {doc_type}: Bokeh plot saved successfully for {current_id}")

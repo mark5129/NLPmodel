@@ -32,6 +32,6 @@ def topic_source_plot(data, current_id, doc_type, model_name):
     output_dir = 'Visualizations/outputs/'
 
     plt.savefig(f"{output_dir}{current_id}_{doc_type}_{model_name}_sourceplot.png")
-    print(f"Saved sourceplot for {model_name} to {output_dir}")
+    print(f"{model_name} with {doc_type}: Source plot saved successfully for {current_id}")
 
 
