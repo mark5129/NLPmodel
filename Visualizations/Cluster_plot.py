@@ -93,7 +93,7 @@ def cluster_plot(k_means, embeddings, df, current_id, doc_type, model_name):
     output_dir = 'Visualizations/outputs/'
 
     plt.savefig(f"{output_dir}{current_id}_{doc_type}_{model_name}_clusterplot.png")
-    print(f"Saved clusterplot for {model_name} to {output_dir}")
+    print(f"{model_name} with {doc_type}: Cluster plot saved successfully for {current_id}")
 
 
 

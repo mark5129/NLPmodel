@@ -30,7 +30,8 @@ from evaluations.mergeEmbeddings import merge_embeddings
 from Visualizations.datamapplot_with_naming import data_mapplot_with_naming
 from Visualizations.topic_source_plot import topic_source_plot
 from Visualizations.Bokeh import create_bokeh_plot  # New import for interactive Bokeh plots
-
+from Visualizations.ClusterSource_outlines import outline_plot
+from Visualizations.Cluster_plot import cluster_plot
 
 # load parameters from yaml file.
 import yaml
@@ -238,6 +239,8 @@ if parameters['Create_Visualizations'] == True:
             data_mapplot_with_naming(kmeans, embeddings, df, current_id, 'merged', model)
             topic_source_plot(kmeans, current_id, 'merged', model)
             create_bokeh_plot(kmeans, embeddings, df, current_id, 'merged', model)
+            outline_plot(kmeans, embeddings, df, current_id, 'merged', model)
+            cluster_plot(kmeans, embeddings, df, current_id, 'merged', model)
         
         for model in which_model:
             embeddings = pd.read_csv(f'modelling/outputs/{model}/{current_id}_merged_embeddings_{model}_embeddings.csv')
@@ -245,6 +248,8 @@ if parameters['Create_Visualizations'] == True:
             data_mapplot_with_naming(kmeans, embeddings, df, current_id, 'merged_embeddings', model)
             topic_source_plot(kmeans, current_id, 'merged_embeddings', model)
             create_bokeh_plot(kmeans, embeddings, df, current_id, 'merged_embeddings', model)
+            outline_plot(kmeans, embeddings, df, current_id, 'merged_embeddings', model)
+            cluster_plot(kmeans, embeddings, df, current_id, 'merged_embeddings', model)
 
         
     else:

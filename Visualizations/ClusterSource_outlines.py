@@ -47,7 +47,14 @@ def outline_plot(k_means, embeddings, df, current_id, doc_type, model_name):
         "Sci Media": "#1f77b4",  # Blue
         "Pro Media": "#ff7f0e",  # Orange
         "Reg Media": "#2ca02c"   # Green
-    }
+        }
+
+    # Plot points with colors based on their source
+    markers = {
+            "Sci Media": "o",  # Circle
+            "Pro Media": "s",  # Square
+            "Reg Media": "^"
+        }  # Triangle
 
     # Plot points and cluster outlines
     plt.figure(figsize=(10, 8))
@@ -64,11 +71,10 @@ def outline_plot(k_means, embeddings, df, current_id, doc_type, model_name):
                 np.append(hull_points[:, 1], hull_points[0, 1]),
                 linestyle='--', linewidth=1.5
             )
-        
-        # Plot points with colors based on their source
+
         for source in palette.keys():
             source_points = df_plot[(df_plot["cluster_int"] == cluster_id) & (df_plot["source"] == source)][["x", "y"]].values
-            plt.scatter(source_points[:, 0], source_points[:, 1], color=palette[source], s=10, label=source)
+            plt.scatter(source_points[:, 0], source_points[:, 1], color=palette[source], s=10, label=source, marker=markers[source])
 
 
         # Add cluster name as text at the centroid of the cluster
@@ -79,11 +85,12 @@ def outline_plot(k_means, embeddings, df, current_id, doc_type, model_name):
                  bbox=dict(facecolor='white', alpha=0.5))
 
     # Add legend for the sources
-    handles = [plt.Line2D([0], [0], marker='o', color='w', markerfacecolor=color, markersize=10, label=source)
+    handles = [plt.Line2D([0], [0], marker=markers[source], color='w', markerfacecolor=color, markersize=10, label=source)
                for source, color in palette.items()]
+    
     plt.legend(handles=handles, title="Source")
 
-    plt.title(f"Cluster Visualization for {model_name}")
+    plt.title(f"Cluster Source Visualization for {model_name}")
     plt.xlabel("t-SNE Dimension 1")
     plt.ylabel("t-SNE Dimension 2")
     plt.xlim(global_x_min, global_x_max)
@@ -94,7 +101,7 @@ def outline_plot(k_means, embeddings, df, current_id, doc_type, model_name):
     output_dir = 'Visualizations/outputs/'
 
     plt.savefig(f"{output_dir}{current_id}_{doc_type}_{model_name}_outlineplot.png")
-    print(f"Saved Outlineplot for {model_name} to {output_dir}")
+    print(f"{model_name} with {doc_type}: Outline Source plot saved successfully for {current_id}")
 
 
 

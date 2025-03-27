@@ -86,7 +86,7 @@ def data_mapplot_with_naming(k_means,embeddings, df, current_id, doc_type, model
         # Save the plot to an HTML file
         plot.save(f"{output_dir}{current_id}_{doc_type}_{model_name}_datamapplot.html")
 
-        print("Data map Plot saved successfully.")
+        print(f"{model_name} with {doc_type}: Data map plot saved successfully for {current_id}")
     except Exception as e:
         print(f"Error creating or displaying the plot: {e}")
 
