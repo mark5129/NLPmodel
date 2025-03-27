@@ -8,4 +8,9 @@ def clean_rows(df):
     """
     value = '[No abstract available]'
     df = df[df['Content'] != value]
+    
+    # remove all rows where the string in the content column contains more than 10000 letters
+
+    df = df[df['Content'].apply(lambda x: len(x) < 10000)]
+    
     return df
