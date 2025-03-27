@@ -2,12 +2,15 @@ import pandas as pd
 
 from BERTopic_cluster_topics import Bertopic_clustering_naming
 from TFIDF_cluster_topics import TFIDF_clustering
+from Cluster_topics import clustering_and_naming
 # This script only runs on embeddings from various models.
 
 # Which cluster namning technique to use?
 # TFIDF or Bertopic
 #namning_technique = 'Bertopic'
-namning_technique = 'TFIDF'
+#namning_technique = 'TFIDF'
+namning_technique = 'BERT'
+
 
 #Load embeddings from embeddings file
 which_model = ['XLM_Roberta', 'Specter2Actually', 'MiniLm12']
@@ -27,6 +30,8 @@ for model in which_model:
         TFIDF_clustering(embeddings, df_file, 'manualrun', 'merged', model)
     elif namning_technique == 'Bertopic':
         Bertopic_clustering_naming(embeddings, df_file, 'manualrun', 'merged', model)
+    elif namning_technique == 'BERT':
+        clustering_and_naming(embeddings, df_file, 'manualrun', 'merged', model)
     else:
         print('No clustering method selected')
         break
@@ -39,6 +44,8 @@ for model in which_model:
         TFIDF_clustering(embeddings, df_file, 'manualrun', 'merged_embeddings', model)
     elif namning_technique == 'Bertopic':
         Bertopic_clustering_naming(embeddings, df_file, 'manualrun', 'merged_embeddings', model)
+    elif namning_technique == 'BERT':
+        clustering_and_naming(embeddings, df_file, 'manualrun', 'merged_embeddings', model)
     else:
         print('No clustering method selected')
         break
