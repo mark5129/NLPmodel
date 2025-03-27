@@ -19,7 +19,7 @@ Create_Visualizations: False
 what_data: stemmed
 
 # Hyperparameters for the models:
-num_topics: 6
+num_topics: 12
 random_state: 42
 max_features: 1000
 n_top_words: 10

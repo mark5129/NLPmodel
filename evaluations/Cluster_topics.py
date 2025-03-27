@@ -49,9 +49,6 @@ def clustering_and_naming(embeddings, df_file, run_id, doc, model):
     result_df['labels_layer'] = result_df['topic_int'].map(
         lambda x: topic_info[topic_info['Topic'] == x]['Name'].values[0] if x != -1 else 'Noise'
     )
-    
-    # Replace underscores with commas in 'labels_layer'
-    result_df['labels_layer'] = result_df['labels_layer'].str.replace('_', ', ')
 
     result_df['topic_names'] = result_df['topic_int'].map(
         lambda x: topic_info[topic_info['Topic'] == x]['Name'].values[0] if x != -1 else 'Noise'

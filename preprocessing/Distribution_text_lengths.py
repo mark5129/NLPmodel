@@ -44,6 +44,6 @@ plt.gcf().text(0.95, 0.90, text_box_content, fontsize=10, verticalalignment='top
                bbox=dict(facecolor='white', alpha=0.5))
 
 plt.tight_layout()  # Adjust layout to prevent clipping
-plt.show()
+plt.savefig('preprocessing/text_lengths_distribution.png', dpi=300)
 
 
