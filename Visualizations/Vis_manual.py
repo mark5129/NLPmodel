@@ -5,6 +5,7 @@ from topic_source_plot import topic_source_plot
 from Bokeh import create_bokeh_plot
 from ClusterSource_outlines import outline_plot
 from Cluster_plot import cluster_plot
+from Cluster_plot50 import cluster_plot50
 
 # This script only runs on embeddings from various models.
 
@@ -27,6 +28,7 @@ for model in which_model:
     create_bokeh_plot(kmeans, embeddings, df_file, 'manualrun', 'merged', model)
     outline_plot(kmeans, embeddings, df_file, 'manualrun', 'merged', model)
     cluster_plot(kmeans, embeddings, df_file, 'manualrun', 'merged', model)
+    cluster_plot50(kmeans, embeddings, df_file, 'manualrun', 'merged', model)
 
 for model in which_model:
     embeddings = pd.read_csv(f'modelling/outputs/{model}/{Latest_run_id}_merged_embeddings_{model}_embeddings.csv')
@@ -38,3 +40,4 @@ for model in which_model:
     create_bokeh_plot(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model)
     outline_plot(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model)
     cluster_plot(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model)
+    cluster_plot50(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model)

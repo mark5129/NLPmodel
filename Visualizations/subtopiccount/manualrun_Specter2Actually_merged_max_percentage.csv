@@ -1,0 +1,11 @@
+topic_int,topic_names_from_bertopic,count,total_count,percentage
+0,"9, fund, bornholm, energi, price",14,115,0.122
+1,"1, grid, offshor, hvdc, wind",28,174,0.161
+2,"2, billion, project, energi, economi",41,117,0.35
+3,"3, energi, system, island, reactor",21,187,0.112
+4,"35, municip, agenc, consult, jacob",15,135,0.111
+5,"8, heat, bornholm, municip, plant",16,131,0.122
+6,"6, municip, area, energinet, plan",29,105,0.276
+7,"0, offshor, connect, wind, island",8,136,0.059
+8,"5, comput, offshor, grid, wind",21,156,0.135
+9,"0, offshor, connect, wind, island",8,111,0.072

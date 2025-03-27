@@ -1,0 +1,11 @@
+topic_int,topic_names_from_bertopic,count,total_count,percentage
+0,"4, bornholm, energi, area, say",15,121,0.124
+1,"1, hydrogen, wind, energi, bornholm",19,140,0.136
+2,"13, bornholm, island, energi, also",16,134,0.119
+3,"3, control, convert, grid, offshor",42,144,0.292
+4,"16, grid, offshor, integr, wind",24,138,0.174
+5,"5, wind, energi, hydrogen, offshor",29,156,0.186
+6,"6, bornholm, municip, say, year",30,161,0.186
+7,"19, comput, grid, quantum, system",17,117,0.145
+8,"0, bornholm, energi, also, green",19,136,0.14
+9,"0, bornholm, energi, also, green",18,120,0.15

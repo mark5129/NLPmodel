@@ -210,14 +210,7 @@
             </div>
             <div id="plots3" style="display: none;"> 
                 <h2>Plots for thesis based on merged embeddings (Version 2)</h2> 
-                <p>In the second version we have fed the documents from each source indivually to the LLM's and then generated embeddings.
-                    Our Hypethesis is that this will make the differences between the sources more clear in the embeddings.
-                </p>
-                <p>Various models are used for generating embeddings, among those XLM-Roberta, MiniLm12 and Specter2. They generate slightly different embeddings which can be visualised below. 
-                    Once embeddings are generated k-means clustering is applied to the 383 vectorspace in order to cluster the documents into "Topics" with similar semantics.
-                    When these cluster "Topics" are made we want to put a title on each Cluster. Currently TF-IDF is used, but we are testing the results of using BERTopic for bag of words and then 
-                    generating the titles based on this.</p>
-                <p>The plots shown are quite large. Also you have to "deselect" a model after viewing it before going to the next one</p>
+
                 <button onclick="togglePlot('plot111')">XLM Roberta</button>
                 <button onclick="togglePlot('plot112')">MiniLm12</button>
                 <button onclick="togglePlot('plot113')">Specter2</button>
@@ -226,6 +219,7 @@
                     <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
 
                     <img src="Visualizations/Outputs/manualrun_merged_embeddings_XLM_Roberta_clusterplot.png" alt="XLM_roberta_clusterplot" style="width:1000px;height:auto;">                    
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_XLM_Roberta_clusterplot50.png" alt="XLM_roberta_clusterplot50" style="width:1000px;height:auto;">                    
                     <img src="Visualizations/Outputs/manualrun_merged_embeddings_XLM_Roberta_outlineplot.png" alt="XLM_roberta_sourceplot" style="width:1000px;height:auto;">
                     <img src="Visualizations/Outputs/manualrun_merged_embeddings_XLM_Roberta_sourceplot.png" alt="XLM_roberta_sourceplot" style="width:1000px;height:auto;">
                 </div>
@@ -233,6 +227,7 @@
                     <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
 
                     <img src="Visualizations/Outputs/manualrun_merged_embeddings_MiniLm12_clusterplot.png" alt="MiniLm12_clusterplot" style="width:1000px;height:auto;">                    
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_MiniLm12_clusterplot50.png" alt="MiniLm12_clusterplot50" style="width:1000px;height:auto;">                     
                     <img src="Visualizations/Outputs/manualrun_merged_embeddings_MiniLm12_outlineplot.png" alt="MiniLm12_sourceplot" style="width:1000px;height:auto;">
                     <img src="Visualizations/Outputs/manualrun_merged_embeddings_MiniLm12_sourceplot.png" alt="MiniLm12_sourceplot" style="width:1000px;height:auto;">
                 </div>
@@ -240,6 +235,7 @@
                     <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
 
                     <img src="Visualizations/Outputs/manualrun_merged_embeddings_Specter2Actually_clusterplot.png" alt="Specter2Actually_clusterplot" style="width:1000px;height:auto;">                    
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_Specter2Actually_clusterplot50.png" alt="Specter2Actually_clusterplot50" style="width:1000px;height:auto;">                    
                     <img src="Visualizations/Outputs/manualrun_merged_embeddings_Specter2Actually_outlineplot.png" alt="Specter2Actually_sourceplot" style="width:1000px;height:auto;">
                     <img src="Visualizations/Outputs/manualrun_merged_embeddings_Specter2Actually_sourceplot.png" alt="Specter2Actually_sourceplot" style="width:1000px;height:auto;">
                 </div>

@@ -25,3 +25,9 @@ for doc in doc_type:
 
         # Save the counts DataFrame to a CSV file
         df_count.to_csv(f'Visualizations/subtopiccount/manualrun_{model}_{doc}_output_counts.csv', index=False)
+
+        # Find the row with the maximum percentage for each topic_int
+        df_max_percentage = df_count.loc[df_count.groupby('topic_int')['percentage'].idxmax()]
+
+        # Save the DataFrame with the maximum percentage rows to a CSV file
+        df_max_percentage.to_csv(f'Visualizations/subtopiccount/manualrun_{model}_{doc}_max_percentage.csv', index=False)

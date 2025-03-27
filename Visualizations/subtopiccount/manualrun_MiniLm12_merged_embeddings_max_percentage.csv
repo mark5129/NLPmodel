@@ -1,0 +1,11 @@
+topic_int,topic_names_from_bertopic,count,total_count,percentage
+0,"13, energinet, plant, station, build",36,121,0.298
+1,"10, offshor, bornholm, grid, sea",20,175,0.114
+2,"14, power, price, energi, nuclear",9,139,0.065
+3,"5, million, dkk, energi, save",24,114,0.211
+4,"2, bornholm, baltic, wind, energi",14,173,0.081
+5,"0, hvdc, convert, offshor, control",25,144,0.174
+6,"1, wind, sea, area, energi",22,136,0.162
+7,"2, bornholm, baltic, wind, energi",14,109,0.128
+8,"4, energi, electr, car, new",22,147,0.15
+9,"15, hydrogen, bornholm, island, price",16,109,0.147

@@ -1,6 +1,6 @@
 import pandas as pd
 
-from evaluations.BERTopic_cluster_topics import Bertopic_clustering_naming
+from BERTopic_cluster_topics import Bertopic_clustering_naming
 from TFIDF_cluster_topics import TFIDF_clustering
 from Cluster_topics import clustering_and_naming
 from addTopic_names import addBERTopic_names

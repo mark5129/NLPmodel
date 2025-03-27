@@ -1,0 +1,11 @@
+topic_int,topic_names_from_bertopic,count,total_count,percentage
+0,"4, energi, bornholm, wind, sea",26,111,0.234
+1,"13, grid, offshor, wind, transmiss",32,153,0.209
+2,"18, neighbor, land, materi, plant",12,123,0.098
+3,"1, social, municip, democraci, say",17,145,0.117
+4,"0, bornholm, energi, ship, also",18,108,0.167
+5,"6, control, grid, convert, hvdc",42,176,0.239
+6,"8, bornholm, year, energi, municip",15,117,0.128
+7,"3, energi, renew, sustain, island",49,187,0.262
+8,"21, price, billion, electr, energi",20,130,0.154
+9,"2, energinet, plant, area, station",30,117,0.256
