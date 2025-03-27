@@ -13,11 +13,11 @@ from preprocessing.Merge_textfiles import Merging_textfiles
 from modelling.outputs.logging import log_parameters, update_header_if_needed
 
 # import functions for modelling
-from modelling.LDA import LDAModel
-from modelling.Specter2 import Specter2Model
-from modelling.NMF import NMF_model
+from modelling.development.LDA import LDAModel
+from modelling.development.Specter2 import Specter2Model
+from modelling.development.NMF import NMF_model
 from modelling.XLM_Roberta import XLM_Roberta_model
-from modelling.BERTopic import BERTopicModel
+from modelling.development.BERTopic import BERTopicModel
 from modelling.minilm12 import MiniLM12
 from modelling.Specter2Actually import Specter2ActuallyModel
 
