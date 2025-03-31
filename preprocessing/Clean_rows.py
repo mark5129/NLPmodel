@@ -11,6 +11,6 @@ def clean_rows(df):
     
     # remove all rows where the string in the content column contains more than 10000 letters
 
-    df = df[df['Content'].apply(lambda x: len(x) < 10000)]
+    df = df[df['Content'].apply(lambda x: len(x) < 15000)]
     
     return df
