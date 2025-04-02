@@ -5,14 +5,8 @@ from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 from scipy.spatial import ConvexHull
 
-# Global variables to store axis limits across multiple plots
-global_x_min, global_x_max = None, None
-global_y_min, global_y_max = None, None
 
-
-def outline_plot(k_means, embeddings, df, current_id, doc_type, model_name):
-
-    global global_x_min, global_x_max, global_y_min, global_y_max
+def outline_plot(k_means, embeddings, df, current_id, doc_type, model_name, global_x_min, global_x_max, global_y_min, global_y_max):
 
     # Convert embeddings to NumPy array
     embeddings = np.array(embeddings)

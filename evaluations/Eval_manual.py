@@ -22,22 +22,22 @@ Latest_run_id = '1303156299'
 # Load the data file for the merged documents
 df_file = pd.read_csv('data/merged_media_stemmed_eng.csv')
 
-# Run clustering for merged document embeddings
-for model in which_model:
+# # Run clustering for merged document embeddings
+# for model in which_model:
     
-    embeddings = pd.read_csv(f'modelling/outputs/{model}/{Latest_run_id}_merged_{model}_embeddings.csv')
+#     embeddings = pd.read_csv(f'modelling/outputs/{model}/{Latest_run_id}_merged_{model}_embeddings.csv')
 
-    if namning_technique == 'TFIDF':
-        TFIDF_clustering(embeddings, df_file, 'manualrun', 'merged', model)
-        clustering_and_naming(embeddings, df_file, 'manualrun', 'merged', model)
-    elif namning_technique == 'Bertopic':
-        Bertopic_clustering_naming(embeddings, df_file, 'manualrun', 'merged', model)
-    else:
-        print('No clustering method selected')
-        break
+#     if namning_technique == 'TFIDF':
+#         TFIDF_clustering(embeddings, df_file, 'manualrun', 'merged', model)
+#         clustering_and_naming(embeddings, df_file, 'manualrun', 'merged', model)
+#     elif namning_technique == 'Bertopic':
+#         Bertopic_clustering_naming(embeddings, df_file, 'manualrun', 'merged', model)
+#     else:
+#         print('No clustering method selected')
+#         break
     
-    addBERTopic_names('merged',model)
-    assign_main_topic_name('merged',model)
+#     addBERTopic_names('merged',model)
+#     assign_main_topic_name('merged',model)
 
 # Run clustering for merged embeddings
 for model in which_model:

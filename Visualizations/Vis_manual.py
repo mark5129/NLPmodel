@@ -18,26 +18,34 @@ which_model = ['XLM_Roberta', 'Specter2Actually', 'MiniLm12']
 
 df_file = pd.read_csv('data/merged_media_stemmed_eng.csv')
 
-for model in which_model:
-    embeddings = pd.read_csv(f'modelling/outputs/{model}/{Latest_run_id}_merged_{model}_embeddings.csv')
-    #kmeans = pd.read_csv(f'evaluations/outputs/manualrun_{model}_merged_output_clusters.csv')
-    kmeans = pd.read_csv(f'evaluations/outputs/manualrun_merged_{model}_Kmeans.csv')
+# for model in which_model:
+#     embeddings = pd.read_csv(f'modelling/outputs/{model}/{Latest_run_id}_merged_{model}_embeddings.csv')
+#     #kmeans = pd.read_csv(f'evaluations/outputs/manualrun_{model}_merged_output_clusters.csv')
+#     kmeans = pd.read_csv(f'evaluations/outputs/manualrun_merged_{model}_Kmeans.csv')
 
-    data_mapplot_with_naming(kmeans, embeddings, df_file, 'manualrun', 'merged', model)
-    topic_source_plot(kmeans, 'manualrun', 'merged', model)
-    create_bokeh_plot(kmeans, embeddings, df_file, 'manualrun', 'merged', model)
-    outline_plot(kmeans, embeddings, df_file, 'manualrun', 'merged', model)
-    cluster_plot(kmeans, embeddings, df_file, 'manualrun', 'merged', model)
-    cluster_plot50(kmeans, embeddings, df_file, 'manualrun', 'merged', model)
+#     # Global variables to store axis limits across multiple plots
+#     global_x_min, global_x_max = None, None
+#     global_y_min, global_y_max = None, None
+
+#     data_mapplot_with_naming(kmeans, embeddings, df_file, 'manualrun', 'merged', model)
+#     topic_source_plot(kmeans, 'manualrun', 'merged', model)
+#     create_bokeh_plot(kmeans, embeddings, df_file, 'manualrun', 'merged', model)
+#     outline_plot(kmeans, embeddings, df_file, 'manualrun', 'merged', model)
+#     cluster_plot(kmeans, embeddings, df_file, 'manualrun', 'merged', model)
+#     cluster_plot50(kmeans, embeddings, df_file, 'manualrun', 'merged', model)
 
 for model in which_model:
     embeddings = pd.read_csv(f'modelling/outputs/{model}/{Latest_run_id}_merged_embeddings_{model}_embeddings.csv')
     #kmeans = pd.read_csv(f'evaluations/outputs/manualrun_{model}_merged_embeddings_output_clusters.csv')
     kmeans = pd.read_csv(f'evaluations/outputs/manualrun_merged_embeddings_{model}_Kmeans.csv')
 
+    # Global variables to store axis limits across multiple plots
+    global_x_min, global_x_max = None, None
+    global_y_min, global_y_max = None, None
+
     data_mapplot_with_naming(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model)
     topic_source_plot(kmeans, 'manualrun', 'merged_embeddings', model)
-    create_bokeh_plot(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model)
-    outline_plot(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model)
-    cluster_plot(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model)
-    cluster_plot50(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model)
+    #create_bokeh_plot(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model)
+    outline_plot(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model, global_x_min, global_x_max, global_y_min, global_y_max)
+    cluster_plot(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model, global_x_min, global_x_max, global_y_min, global_y_max)
+    cluster_plot50(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model, global_x_min, global_x_max, global_y_min, global_y_max)
