@@ -93,8 +93,8 @@ def cluster_plot_resumees(k_means, embeddings, df, current_id, doc_type, model_n
     plt.title(f"Cluster Visualization for {model_name} with Cluster resumees")
     plt.xlabel("t-SNE Dimension 1")
     plt.ylabel("t-SNE Dimension 2")
-    plt.xlim(global_x_min, global_x_max)
-    plt.ylim(global_y_min, global_y_max)
+    #plt.xlim(global_x_min, global_x_max)
+    #plt.ylim(global_y_min, global_y_max)
     plt.grid(True)
 
     # Save Visualization to CSV
