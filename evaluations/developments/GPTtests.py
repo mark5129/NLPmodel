@@ -7,7 +7,6 @@ with open('parameters.yaml', 'r') as file:
 
 # OpenAI API key
 client = OpenAI(
-
 )
 
 #usage = 'topic_name'
@@ -21,6 +20,7 @@ all_texts = pd.read_csv(texts_path)
 
 # Get the distinct values of the 'topic_int' column
 n_clusters = k_means['topic_int'].unique()
+print(n_clusters)
 
 # Sort the distinct values
 n_clusters.sort()
@@ -33,7 +33,7 @@ for n_cluster in n_clusters:
     
     cluster_texts = all_texts[k_means['topic_int'] == n_cluster]
 
-    not_cluster_texts = all_texts[k_means['topic_int'] != n_cluster].sample(frac=0.05, random_state=parameters['random_state'])
+    not_cluster_texts = all_texts[k_means['topic_int'] != n_cluster].sample(frac=0.04, random_state=parameters['random_state'])
 
     # append all texts together in one string and save it to a variable
     Not_cluster_texts = ' \n'.join(not_cluster_texts['Content'].astype(str).tolist())

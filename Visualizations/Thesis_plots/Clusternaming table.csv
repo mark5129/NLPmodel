@@ -1,0 +1,11 @@
+topic_int,TF-IDF,Most Occuring BERTopic Name
+0,energi island,"3, mayor, municip, social, food"
+1,wind farm,"0, grid, comput, model, system"
+2,offshor wind,"4, bornholm, energi, island, sea"
+3,wind turbin,"10, hydrogen, energi, bornholm, wind"
+4,municip council,"3, mayor, municip, social, food"
+5,renew energi,"9, energi, renew, system, power"
+6,energiø bornholm,"14, energi, island, nuclear, bornholm"
+7,north sea,"1, grid, power, system, offshor"
+8,offshor wind farm,"33, fuel, energi, materi, wind"
+9,power system,"0, grid, comput, model, system"

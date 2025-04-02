@@ -151,21 +151,21 @@ if parameters['train_model'] == True:
         MiniLM12(reg_text_column, current_id, 'reg')
         MiniLM12(pro_text_column, current_id, 'pro')
         MiniLM12(sci_text_column, current_id, 'sci')
-        MiniLM12(merged_text_column, current_id, 'merged')
+        #MiniLM12(merged_text_column, current_id, 'merged')
         print('MiniLM12 embeddings are generated.')
     
     if parameters['train_xlm_roberta'] == True:
         XLM_Roberta_model(reg_text_column, current_id, 'reg')
         XLM_Roberta_model(pro_text_column, current_id, 'pro')
         XLM_Roberta_model(sci_text_column, current_id, 'sci')
-        XLM_Roberta_model(merged_text_column, current_id, 'merged')
+        #XLM_Roberta_model(merged_text_column, current_id, 'merged')
         print('XLM-Roberta embeddings are generated.')
     
     if parameters['train_specter2_Actually'] == True:
         Specter2ActuallyModel(reg_text_column, current_id, 'reg')
         Specter2ActuallyModel(pro_text_column, current_id, 'pro')
         Specter2ActuallyModel(sci_text_column, current_id, 'sci')
-        Specter2ActuallyModel(merged_text_column, current_id, 'merged')
+        #Specter2ActuallyModel(merged_text_column, current_id, 'merged')
         print('Specter2 embeddings are generated.')
 
     merge_embeddings('MiniLm12', current_id)
