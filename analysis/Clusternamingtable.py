@@ -15,4 +15,4 @@ kmeans_grouped = kmeans.groupby('topic_int').agg({
 # Rename the columns
 kmeans_grouped.columns = ['topic_int', 'TF-IDF', 'Most Occuring BERTopic Name']
 # Save to CSV
-kmeans_grouped.to_csv(f'Visualizations/Thesis_plots/Clusternaming table.csv', index=False)
+kmeans_grouped.to_csv(f'analysis/Thesis_plots/Clusternaming table.csv', index=False)

@@ -4,11 +4,13 @@ from sklearn.manifold import TSNE
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 from scipy.spatial import ConvexHull
+import os
 
 
 
 def cluster_plot50(k_means, embeddings, df, current_id, doc_type, model_name, global_x_min, global_x_max, global_y_min, global_y_max):
 
+    percentage = 0.5
     # Convert embeddings to NumPy array
     embeddings = np.array(embeddings)
 
@@ -58,8 +60,8 @@ def cluster_plot50(k_means, embeddings, df, current_id, doc_type, model_name, gl
         
         # Sort points by distance to centroid and split into two halves
         sorted_indices = np.argsort(distances)
-        closest_half = sorted_indices[:len(sorted_indices) // 2]
-        farthest_half = sorted_indices[len(sorted_indices) // 2:]
+        closest_half = sorted_indices[:int(len(sorted_indices) * 0.5)]
+        farthest_half = sorted_indices[int(len(sorted_indices) * percentage):]
         
         # Assign cluster name based on the most occurring "BERTopic_name" in closest_half
         closest_half_indices = df_plot[df_plot["cluster_int"] == cluster_id].iloc[closest_half].index
@@ -85,8 +87,24 @@ def cluster_plot50(k_means, embeddings, df, current_id, doc_type, model_name, gl
         plt.text(centroid_x, centroid_y, most_common_name, fontsize=10, ha='center', va='center',
                  bbox=dict(facecolor='white', alpha=0.5))
 
+    # Add binary column to k_means for closest half points
+    k_means['is_closest_half'] = False  # Initialize with False
+    for cluster_id in sorted(df_plot["cluster_int"].unique()):
+        cluster_points = df_plot[df_plot["cluster_int"] == cluster_id][["x", "y"]].values
+        centroid_x = cluster_points[:, 0].mean()
+        centroid_y = cluster_points[:, 1].mean()
+        distances = np.sqrt((cluster_points[:, 0] - centroid_x) ** 2 + (cluster_points[:, 1] - centroid_y) ** 2)
+        sorted_indices = np.argsort(distances)
+        closest_half = sorted_indices[:int(len(sorted_indices) * percentage)]
+        closest_half_indices = df_plot[df_plot["cluster_int"] == cluster_id].iloc[closest_half].index
+        k_means.loc[closest_half_indices, 'is_closest_half'] = True
 
-    plt.title(f"50% Cluster Visualization for {model_name}")
+    # Save k_means with the new column to a CSV file
+    output_dir = 'evaluations/outputs/'
+    k_means.to_csv(os.path.join(output_dir, f'{current_id}_{doc_type}_{model_name}_Kmeans.csv'), index=False)
+    print(f"{model_name} with {doc_type}: clostest points added to k_means succesfully {current_id}")
+
+    plt.title(f"{percentage} Cluster Visualization for {model_name}")
     plt.xlabel("t-SNE Dimension 1")
     plt.ylabel("t-SNE Dimension 2")
     plt.xlim(global_x_min, global_x_max)
@@ -97,7 +115,7 @@ def cluster_plot50(k_means, embeddings, df, current_id, doc_type, model_name, gl
     output_dir = 'Visualizations/outputs/'
 
     plt.savefig(f"{output_dir}{current_id}_{doc_type}_{model_name}_clusterplot50.png")
-    print(f"{model_name} with {doc_type}: 50% Cluster plot saved successfully for {current_id}")
+    print(f"{model_name} with {doc_type}: {percentage} Cluster plot saved successfully for {current_id}")
 
 
 

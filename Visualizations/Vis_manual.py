@@ -15,8 +15,7 @@ from Cluster_plot_resumee import cluster_plot_resumees
 Latest_run_id = '1303156299'
 
 #Load embeddings from embeddings file
-#which_model = ['XLM_Roberta', 'Specter2Actually', 'MiniLm12']
-which_model = ['XLM_Roberta']
+which_model = ['XLM_Roberta', 'Specter2Actually', 'MiniLm12']
 
 df_file = pd.read_csv('data/merged_media_stemmed_eng.csv')
 
@@ -46,9 +45,9 @@ for model in which_model:
     global_y_min, global_y_max = None, None
 
     #data_mapplot_with_naming(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model)
-    topic_source_plot(kmeans, 'manualrun', 'merged_embeddings', model)
+    #topic_source_plot(kmeans, 'manualrun', 'merged_embeddings', model)
     #create_bokeh_plot(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model)
-    outline_plot(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model, global_x_min, global_x_max, global_y_min, global_y_max)
-    cluster_plot(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model, global_x_min, global_x_max, global_y_min, global_y_max)
+    #outline_plot(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model, global_x_min, global_x_max, global_y_min, global_y_max)
+    #cluster_plot(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model, global_x_min, global_x_max, global_y_min, global_y_max)
     cluster_plot50(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model, global_x_min, global_x_max, global_y_min, global_y_max)
-    cluster_plot_resumees(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model, global_x_min, global_x_max, global_y_min, global_y_max)
+    #cluster_plot_resumees(kmeans, embeddings, df_file, 'manualrun', 'merged_embeddings', model, global_x_min, global_x_max, global_y_min, global_y_max)
