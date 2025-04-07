@@ -1,9 +1,9 @@
 import pandas as pd
 
-from BERTopic_cluster_topics import Bertopic_clustering_naming
+from evaluations.developments.BERTopic_cluster_topics import Bertopic_clustering_naming
 from TFIDF_cluster_topics import TFIDF_clustering
-from Cluster_topics import clustering_and_naming
-from addTopic_names import addBERTopic_names
+from evaluations.developments.Cluster_topics import clustering_and_naming
+from evaluations.developments.addTopic_names import addBERTopic_names
 from FindOptimalTopic import assign_main_topic_name
 # This script only runs on embeddings from various models.
 
