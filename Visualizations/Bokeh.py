@@ -6,6 +6,11 @@ from bokeh.plotting import figure, output_file, show
 from bokeh.models import ColumnDataSource, HoverTool, Select, CustomJS
 from bokeh.layouts import column
 from bokeh.io import save
+from umap import UMAP
+
+import yaml
+with open('parameters.yaml', 'r') as file:
+    parameters = yaml.safe_load(file)
 
 # Global variables to store axis limits across multiple plots
 global_x_min, global_x_max = None, None
@@ -23,8 +28,11 @@ def create_bokeh_plot(k_means, embeddings, df, current_id, doc_type, model_name)
     embeddings = np.array(embeddings)
 
     # Perform t-SNE for dimensionality reduction
-    tsne = TSNE(n_components=2, perplexity=min(30, (len(embeddings) - 1) // 3), random_state=42)
-    data_map = tsne.fit_transform(embeddings)
+    #tsne = TSNE(n_components=2, perplexity=min(30, (len(embeddings) - 1) // 3), random_state=42)
+    #data_map = tsne.fit_transform(embeddings)
+
+    umapmodel = UMAP(n_neighbors=15, min_dist=0.1, n_components=parameters['umap_dimensions'])
+    data_map = umapmodel.fit_transform(embeddings)
 
     # Perform K-Means clustering
     cluster_labels = k_means['main_topic_name']

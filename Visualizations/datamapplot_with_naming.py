@@ -6,8 +6,8 @@ import matplotlib.colors as mcolors
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.corpus import stopwords
+from umap import UMAP
 
-# load parameters from yaml file.
 import yaml
 with open('parameters.yaml', 'r') as file:
     parameters = yaml.safe_load(file)
@@ -24,8 +24,11 @@ def data_mapplot_with_naming(k_means,embeddings, df, current_id, doc_type, model
     perplexity = min(30, (n_samples - 1) // 3)
 
     # Step 1: Create a data map using t-SNE
-    tsne = TSNE(n_components=2, perplexity=perplexity, random_state=parameters['random_state'])
-    data_map = tsne.fit_transform(embeddings)
+    #tsne = TSNE(n_components=2, perplexity=perplexity, random_state=parameters['random_state'])
+    #data_map = tsne.fit_transform(embeddings)
+
+    umapmodel = UMAP(n_neighbors=15, min_dist=0.1, n_components=parameters['umap_dimensions'])
+    data_map = umapmodel.fit_transform(embeddings)
 
     # Step 3: Prepare hover text
     hover_text = df['Title'].astype(str).tolist()

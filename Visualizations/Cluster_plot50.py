@@ -5,6 +5,11 @@ from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 from scipy.spatial import ConvexHull
 import os
+from umap import UMAP
+
+import yaml
+with open('parameters.yaml', 'r') as file:
+    parameters = yaml.safe_load(file)
 
 
 
@@ -15,8 +20,11 @@ def cluster_plot50(k_means, embeddings, df, current_id, doc_type, model_name, gl
     embeddings = np.array(embeddings)
 
     # Perform t-SNE for dimensionality reduction
-    tsne = TSNE(n_components=2, perplexity=min(30, (len(embeddings) - 1) // 3), random_state=42)
-    data_map = tsne.fit_transform(embeddings)
+    #tsne = TSNE(n_components=2, perplexity=min(30, (len(embeddings) - 1) // 3), random_state=42)
+    #data_map = tsne.fit_transform(embeddings)
+
+    umapmodel = UMAP(n_neighbors=15, min_dist=0.1, n_components=parameters['umap_dimensions'])
+    data_map = umapmodel.fit_transform(embeddings)
 
     # Store axis limits globally
     x_min, x_max = data_map[:, 0].min(), data_map[:, 0].max()
