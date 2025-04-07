@@ -20,7 +20,20 @@ def run_hdbscan_from_data_map(data_map, current_id, doc_type, model_name, min_cl
 
     output_path = os.path.join(output_dir, f"{current_id}_{doc_type}_{model_name}_UMAP.csv")
     df.to_csv(output_path, index=False)
-    print(f"✅ Lagret clustering-resultat til: {output_path}")
+    print(f"Clustering-results saved to: {output_path}")
 
+    # Lag scatter plot
+    plt.figure(figsize=(10, 8))
+    scatter = plt.scatter(df[dim_cols[0]], df[dim_cols[1]], c=labels, cmap='viridis', s=10)
+    plt.colorbar(scatter, label='Cluster')
+    plt.title(f'HDBSCAN Clustering for {model_name}')
+    plt.xlabel(dim_cols[0])
+    plt.ylabel(dim_cols[1])
+
+    # Lagre plot
+    plot_output_path = os.path.join(output_dir, f"{current_id}_{doc_type}_{model_name}_UMAP_plot.png")
+    plt.savefig(plot_output_path)
+    plt.close()
+    print(f"Scatter plot saved to: {plot_output_path}")
 
     return df, labels
