@@ -2,6 +2,7 @@ import yaml
 from sklearn.cluster import KMeans
 from sklearn.manifold import TSNE
 import numpy as np
+from umap import UMAP
 import os
 import pandas as pd
 from bertopic import BERTopic
@@ -94,8 +95,11 @@ def Bertopic_clustering_naming(embeddings, df, current_id, doc_type, model_name)
     perplexity = min(30, (n_samples - 1) // 3)
 
     # Step 1: Create a data map using t-SNE
-    tsne = TSNE(n_components=2, perplexity=perplexity, random_state=42)
-    data_map = tsne.fit_transform(embeddings)
+    #tsne = TSNE(n_components=2, perplexity=perplexity, random_state=42)
+    #data_map = tsne.fit_transform(embeddings)
+    
+    umapmodel = UMAP(n_neighbors=15, min_dist=0.1, n_components=2)
+    data_map = umapmodel.fit_transform(embeddings)
 
     # Step 2: Perform hierarchical clustering
     n_clusters_list = [parameters['num_topics']]  # Adjust these numbers for your desired hierarchy levels
