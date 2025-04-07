@@ -18,6 +18,9 @@ Create_Visualizations: False
 # raw, cleaned, stemmed
 what_data: stemmed
 
+# UMAP, dimensions
+umap_dimensions: 2
+
 # Hyperparameters for the models:
 num_topics: 10
 random_state: 42
