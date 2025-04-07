@@ -25,7 +25,7 @@ def UMAP_reduction(embeddings, current_id, doc_type, model_name):
         os.makedirs(output_dir)
 
     df_data_map = pd.DataFrame(data_map)
-    df_data_map.columns = ['X', 'Y']
+    #df_data_map.columns = ['X', 'Y']
 
     df_data_map.to_csv(os.path.join(output_dir, f'{current_id}_{doc_type}_{model_name}_UMAP.csv'), index=False)
     print(f'{model_name} Umap dimensionality reduction saved for ID {current_id}')
