@@ -20,4 +20,6 @@ df_file = pd.read_csv('data/merged_media_stemmed_eng.csv')
 for model in which_model:
     embeddings = pd.read_csv(f'modelling/outputs/{model}/{Latest_run_id}_merged_embeddings_{model}_embeddings.csv')
 
-    UMAP_reduction(embeddings, 'manualrun', 'merged_embeddings', model)
+    data_map = UMAP_reduction(embeddings, 'manualrun', 'merged_embeddings', model)
+
+    #HDBSCAN(data_map, 'manualrun', 'merged_embeddings', model)
