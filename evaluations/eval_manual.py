@@ -2,6 +2,7 @@ import pandas as pd
 
 from UMAP_dimensionality_reduction import UMAP_reduction
 from HDBSCAN_clustering import run_hdbscan_from_data_map
+from BERTopic_clustering import bertopic_clustering
 
 import yaml
 with open('parameters.yaml', 'r') as file:
@@ -23,3 +24,4 @@ for model in which_model:
 
     data_map = UMAP_reduction(embeddings, 'manualrun', 'merged_embeddings', model)
     clustered_df, cluster_labels = run_hdbscan_from_data_map(data_map, 'manualrun', 'merged_embeddings', model)
+    bertopic_clustering(df_file, embeddings, 'manualrun', 'merged_embeddings', model)

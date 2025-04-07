@@ -1,7 +1,7 @@
 from bertopic import BERTopic
 import os
 
-def run_bertopic_clustering(df_file, embeddings, current_id, doc_type, model_name):
+def bertopic_clustering(df_file, embeddings, current_id, doc_type, model_name):
     """
     Run BERTopic clustering on precomputed embeddings and return cluster labels.
 
