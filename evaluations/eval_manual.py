@@ -22,6 +22,6 @@ df_file = pd.read_csv('data/merged_media_stemmed_eng.csv')
 for model in which_model:
     embeddings = pd.read_csv(f'modelling/outputs/{model}/{Latest_run_id}_merged_embeddings_{model}_embeddings.csv')
 
-    data_map = UMAP_reduction(embeddings, 'manualrun', 'merged_embeddings', model)
-    clustered_df, cluster_labels = run_hdbscan_from_data_map(data_map, 'manualrun', 'merged_embeddings', model)
+    #data_map = UMAP_reduction(embeddings, 'manualrun', 'merged_embeddings', model)
+    #clustered_df, cluster_labels = run_hdbscan_from_data_map(data_map, 'manualrun', 'merged_embeddings', model)
     bertopic_clustering(df_file, embeddings, 'manualrun', 'merged_embeddings', model)
