@@ -23,8 +23,8 @@ from modelling.Specter2Actually import Specter2ActuallyModel
 
 
 # Import functions for evaluation
-from evaluations.TFIDF_cluster_topics import TFIDF_clustering
-from evaluations.mergeEmbeddings import merge_embeddings
+from evaluations.developments.TFIDF_cluster_topics import TFIDF_clustering
+from evaluations.developments.mergeEmbeddings import merge_embeddings
 
 # import functions for visualisation
 from Visualizations.datamapplot_with_naming import data_mapplot_with_naming
