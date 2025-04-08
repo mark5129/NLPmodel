@@ -1,9 +1,7 @@
 import pandas as pd
 
-from UMAP_dimensionality_reduction import UMAP_reduction
-from HDBSCAN_clustering import run_hdbscan_from_data_map
 from BERTopic_clustering import bertopic_clustering
-from hdbscan_cluster import clustering_with_umap_hdbscan
+from HDBSCAN_clustering import clustering_with_umap_hdbscan
 
 import yaml
 with open('parameters.yaml', 'r') as file:
