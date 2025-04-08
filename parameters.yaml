@@ -21,6 +21,10 @@ what_data: stemmed
 # UMAP, dimensions
 umap_dimensions: 2
 
+# Embeddings
+embeddings: Merged
+#embeddings: Individual
+
 # Hyperparameters for the models:
 num_topics: 10
 random_state: 42

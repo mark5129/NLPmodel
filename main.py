@@ -44,6 +44,8 @@ if parameters['preprocess_data'] == True:
         df.to_csv(parameters[f'{source}_media_stemmed_dir'], index=False) # Save the embeddings to a new CSV file
         print(f'{source}_media.csv is stemmed')
 
+
+
     Merging_textfiles()
     
 else:

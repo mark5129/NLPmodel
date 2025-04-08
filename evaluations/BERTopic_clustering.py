@@ -13,101 +13,48 @@ def bertopic_clustering(df_file, embeddings, run_id, doc, model):
 
     Parameters:
     - embeddings: DataFrame containing the embeddings.
-    - df_file: DataFrame containing the textual data. Must include at least the 'Content' and 'Source' columns.
+    - df_file: DataFrame containing the textual data. Must include at least the 'Content' column.
     - run_id: String identifier for the run (e.g., 'manualrun').
-    - doc: String representing the document type (e.g., 'merged' or 'merged_embeddings').
+    - doc: String representing the document type (e.g., 'merged' or 'source name').
     - model: String representing the model name (e.g., 'XLM_Roberta').
 
-    The function performs the following steps:
-    1. Standardizes the embeddings.
-    2. Applies UMAP for dimensionality reduction.
-    3. Uses HDBSCAN within BERTopic to perform clustering.
-    4. Maps the resulting clusters to topic names.
-    5. Saves the final results to a CSV file in the 'evaluations/outputs/' directory.
-    6. Generates and saves UMAP scatter plots with topics and sources.
+    Steps:
+    1. Standardize embeddings.
+    2. Apply UMAP for dimensionality reduction.
+    3. Use HDBSCAN within BERTopic for clustering.
+    4. Map clusters to topics.
+    5. Save results to CSV.
     """
+
     # Standardize the embeddings
     scaler = StandardScaler()
     embeddings_scaled = scaler.fit_transform(embeddings)
     
     # Perform dimensionality reduction using UMAP 
-    umap_model = UMAP(n_neighbors=30, min_dist=0.1, n_components=2)
+    umap_model = UMAP(n_neighbors=30, min_dist=0.1, n_components=2, random_state=42)
     reduced_embeddings = umap_model.fit_transform(embeddings_scaled)
     
-    # Define the HDBSCAN model with custom parameters
+    # Define the HDBSCAN model
     hdbscan_model = hdbscan.HDBSCAN(min_cluster_size=15, min_samples=1)
     
-    # Apply BERTopic with the custom HDBSCAN model (skip the embedding model since embeddings are provided)
+    # Apply BERTopic
     topic_model = BERTopic(hdbscan_model=hdbscan_model, embedding_model=None)
     topics, probs = topic_model.fit_transform(df_file['Content'], embeddings=reduced_embeddings)
+
+    # Handle Source column for merged vs individual files
+    if 'Source' in df_file.columns:
+        result_df = df_file[['Source']].copy()
+    else:
+        result_df = pd.DataFrame({'Source': [doc] * len(df_file)})
     
-    # Create a DataFrame for the results, keeping only the 'Source' column from df_file
-    result_df = df_file[['Source']].copy()
-    result_df['topic_int'] = topics  # Add the cluster/topic id
-    
-    # Create the output directory if it does not exist
+    result_df['topic_int'] = topics
+
+    # Create output directory
     output_dir = 'evaluations/outputs/'
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+    os.makedirs(output_dir, exist_ok=True)
     
-    # Save the result DataFrame to a CSV file
-    output_file = os.path.join(output_dir, f'{run_id}_{model}_{doc}_output_clusters.csv')
+    # Save the results
+    output_file = os.path.join(output_dir, f'{run_id}_{model}_{doc}_clusters_BERTopic.csv')
     result_df.to_csv(output_file, index=False)
     
     print(f"Clustering for {model} is complete. Results saved in '{os.path.basename(output_file)}'.")
-
-    # Plot the UMAP embeddings with topics
-    plt.figure(figsize=(10, 8))
-    sns.scatterplot(
-        x=reduced_embeddings[:, 0],
-        y=reduced_embeddings[:, 1],
-        hue=topics,
-        palette="tab10",
-        legend="full",
-        s=50
-    )
-    plt.title(f"UMAP Embeddings Colored by Topics ({model} - {doc})")
-    plt.xlabel("UMAP Dimension 1")
-    plt.ylabel("UMAP Dimension 2")
-    plt.legend(title="Topic", bbox_to_anchor=(1.05, 1), loc='upper left')
-    plt.tight_layout()
-
-    # Save the plot
-    plot_file = os.path.join(output_dir, f'{run_id}_{model}_{doc}_umap_plot.png')
-    plt.savefig(plot_file)
-    plt.close()
-    print(f"UMAP scatter plot saved in '{os.path.basename(plot_file)}'.")
-
-    palette = {
-        "Sci Media": "#1f77b4",  # Blue
-        "Pro Media": "#ff7f0e",  # Orange
-        "Reg Media": "#2ca02c"   # Green
-    }
-    
-
-    # Plot the UMAP embeddings with sources
-    plt.figure(figsize=(10, 8))
-    sns.scatterplot(
-        x=reduced_embeddings[:, 0],
-        y=reduced_embeddings[:, 1],
-        hue=df_file['Source'],
-        palette=palette,
-        legend="full",
-        s=50
-    )
-    
-    plt.title(f"UMAP Embeddings Colored by Source ({model} - {doc})")
-    plt.xlabel("UMAP Dimension 1")
-    plt.ylabel("UMAP Dimension 2")
-    plt.legend(title="Source", bbox_to_anchor=(1.05, 1), loc='upper left')
-    plt.tight_layout()
-
-    # Save the plot
-    source_plot_file = os.path.join(output_dir, f'{run_id}_{model}_{doc}_umap_source_plot.png')
-    plt.savefig(source_plot_file)
-    plt.close()
-    print(f"UMAP scatter plot by source saved in '{os.path.basename(source_plot_file)}'.")
-
-    # print distinct values in the topic_int column
-    unique_topics = sorted(result_df['topic_int'].unique())
-    print(f"Distinct topics found: {unique_topics}")
