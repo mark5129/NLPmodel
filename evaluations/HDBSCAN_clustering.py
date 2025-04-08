@@ -29,7 +29,8 @@ def clustering_with_umap_hdbscan(df_file, embeddings, run_id, doc, model):
     embeddings_scaled = scaler.fit_transform(embeddings)
 
     # Reduce dimensionality
-    umap_model = UMAP(n_neighbors=30, min_dist=0.1, n_components=2, random_state=42)
+    n_components = 2  # Set the desired dimensionality
+    umap_model = UMAP(n_neighbors=30, min_dist=0.1, n_components=n_components, random_state=42)
     reduced_embeddings = umap_model.fit_transform(embeddings_scaled)
 
     # Cluster using HDBSCAN
@@ -45,11 +46,16 @@ def clustering_with_umap_hdbscan(df_file, embeddings, run_id, doc, model):
 
     result_df['cluster'] = cluster_labels
 
+    # Add UMAP x and y coordinates if n_components is 2
+    if n_components == 2:
+        result_df['x'] = reduced_embeddings[:, 0]
+        result_df['y'] = reduced_embeddings[:, 1]
+
     # Create output directory
     output_dir = 'evaluations/outputs/'
     os.makedirs(output_dir, exist_ok=True)
 
     # Save results
-    output_file = os.path.join(output_dir, f'{run_id}_{model}_{doc}_clusters_HDBSCAN.csv')
+    output_file = os.path.join(output_dir, f'{run_id}_{model}_{doc}_clusters_HDBSCAN{"_2D" if n_components == 2 else ""}.csv')
     result_df.to_csv(output_file, index=False)
     print(f"Clustering completed. Results saved to '{os.path.basename(output_file)}'.")
