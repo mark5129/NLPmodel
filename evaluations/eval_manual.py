@@ -2,6 +2,7 @@ import pandas as pd
 
 from BERTopic_clustering import bertopic_clustering
 from HDBSCAN_clustering import clustering_with_umap_hdbscan
+from TFIDF_cluster_Naming import TFIDF_cluster_Naming
 
 import yaml
 with open('parameters.yaml', 'r') as file:
@@ -32,9 +33,14 @@ for model in which_model:
     elif parameters['embeddings'] == 'Individual':
 
         for source in sources:
-
+            
             df_file = pd.read_csv(f'data/{source}_media_stemmed_eng.csv')
             embeddings = pd.read_csv(f'modelling/outputs/{model}/{Latest_run_id}_{source}_{model}_embeddings.csv')
             
-            clustering_with_umap_hdbscan(df_file, embeddings, 'manualrun', source, model)
-            bertopic_clustering(df_file, embeddings, 'manualrun', source, model)
+            result_df, df_file = clustering_with_umap_hdbscan(df_file, embeddings, 'manualrun', source, model)
+
+            TFIDF_cluster_Naming(df_file, result_df, 'HDBSCAN', source, model)
+
+            result_df, df_file = bertopic_clustering(df_file, embeddings, 'manualrun', source, model)
+
+            TFIDF_cluster_Naming(df_file, result_df, 'BERTopic', source, model)
