@@ -22,8 +22,12 @@ what_data: stemmed
 umap_dimensions: 2
 
 # Embeddings
-embeddings: Merged
-#embeddings: Individual
+#embeddings: Merged
+embeddings: Individual
+
+# Vectorization
+#visualization: Merged
+visualization: Individual
 
 # Hyperparameters for the models:
 num_topics: 10

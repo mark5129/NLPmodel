@@ -29,7 +29,6 @@ def merged_embeddings_plot(embedding, cluster_model):
     plt.title(f'{embedding} - {cluster_model} Clustering (Colored by Cluster)')
     plt.xlabel('UMAP 1')
     plt.ylabel('UMAP 2')
-    plt.legend(title='Clusters', bbox_to_anchor=(1.05, 1), loc='upper left', borderaxespad=0.)
 
     # Save the cluster-colored plot
     output_file = os.path.join(output_dir, f'manualrun_{embedding}_{cluster_model}_merged_embeddings_cluster_plot.png')
@@ -46,7 +45,6 @@ def merged_embeddings_plot(embedding, cluster_model):
     plt.title(f'{embedding} - {cluster_model} Clustering (Colored by Source)')
     plt.xlabel('UMAP 1')
     plt.ylabel('UMAP 2')
-    plt.legend(title='Sources', bbox_to_anchor=(1.05, 1), loc='upper left', borderaxespad=0.)
 
     # Save the source-colored plot
     output_file = os.path.join(output_dir, f'manualrun_{embedding}_{cluster_model}_merged_embeddings_source_plot.png')
