@@ -68,7 +68,6 @@ def TFIDF_clustering(embeddings, df, current_id, doc_type, model_name):
         kmeans = KMeans(n_clusters=n_clusters, random_state=parameters['random_state'])
         labels_int = kmeans.fit_predict(data_map)
 
-
         print(labels_int)
         used_topics = set()
 

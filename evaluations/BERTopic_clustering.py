@@ -55,6 +55,9 @@ def bertopic_clustering(df_file, embeddings, run_id, doc, model):
         result_df['x'] = reduced_embeddings[:, 0]
         result_df['y'] = reduced_embeddings[:, 1]
 
+    # Remove rows with cluster = -1
+    result_df = result_df[result_df['cluster'] != -1]
+
     # Create output directory
     output_dir = 'evaluations/outputs/'
     os.makedirs(output_dir, exist_ok=True)
