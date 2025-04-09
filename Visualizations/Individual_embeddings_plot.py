@@ -35,19 +35,3 @@ def individual_embeddings_plot(embedding, cluster_model, source):
     plt.savefig(output_file)
     plt.close()
     print(f"Plot saved as '{output_file}'")
-
-    # Create a scatter plot colored by source
-    plt.figure(figsize=(10, 6))
-    unique_sources = df['Source'].unique()
-    for source in unique_sources:
-        source_data = df[df['Source'] == source]
-        plt.scatter(source_data['x'], source_data['y'], label=source, alpha=0.5)
-    plt.title(f'{embedding} - {cluster_model} - {source} Clustering (Colored by Source)')
-    plt.xlabel('UMAP 1')
-    plt.ylabel('UMAP 2')
-
-    # Save the source-colored plot
-    output_file = os.path.join(output_dir, f'manualrun_{source}_{embedding}_{cluster_model}_source_plot.png')
-    plt.savefig(output_file)
-    plt.close()
-    print(f"Plot saved as '{output_file}'")
