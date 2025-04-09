@@ -1,0 +1,643 @@
+Source,cluster,x,y,TF_IDF_topic_name,BERTopic_topic_name
+reg,4,13.050617,0.5943977,high voltag land plant local plan,bornholm energi municip
+reg,12,11.657091,2.025483,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,0,12.692522,4.0207024,wind turbin offshor wind north sea,energi bornholm island
+reg,3,12.408122,2.5910978,energi park busi park green transit,bornholm energi island
+reg,3,12.79235,2.2716362,energi park busi park green transit,bornholm energi island
+reg,6,15.207315,3.2171726,offshor wind danish energi wind farm,energi bornholm wind
+reg,2,14.879233,2.2035336,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,7,14.087826,1.9800916,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,5,15.006245,4.473493,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,14,14.351433,4.2571325,district heat heat pump klau vesløv,bornholm energi heat
+reg,6,15.3070345,2.8952065,offshor wind danish energi wind farm,energi bornholm wind
+reg,8,10.967041,3.0636616,municip council next year social democraci,bornholm municip year
+reg,13,13.398916,2.8284812,danish environment danish environment protect protect agenc,bornholm energi island
+reg,7,14.065359,1.9281218,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,7,11.555178,2.7927527,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,6,15.576023,3.070362,offshor wind danish energi wind farm,energi bornholm wind
+reg,6,15.0885725,3.0044518,offshor wind danish energi wind farm,energi bornholm wind
+reg,8,10.221453,2.7485266,municip council next year social democraci,bornholm municip year
+reg,1,10.474038,3.4878078,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,4,13.253327,1.1992246,high voltag land plant local plan,bornholm energi municip
+reg,10,14.229255,3.183539,energiø bornholm state aid electr price,energi bornholm island
+reg,3,12.654144,2.3964603,energi park busi park green transit,bornholm energi island
+reg,14,14.118314,4.492696,district heat heat pump klau vesløv,bornholm energi heat
+reg,1,10.547457,3.417918,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,3,11.313833,1.3636576,energi park busi park green transit,bornholm energi island
+reg,4,12.920231,1.3313738,high voltag land plant local plan,bornholm energi municip
+reg,6,14.962759,2.705032,offshor wind danish energi wind farm,energi bornholm wind
+reg,1,10.974095,3.825218,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,8,10.465156,3.0165288,municip council next year social democraci,bornholm municip year
+reg,2,14.638757,2.2721515,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,14,14.079051,4.143871,district heat heat pump klau vesløv,bornholm energi heat
+reg,14,13.572153,4.0496883,district heat heat pump klau vesløv,bornholm energi heat
+reg,0,13.065479,4.3109665,wind turbin offshor wind north sea,energi bornholm island
+reg,0,13.282158,4.4392095,wind turbin offshor wind north sea,energi bornholm island
+reg,0,13.064708,4.7706685,wind turbin offshor wind north sea,energi bornholm island
+reg,2,15.335502,2.297841,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,10,14.277616,3.2564645,energiø bornholm state aid electr price,energi bornholm island
+reg,11,13.803778,1.8610557,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,11,13.901141,2.2423105,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,2,14.688241,2.2543554,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,10,14.051645,3.535298,energiø bornholm state aid electr price,energi bornholm island
+reg,3,12.591638,2.2052953,energi park busi park green transit,bornholm energi island
+reg,0,14.499262,5.1527157,wind turbin offshor wind north sea,energi bornholm island
+reg,7,14.256071,2.554952,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,11,13.738354,1.7622348,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,4,12.553178,1.2054126,high voltag land plant local plan,bornholm energi municip
+reg,0,14.44979,5.151303,wind turbin offshor wind north sea,energi bornholm island
+reg,11,14.222286,2.144728,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,11,13.699334,1.4428173,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,11,14.318353,2.1058311,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,8,11.122317,3.0324728,municip council next year social democraci,bornholm municip year
+reg,5,14.681884,4.185369,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,3,12.503381,2.0368955,energi park busi park green transit,bornholm energi island
+reg,2,14.15215,1.4447705,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,2,15.206684,2.34413,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,14,14.211966,4.186231,district heat heat pump klau vesløv,bornholm energi heat
+reg,4,13.49983,1.2162399,high voltag land plant local plan,bornholm energi municip
+reg,7,11.748267,3.0717196,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,14,13.748333,4.102777,district heat heat pump klau vesløv,bornholm energi heat
+reg,2,14.471255,1.6144679,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,5,14.989788,4.0716558,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,13,13.269478,2.0415423,danish environment danish environment protect protect agenc,bornholm energi island
+reg,15,10.215129,2.264514,ann thoma top candid social democraci,say municip bornholm
+reg,6,15.151508,3.1181989,offshor wind danish energi wind farm,energi bornholm wind
+reg,14,14.456776,4.309827,district heat heat pump klau vesløv,bornholm energi heat
+reg,0,12.076671,4.3759837,wind turbin offshor wind north sea,energi bornholm island
+reg,3,12.440832,3.2742767,energi park busi park green transit,bornholm energi island
+reg,6,15.389271,2.6800425,offshor wind danish energi wind farm,energi bornholm wind
+reg,6,15.233095,2.6484957,offshor wind danish energi wind farm,energi bornholm wind
+reg,8,10.586161,3.0589132,municip council next year social democraci,bornholm municip year
+reg,11,13.244797,2.239191,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,1,10.764141,3.8219557,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,0,13.503106,4.9306507,wind turbin offshor wind north sea,energi bornholm island
+reg,2,14.786002,2.3767715,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,4,13.163846,0.6076117,high voltag land plant local plan,bornholm energi municip
+reg,2,14.723507,2.096028,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,10,14.095839,3.527415,energiø bornholm state aid electr price,energi bornholm island
+reg,2,14.405196,1.3477756,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,2,14.936091,2.6951263,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,7,11.641988,3.0416565,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,5,14.715401,4.6342816,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,8,11.00783,2.948227,municip council next year social democraci,bornholm municip year
+reg,6,14.905816,2.7359884,offshor wind danish energi wind farm,energi bornholm wind
+reg,13,13.230759,2.2869072,danish environment danish environment protect protect agenc,bornholm energi island
+reg,11,13.220388,2.3023698,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,6,15.242491,3.1193871,offshor wind danish energi wind farm,energi bornholm wind
+reg,4,13.079726,0.64288884,high voltag land plant local plan,bornholm energi municip
+reg,0,12.448224,4.635673,wind turbin offshor wind north sea,energi bornholm island
+reg,0,12.465765,4.6210513,wind turbin offshor wind north sea,energi bornholm island
+reg,0,12.445378,4.6580453,wind turbin offshor wind north sea,energi bornholm island
+reg,6,15.453283,3.0816896,offshor wind danish energi wind farm,energi bornholm wind
+reg,5,14.64234,3.9252279,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,4,13.46583,0.84698063,high voltag land plant local plan,bornholm energi municip
+reg,6,15.183892,2.9166698,offshor wind danish energi wind farm,energi bornholm wind
+reg,4,12.94881,1.4543909,high voltag land plant local plan,bornholm energi municip
+reg,4,13.11789,0.7504104,high voltag land plant local plan,bornholm energi municip
+reg,4,13.17864,1.0856556,high voltag land plant local plan,bornholm energi municip
+reg,4,12.690368,0.9456908,high voltag land plant local plan,bornholm energi municip
+reg,0,13.251899,4.7232037,wind turbin offshor wind north sea,energi bornholm island
+reg,16,11.061789,2.01676,food school bornholm agricultur søren schow,bornholm food energi
+reg,16,10.9317255,2.1602855,food school bornholm agricultur søren schow,bornholm food energi
+reg,0,13.576759,5.004988,wind turbin offshor wind north sea,energi bornholm island
+reg,4,13.150785,0.54720604,high voltag land plant local plan,bornholm energi municip
+reg,7,14.220249,2.5925016,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,1,11.238755,3.3897076,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,0,12.753032,4.9658465,wind turbin offshor wind north sea,energi bornholm island
+reg,3,12.312283,2.2866359,energi park busi park green transit,bornholm energi island
+reg,2,14.526507,1.9922702,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,2,14.488919,1.477749,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,6,15.435598,2.7676597,offshor wind danish energi wind farm,energi bornholm wind
+reg,6,15.468478,2.818379,offshor wind danish energi wind farm,energi bornholm wind
+reg,3,12.79799,1.9396639,energi park busi park green transit,bornholm energi island
+reg,4,13.33394,0.9951339,high voltag land plant local plan,bornholm energi municip
+reg,6,15.391098,3.1561587,offshor wind danish energi wind farm,energi bornholm wind
+reg,0,13.124883,4.6127048,wind turbin offshor wind north sea,energi bornholm island
+reg,0,14.601284,4.921313,wind turbin offshor wind north sea,energi bornholm island
+reg,13,13.400599,2.8295827,danish environment danish environment protect protect agenc,bornholm energi island
+reg,2,14.4643135,1.7091653,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,0,12.001041,4.342179,wind turbin offshor wind north sea,energi bornholm island
+reg,2,14.547877,1.9845307,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,14,13.778836,3.903845,district heat heat pump klau vesløv,bornholm energi heat
+reg,6,15.417463,2.9619474,offshor wind danish energi wind farm,energi bornholm wind
+reg,9,11.388649,0.7664965,jacob trøst social democraci citizen meet,bornholm energi island
+reg,16,10.960296,2.1295516,food school bornholm agricultur søren schow,bornholm food energi
+reg,16,11.0710535,2.0422633,food school bornholm agricultur søren schow,bornholm food energi
+reg,4,12.967274,0.82390505,high voltag land plant local plan,bornholm energi municip
+reg,9,11.046001,0.90607303,jacob trøst social democraci citizen meet,bornholm energi island
+reg,3,12.599469,2.7579632,energi park busi park green transit,bornholm energi island
+reg,6,15.456238,2.7680757,offshor wind danish energi wind farm,energi bornholm wind
+reg,6,15.528625,3.1551464,offshor wind danish energi wind farm,energi bornholm wind
+reg,11,13.532054,2.1539202,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,5,15.012357,3.7382302,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,12,11.890076,1.6079319,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,2,15.297643,2.3024242,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,3,12.42965,1.9657604,energi park busi park green transit,bornholm energi island
+reg,2,15.120524,2.115573,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,6,15.417279,2.6776717,offshor wind danish energi wind farm,energi bornholm wind
+reg,2,14.5987425,2.0486176,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,0,13.3383045,4.411053,wind turbin offshor wind north sea,energi bornholm island
+reg,0,14.28196,5.1691256,wind turbin offshor wind north sea,energi bornholm island
+reg,1,10.412246,3.9062014,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,2,14.554466,1.7723219,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,12,12.585671,1.1773537,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,3,12.246607,2.2310193,energi park busi park green transit,bornholm energi island
+reg,8,10.673612,3.1854281,municip council next year social democraci,bornholm municip year
+reg,0,14.115816,5.178137,wind turbin offshor wind north sea,energi bornholm island
+reg,0,14.356535,5.192148,wind turbin offshor wind north sea,energi bornholm island
+reg,13,13.461623,3.1724083,danish environment danish environment protect protect agenc,bornholm energi island
+reg,8,10.526185,3.1674163,municip council next year social democraci,bornholm municip year
+reg,10,14.338052,3.3399875,energiø bornholm state aid electr price,energi bornholm island
+reg,6,15.12814,3.1400106,offshor wind danish energi wind farm,energi bornholm wind
+reg,10,14.355852,3.361741,energiø bornholm state aid electr price,energi bornholm island
+reg,11,12.647819,3.041508,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,12,11.824467,1.718298,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,12,12.511394,1.1882786,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,4,13.210121,0.6522042,high voltag land plant local plan,bornholm energi municip
+reg,2,14.751628,2.3805637,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,8,10.194377,3.069616,municip council next year social democraci,bornholm municip year
+reg,4,12.822244,4.1160893,high voltag land plant local plan,bornholm energi municip
+reg,6,15.614282,3.0897539,offshor wind danish energi wind farm,energi bornholm wind
+reg,7,11.308916,2.609893,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,1,11.349867,3.224716,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,0,12.914249,4.7970247,wind turbin offshor wind north sea,energi bornholm island
+reg,1,10.71127,3.376334,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,1,10.449224,3.7344277,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,1,10.485512,3.8606215,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,1,10.319794,3.3475537,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,0,12.718306,3.7007017,wind turbin offshor wind north sea,energi bornholm island
+reg,2,14.969013,2.2845714,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,2,15.000933,2.2835875,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,7,11.487174,2.5041394,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,2,15.272531,3.0949724,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,1,10.358673,3.704365,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,1,11.565317,4.45632,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,13,12.993953,2.2186413,danish environment danish environment protect protect agenc,bornholm energi island
+reg,11,12.965021,3.5247126,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,13,13.648781,2.0586078,danish environment danish environment protect protect agenc,bornholm energi island
+reg,0,12.933787,4.5866733,wind turbin offshor wind north sea,energi bornholm island
+reg,5,14.981684,4.046019,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,0,12.597659,4.5728974,wind turbin offshor wind north sea,energi bornholm island
+reg,9,11.069208,1.1696072,jacob trøst social democraci citizen meet,bornholm energi island
+reg,9,11.274643,0.894902,jacob trøst social democraci citizen meet,bornholm energi island
+reg,2,14.749684,2.936507,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,1,10.174906,3.6754808,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,3,12.537108,1.417626,energi park busi park green transit,bornholm energi island
+reg,9,11.699508,0.8576846,jacob trøst social democraci citizen meet,bornholm energi island
+reg,5,14.966085,3.9928653,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,3,13.466049,1.9365621,energi park busi park green transit,bornholm energi island
+reg,13,13.412705,2.1333818,danish environment danish environment protect protect agenc,bornholm energi island
+reg,13,13.394163,2.2184308,danish environment danish environment protect protect agenc,bornholm energi island
+reg,4,13.027464,1.074648,high voltag land plant local plan,bornholm energi municip
+reg,4,13.073231,0.65898776,high voltag land plant local plan,bornholm energi municip
+reg,3,12.474145,3.2934828,energi park busi park green transit,bornholm energi island
+reg,2,14.470859,1.47593,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,2,14.040202,1.2373347,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,4,13.047563,0.9232126,high voltag land plant local plan,bornholm energi municip
+reg,3,12.9276495,2.6908991,energi park busi park green transit,bornholm energi island
+reg,5,14.927807,4.397956,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,11,14.161448,2.1412356,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,9,11.250487,0.988196,jacob trøst social democraci citizen meet,bornholm energi island
+reg,5,14.946205,4.440935,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,12,11.768915,1.9086633,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,13,13.234568,3.2154994,danish environment danish environment protect protect agenc,bornholm energi island
+reg,1,11.170814,3.4637566,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,5,14.256495,2.7110174,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,7,11.841933,3.3816073,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,0,13.180894,4.564625,wind turbin offshor wind north sea,energi bornholm island
+reg,3,12.342067,1.8463598,energi park busi park green transit,bornholm energi island
+reg,7,11.574117,2.7815986,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,13,13.425299,2.9512994,danish environment danish environment protect protect agenc,bornholm energi island
+reg,0,12.525546,4.5276403,wind turbin offshor wind north sea,energi bornholm island
+reg,0,12.388664,3.8344243,wind turbin offshor wind north sea,energi bornholm island
+reg,6,15.011413,3.3556173,offshor wind danish energi wind farm,energi bornholm wind
+reg,5,14.836701,4.4431887,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,3,12.39674,2.8021357,energi park busi park green transit,bornholm energi island
+reg,11,13.974778,2.2229235,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,15,10.342352,2.340104,ann thoma top candid social democraci,say municip bornholm
+reg,13,13.388661,3.037414,danish environment danish environment protect protect agenc,bornholm energi island
+reg,13,13.900583,2.832263,danish environment danish environment protect protect agenc,bornholm energi island
+reg,4,13.200326,0.6321885,high voltag land plant local plan,bornholm energi municip
+reg,11,13.3716755,1.580253,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,1,10.375021,3.9123318,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,12,12.781814,0.89916074,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,4,13.307612,1.0312916,high voltag land plant local plan,bornholm energi municip
+reg,1,10.314111,3.8421013,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,4,13.079825,0.73441994,high voltag land plant local plan,bornholm energi municip
+reg,6,15.334579,2.977215,offshor wind danish energi wind farm,energi bornholm wind
+reg,9,11.288852,0.96355903,jacob trøst social democraci citizen meet,bornholm energi island
+reg,9,11.826454,0.8185069,jacob trøst social democraci citizen meet,bornholm energi island
+reg,2,15.288104,2.4893875,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,6,15.277363,2.6189198,offshor wind danish energi wind farm,energi bornholm wind
+reg,0,12.388915,4.816631,wind turbin offshor wind north sea,energi bornholm island
+reg,9,11.053881,1.0004004,jacob trøst social democraci citizen meet,bornholm energi island
+reg,6,15.172568,2.9572341,offshor wind danish energi wind farm,energi bornholm wind
+reg,16,10.946077,2.0985816,food school bornholm agricultur søren schow,bornholm food energi
+reg,0,12.446416,4.2739697,wind turbin offshor wind north sea,energi bornholm island
+reg,9,11.143403,0.97734773,jacob trøst social democraci citizen meet,bornholm energi island
+reg,13,12.924881,2.4648795,danish environment danish environment protect protect agenc,bornholm energi island
+reg,6,15.28875,2.4098425,offshor wind danish energi wind farm,energi bornholm wind
+reg,1,11.315659,4.3774076,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,9,11.293165,0.91285473,jacob trøst social democraci citizen meet,bornholm energi island
+reg,9,11.276615,0.9217215,jacob trøst social democraci citizen meet,bornholm energi island
+reg,2,14.386081,1.7412112,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,3,12.404503,1.9732238,energi park busi park green transit,bornholm energi island
+reg,3,12.223845,1.7499299,energi park busi park green transit,bornholm energi island
+reg,7,11.89509,2.4817097,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,1,10.262284,3.9381084,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,1,10.192273,3.6416378,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,1,11.230095,3.88992,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,16,11.064193,2.0238156,food school bornholm agricultur søren schow,bornholm food energi
+reg,2,14.520116,1.5771693,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,9,11.599668,0.8996559,jacob trøst social democraci citizen meet,bornholm energi island
+reg,14,14.415385,4.3411098,district heat heat pump klau vesløv,bornholm energi heat
+reg,5,14.778142,3.6677022,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,11,13.792143,1.4378462,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,9,11.022835,0.743465,jacob trøst social democraci citizen meet,bornholm energi island
+reg,13,13.70023,3.00715,danish environment danish environment protect protect agenc,bornholm energi island
+reg,3,12.702271,2.5726945,energi park busi park green transit,bornholm energi island
+reg,0,12.940823,4.3451858,wind turbin offshor wind north sea,energi bornholm island
+reg,1,11.731479,3.9554338,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,1,11.360479,3.6611404,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,4,13.025389,0.66610897,high voltag land plant local plan,bornholm energi municip
+reg,3,12.468845,2.5856304,energi park busi park green transit,bornholm energi island
+reg,4,13.357213,1.0249056,high voltag land plant local plan,bornholm energi municip
+reg,1,11.295518,4.0669236,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,3,12.2631035,2.758745,energi park busi park green transit,bornholm energi island
+reg,4,13.191416,1.0281326,high voltag land plant local plan,bornholm energi municip
+reg,9,11.44722,0.7759172,jacob trøst social democraci citizen meet,bornholm energi island
+reg,1,10.90802,3.788804,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,0,12.739552,4.6618447,wind turbin offshor wind north sea,energi bornholm island
+reg,3,12.387937,2.908134,energi park busi park green transit,bornholm energi island
+reg,2,14.435661,1.4709635,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,14,13.962284,4.0038457,district heat heat pump klau vesløv,bornholm energi heat
+reg,1,11.455579,3.513507,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,7,11.674855,2.9230022,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,8,11.088464,2.9056897,municip council next year social democraci,bornholm municip year
+reg,0,13.5039425,4.5219073,wind turbin offshor wind north sea,energi bornholm island
+reg,9,11.488917,0.72939175,jacob trøst social democraci citizen meet,bornholm energi island
+reg,3,11.403678,1.6958094,energi park busi park green transit,bornholm energi island
+reg,14,14.48189,3.827432,district heat heat pump klau vesløv,bornholm energi heat
+reg,15,10.149093,2.0283084,ann thoma top candid social democraci,say municip bornholm
+reg,1,11.262039,4.280034,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,0,11.940663,3.6166458,wind turbin offshor wind north sea,energi bornholm island
+reg,9,11.162741,0.8961658,jacob trøst social democraci citizen meet,bornholm energi island
+reg,2,14.418372,1.5448983,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,9,11.71487,0.81594115,jacob trøst social democraci citizen meet,bornholm energi island
+reg,0,12.635108,4.7442646,wind turbin offshor wind north sea,energi bornholm island
+reg,7,11.578839,2.7052202,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,0,11.984383,3.7080114,wind turbin offshor wind north sea,energi bornholm island
+reg,7,11.388285,2.6479018,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,7,11.387625,2.4175723,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,6,15.365069,3.1719198,offshor wind danish energi wind farm,energi bornholm wind
+reg,5,14.707256,4.454082,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,1,11.527854,3.4582295,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,14,14.598885,3.8797774,district heat heat pump klau vesløv,bornholm energi heat
+reg,5,15.096889,4.3507476,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,11,13.287777,2.371816,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,8,10.441714,2.590357,municip council next year social democraci,bornholm municip year
+reg,1,11.068873,3.3795452,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,3,12.349587,1.5927435,energi park busi park green transit,bornholm energi island
+reg,5,14.858537,4.4378037,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,5,15.019828,4.312514,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,13,13.493526,2.2322376,danish environment danish environment protect protect agenc,bornholm energi island
+reg,4,12.2791605,1.460004,high voltag land plant local plan,bornholm energi municip
+reg,5,14.909577,4.5250096,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,13,13.2917,2.9709604,danish environment danish environment protect protect agenc,bornholm energi island
+reg,5,15.086463,3.669136,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,5,14.862473,3.686752,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,5,15.114975,4.169667,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,15,10.656367,1.4173189,ann thoma top candid social democraci,say municip bornholm
+reg,1,11.025536,3.4468262,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,9,11.250291,0.9834783,jacob trøst social democraci citizen meet,bornholm energi island
+reg,12,12.62925,0.9980878,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,9,11.879425,1.13884,jacob trøst social democraci citizen meet,bornholm energi island
+reg,10,14.497121,3.1779463,energiø bornholm state aid electr price,energi bornholm island
+reg,12,11.726503,1.8426768,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,10,14.2313595,3.6293743,energiø bornholm state aid electr price,energi bornholm island
+reg,0,12.720559,3.9767444,wind turbin offshor wind north sea,energi bornholm island
+reg,0,13.132765,4.763499,wind turbin offshor wind north sea,energi bornholm island
+reg,0,12.6954,4.410994,wind turbin offshor wind north sea,energi bornholm island
+reg,0,14.031001,5.1518188,wind turbin offshor wind north sea,energi bornholm island
+reg,1,11.155143,4.2908316,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,0,14.016972,5.2305074,wind turbin offshor wind north sea,energi bornholm island
+reg,3,12.784927,2.7101464,energi park busi park green transit,bornholm energi island
+reg,2,14.762609,1.7841811,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,12,11.708092,1.7607595,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,2,14.330259,2.6181855,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,9,11.516853,1.1330907,jacob trøst social democraci citizen meet,bornholm energi island
+reg,7,11.718624,2.3933175,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,14,14.19648,4.5040884,district heat heat pump klau vesløv,bornholm energi heat
+reg,12,12.721169,0.98668605,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,13,13.517208,2.4354126,danish environment danish environment protect protect agenc,bornholm energi island
+reg,13,13.181761,3.2179759,danish environment danish environment protect protect agenc,bornholm energi island
+reg,5,15.012228,4.351335,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,2,13.746409,2.6285224,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,1,10.487812,3.827767,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,12,12.570427,1.0619996,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,12,12.605433,1.0159678,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,0,12.105915,3.7031193,wind turbin offshor wind north sea,energi bornholm island
+reg,1,11.782725,4.052009,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,2,14.398713,1.538751,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,14,14.736657,4.331883,district heat heat pump klau vesløv,bornholm energi heat
+reg,1,10.583394,3.6866727,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,15,10.555315,2.2921083,ann thoma top candid social democraci,say municip bornholm
+reg,6,14.99954,3.2234662,offshor wind danish energi wind farm,energi bornholm wind
+reg,7,11.592542,2.892035,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,0,11.862413,4.5919476,wind turbin offshor wind north sea,energi bornholm island
+reg,5,15.135742,4.260448,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,0,12.630371,4.7801647,wind turbin offshor wind north sea,energi bornholm island
+reg,9,11.743503,0.7896485,jacob trøst social democraci citizen meet,bornholm energi island
+reg,2,14.980236,2.220861,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,5,15.145001,4.600635,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,1,11.153259,3.7684467,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,10,14.386417,3.5500078,energiø bornholm state aid electr price,energi bornholm island
+reg,2,14.879744,2.6019754,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,10,14.21228,3.4213746,energiø bornholm state aid electr price,energi bornholm island
+reg,4,13.178823,0.57772195,high voltag land plant local plan,bornholm energi municip
+reg,0,13.44479,4.105426,wind turbin offshor wind north sea,energi bornholm island
+reg,3,13.0068035,2.8790495,energi park busi park green transit,bornholm energi island
+reg,6,15.200958,3.1453805,offshor wind danish energi wind farm,energi bornholm wind
+reg,1,11.072897,4.2846932,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,6,15.488684,2.511708,offshor wind danish energi wind farm,energi bornholm wind
+reg,0,14.163135,5.2613983,wind turbin offshor wind north sea,energi bornholm island
+reg,10,14.301447,3.3311076,energiø bornholm state aid electr price,energi bornholm island
+reg,7,11.652287,3.019545,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,15,10.678468,3.0223024,ann thoma top candid social democraci,say municip bornholm
+reg,5,15.010081,4.5110164,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,7,11.789644,2.5189002,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,14,13.793042,3.4329562,district heat heat pump klau vesløv,bornholm energi heat
+reg,0,14.467135,5.175856,wind turbin offshor wind north sea,energi bornholm island
+reg,7,14.003394,2.2044146,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,8,11.106776,2.9111545,municip council next year social democraci,bornholm municip year
+reg,8,10.165352,3.234931,municip council next year social democraci,bornholm municip year
+reg,0,14.333619,5.189913,wind turbin offshor wind north sea,energi bornholm island
+reg,8,10.185493,3.245823,municip council next year social democraci,bornholm municip year
+reg,10,14.486219,3.424462,energiø bornholm state aid electr price,energi bornholm island
+reg,6,15.198175,2.767937,offshor wind danish energi wind farm,energi bornholm wind
+reg,15,10.244589,1.8381135,ann thoma top candid social democraci,say municip bornholm
+reg,9,11.641918,0.95440024,jacob trøst social democraci citizen meet,bornholm energi island
+reg,1,11.698614,4.0525336,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,15,10.594864,1.4661609,ann thoma top candid social democraci,say municip bornholm
+reg,3,12.099798,2.7514684,energi park busi park green transit,bornholm energi island
+reg,8,10.112128,2.9875154,municip council next year social democraci,bornholm municip year
+reg,3,12.765188,2.807282,energi park busi park green transit,bornholm energi island
+reg,3,12.515721,3.3739417,energi park busi park green transit,bornholm energi island
+reg,12,11.67142,2.0037138,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,1,10.485841,3.8541996,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,7,13.987917,1.8883501,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,0,14.272634,5.2380114,wind turbin offshor wind north sea,energi bornholm island
+reg,8,10.9114065,2.9454439,municip council next year social democraci,bornholm municip year
+reg,3,13.006288,3.0527575,energi park busi park green transit,bornholm energi island
+reg,8,10.154408,3.0669572,municip council next year social democraci,bornholm municip year
+reg,8,10.069922,2.8184445,municip council next year social democraci,bornholm municip year
+reg,12,11.437143,2.1360922,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,3,12.79593,3.2499936,energi park busi park green transit,bornholm energi island
+reg,5,15.0928755,4.3408957,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,5,14.8162,4.567755,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,16,10.906984,2.1131465,food school bornholm agricultur søren schow,bornholm food energi
+reg,1,10.89074,3.6589942,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,12,11.5602665,1.9259728,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,0,12.500302,4.875544,wind turbin offshor wind north sea,energi bornholm island
+reg,8,10.112634,3.0051882,municip council next year social democraci,bornholm municip year
+reg,6,15.505803,2.548106,offshor wind danish energi wind farm,energi bornholm wind
+reg,5,15.016066,4.443607,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,5,15.014114,4.467353,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,5,14.927234,4.621075,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,15,10.191183,1.9609568,ann thoma top candid social democraci,say municip bornholm
+reg,8,10.074427,3.2664244,municip council next year social democraci,bornholm municip year
+reg,15,10.21907,2.1630318,ann thoma top candid social democraci,say municip bornholm
+reg,5,14.977128,4.5310316,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,1,11.448297,4.542244,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,13,13.121254,2.2758682,danish environment danish environment protect protect agenc,bornholm energi island
+reg,4,13.27303,1.3464173,high voltag land plant local plan,bornholm energi municip
+reg,2,15.2016,2.104094,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,7,11.2357025,2.8133762,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,0,14.485925,4.992563,wind turbin offshor wind north sea,energi bornholm island
+reg,10,14.356373,3.1917114,energiø bornholm state aid electr price,energi bornholm island
+reg,3,11.86,0.8282551,energi park busi park green transit,bornholm energi island
+reg,11,13.023578,3.3187687,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,5,15.04805,4.4228973,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,16,10.836081,2.341819,food school bornholm agricultur søren schow,bornholm food energi
+reg,5,14.803923,4.605405,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,2,14.667924,1.5901209,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,0,12.411146,4.7275424,wind turbin offshor wind north sea,energi bornholm island
+reg,2,15.32752,2.3601048,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,1,11.563496,4.5385056,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,0,12.022163,4.5400047,wind turbin offshor wind north sea,energi bornholm island
+reg,0,14.5928955,5.1463814,wind turbin offshor wind north sea,energi bornholm island
+reg,1,10.636774,3.6328304,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,1,11.331786,4.3767943,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,0,12.689726,4.0025353,wind turbin offshor wind north sea,energi bornholm island
+reg,7,11.607827,2.888428,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,7,11.369311,3.0653355,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,0,13.438656,4.4048476,wind turbin offshor wind north sea,energi bornholm island
+reg,1,10.960735,3.471378,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,7,11.572775,2.7575989,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,6,15.106412,2.9279695,offshor wind danish energi wind farm,energi bornholm wind
+reg,16,10.839417,2.247076,food school bornholm agricultur søren schow,bornholm food energi
+reg,8,10.066325,2.8525403,municip council next year social democraci,bornholm municip year
+reg,1,10.750281,3.4264643,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,3,12.819206,2.0425136,energi park busi park green transit,bornholm energi island
+reg,1,10.6158085,3.7707112,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,2,14.456858,2.1746056,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,0,12.424313,4.7737427,wind turbin offshor wind north sea,energi bornholm island
+reg,3,12.16878,2.2059765,energi park busi park green transit,bornholm energi island
+reg,2,14.721505,1.6106293,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,2,15.204346,2.2175875,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,15,10.184619,2.0878787,ann thoma top candid social democraci,say municip bornholm
+reg,3,12.45391,1.9894387,energi park busi park green transit,bornholm energi island
+reg,7,14.443507,2.7339213,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,2,15.205841,2.2150972,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,11,12.95837,3.4522612,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,0,12.265836,4.786131,wind turbin offshor wind north sea,energi bornholm island
+reg,11,14.611199,2.411095,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,0,12.6767025,4.8798747,wind turbin offshor wind north sea,energi bornholm island
+reg,0,12.10332,3.7010117,wind turbin offshor wind north sea,energi bornholm island
+reg,3,12.477206,2.5038357,energi park busi park green transit,bornholm energi island
+reg,5,14.615266,4.8956323,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,3,11.441868,1.5034811,energi park busi park green transit,bornholm energi island
+reg,8,10.913128,3.0384552,municip council next year social democraci,bornholm municip year
+reg,7,11.971388,2.967654,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,5,15.072197,3.775417,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,4,13.374554,1.2662714,high voltag land plant local plan,bornholm energi municip
+reg,0,12.319505,3.8887057,wind turbin offshor wind north sea,energi bornholm island
+reg,1,10.384494,3.9876955,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,8,10.6497555,3.1381958,municip council next year social democraci,bornholm municip year
+reg,8,10.353113,2.9557924,municip council next year social democraci,bornholm municip year
+reg,0,13.137889,4.662005,wind turbin offshor wind north sea,energi bornholm island
+reg,1,11.358685,4.1590314,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,9,11.580719,1.1005555,jacob trøst social democraci citizen meet,bornholm energi island
+reg,6,15.5572815,2.5490263,offshor wind danish energi wind farm,energi bornholm wind
+reg,9,11.761942,1.0170894,jacob trøst social democraci citizen meet,bornholm energi island
+reg,3,11.335516,1.3037119,energi park busi park green transit,bornholm energi island
+reg,6,15.584383,2.8203151,offshor wind danish energi wind farm,energi bornholm wind
+reg,1,10.4328575,3.7569044,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,4,12.383706,1.5212519,high voltag land plant local plan,bornholm energi municip
+reg,2,14.133839,2.2313483,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,4,13.307185,1.1872506,high voltag land plant local plan,bornholm energi municip
+reg,0,13.272119,4.4555516,wind turbin offshor wind north sea,energi bornholm island
+reg,1,11.569676,3.3909428,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,2,14.114796,1.320202,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,11,13.268679,2.3003552,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,11,13.337605,2.3136833,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,1,10.751609,4.2422347,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,3,12.478694,1.9648759,energi park busi park green transit,bornholm energi island
+reg,2,14.863447,1.9803971,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,1,10.824585,4.2372665,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,1,11.435125,4.126,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,1,11.4809675,4.0381265,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,3,12.946901,2.6254709,energi park busi park green transit,bornholm energi island
+reg,4,13.0252695,1.327624,high voltag land plant local plan,bornholm energi municip
+reg,15,10.120213,2.0498211,ann thoma top candid social democraci,say municip bornholm
+reg,8,10.088838,3.1515646,municip council next year social democraci,bornholm municip year
+reg,0,12.084282,4.493048,wind turbin offshor wind north sea,energi bornholm island
+reg,0,12.223785,4.940192,wind turbin offshor wind north sea,energi bornholm island
+reg,0,12.294387,5.050245,wind turbin offshor wind north sea,energi bornholm island
+reg,2,14.278699,2.3849404,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,0,12.382492,4.888826,wind turbin offshor wind north sea,energi bornholm island
+reg,5,14.815101,4.051515,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,8,10.048876,2.7269173,municip council next year social democraci,bornholm municip year
+reg,0,14.081628,5.2286205,wind turbin offshor wind north sea,energi bornholm island
+reg,0,14.342741,5.2020416,wind turbin offshor wind north sea,energi bornholm island
+reg,4,13.221443,1.0806563,high voltag land plant local plan,bornholm energi municip
+reg,9,11.263398,0.9035536,jacob trøst social democraci citizen meet,bornholm energi island
+reg,3,12.629453,2.8800075,energi park busi park green transit,bornholm energi island
+reg,9,11.619717,0.8021152,jacob trøst social democraci citizen meet,bornholm energi island
+reg,2,14.643215,2.296917,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,3,13.287492,1.9083251,energi park busi park green transit,bornholm energi island
+reg,1,11.377481,3.3507752,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,3,12.307519,3.1009352,energi park busi park green transit,bornholm energi island
+reg,1,10.850277,4.4184256,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,1,10.914606,4.470053,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,1,10.855806,4.4743996,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,3,12.797134,2.8707354,energi park busi park green transit,bornholm energi island
+reg,1,10.493929,3.9814572,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,7,11.47498,2.6836002,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,3,11.959091,1.2103541,energi park busi park green transit,bornholm energi island
+reg,1,10.561439,3.6753442,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,7,11.710909,2.6058226,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,2,13.792503,2.6387575,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,2,14.546262,1.5891582,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,4,12.915125,1.2069334,high voltag land plant local plan,bornholm energi municip
+reg,1,10.909936,4.165655,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,0,12.289183,4.3587236,wind turbin offshor wind north sea,energi bornholm island
+reg,0,12.467005,4.4008365,wind turbin offshor wind north sea,energi bornholm island
+reg,12,11.8568325,1.7326899,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,5,14.523539,4.777521,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,0,13.525968,5.218799,wind turbin offshor wind north sea,energi bornholm island
+reg,7,14.196389,2.8762558,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,1,11.472472,4.1939936,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,0,12.296575,4.78623,wind turbin offshor wind north sea,energi bornholm island
+reg,0,11.971876,4.675214,wind turbin offshor wind north sea,energi bornholm island
+reg,15,10.140854,2.0660124,ann thoma top candid social democraci,say municip bornholm
+reg,14,14.0399065,4.5139575,district heat heat pump klau vesløv,bornholm energi heat
+reg,1,11.528926,3.7338839,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,1,10.9316635,4.4357114,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,1,11.35868,3.8967671,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,1,11.150483,4.0346837,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,16,10.705057,2.40659,food school bornholm agricultur søren schow,bornholm food energi
+reg,4,12.66654,1.4603068,high voltag land plant local plan,bornholm energi municip
+reg,4,13.782252,1.0892009,high voltag land plant local plan,bornholm energi municip
+reg,1,11.37008,4.238272,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,16,11.077569,2.04578,food school bornholm agricultur søren schow,bornholm food energi
+reg,0,13.246022,4.2247415,wind turbin offshor wind north sea,energi bornholm island
+reg,8,10.973705,2.897102,municip council next year social democraci,bornholm municip year
+reg,13,13.598302,3.4260578,danish environment danish environment protect protect agenc,bornholm energi island
+reg,4,13.427551,1.4315844,high voltag land plant local plan,bornholm energi municip
+reg,4,13.744643,1.2131324,high voltag land plant local plan,bornholm energi municip
+reg,1,10.523875,3.394244,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,16,10.794128,2.2929287,food school bornholm agricultur søren schow,bornholm food energi
+reg,1,11.429736,4.039244,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,0,11.925461,4.468595,wind turbin offshor wind north sea,energi bornholm island
+reg,7,11.690216,2.4672348,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,15,10.086336,2.1396928,ann thoma top candid social democraci,say municip bornholm
+reg,1,11.008118,2.8766263,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,5,15.02279,4.0231013,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
+reg,8,10.28508,3.1742668,municip council next year social democraci,bornholm municip year
+reg,1,10.645923,4.087026,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,12,12.419719,1.0965753,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,9,11.446879,0.72553694,jacob trøst social democraci citizen meet,bornholm energi island
+reg,2,14.3742,2.551472,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,8,10.181775,2.9707603,municip council next year social democraci,bornholm municip year
+reg,4,13.003478,1.3939954,high voltag land plant local plan,bornholm energi municip
+reg,0,12.182901,4.9909577,wind turbin offshor wind north sea,energi bornholm island
+reg,10,14.170524,3.2696662,energiø bornholm state aid electr price,energi bornholm island
+reg,10,14.131084,3.3391442,energiø bornholm state aid electr price,energi bornholm island
+reg,10,14.107303,3.305481,energiø bornholm state aid electr price,energi bornholm island
+reg,0,14.575343,5.0733123,wind turbin offshor wind north sea,energi bornholm island
+reg,0,13.487092,5.1013293,wind turbin offshor wind north sea,energi bornholm island
+reg,8,10.343426,2.9048948,municip council next year social democraci,bornholm municip year
+reg,8,10.223867,2.9060571,municip council next year social democraci,bornholm municip year
+reg,8,10.081655,3.0797353,municip council next year social democraci,bornholm municip year
+reg,8,10.991756,2.9453108,municip council next year social democraci,bornholm municip year
+reg,12,11.699513,1.9684359,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,12,11.629708,2.0873742,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,10,14.149322,3.3318653,energiø bornholm state aid electr price,energi bornholm island
+reg,1,11.133923,3.9180176,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,16,10.808375,2.2744675,food school bornholm agricultur søren schow,bornholm food energi
+reg,1,11.036924,3.834947,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,14,13.996159,4.100765,district heat heat pump klau vesløv,bornholm energi heat
+reg,11,13.661698,1.8422624,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,1,11.215607,4.51331,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,1,11.772215,3.3365593,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,3,12.484291,1.8361274,energi park busi park green transit,bornholm energi island
+reg,2,14.723139,2.2088792,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,0,12.303841,3.7531514,wind turbin offshor wind north sea,energi bornholm island
+reg,0,12.843801,4.972188,wind turbin offshor wind north sea,energi bornholm island
+reg,0,11.837125,4.4678245,wind turbin offshor wind north sea,energi bornholm island
+reg,0,13.075667,4.2323384,wind turbin offshor wind north sea,energi bornholm island
+reg,1,10.356424,3.933552,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,1,11.581774,4.3141713,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,3,12.5085,2.5130222,energi park busi park green transit,bornholm energi island
+reg,0,12.01215,4.9019113,wind turbin offshor wind north sea,energi bornholm island
+reg,3,12.518657,1.95012,energi park busi park green transit,bornholm energi island
+reg,3,12.571089,1.9592822,energi park busi park green transit,bornholm energi island
+reg,16,10.668775,2.4112298,food school bornholm agricultur søren schow,bornholm food energi
+reg,16,10.681635,2.377415,food school bornholm agricultur søren schow,bornholm food energi
+reg,16,10.572711,2.4393303,food school bornholm agricultur søren schow,bornholm food energi
+reg,16,10.720359,2.3857622,food school bornholm agricultur søren schow,bornholm food energi
+reg,0,11.872974,4.5514345,wind turbin offshor wind north sea,energi bornholm island
+reg,0,12.336942,4.1111884,wind turbin offshor wind north sea,energi bornholm island
+reg,0,12.512152,4.5562086,wind turbin offshor wind north sea,energi bornholm island
+reg,0,12.699948,4.647131,wind turbin offshor wind north sea,energi bornholm island
+reg,7,14.30709,2.5413508,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,0,12.1231,4.9080625,wind turbin offshor wind north sea,energi bornholm island
+reg,0,13.929031,5.196426,wind turbin offshor wind north sea,energi bornholm island
+reg,1,11.374063,4.594832,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,15,10.444889,1.571711,ann thoma top candid social democraci,say municip bornholm
+reg,0,12.026958,4.471904,wind turbin offshor wind north sea,energi bornholm island
+reg,0,11.825536,4.8471165,wind turbin offshor wind north sea,energi bornholm island
+reg,1,11.448304,4.4887896,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,13,14.030148,3.830665,danish environment danish environment protect protect agenc,bornholm energi island
+reg,0,12.260318,4.9587817,wind turbin offshor wind north sea,energi bornholm island
+reg,4,11.9201765,1.1343846,high voltag land plant local plan,bornholm energi municip
+reg,14,13.819888,4.0745325,district heat heat pump klau vesløv,bornholm energi heat
+reg,6,15.194754,2.5200615,offshor wind danish energi wind farm,energi bornholm wind
+reg,10,14.047749,3.5031846,energiø bornholm state aid electr price,energi bornholm island
+reg,0,12.672228,5.130593,wind turbin offshor wind north sea,energi bornholm island
+reg,4,13.1327095,0.47777316,high voltag land plant local plan,bornholm energi municip
+reg,11,12.963878,1.8461987,center bornholm busi center busi center bornholm,bornholm energi busi
+reg,12,12.481378,1.0863651,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,12,12.682237,0.995257,bornholm museum develop strategi plan develop strategi,bornholm energi island
+reg,10,14.203496,3.440715,energiø bornholm state aid electr price,energi bornholm island
+reg,15,10.670117,1.4486455,ann thoma top candid social democraci,say municip bornholm
+reg,1,11.33175,3.5006657,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,10,14.170224,3.5392044,energiø bornholm state aid electr price,energi bornholm island
+reg,1,10.456943,4.04735,municip council elect campaign associ energiø bornholm,bornholm energi island
+reg,7,11.1857815,2.6583734,baltic sea critic infrastructur war ukrain,bornholm energi baltic
+reg,14,14.13666,4.0098166,district heat heat pump klau vesløv,bornholm energi heat
+reg,10,14.156256,3.4676886,energiø bornholm state aid electr price,energi bornholm island
+reg,2,15.377006,2.3493886,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,4,12.0960245,0.96996975,high voltag land plant local plan,bornholm energi municip
+reg,0,13.626112,4.222128,wind turbin offshor wind north sea,energi bornholm island
+reg,10,14.558886,3.0412896,energiø bornholm state aid electr price,energi bornholm island
+reg,16,10.614015,2.432911,food school bornholm agricultur søren schow,bornholm food energi
+reg,0,13.028242,4.4969935,wind turbin offshor wind north sea,energi bornholm island
+reg,10,14.56106,3.3089633,energiø bornholm state aid electr price,energi bornholm island
+reg,15,10.14812,1.9937236,ann thoma top candid social democraci,say municip bornholm
+reg,2,14.44854,2.920168,energi agenc danish energi agenc baltic energi,energi bornholm island
+reg,4,13.139561,0.83935845,high voltag land plant local plan,bornholm energi municip
+reg,0,13.67456,4.2139893,wind turbin offshor wind north sea,energi bornholm island
+reg,15,10.131393,2.0138304,ann thoma top candid social democraci,say municip bornholm
