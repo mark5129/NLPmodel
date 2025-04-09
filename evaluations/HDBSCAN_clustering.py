@@ -8,57 +8,52 @@ import seaborn as sns
 
 def clustering_with_umap_hdbscan(df_file, embeddings, run_id, doc, model):
     """
-    Run clustering using UMAP dimensionality reduction followed by HDBSCAN.
+    Run clustering using UMAP (for clustering) followed by HDBSCAN, then UMAP (for visualization).
 
     Parameters:
-    - df_file: DataFrame containing metadata like 'Source' (for merged) or not (for individual).
-    - embeddings: Embeddings (array-like or DataFrame) used for clustering.
-    - run_id: Identifier for the run (e.g., 'manualrun').
-    - doc: Description of the document type or source name for individual files.
-    - model: Model name (e.g., 'Specter2').
-
-    Steps:
-    1. Standardize the embeddings.
-    2. Reduce dimensions using UMAP.
-    3. Cluster using HDBSCAN.
-    4. Save clustering results and plots.
+    - df_file: DataFrame with metadata like 'Source'.
+    - embeddings: High-dimensional embeddings (array-like or DataFrame).
+    - run_id: Unique identifier for this run.
+    - doc: Document descriptor (e.g., dataset name).
+    - model: Name of the embedding model used.
     """
 
     # Standardize the embeddings
     scaler = StandardScaler()
     embeddings_scaled = scaler.fit_transform(embeddings)
 
-    # Reduce dimensionality
-    n_components = 2  # Set the desired dimensionality
-    umap_model = UMAP(n_neighbors=30, min_dist=0.1, n_components=n_components, random_state=42)
-    reduced_embeddings = umap_model.fit_transform(embeddings_scaled)
+    # UMAP for clustering (10D)
+    umap_cluster = UMAP(n_neighbors=30, min_dist=0.0, n_components=10, metric='cosine', random_state=42)
+    cluster_space = umap_cluster.fit_transform(embeddings_scaled)
 
-    # Cluster using HDBSCAN
-    hdbscan_model = hdbscan.HDBSCAN(min_cluster_size=15, min_samples=1)
-    cluster_labels = hdbscan_model.fit_predict(reduced_embeddings)
+    # HDBSCAN clustering
+    hdbscan_model = hdbscan.HDBSCAN(min_cluster_size=15, min_samples=1, metric='euclidean')
+    cluster_labels = hdbscan_model.fit_predict(cluster_space)
+
+    # UMAP for 2D visualization
+    umap_vis = UMAP(n_neighbors=30, min_dist=0.0, n_components=2, metric='cosine', random_state=42)
+    vis_2d = umap_vis.fit_transform(embeddings_scaled)
 
     # Prepare result DataFrame
     if 'Source' in df_file.columns:
         result_df = df_file[['Source']].copy()
     else:
-        # If 'Source' is missing, use doc as the source name
         result_df = pd.DataFrame({'Source': [doc] * len(df_file)})
 
     result_df['cluster'] = cluster_labels
+    result_df['x'] = vis_2d[:, 0]
+    result_df['y'] = vis_2d[:, 1]
 
-    # Add UMAP x and y coordinates if n_components is 2
-    if n_components == 2:
-        result_df['x'] = reduced_embeddings[:, 0]
-        result_df['y'] = reduced_embeddings[:, 1]
-
-    # Remove rows with cluster = -1
-    result_df = result_df[result_df['cluster'] != -1]
-
-    # Create output directory
-    output_dir = 'evaluations/outputs/'
-    os.makedirs(output_dir, exist_ok=True)
+    # Filter out noise points (cluster = -1)
+    filtered_df = result_df[result_df['cluster'] != -1]
+    df_file = df_file[result_df['cluster'] != -1]
+    
 
     # Save results
-    output_file = os.path.join(output_dir, f'{run_id}_{model}_{doc}_clusters_HDBSCAN{"_2D" if n_components == 2 else ""}.csv')
-    result_df.to_csv(output_file, index=False)
+    output_dir = 'evaluations/outputs/'
+    os.makedirs(output_dir, exist_ok=True)
+    output_file = os.path.join(output_dir, f'{run_id}_{model}_{doc}_clusters_HDBSCAN.csv')
+    filtered_df.to_csv(output_file, index=False)
     print(f"Clustering completed. Results saved to '{os.path.basename(output_file)}'.")
+
+    return filtered_df, df_file
