@@ -16,7 +16,7 @@ def merged_embeddings_plot(embedding, cluster_model):
         None
     """
     # Load the results from CSV
-    df = pd.read_csv(f"evaluations/outputs/manualrun_{embedding}_merged_embeddings_clusters_{cluster_model}_2D.csv")
+    df = pd.read_csv(f"evaluations/outputs/manualrun_{embedding}_merged_embeddings_clusters_{cluster_model}.csv")
             
     # Ensure the output directory exists
     output_dir = 'Visualizations/Plots/' 
@@ -41,7 +41,7 @@ def merged_embeddings_plot(embedding, cluster_model):
         
         # Plot points for the cluster
         plt.scatter(cluster_data['x'], cluster_data['y'], label=f'Cluster {cluster}', alpha=0.5, edgecolors='face', linewidth=0.5, marker='o')
-    plt.title(f'{embedding} - {cluster_model} Clustering (Colored by Cluster)')
+    plt.title(f'{embedding} - {cluster_model} - {source}')
     plt.xlabel('UMAP 1')
     plt.ylabel('UMAP 2')
 
@@ -57,7 +57,7 @@ def merged_embeddings_plot(embedding, cluster_model):
     for source in unique_sources:
         source_data = df[df['Source'] == source]
         plt.scatter(source_data['x'], source_data['y'], label=source, alpha=0.5)
-    plt.title(f'{embedding} - {cluster_model} Clustering (Colored by Source)')
+    plt.title(f'{embedding} - {cluster_model}')
     plt.xlabel('UMAP 1')
     plt.ylabel('UMAP 2')
 

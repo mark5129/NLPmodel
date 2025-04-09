@@ -1,638 +1,609 @@
-Source,cluster,x,y
-reg,1,-2.6505935,9.266756
-reg,1,-2.0429099,7.855779
-reg,2,-4.106742,7.578771
-reg,8,-2.960139,8.222207
-reg,10,-3.3360758,8.659921
-reg,3,-5.2906647,9.536695
-reg,3,-4.3808765,10.164676
-reg,6,-3.4955246,9.938984
-reg,5,-5.995226,8.855747
-reg,13,-5.5497103,8.445603
-reg,3,-5.175268,9.692637
-reg,7,-1.9153556,7.252585
-reg,10,-3.9999983,8.664517
-reg,6,-3.4763672,9.937283
-reg,6,-1.4396791,7.6984572
-reg,3,-5.6138625,9.779434
-reg,3,-5.081078,9.671317
-reg,7,-1.2381946,6.3893557
-reg,0,-2.084755,6.5078263
-reg,1,-2.5487928,9.790762
-reg,11,-4.975639,8.419085
-reg,8,-2.924666,8.372249
-reg,2,-5.5698085,8.27779
-reg,0,-1.872426,6.780353
-reg,8,-1.4581046,8.58877
-reg,1,-2.1905608,9.494113
-reg,3,-4.94486,9.675761
-reg,0,-1.9257301,6.4495106
-reg,7,-1.5089084,6.524288
-reg,3,-4.3026233,9.823698
-reg,13,-5.289638,8.367611
-reg,13,-4.5145373,7.837028
-reg,2,-4.647049,7.1726985
-reg,2,-4.7828274,7.204551
-reg,2,-4.3962107,6.480495
-reg,3,-4.736059,10.33148
-reg,11,-5.123369,8.403866
-reg,1,-3.810258,9.368429
-reg,1,-3.9497817,9.324628
-reg,3,-4.256464,9.92948
-reg,11,-5.1342015,8.235815
-reg,4,-2.4469895,8.244605
-reg,12,-6.2173085,8.043116
-reg,6,-3.6824622,10.020395
-reg,1,-3.5109546,9.346227
-reg,1,-2.5511494,9.003544
-reg,12,-6.218815,7.980346
-reg,1,-4.0969167,9.413635
-reg,1,-3.128956,9.603802
-reg,1,-4.158665,9.522732
-reg,7,-1.9194617,7.333461
-reg,5,-5.644686,8.8501835
-reg,4,-2.197169,8.417014
-reg,9,-3.5436273,10.439985
-reg,3,-4.6948853,10.253188
-reg,13,-5.43549,8.359117
-reg,1,-2.6796415,9.972272
-reg,6,-2.0603862,7.5164084
-reg,13,-4.7487617,7.942535
-reg,9,-3.709605,10.243855
-reg,5,-5.750247,9.090359
-reg,4,-3.477304,9.476906
-reg,15,-0.8870545,7.554765
-reg,3,-5.357123,9.807402
-reg,13,-5.5590844,8.486862
-reg,2,-3.6707377,6.8746347
-reg,8,-3.196601,7.7495956
-reg,3,-4.975995,10.188515
-reg,3,-4.9296107,10.114102
-reg,7,-1.5947095,6.6048245
-reg,10,-3.724001,8.869778
-reg,0,-2.4502509,6.4961348
-reg,2,-5.0922966,7.245357
-reg,3,-4.4792056,9.758614
-reg,1,-2.44856,9.684642
-reg,3,-3.7240033,9.952981
-reg,11,-5.0870485,8.313629
-reg,9,-3.1866071,10.330076
-reg,3,-4.616653,9.752507
-reg,6,-1.9633051,7.4487715
-reg,5,-6.047729,8.5175495
-reg,7,-1.7505709,7.1713433
-reg,3,-3.4285133,9.916546
-reg,4,-3.504674,9.043431
-reg,10,-3.7630444,8.658213
-reg,3,-5.2438517,9.710607
-reg,1,-2.3826427,9.704952
-reg,2,-4.212471,7.275743
-reg,2,-4.2159114,7.1940517
-reg,2,-4.286162,6.963126
-reg,3,-5.4620047,9.762219
-reg,5,-5.440513,8.971673
-reg,1,-5.5437446,9.7528105
-reg,3,-5.3164864,9.588478
-reg,1,-1.9032042,8.670759
-reg,1,-2.3690448,9.771469
-reg,1,-2.3500428,9.9139595
-reg,1,-2.74453,9.102888
-reg,2,-4.8055124,6.797843
-reg,14,-0.59165406,6.8329554
-reg,14,-0.74011916,6.8956075
-reg,2,-5.202324,7.151748
-reg,1,-2.617605,9.588551
-reg,6,-3.862559,9.949774
-reg,0,-2.1949267,7.015096
-reg,2,-4.5609374,6.526783
-reg,8,-2.8133698,8.567131
-reg,3,-4.1224227,9.716291
-reg,9,-3.6132283,10.535759
-reg,3,-5.2054563,10.128494
-reg,3,-5.268548,10.023527
-reg,8,-2.918934,8.980346
-reg,1,-2.4649377,9.978124
-reg,3,-5.397006,9.835011
-reg,2,-4.6972046,7.069683
-reg,12,-6.1151223,8.370054
-reg,10,-3.8030326,8.783293
-reg,3,-3.5186834,10.041881
-reg,2,-3.8597252,6.644273
-reg,3,-4.0937414,9.703342
-reg,13,-4.7556906,7.9704385
-reg,3,-5.242829,9.951601
-reg,4,-1.1915181,9.073809
-reg,14,-0.73787934,6.918124
-reg,14,-0.7105368,6.9534106
-reg,1,-2.4219742,9.747298
-reg,4,-1.0651587,8.766946
-reg,8,-3.0628529,8.149494
-reg,3,-5.1954846,10.098497
-reg,3,-5.6505647,9.624597
-reg,1,-3.7616212,9.164152
-reg,1,-1.9416561,8.295389
-reg,3,-4.864855,10.237893
-reg,8,-2.5110242,8.490652
-reg,3,-4.602838,10.337539
-reg,3,-5.021135,10.139259
-reg,3,-4.2674875,9.636031
-reg,2,-4.929948,7.328544
-reg,12,-6.179238,7.936374
-reg,0,-2.42489,6.2295523
-reg,9,-3.930625,10.585938
-reg,1,-2.311163,9.193924
-reg,8,-2.848362,8.609587
-reg,7,-1.535757,6.7916026
-reg,12,-6.101188,7.839671
-reg,12,-6.1970215,7.925781
-reg,10,-4.2128735,8.534346
-reg,7,-1.5938588,6.5332346
-reg,11,-4.8118725,8.744198
-reg,3,-5.221462,9.501113
-reg,11,-4.871159,8.755417
-reg,10,-3.3613782,8.449084
-reg,1,-2.0078022,8.116011
-reg,1,-2.2939649,9.174796
-reg,1,-2.648054,9.473943
-reg,3,-4.5855584,9.815317
-reg,7,-1.445865,6.321634
-reg,2,-3.895437,7.5854335
-reg,3,-5.677849,9.7789345
-reg,6,-1.4283043,7.700224
-reg,0,-2.2572107,7.4784636
-reg,2,-4.6731153,6.8499184
-reg,0,-1.9390807,6.4921546
-reg,0,-2.0658371,6.2574224
-reg,0,-2.2189384,6.3555984
-reg,0,-1.8271359,6.788929
-reg,0,-3.2273774,7.493303
-reg,3,-4.501087,10.022263
-reg,3,-4.6916075,10.175517
-reg,6,-1.4660349,8.0225315
-reg,3,-5.074492,9.736422
-reg,0,-2.190781,6.423351
-reg,0,-3.2093291,6.655497
-reg,4,-3.3220987,9.180893
-reg,9,-3.5290895,9.536806
-reg,2,-4.5486894,6.9014525
-reg,5,-5.752523,9.184817
-reg,2,-4.200511,6.803753
-reg,4,-1.1187886,8.434109
-reg,4,-1.1499498,9.007049
-reg,3,-4.767746,9.387555
-reg,0,-2.4075453,6.6858144
-reg,1,-2.6397557,8.884526
-reg,4,-1.4195678,9.225636
-reg,5,-5.700513,9.124159
-reg,4,-3.2645776,9.341957
-reg,4,-3.4497302,9.370132
-reg,4,-3.487191,9.203732
-reg,1,-2.499942,9.921867
-reg,1,-2.5705624,9.464903
-reg,8,-3.2368379,7.7963405
-reg,9,-3.5935614,10.495131
-reg,9,-3.1886973,10.34684
-reg,1,-2.5011394,9.718712
-reg,8,-3.3816187,8.742788
-reg,5,-6.052952,8.982093
-reg,1,-4.0251875,9.369542
-reg,4,-1.155719,8.779439
-reg,5,-6.1244607,8.970537
-reg,1,-2.051977,7.9874387
-reg,10,-4.0385795,8.307427
-reg,0,-2.2864928,7.333501
-reg,5,-4.486858,9.42317
-reg,6,-2.605228,7.6207895
-reg,2,-4.7985516,7.142669
-reg,10,-2.251057,8.556575
-reg,6,-1.4785509,7.725613
-reg,10,-3.962255,8.556803
-reg,2,-4.2767005,7.4296446
-reg,2,-3.4835951,7.3432417
-reg,3,-5.157341,9.370153
-reg,5,-5.9640265,8.867829
-reg,8,-2.8869195,7.94803
-reg,1,-3.9553645,9.420234
-reg,15,-1.06757,7.391501
-reg,10,-4.08801,8.451559
-reg,4,-4.264809,9.168246
-reg,1,-2.6037788,9.447848
-reg,1,-3.1668465,9.715091
-reg,0,-2.4231188,6.651821
-reg,1,-2.3992848,9.593604
-reg,1,-2.5956354,10.015553
-reg,0,-2.4753938,6.6049695
-reg,1,-2.499742,9.531775
-reg,3,-5.336922,9.831831
-reg,4,-1.2306356,8.942808
-reg,4,-1.5148476,9.328724
-reg,3,-4.832378,10.206413
-reg,3,-5.124858,10.1515255
-reg,2,-4.296698,6.798008
-reg,4,-1.0171468,8.548436
-reg,3,-5.2330346,9.928699
-reg,14,-0.66565895,6.8421335
-reg,2,-3.8708656,6.899853
-reg,4,-1.0266781,8.861499
-reg,4,-3.328888,8.974316
-reg,3,-4.94583,10.2893715
-reg,0,-2.9135592,6.4918113
-reg,4,-1.1250651,8.909885
-reg,4,-1.2165848,8.9924135
-reg,9,-3.8700485,10.620879
-reg,10,-2.491863,8.647245
-reg,10,-1.5990006,8.782502
-reg,6,-1.608914,7.8697023
-reg,0,-2.4107077,6.71098
-reg,0,-2.3231397,6.108162
-reg,0,-2.6393037,6.3922057
-reg,14,-0.68956786,6.9630785
-reg,9,-3.8500032,10.582904
-reg,4,-1.3457719,9.193021
-reg,13,-5.5900874,8.540639
-reg,5,-4.6077886,9.27009
-reg,1,-4.2712593,9.588456
-reg,4,-1.0953987,8.866676
-reg,10,-4.237798,8.969391
-reg,8,-3.1945078,8.478887
-reg,2,-4.4578614,7.2437315
-reg,0,-2.8855395,6.747366
-reg,0,-2.561165,7.263531
-reg,1,-2.481014,9.568247
-reg,8,-2.8936012,8.455801
-reg,1,-2.5117002,10.045127
-reg,0,-2.7486622,6.6644406
-reg,8,-3.1318223,8.406881
-reg,1,-2.4120297,9.969743
-reg,4,-1.2533125,9.077036
-reg,0,-2.5171232,6.2959304
-reg,2,-4.596532,7.0933685
-reg,8,-2.9133644,7.9188943
-reg,9,-3.8317068,10.634616
-reg,13,-4.7658386,8.01046
-reg,0,-2.5335925,7.370123
-reg,6,-1.4932858,7.702469
-reg,7,-1.745418,7.2625875
-reg,2,-4.7265744,7.416529
-reg,4,-1.1079578,9.104388
-reg,1,-1.9433773,9.681755
-reg,13,-5.241905,8.778635
-reg,15,-0.8143047,7.721525
-reg,0,-2.8388155,6.582003
-reg,0,-2.9513586,7.191386
-reg,4,-1.0562358,8.963079
-reg,9,-3.6076322,10.4201765
-reg,4,-1.3491032,9.168224
-reg,2,-4.379936,6.937827
-reg,6,-1.3979144,7.768819
-reg,0,-2.9954758,7.1758323
-reg,6,-1.6227609,7.6511064
-reg,6,-1.0764095,7.263083
-reg,3,-5.487856,9.712299
-reg,5,-5.8520284,8.68704
-reg,0,-2.7254703,7.419485
-reg,13,-5.2221465,8.92519
-reg,5,-5.995432,9.002391
-reg,10,-3.7654343,8.897847
-reg,7,-1.0662994,6.6682963
-reg,0,-2.0490708,7.2510667
-reg,4,-1.5973834,9.315738
-reg,5,-5.9393053,8.874775
-reg,5,-5.9733257,9.091021
-reg,13,-5.398098,8.927078
-reg,4,-3.548316,9.142022
-reg,1,-2.0466502,8.844057
-reg,5,-6.0810995,8.804439
-reg,10,-3.9965904,8.447679
-reg,5,-4.664205,9.294677
-reg,5,-5.9600744,9.15825
-reg,15,-0.9782782,8.471701
-reg,0,-2.265401,7.0860815
-reg,4,-1.1804323,8.85458
-reg,1,-2.3077474,9.202506
-reg,4,-1.6896273,9.025036
-reg,11,-4.948646,9.022154
-reg,1,-2.0389116,8.0728035
-reg,11,-5.113325,8.401012
-reg,2,-4.115248,7.568283
-reg,2,-4.6756787,6.6522894
-reg,2,-4.351842,7.291051
-reg,12,-5.9388433,7.73326
-reg,0,-2.6276658,6.717714
-reg,12,-6.0442753,7.7321677
-reg,8,-3.3369038,8.252792
-reg,9,-4.187433,10.540514
-reg,1,-1.9505855,8.230289
-reg,9,-4.0727882,10.3996935
-reg,4,-1.3305335,8.966485
-reg,6,-1.6265861,7.9088826
-reg,2,-5.643311,8.338768
-reg,1,-2.2619538,9.427632
-reg,4,-3.6514418,9.063461
-reg,10,-4.019571,8.308895
-reg,5,-6.061937,9.045167
-reg,9,-3.8961866,10.197753
-reg,0,-2.3161137,6.542182
-reg,1,-2.2694068,9.216113
-reg,1,-2.3711011,9.3607025
-reg,0,-3.020997,7.1813626
-reg,0,-3.1905098,6.5978994
-reg,9,-3.777228,10.595306
-reg,5,-5.892949,8.814626
-reg,0,-2.2292953,6.561357
-reg,4,-1.3057827,8.704904
-reg,3,-4.8725066,9.589153
-reg,6,-1.4815234,7.734446
-reg,2,-3.5855186,6.540872
-reg,5,-6.0639186,9.024548
-reg,2,-4.2354903,7.115936
-reg,4,-1.4007764,9.236876
-reg,3,-4.505213,10.044687
-reg,5,-6.0793977,8.933109
-reg,0,-2.513791,6.6260056
-reg,11,-5.204989,8.729715
-reg,3,-4.6082983,9.78875
-reg,11,-4.9404645,8.429536
-reg,1,-2.6072755,9.349107
-reg,2,-5.041489,7.5785766
-reg,8,-3.6551583,8.257904
-reg,3,-5.308659,9.8215475
-reg,0,-2.7239547,6.431977
-reg,3,-4.8810825,10.324394
-reg,12,-6.017012,7.854078
-reg,11,-4.915017,8.627707
-reg,6,-1.6167922,7.4204597
-reg,0,-1.3332318,7.1713004
-reg,5,-6.1565475,8.948332
-reg,6,-1.4937911,7.890055
-reg,13,-4.526114,8.827575
-reg,12,-6.282151,8.026625
-reg,6,-3.4003484,9.848798
-reg,7,-1.7061313,7.2113137
-reg,7,-1.5495934,6.2630863
-reg,12,-6.1951885,7.9425087
-reg,7,-1.6871995,6.250965
-reg,11,-5.167663,8.702454
-reg,3,-5.0382,9.939812
-reg,15,-0.8260245,7.8812613
-reg,4,-1.4334736,9.142081
-reg,0,-3.4921494,6.478332
-reg,15,-0.89705086,8.493191
-reg,8,-2.6677606,7.769548
-reg,7,-1.4240843,6.3154993
-reg,8,-3.2861075,8.218847
-reg,8,-3.3229856,7.7002892
-reg,1,-2.1127913,7.910275
-reg,0,-2.2674952,6.346452
-reg,6,-3.2450597,9.606961
-reg,12,-6.201758,7.9283843
-reg,7,-1.6328367,7.1028237
-reg,8,-3.6994565,8.170856
-reg,7,-1.4687401,6.2722416
-reg,7,-1.2918901,6.389489
-reg,1,-2.2409863,7.769833
-reg,10,-3.4899302,7.9011946
-reg,5,-6.1933746,8.892389
-reg,5,-6.1840878,8.7990885
-reg,14,-0.89957005,7.0690484
-reg,0,-2.4332268,6.6362295
-reg,1,-2.3252099,7.8048477
-reg,2,-4.137635,6.9796944
-reg,7,-1.3068795,6.2984776
-reg,3,-5.1464033,10.37549
-reg,5,-6.0193152,8.916772
-reg,5,-6.0482445,8.862853
-reg,5,-6.2278557,8.769837
-reg,15,-0.82785916,7.748523
-reg,7,-1.6121722,6.136537
-reg,15,-0.82052654,7.575226
-reg,5,-6.1902895,8.856089
-reg,0,-3.1856449,6.619895
-reg,4,-3.4148808,9.052303
-reg,1,-2.9401257,9.791373
-reg,9,-4.486984,10.2722435
-reg,6,-1.5543834,7.3912873
-reg,12,-6.1922197,8.189855
-reg,11,-4.7863464,8.75781
-reg,4,-1.5011489,9.338462
-reg,5,-6.104087,9.0755005
-reg,14,-0.8823128,6.9912066
-reg,5,-6.324734,8.767483
-reg,9,-3.6849115,10.259946
-reg,2,-4.2630553,6.92544
-reg,3,-4.7066293,10.329044
-reg,0,-3.097196,6.5398116
-reg,2,-3.4837003,6.8072925
-reg,12,-6.2579575,8.029623
-reg,0,-2.1236038,6.709108
-reg,0,-3.0128539,6.393543
-reg,2,-3.7240715,7.4701676
-reg,6,-1.5984012,7.767851
-reg,0,-2.1671002,7.336872
-reg,2,-5.0265985,7.303896
-reg,0,-2.1919303,6.9686
-reg,6,-1.5610529,7.615709
-reg,3,-5.261791,9.839049
-reg,14,-0.67417794,6.8546844
-reg,7,-1.4076109,6.3103495
-reg,0,-1.9462875,6.8280215
-reg,10,-3.2878628,8.702232
-reg,0,-2.1825845,6.505113
-reg,9,-4.0836353,10.445887
-reg,2,-4.1745353,7.1334257
-reg,8,-2.5533834,8.05726
-reg,9,-3.7077394,10.353007
-reg,3,-4.7235723,10.349399
-reg,15,-0.7873723,7.7508364
-reg,4,-2.190634,8.636801
-reg,6,-4.0050955,10.082989
-reg,3,-4.6534877,10.352569
-reg,2,-4.0720873,6.775317
-reg,1,-4.3695817,9.542977
-reg,2,-4.725171,6.8105907
-reg,0,-3.0026612,7.2795653
-reg,8,-2.9506912,8.463937
-reg,5,-6.0533786,8.357867
-reg,8,-2.6157646,8.707957
-reg,7,-1.7871066,7.1674705
-reg,6,-3.1553867,9.529208
-reg,5,-4.5888724,9.325607
-reg,1,-2.712762,9.854512
-reg,0,-3.3626773,7.1688013
-reg,0,-2.335361,6.289413
-reg,7,-1.6225213,6.6621113
-reg,7,-1.4596913,6.7195597
-reg,2,-4.6801972,7.0614114
-reg,0,-2.782505,7.001213
-reg,4,-1.3517177,8.901442
-reg,3,-5.2073903,10.341474
-reg,4,-1.4761066,9.104867
-reg,8,-1.5233893,8.687627
-reg,3,-5.2856245,10.147762
-reg,0,-2.1579497,6.548796
-reg,1,-2.1785054,8.8296175
-reg,3,-4.292729,10.050191
-reg,1,-2.8858488,9.922823
-reg,2,-4.7815633,6.9782662
-reg,0,-2.6974373,7.3189087
-reg,9,-3.4162295,10.143769
-reg,10,-3.7042964,8.917505
-reg,10,-3.862,8.915743
-reg,0,-2.1290965,5.9905043
-reg,10,-2.377895,8.610829
-reg,3,-4.328733,10.36779
-reg,0,-2.488075,6.0511565
-reg,0,-3.3080473,6.2570724
-reg,0,-3.3087928,6.3384075
-reg,10,-3.4366999,8.230515
-reg,1,-2.7194571,9.670717
-reg,15,-0.8155318,7.7407584
-reg,7,-1.5204489,6.237702
-reg,2,-3.7908769,6.6064806
-reg,2,-4.1792784,6.5108314
-reg,2,-4.2059135,6.528257
-reg,9,-4.0046244,10.47604
-reg,2,-4.31362,6.751967
-reg,5,-5.634778,9.004597
-reg,7,-1.2055511,6.3944435
-reg,6,-6.0377893,7.6769323
-reg,12,-6.271721,7.9996285
-reg,1,-2.527268,9.961933
-reg,4,-1.0620027,8.824952
-reg,8,-2.9826813,7.8628774
-reg,4,-1.5452597,8.963945
-reg,3,-4.33129,9.560593
-reg,4,-3.1875603,9.179718
-reg,0,-2.3831027,7.402682
-reg,0,-3.1709554,7.998075
-reg,0,-2.8237045,6.118592
-reg,0,-2.8647885,6.042213
-reg,0,-2.8019722,6.079582
-reg,8,-3.4489877,8.12576
-reg,0,-2.149685,6.247356
-reg,6,-1.404501,7.815332
-reg,9,-1.6193762,9.304715
-reg,0,-2.1990993,6.7181315
-reg,6,-1.5549489,7.818826
-reg,9,-3.9345922,10.33484
-reg,9,-3.82967,10.583815
-reg,1,-2.071202,9.647284
-reg,0,-2.5968447,6.518872
-reg,2,-3.845345,7.102724
-reg,2,-4.0913506,7.3730025
-reg,1,-1.9561427,8.208148
-reg,5,-5.9603148,8.234334
-reg,12,-5.6099653,7.4491568
-reg,6,-3.7180533,9.926229
-reg,0,-3.364681,6.2772584
-reg,2,-4.1010923,6.7207694
-reg,2,-3.9030962,6.51527
-reg,15,-0.8223545,7.6781254
-reg,2,-5.5352173,8.142366
-reg,0,-2.8543074,7.2964053
-reg,0,-2.8930755,6.1605105
-reg,0,-3.2018156,6.5540333
-reg,0,-2.789337,6.695049
-reg,14,-0.884826,6.789338
-reg,1,-2.0891743,8.890002
-reg,1,-3.1867113,10.065517
-reg,0,-3.3793914,6.249679
-reg,14,-0.54925907,6.90769
-reg,2,-4.985442,7.4857893
-reg,7,-1.6758401,7.214771
-reg,13,-4.250962,8.457777
-reg,1,-3.0085313,9.5902
-reg,1,-3.0180242,10.023261
-reg,0,-1.8929754,6.8718014
-reg,14,-0.8440774,6.820123
-reg,0,-3.1127045,6.336427
-reg,2,-3.7803843,6.7990484
-reg,6,-1.4429275,7.8251705
-reg,15,-0.7549896,7.7806
-reg,7,-1.6058638,7.264365
-reg,5,-5.64269,9.116718
-reg,7,-1.5358331,6.2720475
-reg,0,-2.3554966,6.3070073
-reg,1,-2.3871644,9.0816145
-reg,4,-1.1845497,9.056258
-reg,9,-4.150712,10.372284
-reg,7,-1.3999553,6.400006
-reg,1,-2.8251343,9.514
-reg,2,-3.8556533,6.344406
-reg,11,-4.6921563,8.816774
-reg,11,-4.7736545,8.683862
-reg,11,-4.802247,8.739224
-reg,12,-6.303602,8.127257
-reg,12,-5.5227957,7.481104
-reg,7,-1.5070093,6.7496896
-reg,7,-1.314188,6.522038
-reg,7,-1.4659014,6.2666383
-reg,7,-1.7232081,7.2980194
-reg,1,-2.1027536,7.9348097
-reg,1,-2.2386346,7.8544292
-reg,11,-4.7443914,8.6893
-reg,0,-2.0360703,6.4519057
-reg,14,-0.80607367,6.965422
-reg,0,-1.9060365,6.5499606
-reg,13,-4.8436737,7.986637
-reg,1,-3.6555688,9.344159
-reg,0,-2.8502114,6.276196
-reg,0,-2.7073686,7.446842
-reg,4,-2.3160403,8.514943
-reg,3,-4.277789,9.88448
-reg,2,-3.4058726,7.194381
-reg,2,-4.607313,6.692625
-reg,2,-3.5125206,6.813603
-reg,2,-4.5975256,7.6033297
-reg,0,-2.4193492,6.554976
-reg,0,-3.0151885,6.6500845
-reg,8,-2.9095266,8.432815
-reg,2,-3.9395025,6.386304
-reg,4,-2.3256853,8.417786
-reg,4,-2.371646,8.520793
-reg,14,-0.91219807,6.8071404
-reg,14,-0.86425894,6.860662
-reg,14,-0.9678048,6.9552073
-reg,14,-0.832754,6.8336515
-reg,2,-3.6160438,6.659121
-reg,2,-3.7422848,7.2508583
-reg,2,-4.314038,7.27218
-reg,2,-4.3307085,6.8074365
-reg,6,-3.898071,9.907058
-reg,2,-4.0285482,6.412001
-reg,12,-5.8525734,7.531894
-reg,0,-3.0186923,6.7005777
-reg,15,-0.81371343,8.243938
-reg,2,-3.8589873,6.9250255
-reg,2,-3.8544102,6.3109293
-reg,0,-2.9916499,6.4195595
-reg,13,-4.486306,8.438287
-reg,2,-4.2160773,6.7286606
-reg,1,-1.8851931,9.219137
-reg,13,-4.8328104,7.904861
-reg,3,-5.056286,9.978925
-reg,11,-4.830287,8.648502
-reg,2,-4.506444,6.5311737
-reg,1,-2.6469836,9.243619
-reg,1,-3.173404,8.858528
-reg,1,-2.413357,9.117927
-reg,1,-2.317499,9.338273
-reg,11,-4.8274813,8.503447
-reg,15,-0.90914655,8.500319
-reg,0,-2.5166721,7.304465
-reg,11,-4.9062877,8.481342
-reg,0,-2.410061,6.081449
-reg,6,-1.3896401,7.600992
-reg,13,-5.15851,8.23947
-reg,11,-4.832174,8.512441
-reg,3,-4.8762116,10.341959
-reg,1,-2.0484853,9.568412
-reg,2,-4.936673,7.6277165
-reg,11,-4.9602976,8.990107
-reg,14,-0.98249984,7.0944853
-reg,2,-4.6396856,7.037815
-reg,11,-5.102066,9.092287
-reg,15,-0.75320065,7.7669106
-reg,1,-2.3892348,9.867393
-reg,2,-4.737163,7.5646563
-reg,15,-0.7740278,7.734403
+Source,cluster,x,y,topic_name
+reg,1,-2.6505935,9.266756,bornholm museum high voltag land plant
+reg,0,-4.106742,7.578771,nuclear power wind turbin offshor wind
+reg,3,-2.960139,8.222207,green transit center green green energi
+reg,3,-3.3360758,8.659921,green transit center green green energi
+reg,2,-5.2906647,9.536695,offshor wind wind farm energi agenc
+reg,2,-4.3808765,10.164676,offshor wind wind farm energi agenc
+reg,7,-3.4955246,9.938984,baltic sea critic infrastructur baltic bridg
+reg,6,-5.995226,8.855747,power plant hydrogen product electrolysi plant
+reg,12,-5.5497103,8.445603,district heat offshor wind heat pump
+reg,2,-5.175268,9.692637,offshor wind wind farm energi agenc
+reg,8,-1.9153556,7.252585,next year municip council climat plan
+reg,3,-3.9999983,8.664517,green transit center green green energi
+reg,7,-3.4763672,9.937283,baltic sea critic infrastructur baltic bridg
+reg,7,-1.4396791,7.6984572,baltic sea critic infrastructur baltic bridg
+reg,2,-5.6138625,9.779434,offshor wind wind farm energi agenc
+reg,2,-5.081078,9.671317,offshor wind wind farm energi agenc
+reg,8,-1.2381946,6.3893557,next year municip council climat plan
+reg,5,-2.084755,6.5078263,elect campaign municip council say peter
+reg,1,-2.5487928,9.790762,bornholm museum high voltag land plant
+reg,10,-4.975639,8.419085,energiø bornholm state aid electr price
+reg,3,-2.924666,8.372249,green transit center green green energi
+reg,12,-5.5698085,8.27779,district heat offshor wind heat pump
+reg,5,-1.872426,6.780353,elect campaign municip council say peter
+reg,3,-1.4581046,8.58877,green transit center green green energi
+reg,1,-2.1905608,9.494113,bornholm museum high voltag land plant
+reg,2,-4.94486,9.675761,offshor wind wind farm energi agenc
+reg,8,-1.5089084,6.524288,next year municip council climat plan
+reg,2,-4.3026233,9.823698,offshor wind wind farm energi agenc
+reg,12,-5.289638,8.367611,district heat offshor wind heat pump
+reg,12,-4.5145373,7.837028,district heat offshor wind heat pump
+reg,0,-4.647049,7.1726985,nuclear power wind turbin offshor wind
+reg,0,-4.7828274,7.204551,nuclear power wind turbin offshor wind
+reg,0,-4.3962107,6.480495,nuclear power wind turbin offshor wind
+reg,2,-4.736059,10.33148,offshor wind wind farm energi agenc
+reg,10,-5.123369,8.403866,energiø bornholm state aid electr price
+reg,1,-3.810258,9.368429,bornholm museum high voltag land plant
+reg,1,-3.9497817,9.324628,bornholm museum high voltag land plant
+reg,2,-4.256464,9.92948,offshor wind wind farm energi agenc
+reg,10,-5.1342015,8.235815,energiø bornholm state aid electr price
+reg,4,-2.4469895,8.244605,jacob trøst social democraci mayor jacob
+reg,13,-6.2173085,8.043116,offshor wind energiø bornholm press releas
+reg,7,-3.6824622,10.020395,baltic sea critic infrastructur baltic bridg
+reg,1,-3.5109546,9.346227,bornholm museum high voltag land plant
+reg,1,-2.5511494,9.003544,bornholm museum high voltag land plant
+reg,13,-6.218815,7.980346,offshor wind energiø bornholm press releas
+reg,1,-4.0969167,9.413635,bornholm museum high voltag land plant
+reg,1,-3.128956,9.603802,bornholm museum high voltag land plant
+reg,1,-4.158665,9.522732,bornholm museum high voltag land plant
+reg,8,-1.9194617,7.333461,next year municip council climat plan
+reg,6,-5.644686,8.8501835,power plant hydrogen product electrolysi plant
+reg,4,-2.197169,8.417014,jacob trøst social democraci mayor jacob
+reg,9,-3.5436273,10.439985,baltic energi baltic energi island danish energi agenc
+reg,2,-4.6948853,10.253188,offshor wind wind farm energi agenc
+reg,12,-5.43549,8.359117,district heat offshor wind heat pump
+reg,1,-2.6796415,9.972272,bornholm museum high voltag land plant
+reg,7,-2.0603862,7.5164084,baltic sea critic infrastructur baltic bridg
+reg,12,-4.7487617,7.942535,district heat offshor wind heat pump
+reg,9,-3.709605,10.243855,baltic energi baltic energi island danish energi agenc
+reg,6,-5.750247,9.090359,power plant hydrogen product electrolysi plant
+reg,4,-3.477304,9.476906,jacob trøst social democraci mayor jacob
+reg,15,-0.8870545,7.554765,ann thoma top candid social democraci
+reg,2,-5.357123,9.807402,offshor wind wind farm energi agenc
+reg,12,-5.5590844,8.486862,district heat offshor wind heat pump
+reg,0,-3.6707377,6.8746347,nuclear power wind turbin offshor wind
+reg,3,-3.196601,7.7495956,green transit center green green energi
+reg,2,-4.975995,10.188515,offshor wind wind farm energi agenc
+reg,2,-4.9296107,10.114102,offshor wind wind farm energi agenc
+reg,8,-1.5947095,6.6048245,next year municip council climat plan
+reg,3,-3.724001,8.869778,green transit center green green energi
+reg,11,-2.4502509,6.4961348,renew energi fossil fuel energi solut
+reg,0,-5.0922966,7.245357,nuclear power wind turbin offshor wind
+reg,2,-4.4792056,9.758614,offshor wind wind farm energi agenc
+reg,1,-2.44856,9.684642,bornholm museum high voltag land plant
+reg,2,-3.7240033,9.952981,offshor wind wind farm energi agenc
+reg,10,-5.0870485,8.313629,energiø bornholm state aid electr price
+reg,9,-3.1866071,10.330076,baltic energi baltic energi island danish energi agenc
+reg,2,-4.616653,9.752507,offshor wind wind farm energi agenc
+reg,7,-1.9633051,7.4487715,baltic sea critic infrastructur baltic bridg
+reg,6,-6.047729,8.5175495,power plant hydrogen product electrolysi plant
+reg,8,-1.7505709,7.1713433,next year municip council climat plan
+reg,2,-3.4285133,9.916546,offshor wind wind farm energi agenc
+reg,4,-3.504674,9.043431,jacob trøst social democraci mayor jacob
+reg,3,-3.7630444,8.658213,green transit center green green energi
+reg,2,-5.2438517,9.710607,offshor wind wind farm energi agenc
+reg,1,-2.3826427,9.704952,bornholm museum high voltag land plant
+reg,0,-4.212471,7.275743,nuclear power wind turbin offshor wind
+reg,0,-4.2159114,7.1940517,nuclear power wind turbin offshor wind
+reg,0,-4.286162,6.963126,nuclear power wind turbin offshor wind
+reg,2,-5.4620047,9.762219,offshor wind wind farm energi agenc
+reg,6,-5.440513,8.971673,power plant hydrogen product electrolysi plant
+reg,1,-5.5437446,9.7528105,bornholm museum high voltag land plant
+reg,2,-5.3164864,9.588478,offshor wind wind farm energi agenc
+reg,1,-1.9032042,8.670759,bornholm museum high voltag land plant
+reg,1,-2.3690448,9.771469,bornholm museum high voltag land plant
+reg,1,-2.3500428,9.9139595,bornholm museum high voltag land plant
+reg,1,-2.74453,9.102888,bornholm museum high voltag land plant
+reg,0,-4.8055124,6.797843,nuclear power wind turbin offshor wind
+reg,14,-0.59165406,6.8329554,food school bornholm agricultur søren schow
+reg,14,-0.74011916,6.8956075,food school bornholm agricultur søren schow
+reg,0,-5.202324,7.151748,nuclear power wind turbin offshor wind
+reg,1,-2.617605,9.588551,bornholm museum high voltag land plant
+reg,7,-3.862559,9.949774,baltic sea critic infrastructur baltic bridg
+reg,5,-2.1949267,7.015096,elect campaign municip council say peter
+reg,0,-4.5609374,6.526783,nuclear power wind turbin offshor wind
+reg,3,-2.8133698,8.567131,green transit center green green energi
+reg,2,-4.1224227,9.716291,offshor wind wind farm energi agenc
+reg,9,-3.6132283,10.535759,baltic energi baltic energi island danish energi agenc
+reg,2,-5.2054563,10.128494,offshor wind wind farm energi agenc
+reg,2,-5.268548,10.023527,offshor wind wind farm energi agenc
+reg,3,-2.918934,8.980346,green transit center green green energi
+reg,1,-2.4649377,9.978124,bornholm museum high voltag land plant
+reg,2,-5.397006,9.835011,offshor wind wind farm energi agenc
+reg,0,-4.6972046,7.069683,nuclear power wind turbin offshor wind
+reg,13,-6.1151223,8.370054,offshor wind energiø bornholm press releas
+reg,3,-3.8030326,8.783293,green transit center green green energi
+reg,2,-3.5186834,10.041881,offshor wind wind farm energi agenc
+reg,0,-3.8597252,6.644273,nuclear power wind turbin offshor wind
+reg,2,-4.0937414,9.703342,offshor wind wind farm energi agenc
+reg,12,-4.7556906,7.9704385,district heat offshor wind heat pump
+reg,2,-5.242829,9.951601,offshor wind wind farm energi agenc
+reg,4,-1.1915181,9.073809,jacob trøst social democraci mayor jacob
+reg,14,-0.73787934,6.918124,food school bornholm agricultur søren schow
+reg,14,-0.7105368,6.9534106,food school bornholm agricultur søren schow
+reg,1,-2.4219742,9.747298,bornholm museum high voltag land plant
+reg,4,-1.0651587,8.766946,jacob trøst social democraci mayor jacob
+reg,3,-3.0628529,8.149494,green transit center green green energi
+reg,2,-5.1954846,10.098497,offshor wind wind farm energi agenc
+reg,2,-5.6505647,9.624597,offshor wind wind farm energi agenc
+reg,1,-3.7616212,9.164152,bornholm museum high voltag land plant
+reg,2,-4.864855,10.237893,offshor wind wind farm energi agenc
+reg,3,-2.5110242,8.490652,green transit center green green energi
+reg,2,-4.602838,10.337539,offshor wind wind farm energi agenc
+reg,2,-5.021135,10.139259,offshor wind wind farm energi agenc
+reg,2,-4.2674875,9.636031,offshor wind wind farm energi agenc
+reg,0,-4.929948,7.328544,nuclear power wind turbin offshor wind
+reg,13,-6.179238,7.936374,offshor wind energiø bornholm press releas
+reg,5,-2.42489,6.2295523,elect campaign municip council say peter
+reg,9,-3.930625,10.585938,baltic energi baltic energi island danish energi agenc
+reg,1,-2.311163,9.193924,bornholm museum high voltag land plant
+reg,3,-2.848362,8.609587,green transit center green green energi
+reg,8,-1.535757,6.7916026,next year municip council climat plan
+reg,13,-6.101188,7.839671,offshor wind energiø bornholm press releas
+reg,13,-6.1970215,7.925781,offshor wind energiø bornholm press releas
+reg,3,-4.2128735,8.534346,green transit center green green energi
+reg,8,-1.5938588,6.5332346,next year municip council climat plan
+reg,10,-4.8118725,8.744198,energiø bornholm state aid electr price
+reg,2,-5.221462,9.501113,offshor wind wind farm energi agenc
+reg,10,-4.871159,8.755417,energiø bornholm state aid electr price
+reg,3,-3.3613782,8.449084,green transit center green green energi
+reg,1,-2.2939649,9.174796,bornholm museum high voltag land plant
+reg,1,-2.648054,9.473943,bornholm museum high voltag land plant
+reg,2,-4.5855584,9.815317,offshor wind wind farm energi agenc
+reg,8,-1.445865,6.321634,next year municip council climat plan
+reg,0,-3.895437,7.5854335,nuclear power wind turbin offshor wind
+reg,2,-5.677849,9.7789345,offshor wind wind farm energi agenc
+reg,7,-1.4283043,7.700224,baltic sea critic infrastructur baltic bridg
+reg,5,-2.2572107,7.4784636,elect campaign municip council say peter
+reg,0,-4.6731153,6.8499184,nuclear power wind turbin offshor wind
+reg,11,-1.9390807,6.4921546,renew energi fossil fuel energi solut
+reg,5,-2.0658371,6.2574224,elect campaign municip council say peter
+reg,5,-2.2189384,6.3555984,elect campaign municip council say peter
+reg,5,-1.8271359,6.788929,elect campaign municip council say peter
+reg,11,-3.2273774,7.493303,renew energi fossil fuel energi solut
+reg,2,-4.501087,10.022263,offshor wind wind farm energi agenc
+reg,2,-4.6916075,10.175517,offshor wind wind farm energi agenc
+reg,7,-1.4660349,8.0225315,baltic sea critic infrastructur baltic bridg
+reg,2,-5.074492,9.736422,offshor wind wind farm energi agenc
+reg,5,-2.190781,6.423351,elect campaign municip council say peter
+reg,4,-3.3220987,9.180893,jacob trøst social democraci mayor jacob
+reg,3,-3.8489645,8.096838,green transit center green green energi
+reg,9,-3.5290895,9.536806,baltic energi baltic energi island danish energi agenc
+reg,0,-4.5486894,6.9014525,nuclear power wind turbin offshor wind
+reg,6,-5.752523,9.184817,power plant hydrogen product electrolysi plant
+reg,0,-4.200511,6.803753,nuclear power wind turbin offshor wind
+reg,4,-1.1187886,8.434109,jacob trøst social democraci mayor jacob
+reg,4,-1.1499498,9.007049,jacob trøst social democraci mayor jacob
+reg,2,-4.767746,9.387555,offshor wind wind farm energi agenc
+reg,5,-2.4075453,6.6858144,elect campaign municip council say peter
+reg,1,-2.6397557,8.884526,bornholm museum high voltag land plant
+reg,4,-1.4195678,9.225636,jacob trøst social democraci mayor jacob
+reg,6,-5.700513,9.124159,power plant hydrogen product electrolysi plant
+reg,4,-3.2645776,9.341957,jacob trøst social democraci mayor jacob
+reg,4,-3.4497302,9.370132,jacob trøst social democraci mayor jacob
+reg,4,-3.487191,9.203732,jacob trøst social democraci mayor jacob
+reg,1,-2.499942,9.921867,bornholm museum high voltag land plant
+reg,1,-2.5705624,9.464903,bornholm museum high voltag land plant
+reg,3,-3.2368379,7.7963405,green transit center green green energi
+reg,9,-3.5935614,10.495131,baltic energi baltic energi island danish energi agenc
+reg,9,-3.1886973,10.34684,baltic energi baltic energi island danish energi agenc
+reg,1,-2.5011394,9.718712,bornholm museum high voltag land plant
+reg,3,-3.3816187,8.742788,green transit center green green energi
+reg,6,-6.052952,8.982093,power plant hydrogen product electrolysi plant
+reg,1,-4.0251875,9.369542,bornholm museum high voltag land plant
+reg,4,-1.155719,8.779439,jacob trøst social democraci mayor jacob
+reg,6,-6.1244607,8.970537,power plant hydrogen product electrolysi plant
+reg,3,-4.0385795,8.307427,green transit center green green energi
+reg,5,-2.2864928,7.333501,elect campaign municip council say peter
+reg,6,-4.486858,9.42317,power plant hydrogen product electrolysi plant
+reg,7,-2.605228,7.6207895,baltic sea critic infrastructur baltic bridg
+reg,0,-4.7985516,7.142669,nuclear power wind turbin offshor wind
+reg,3,-2.251057,8.556575,green transit center green green energi
+reg,7,-1.4785509,7.725613,baltic sea critic infrastructur baltic bridg
+reg,3,-3.962255,8.556803,green transit center green green energi
+reg,0,-4.2767005,7.4296446,nuclear power wind turbin offshor wind
+reg,0,-3.4835951,7.3432417,nuclear power wind turbin offshor wind
+reg,2,-5.157341,9.370153,offshor wind wind farm energi agenc
+reg,6,-5.9640265,8.867829,power plant hydrogen product electrolysi plant
+reg,3,-2.8869195,7.94803,green transit center green green energi
+reg,1,-3.9553645,9.420234,bornholm museum high voltag land plant
+reg,15,-1.06757,7.391501,ann thoma top candid social democraci
+reg,3,-4.08801,8.451559,green transit center green green energi
+reg,4,-4.264809,9.168246,jacob trøst social democraci mayor jacob
+reg,1,-2.6037788,9.447848,bornholm museum high voltag land plant
+reg,1,-3.1668465,9.715091,bornholm museum high voltag land plant
+reg,5,-2.4231188,6.651821,elect campaign municip council say peter
+reg,1,-2.3992848,9.593604,bornholm museum high voltag land plant
+reg,1,-2.5956354,10.015553,bornholm museum high voltag land plant
+reg,5,-2.4753938,6.6049695,elect campaign municip council say peter
+reg,1,-2.499742,9.531775,bornholm museum high voltag land plant
+reg,2,-5.336922,9.831831,offshor wind wind farm energi agenc
+reg,4,-1.2306356,8.942808,jacob trøst social democraci mayor jacob
+reg,4,-1.5148476,9.328724,jacob trøst social democraci mayor jacob
+reg,2,-4.832378,10.206413,offshor wind wind farm energi agenc
+reg,2,-5.124858,10.1515255,offshor wind wind farm energi agenc
+reg,0,-4.296698,6.798008,nuclear power wind turbin offshor wind
+reg,4,-1.0171468,8.548436,jacob trøst social democraci mayor jacob
+reg,2,-5.2330346,9.928699,offshor wind wind farm energi agenc
+reg,14,-0.66565895,6.8421335,food school bornholm agricultur søren schow
+reg,0,-3.8708656,6.899853,nuclear power wind turbin offshor wind
+reg,4,-1.0266781,8.861499,jacob trøst social democraci mayor jacob
+reg,4,-3.328888,8.974316,jacob trøst social democraci mayor jacob
+reg,2,-4.94583,10.2893715,offshor wind wind farm energi agenc
+reg,4,-1.1250651,8.909885,jacob trøst social democraci mayor jacob
+reg,4,-1.2165848,8.9924135,jacob trøst social democraci mayor jacob
+reg,9,-3.8700485,10.620879,baltic energi baltic energi island danish energi agenc
+reg,3,-2.491863,8.647245,green transit center green green energi
+reg,3,-1.5990006,8.782502,green transit center green green energi
+reg,7,-1.608914,7.8697023,baltic sea critic infrastructur baltic bridg
+reg,5,-2.4107077,6.71098,elect campaign municip council say peter
+reg,5,-2.3231397,6.108162,elect campaign municip council say peter
+reg,11,-2.6393037,6.3922057,renew energi fossil fuel energi solut
+reg,14,-0.68956786,6.9630785,food school bornholm agricultur søren schow
+reg,9,-3.8500032,10.582904,baltic energi baltic energi island danish energi agenc
+reg,4,-1.3457719,9.193021,jacob trøst social democraci mayor jacob
+reg,12,-5.5900874,8.540639,district heat offshor wind heat pump
+reg,6,-4.6077886,9.27009,power plant hydrogen product electrolysi plant
+reg,1,-4.2712593,9.588456,bornholm museum high voltag land plant
+reg,4,-1.0953987,8.866676,jacob trøst social democraci mayor jacob
+reg,3,-4.237798,8.969391,green transit center green green energi
+reg,3,-3.1945078,8.478887,green transit center green green energi
+reg,0,-4.4578614,7.2437315,nuclear power wind turbin offshor wind
+reg,5,-2.8855395,6.747366,elect campaign municip council say peter
+reg,11,-2.561165,7.263531,renew energi fossil fuel energi solut
+reg,1,-2.481014,9.568247,bornholm museum high voltag land plant
+reg,3,-2.8936012,8.455801,green transit center green green energi
+reg,1,-2.5117002,10.045127,bornholm museum high voltag land plant
+reg,11,-2.7486622,6.6644406,renew energi fossil fuel energi solut
+reg,3,-3.1318223,8.406881,green transit center green green energi
+reg,1,-2.4120297,9.969743,bornholm museum high voltag land plant
+reg,4,-1.2533125,9.077036,jacob trøst social democraci mayor jacob
+reg,5,-2.5171232,6.2959304,elect campaign municip council say peter
+reg,0,-4.596532,7.0933685,nuclear power wind turbin offshor wind
+reg,3,-2.9133644,7.9188943,green transit center green green energi
+reg,9,-3.8317068,10.634616,baltic energi baltic energi island danish energi agenc
+reg,12,-4.7658386,8.01046,district heat offshor wind heat pump
+reg,11,-2.5335925,7.370123,renew energi fossil fuel energi solut
+reg,7,-1.4932858,7.702469,baltic sea critic infrastructur baltic bridg
+reg,8,-1.745418,7.2625875,next year municip council climat plan
+reg,0,-4.7265744,7.416529,nuclear power wind turbin offshor wind
+reg,4,-1.1079578,9.104388,jacob trøst social democraci mayor jacob
+reg,1,-1.9433773,9.681755,bornholm museum high voltag land plant
+reg,12,-5.241905,8.778635,district heat offshor wind heat pump
+reg,15,-0.8143047,7.721525,ann thoma top candid social democraci
+reg,11,-2.9513586,7.191386,renew energi fossil fuel energi solut
+reg,4,-1.0562358,8.963079,jacob trøst social democraci mayor jacob
+reg,9,-3.6076322,10.4201765,baltic energi baltic energi island danish energi agenc
+reg,4,-1.3491032,9.168224,jacob trøst social democraci mayor jacob
+reg,0,-4.379936,6.937827,nuclear power wind turbin offshor wind
+reg,7,-1.3979144,7.768819,baltic sea critic infrastructur baltic bridg
+reg,11,-2.9954758,7.1758323,renew energi fossil fuel energi solut
+reg,7,-1.6227609,7.6511064,baltic sea critic infrastructur baltic bridg
+reg,7,-1.0764095,7.263083,baltic sea critic infrastructur baltic bridg
+reg,2,-5.487856,9.712299,offshor wind wind farm energi agenc
+reg,6,-5.8520284,8.68704,power plant hydrogen product electrolysi plant
+reg,11,-2.7254703,7.419485,renew energi fossil fuel energi solut
+reg,12,-5.2221465,8.92519,district heat offshor wind heat pump
+reg,6,-5.995432,9.002391,power plant hydrogen product electrolysi plant
+reg,3,-3.7654343,8.897847,green transit center green green energi
+reg,8,-1.0662994,6.6682963,next year municip council climat plan
+reg,5,-2.0490708,7.2510667,elect campaign municip council say peter
+reg,4,-1.5973834,9.315738,jacob trøst social democraci mayor jacob
+reg,6,-5.9393053,8.874775,power plant hydrogen product electrolysi plant
+reg,6,-5.9733257,9.091021,power plant hydrogen product electrolysi plant
+reg,12,-5.398098,8.927078,district heat offshor wind heat pump
+reg,4,-3.548316,9.142022,jacob trøst social democraci mayor jacob
+reg,1,-2.0466502,8.844057,bornholm museum high voltag land plant
+reg,6,-6.0810995,8.804439,power plant hydrogen product electrolysi plant
+reg,3,-3.9965904,8.447679,green transit center green green energi
+reg,6,-4.664205,9.294677,power plant hydrogen product electrolysi plant
+reg,6,-5.9600744,9.15825,power plant hydrogen product electrolysi plant
+reg,15,-0.9782782,8.471701,ann thoma top candid social democraci
+reg,5,-2.265401,7.0860815,elect campaign municip council say peter
+reg,4,-1.1804323,8.85458,jacob trøst social democraci mayor jacob
+reg,1,-2.3077474,9.202506,bornholm museum high voltag land plant
+reg,4,-1.6896273,9.025036,jacob trøst social democraci mayor jacob
+reg,10,-4.948646,9.022154,energiø bornholm state aid electr price
+reg,10,-5.113325,8.401012,energiø bornholm state aid electr price
+reg,0,-4.115248,7.568283,nuclear power wind turbin offshor wind
+reg,0,-4.6756787,6.6522894,nuclear power wind turbin offshor wind
+reg,0,-4.351842,7.291051,nuclear power wind turbin offshor wind
+reg,13,-5.9388433,7.73326,offshor wind energiø bornholm press releas
+reg,5,-2.6276658,6.717714,elect campaign municip council say peter
+reg,13,-6.0442753,7.7321677,offshor wind energiø bornholm press releas
+reg,3,-3.3369038,8.252792,green transit center green green energi
+reg,9,-4.187433,10.540514,baltic energi baltic energi island danish energi agenc
+reg,9,-4.0727882,10.3996935,baltic energi baltic energi island danish energi agenc
+reg,4,-1.3305335,8.966485,jacob trøst social democraci mayor jacob
+reg,7,-1.6265861,7.9088826,baltic sea critic infrastructur baltic bridg
+reg,12,-5.643311,8.338768,district heat offshor wind heat pump
+reg,1,-2.2619538,9.427632,bornholm museum high voltag land plant
+reg,4,-3.6514418,9.063461,jacob trøst social democraci mayor jacob
+reg,3,-4.019571,8.308895,green transit center green green energi
+reg,6,-6.061937,9.045167,power plant hydrogen product electrolysi plant
+reg,9,-3.8961866,10.197753,baltic energi baltic energi island danish energi agenc
+reg,5,-2.3161137,6.542182,elect campaign municip council say peter
+reg,1,-2.2694068,9.216113,bornholm museum high voltag land plant
+reg,1,-2.3711011,9.3607025,bornholm museum high voltag land plant
+reg,11,-3.020997,7.1813626,renew energi fossil fuel energi solut
+reg,5,-3.1905098,6.5978994,elect campaign municip council say peter
+reg,9,-3.777228,10.595306,baltic energi baltic energi island danish energi agenc
+reg,6,-5.892949,8.814626,power plant hydrogen product electrolysi plant
+reg,5,-2.2292953,6.561357,elect campaign municip council say peter
+reg,4,-1.3057827,8.704904,jacob trøst social democraci mayor jacob
+reg,2,-4.8725066,9.589153,offshor wind wind farm energi agenc
+reg,7,-1.4815234,7.734446,baltic sea critic infrastructur baltic bridg
+reg,0,-3.5855186,6.540872,nuclear power wind turbin offshor wind
+reg,6,-6.0639186,9.024548,power plant hydrogen product electrolysi plant
+reg,0,-4.2354903,7.115936,nuclear power wind turbin offshor wind
+reg,4,-1.4007764,9.236876,jacob trøst social democraci mayor jacob
+reg,2,-4.505213,10.044687,offshor wind wind farm energi agenc
+reg,6,-6.0793977,8.933109,power plant hydrogen product electrolysi plant
+reg,11,-2.513791,6.6260056,renew energi fossil fuel energi solut
+reg,10,-5.204989,8.729715,energiø bornholm state aid electr price
+reg,2,-4.6082983,9.78875,offshor wind wind farm energi agenc
+reg,10,-4.9404645,8.429536,energiø bornholm state aid electr price
+reg,1,-2.6072755,9.349107,bornholm museum high voltag land plant
+reg,0,-5.041489,7.5785766,nuclear power wind turbin offshor wind
+reg,3,-3.6551583,8.257904,green transit center green green energi
+reg,2,-5.308659,9.8215475,offshor wind wind farm energi agenc
+reg,5,-2.7239547,6.431977,elect campaign municip council say peter
+reg,2,-4.8810825,10.324394,offshor wind wind farm energi agenc
+reg,13,-6.017012,7.854078,offshor wind energiø bornholm press releas
+reg,10,-4.915017,8.627707,energiø bornholm state aid electr price
+reg,7,-1.6167922,7.4204597,baltic sea critic infrastructur baltic bridg
+reg,15,-1.3332318,7.1713004,ann thoma top candid social democraci
+reg,6,-6.1565475,8.948332,power plant hydrogen product electrolysi plant
+reg,7,-1.4937911,7.890055,baltic sea critic infrastructur baltic bridg
+reg,12,-4.526114,8.827575,district heat offshor wind heat pump
+reg,13,-6.282151,8.026625,offshor wind energiø bornholm press releas
+reg,7,-3.4003484,9.848798,baltic sea critic infrastructur baltic bridg
+reg,8,-1.7061313,7.2113137,next year municip council climat plan
+reg,8,-1.5495934,6.2630863,next year municip council climat plan
+reg,13,-6.1951885,7.9425087,offshor wind energiø bornholm press releas
+reg,8,-1.6871995,6.250965,next year municip council climat plan
+reg,10,-5.167663,8.702454,energiø bornholm state aid electr price
+reg,2,-5.0382,9.939812,offshor wind wind farm energi agenc
+reg,15,-0.8260245,7.8812613,ann thoma top candid social democraci
+reg,4,-1.4334736,9.142081,jacob trøst social democraci mayor jacob
+reg,15,-0.89705086,8.493191,ann thoma top candid social democraci
+reg,3,-2.6677606,7.769548,green transit center green green energi
+reg,8,-1.4240843,6.3154993,next year municip council climat plan
+reg,3,-3.2861075,8.218847,green transit center green green energi
+reg,3,-3.3229856,7.7002892,green transit center green green energi
+reg,5,-2.2674952,6.346452,elect campaign municip council say peter
+reg,7,-3.2450597,9.606961,baltic sea critic infrastructur baltic bridg
+reg,13,-6.201758,7.9283843,offshor wind energiø bornholm press releas
+reg,8,-1.6328367,7.1028237,next year municip council climat plan
+reg,3,-3.6994565,8.170856,green transit center green green energi
+reg,8,-1.4687401,6.2722416,next year municip council climat plan
+reg,8,-1.2918901,6.389489,next year municip council climat plan
+reg,3,-3.4899302,7.9011946,green transit center green green energi
+reg,6,-6.1933746,8.892389,power plant hydrogen product electrolysi plant
+reg,6,-6.1840878,8.7990885,power plant hydrogen product electrolysi plant
+reg,14,-0.89957005,7.0690484,food school bornholm agricultur søren schow
+reg,11,-2.4332268,6.6362295,renew energi fossil fuel energi solut
+reg,1,-2.3252099,7.8048477,bornholm museum high voltag land plant
+reg,0,-4.137635,6.9796944,nuclear power wind turbin offshor wind
+reg,8,-1.3068795,6.2984776,next year municip council climat plan
+reg,2,-5.1464033,10.37549,offshor wind wind farm energi agenc
+reg,6,-6.0193152,8.916772,power plant hydrogen product electrolysi plant
+reg,6,-6.0482445,8.862853,power plant hydrogen product electrolysi plant
+reg,6,-6.2278557,8.769837,power plant hydrogen product electrolysi plant
+reg,15,-0.82785916,7.748523,ann thoma top candid social democraci
+reg,8,-1.6121722,6.136537,next year municip council climat plan
+reg,15,-0.82052654,7.575226,ann thoma top candid social democraci
+reg,6,-6.1902895,8.856089,power plant hydrogen product electrolysi plant
+reg,4,-3.4148808,9.052303,jacob trøst social democraci mayor jacob
+reg,1,-2.9401257,9.791373,bornholm museum high voltag land plant
+reg,9,-4.486984,10.2722435,baltic energi baltic energi island danish energi agenc
+reg,7,-1.5543834,7.3912873,baltic sea critic infrastructur baltic bridg
+reg,13,-6.1922197,8.189855,offshor wind energiø bornholm press releas
+reg,10,-4.7863464,8.75781,energiø bornholm state aid electr price
+reg,4,-1.5011489,9.338462,jacob trøst social democraci mayor jacob
+reg,3,-3.5722432,8.508564,green transit center green green energi
+reg,6,-6.104087,9.0755005,power plant hydrogen product electrolysi plant
+reg,14,-0.8823128,6.9912066,food school bornholm agricultur søren schow
+reg,6,-6.324734,8.767483,power plant hydrogen product electrolysi plant
+reg,9,-3.6849115,10.259946,baltic energi baltic energi island danish energi agenc
+reg,0,-4.2630553,6.92544,nuclear power wind turbin offshor wind
+reg,2,-4.7066293,10.329044,offshor wind wind farm energi agenc
+reg,0,-3.4837003,6.8072925,nuclear power wind turbin offshor wind
+reg,13,-6.2579575,8.029623,offshor wind energiø bornholm press releas
+reg,5,-2.1236038,6.709108,elect campaign municip council say peter
+reg,0,-3.7240715,7.4701676,nuclear power wind turbin offshor wind
+reg,7,-1.5984012,7.767851,baltic sea critic infrastructur baltic bridg
+reg,7,-2.1671002,7.336872,baltic sea critic infrastructur baltic bridg
+reg,0,-5.0265985,7.303896,nuclear power wind turbin offshor wind
+reg,5,-2.1919303,6.9686,elect campaign municip council say peter
+reg,7,-1.5610529,7.615709,baltic sea critic infrastructur baltic bridg
+reg,2,-5.261791,9.839049,offshor wind wind farm energi agenc
+reg,14,-0.67417794,6.8546844,food school bornholm agricultur søren schow
+reg,8,-1.4076109,6.3103495,next year municip council climat plan
+reg,5,-1.9462875,6.8280215,elect campaign municip council say peter
+reg,3,-3.2878628,8.702232,green transit center green green energi
+reg,5,-2.1825845,6.505113,elect campaign municip council say peter
+reg,9,-4.0836353,10.445887,baltic energi baltic energi island danish energi agenc
+reg,0,-4.1745353,7.1334257,nuclear power wind turbin offshor wind
+reg,3,-2.5533834,8.05726,green transit center green green energi
+reg,9,-3.7077394,10.353007,baltic energi baltic energi island danish energi agenc
+reg,2,-4.7235723,10.349399,offshor wind wind farm energi agenc
+reg,15,-0.7873723,7.7508364,ann thoma top candid social democraci
+reg,4,-2.190634,8.636801,jacob trøst social democraci mayor jacob
+reg,7,-4.0050955,10.082989,baltic sea critic infrastructur baltic bridg
+reg,2,-4.6534877,10.352569,offshor wind wind farm energi agenc
+reg,3,-3.6000173,8.434008,green transit center green green energi
+reg,0,-4.0720873,6.775317,nuclear power wind turbin offshor wind
+reg,1,-4.3695817,9.542977,bornholm museum high voltag land plant
+reg,0,-4.725171,6.8105907,nuclear power wind turbin offshor wind
+reg,11,-3.0026612,7.2795653,renew energi fossil fuel energi solut
+reg,3,-2.9506912,8.463937,green transit center green green energi
+reg,6,-6.0533786,8.357867,power plant hydrogen product electrolysi plant
+reg,3,-2.6157646,8.707957,green transit center green green energi
+reg,8,-1.7871066,7.1674705,next year municip council climat plan
+reg,7,-3.1553867,9.529208,baltic sea critic infrastructur baltic bridg
+reg,6,-4.5888724,9.325607,power plant hydrogen product electrolysi plant
+reg,1,-2.712762,9.854512,bornholm museum high voltag land plant
+reg,11,-3.3626773,7.1688013,renew energi fossil fuel energi solut
+reg,5,-2.335361,6.289413,elect campaign municip council say peter
+reg,8,-1.6225213,6.6621113,next year municip council climat plan
+reg,8,-1.4596913,6.7195597,next year municip council climat plan
+reg,0,-4.6801972,7.0614114,nuclear power wind turbin offshor wind
+reg,11,-2.782505,7.001213,renew energi fossil fuel energi solut
+reg,4,-1.3517177,8.901442,jacob trøst social democraci mayor jacob
+reg,2,-5.2073903,10.341474,offshor wind wind farm energi agenc
+reg,4,-1.4761066,9.104867,jacob trøst social democraci mayor jacob
+reg,3,-1.5233893,8.687627,green transit center green green energi
+reg,2,-5.2856245,10.147762,offshor wind wind farm energi agenc
+reg,5,-2.1579497,6.548796,elect campaign municip council say peter
+reg,1,-2.1785054,8.8296175,bornholm museum high voltag land plant
+reg,2,-4.292729,10.050191,offshor wind wind farm energi agenc
+reg,1,-2.8858488,9.922823,bornholm museum high voltag land plant
+reg,0,-4.7815633,6.9782662,nuclear power wind turbin offshor wind
+reg,11,-2.6974373,7.3189087,renew energi fossil fuel energi solut
+reg,9,-3.4162295,10.143769,baltic energi baltic energi island danish energi agenc
+reg,3,-3.7042964,8.917505,green transit center green green energi
+reg,3,-3.862,8.915743,green transit center green green energi
+reg,5,-2.1290965,5.9905043,elect campaign municip council say peter
+reg,3,-2.377895,8.610829,green transit center green green energi
+reg,2,-4.328733,10.36779,offshor wind wind farm energi agenc
+reg,5,-2.488075,6.0511565,elect campaign municip council say peter
+reg,3,-3.4366999,8.230515,green transit center green green energi
+reg,1,-2.7194571,9.670717,bornholm museum high voltag land plant
+reg,15,-0.8155318,7.7407584,ann thoma top candid social democraci
+reg,8,-1.5204489,6.237702,next year municip council climat plan
+reg,0,-3.7908769,6.6064806,nuclear power wind turbin offshor wind
+reg,0,-4.1792784,6.5108314,nuclear power wind turbin offshor wind
+reg,0,-4.2059135,6.528257,nuclear power wind turbin offshor wind
+reg,9,-4.0046244,10.47604,baltic energi baltic energi island danish energi agenc
+reg,0,-4.31362,6.751967,nuclear power wind turbin offshor wind
+reg,6,-5.634778,9.004597,power plant hydrogen product electrolysi plant
+reg,8,-1.2055511,6.3944435,next year municip council climat plan
+reg,7,-6.0377893,7.6769323,baltic sea critic infrastructur baltic bridg
+reg,13,-6.271721,7.9996285,offshor wind energiø bornholm press releas
+reg,1,-2.527268,9.961933,bornholm museum high voltag land plant
+reg,4,-1.0620027,8.824952,jacob trøst social democraci mayor jacob
+reg,3,-2.9826813,7.8628774,green transit center green green energi
+reg,4,-1.5452597,8.963945,jacob trøst social democraci mayor jacob
+reg,2,-4.33129,9.560593,offshor wind wind farm energi agenc
+reg,4,-3.1875603,9.179718,jacob trøst social democraci mayor jacob
+reg,11,-2.3831027,7.402682,renew energi fossil fuel energi solut
+reg,11,-3.1709554,7.998075,renew energi fossil fuel energi solut
+reg,5,-2.8237045,6.118592,elect campaign municip council say peter
+reg,5,-2.8647885,6.042213,elect campaign municip council say peter
+reg,5,-2.8019722,6.079582,elect campaign municip council say peter
+reg,3,-3.4489877,8.12576,green transit center green green energi
+reg,5,-2.149685,6.247356,elect campaign municip council say peter
+reg,7,-1.404501,7.815332,baltic sea critic infrastructur baltic bridg
+reg,9,-1.6193762,9.304715,baltic energi baltic energi island danish energi agenc
+reg,5,-2.1990993,6.7181315,elect campaign municip council say peter
+reg,7,-1.5549489,7.818826,baltic sea critic infrastructur baltic bridg
+reg,9,-3.9345922,10.33484,baltic energi baltic energi island danish energi agenc
+reg,9,-3.82967,10.583815,baltic energi baltic energi island danish energi agenc
+reg,1,-2.071202,9.647284,bornholm museum high voltag land plant
+reg,5,-2.5968447,6.518872,elect campaign municip council say peter
+reg,0,-3.845345,7.102724,nuclear power wind turbin offshor wind
+reg,0,-4.0913506,7.3730025,nuclear power wind turbin offshor wind
+reg,6,-5.9603148,8.234334,power plant hydrogen product electrolysi plant
+reg,13,-5.6099653,7.4491568,offshor wind energiø bornholm press releas
+reg,7,-3.7180533,9.926229,baltic sea critic infrastructur baltic bridg
+reg,0,-4.1010923,6.7207694,nuclear power wind turbin offshor wind
+reg,0,-3.9030962,6.51527,nuclear power wind turbin offshor wind
+reg,15,-0.8223545,7.6781254,ann thoma top candid social democraci
+reg,12,-5.5352173,8.142366,district heat offshor wind heat pump
+reg,11,-2.8543074,7.2964053,renew energi fossil fuel energi solut
+reg,5,-2.8930755,6.1605105,elect campaign municip council say peter
+reg,14,-0.884826,6.789338,food school bornholm agricultur søren schow
+reg,1,-2.0891743,8.890002,bornholm museum high voltag land plant
+reg,1,-3.1867113,10.065517,bornholm museum high voltag land plant
+reg,14,-0.54925907,6.90769,food school bornholm agricultur søren schow
+reg,0,-4.985442,7.4857893,nuclear power wind turbin offshor wind
+reg,8,-1.6758401,7.214771,next year municip council climat plan
+reg,12,-4.250962,8.457777,district heat offshor wind heat pump
+reg,1,-3.0085313,9.5902,bornholm museum high voltag land plant
+reg,1,-3.0180242,10.023261,bornholm museum high voltag land plant
+reg,5,-1.8929754,6.8718014,elect campaign municip council say peter
+reg,14,-0.8440774,6.820123,food school bornholm agricultur søren schow
+reg,0,-3.7803843,6.7990484,nuclear power wind turbin offshor wind
+reg,7,-1.4429275,7.8251705,baltic sea critic infrastructur baltic bridg
+reg,15,-0.7549896,7.7806,ann thoma top candid social democraci
+reg,8,-1.6058638,7.264365,next year municip council climat plan
+reg,6,-5.64269,9.116718,power plant hydrogen product electrolysi plant
+reg,8,-1.5358331,6.2720475,next year municip council climat plan
+reg,5,-2.3554966,6.3070073,elect campaign municip council say peter
+reg,1,-2.3871644,9.0816145,bornholm museum high voltag land plant
+reg,4,-1.1845497,9.056258,jacob trøst social democraci mayor jacob
+reg,9,-4.150712,10.372284,baltic energi baltic energi island danish energi agenc
+reg,8,-1.3999553,6.400006,next year municip council climat plan
+reg,1,-2.8251343,9.514,bornholm museum high voltag land plant
+reg,0,-3.8556533,6.344406,nuclear power wind turbin offshor wind
+reg,10,-4.6921563,8.816774,energiø bornholm state aid electr price
+reg,10,-4.7736545,8.683862,energiø bornholm state aid electr price
+reg,10,-4.802247,8.739224,energiø bornholm state aid electr price
+reg,13,-6.303602,8.127257,offshor wind energiø bornholm press releas
+reg,13,-5.5227957,7.481104,offshor wind energiø bornholm press releas
+reg,8,-1.5070093,6.7496896,next year municip council climat plan
+reg,8,-1.314188,6.522038,next year municip council climat plan
+reg,8,-1.4659014,6.2666383,next year municip council climat plan
+reg,8,-1.7232081,7.2980194,next year municip council climat plan
+reg,10,-4.7443914,8.6893,energiø bornholm state aid electr price
+reg,14,-0.80607367,6.965422,food school bornholm agricultur søren schow
+reg,12,-4.8436737,7.986637,district heat offshor wind heat pump
+reg,1,-3.6555688,9.344159,bornholm museum high voltag land plant
+reg,11,-2.7073686,7.446842,renew energi fossil fuel energi solut
+reg,4,-2.3160403,8.514943,jacob trøst social democraci mayor jacob
+reg,2,-4.277789,9.88448,offshor wind wind farm energi agenc
+reg,0,-3.4058726,7.194381,nuclear power wind turbin offshor wind
+reg,0,-4.607313,6.692625,nuclear power wind turbin offshor wind
+reg,0,-3.5125206,6.813603,nuclear power wind turbin offshor wind
+reg,0,-4.5975256,7.6033297,nuclear power wind turbin offshor wind
+reg,5,-2.4193492,6.554976,elect campaign municip council say peter
+reg,3,-2.9095266,8.432815,green transit center green green energi
+reg,0,-3.9395025,6.386304,nuclear power wind turbin offshor wind
+reg,4,-2.3256853,8.417786,jacob trøst social democraci mayor jacob
+reg,4,-2.371646,8.520793,jacob trøst social democraci mayor jacob
+reg,14,-0.91219807,6.8071404,food school bornholm agricultur søren schow
+reg,14,-0.86425894,6.860662,food school bornholm agricultur søren schow
+reg,14,-0.9678048,6.9552073,food school bornholm agricultur søren schow
+reg,14,-0.832754,6.8336515,food school bornholm agricultur søren schow
+reg,0,-3.6160438,6.659121,nuclear power wind turbin offshor wind
+reg,0,-3.7422848,7.2508583,nuclear power wind turbin offshor wind
+reg,0,-4.314038,7.27218,nuclear power wind turbin offshor wind
+reg,0,-4.3307085,6.8074365,nuclear power wind turbin offshor wind
+reg,7,-3.898071,9.907058,baltic sea critic infrastructur baltic bridg
+reg,0,-4.0285482,6.412001,nuclear power wind turbin offshor wind
+reg,13,-5.8525734,7.531894,offshor wind energiø bornholm press releas
+reg,15,-0.81371343,8.243938,ann thoma top candid social democraci
+reg,0,-3.8589873,6.9250255,nuclear power wind turbin offshor wind
+reg,0,-3.8544102,6.3109293,nuclear power wind turbin offshor wind
+reg,12,-4.486306,8.438287,district heat offshor wind heat pump
+reg,0,-4.2160773,6.7286606,nuclear power wind turbin offshor wind
+reg,1,-1.8851931,9.219137,bornholm museum high voltag land plant
+reg,12,-4.8328104,7.904861,district heat offshor wind heat pump
+reg,2,-5.056286,9.978925,offshor wind wind farm energi agenc
+reg,10,-4.830287,8.648502,energiø bornholm state aid electr price
+reg,0,-4.506444,6.5311737,nuclear power wind turbin offshor wind
+reg,1,-2.6469836,9.243619,bornholm museum high voltag land plant
+reg,1,-3.173404,8.858528,bornholm museum high voltag land plant
+reg,1,-2.413357,9.117927,bornholm museum high voltag land plant
+reg,1,-2.317499,9.338273,bornholm museum high voltag land plant
+reg,10,-4.8274813,8.503447,energiø bornholm state aid electr price
+reg,15,-0.90914655,8.500319,ann thoma top candid social democraci
+reg,11,-2.5166721,7.304465,renew energi fossil fuel energi solut
+reg,10,-4.9062877,8.481342,energiø bornholm state aid electr price
+reg,5,-2.410061,6.081449,elect campaign municip council say peter
+reg,7,-1.3896401,7.600992,baltic sea critic infrastructur baltic bridg
+reg,12,-5.15851,8.23947,district heat offshor wind heat pump
+reg,10,-4.832174,8.512441,energiø bornholm state aid electr price
+reg,2,-4.8762116,10.341959,offshor wind wind farm energi agenc
+reg,1,-2.0484853,9.568412,bornholm museum high voltag land plant
+reg,0,-4.936673,7.6277165,nuclear power wind turbin offshor wind
+reg,10,-4.9602976,8.990107,energiø bornholm state aid electr price
+reg,14,-0.98249984,7.0944853,food school bornholm agricultur søren schow
+reg,0,-4.6396856,7.037815,nuclear power wind turbin offshor wind
+reg,10,-5.102066,9.092287,energiø bornholm state aid electr price
+reg,15,-0.75320065,7.7669106,ann thoma top candid social democraci
+reg,1,-2.3892348,9.867393,bornholm museum high voltag land plant
+reg,0,-4.737163,7.5646563,nuclear power wind turbin offshor wind
+reg,15,-0.7740278,7.734403,ann thoma top candid social democraci

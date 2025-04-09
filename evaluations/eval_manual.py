@@ -34,13 +34,13 @@ for model in which_model:
 
         for source in sources:
             
-            df_file = pd.read_csv(f'data/{source}_media_stemmed_eng.csv')
+            df_file1 = pd.read_csv(f'data/{source}_media_stemmed_eng.csv')
             embeddings = pd.read_csv(f'modelling/outputs/{model}/{Latest_run_id}_{source}_{model}_embeddings.csv')
             
-            result_df, df_file = clustering_with_umap_hdbscan(df_file, embeddings, 'manualrun', source, model)
+            result_df, df_file = clustering_with_umap_hdbscan(df_file1, embeddings, 'manualrun', source, model)
 
             TFIDF_cluster_Naming(df_file, result_df, 'HDBSCAN', source, model)
 
-            result_df, df_file = bertopic_clustering(df_file, embeddings, 'manualrun', source, model)
+            result_df, df_file = bertopic_clustering(df_file1, embeddings, 'manualrun', source, model)
 
             TFIDF_cluster_Naming(df_file, result_df, 'BERTopic', source, model)

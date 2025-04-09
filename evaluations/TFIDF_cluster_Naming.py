@@ -60,6 +60,9 @@ def TFIDF_cluster_Naming(df_file, result_df, clustering_method, source, model):
     labels_int = result_df['cluster'].astype(int).values
     n_clusters = len(np.unique(labels_int))
 
+    # Ensure indices alignment before assigning topic names
+    result_df = result_df.reset_index(drop=True)
+
     # Generate topic names for each cluster
     for label in range(n_clusters):
         indices = np.where(labels_int == label)[0]
@@ -81,11 +84,11 @@ def TFIDF_cluster_Naming(df_file, result_df, clustering_method, source, model):
         if topic_name is None:
             topic_name = f"No words found for cluster {label}"
 
-        # Save the topic name in the result DataFrame
-        result_df.loc[indices, 'topic_name'] = topic_name
+        # Assign topic names using aligned indices
+        result_df.loc[result_df.index[indices], 'topic_name'] = topic_name
     
     # Save results
-    output_file = f'evaluations/outputs/manualrun_{model}_{source}_clusters_{clustering_method}{"_2D" if parameters["umap_dimensions"] == 2 else ""}.csv'
+    output_file = f'evaluations/outputs/manualrun_{model}_{source}_clusters_{clustering_method}.csv'
 
     result_df.to_csv(output_file, index=False)
     print(f"TFIDF cluster namning for {source} and {model} saved for {clustering_method}")

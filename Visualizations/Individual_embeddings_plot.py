@@ -16,7 +16,7 @@ def individual_embeddings_plot(embedding, cluster_model, source):
         None
     """
     # Load the results from CSV
-    df = pd.read_csv(f"evaluations/outputs/manualrun_{embedding}_{source}_clusters_{cluster_model}_2D.csv")
+    df = pd.read_csv(f"evaluations/outputs/manualrun_{embedding}_{source}_clusters_{cluster_model}.csv")
             
     # Ensure the output directory exists
     output_dir = 'Visualizations/Plots/' 
@@ -41,12 +41,12 @@ def individual_embeddings_plot(embedding, cluster_model, source):
         
         # Plot points for the cluster
         plt.scatter(cluster_data['x'], cluster_data['y'], label=f'Cluster {cluster}', alpha=0.5, edgecolors='face', linewidth=0.5, marker='o')
-    plt.title(f'{embedding} - {cluster_model} Clustering (Colored by Cluster)')
+    plt.title(f'{embedding} - {cluster_model} - {source}')
     plt.xlabel('UMAP 1')
     plt.ylabel('UMAP 2')
 
     # Save the cluster-colored plot
-    output_file = os.path.join(output_dir, f'manualrun_{source}_{embedding}_{cluster_model}_cluster_plot.png')
+    output_file = os.path.join(output_dir, f'manualrun_{embedding}_{cluster_model}_{source}_cluster_plot.png')
     plt.savefig(output_file)
     plt.close()
     print(f"Plot saved as '{output_file}'")
