@@ -3,6 +3,7 @@ import pandas as pd
 from BERTopic_clustering import bertopic_clustering
 from HDBSCAN_clustering import clustering_with_umap_hdbscan
 from TFIDF_cluster_Naming import TFIDF_cluster_Naming
+from BERTopic_cluster_Naming import BERTopic_cluster_Naming
 
 import yaml
 with open('parameters.yaml', 'r') as file:
@@ -39,8 +40,10 @@ for model in which_model:
             
             result_df, df_file = clustering_with_umap_hdbscan(df_file1, embeddings, 'manualrun', source, model)
 
-            TFIDF_cluster_Naming(df_file, result_df, 'HDBSCAN', source, model)
+            result_df, df_file = TFIDF_cluster_Naming(df_file, result_df, 'HDBSCAN', source, model)
+            BERTopic_cluster_Naming(df_file, result_df, 'HDBSCAN', source, model)
 
             result_df, df_file = bertopic_clustering(df_file1, embeddings, 'manualrun', source, model)
 
-            TFIDF_cluster_Naming(df_file, result_df, 'BERTopic', source, model)
+            result_df, df_file = TFIDF_cluster_Naming(df_file, result_df, 'BERTopic', source, model)
+            BERTopic_cluster_Naming(df_file, result_df, 'BERTopic', source, model)

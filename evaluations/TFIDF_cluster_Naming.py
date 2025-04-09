@@ -85,10 +85,12 @@ def TFIDF_cluster_Naming(df_file, result_df, clustering_method, source, model):
             topic_name = f"No words found for cluster {label}"
 
         # Assign topic names using aligned indices
-        result_df.loc[result_df.index[indices], 'topic_name'] = topic_name
+        result_df.loc[result_df.index[indices], 'TF_IDF_topic_name'] = topic_name
     
     # Save results
     output_file = f'evaluations/outputs/manualrun_{model}_{source}_clusters_{clustering_method}.csv'
 
     result_df.to_csv(output_file, index=False)
     print(f"TFIDF cluster namning for {source} and {model} saved for {clustering_method}")
+
+    return result_df, df_file
