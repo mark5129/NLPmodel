@@ -20,6 +20,7 @@
             <button onclick="showContent('plots1')" id="btn-plots">Version 1 Plots</button>
             <button onclick="showContent('plots2')" id="btn-plots">Version 2 Plots</button>
             <button onclick="showContent('plots3')" id="btn-plots">Plots for thesis</button>
+            <button onclick="showContent('plots4')" id="btn-plots">New plots</button>
             <button onclick="showContent('services')" id="btn-services">About</button>
             <button onclick="showContent('contact')" id="btn-contact">State of Log file</button>
         </div>
@@ -238,6 +239,62 @@
                     <img src="Visualizations/Outputs/manualrun_merged_embeddings_Specter2Actually_clusterplot50.png" alt="Specter2Actually_clusterplot50" style="width:1000px;height:auto;">                    
                     <img src="Visualizations/Outputs/manualrun_merged_embeddings_Specter2Actually_outlineplot.png" alt="Specter2Actually_sourceplot" style="width:1000px;height:auto;">
                     <img src="Visualizations/Outputs/manualrun_merged_embeddings_Specter2Actually_sourceplot.png" alt="Specter2Actually_sourceplot" style="width:1000px;height:auto;">
+                </div>
+            </div>
+            <div id="plots4" style="display: none;"> 
+                <h2>Plots for thesis where each source is analysed individually</h2> 
+
+                <button onclick="togglePlot('plot1111')">XLM Roberta</button>
+                <button onclick="togglePlot('plot1112')">MiniLm12</button>
+                <button onclick="togglePlot('plot1113')">Specter2</button>
+                <p></p>
+                <div id="plot1111" style="display: none;">
+                    <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
+
+                    <img src="Visualizations/Plots/manualrun_XLM_Roberta_BERTopic_merged_embeddings_source_plot.png" alt="XLM_Robertasourceplot" style="width:1000px;height:auto;">
+
+                    <h2>Bertopic Clustering</h2>
+                    <img src="Visualizations/Plots/manualrun_XLM_Roberta_BERTopic_pro_cluster_plot.png" alt="XLM_Roberta_proplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_XLM_Roberta_BERTopic_reg_cluster_plot.png" alt="XLM_Roberta_regplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_XLM_Roberta_BERTopic_sci_cluster_plot.png" alt="XLM_Roberta_sciplot" style="width:1000px;height:auto;">
+                    
+
+                    <h2>HDBSCAN Clustering</h2>
+                    <img src="Visualizations/Plots/manualrun_XLM_Roberta_HDBSCAN_pro_cluster_plot.png" alt="XLM_Roberta_proplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_XLM_Roberta_HDBSCAN_reg_cluster_plot.png" alt="XLM_Roberta_regplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_XLM_Roberta_HDBSCAN_sci_cluster_plot.png" alt="XLM_Roberta_sciplot" style="width:1000px;height:auto;">
+                </div>
+                <div id="plot1112" style="display: none;">
+                    <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
+
+                    <img src="Visualizations/Plots/manualrun_MiniLm12_BERTopic_merged_embeddings_source_plot.png" alt="MiniLm12sourceplot" style="width:1000px;height:auto;">
+
+                    <h2>Bertopic Clustering</h2>
+                    <img src="Visualizations/Plots/manualrun_MiniLm12_BERTopic_pro_cluster_plot.png" alt="MiniLm12_proplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_MiniLm12_BERTopic_reg_cluster_plot.png" alt="MiniLm12_regplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_MiniLm12_BERTopic_sci_cluster_plot.png" alt="MiniLm12_sciplot" style="width:1000px;height:auto;">
+                    
+
+                    <h2>HDBSCAN Clustering</h2>
+                    <img src="Visualizations/Plots/manualrun_MiniLm12_HDBSCAN_pro_cluster_plot.png" alt="MiniLm12_proplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_MiniLm12_HDBSCAN_reg_cluster_plot.png" alt="MiniLm12_regplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_MiniLm12_HDBSCAN_sci_cluster_plot.png" alt="MiniLm12_sciplot" style="width:1000px;height:auto;">
+                </div>
+                <div id="plot1113" style="display: none;">
+                    <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
+
+                    <img src="Visualizations/Plots/manualrun_Specter2Actually_BERTopic_merged_embeddings_source_plot.png" alt="Specter2sourceplot" style="width:1000px;height:auto;">                    
+
+                    <h2>Bertopic Clustering</h2>
+                    <img src="Visualizations/Plots/manualrun_Specter2Actually_BERTopic_pro_cluster_plot.png" alt="Specter2Actually_proplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_Specter2Actually_BERTopic_reg_cluster_plot.png" alt="Specter2Actually_regplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_Specter2Actually_BERTopic_sci_cluster_plot.png" alt="Specter2Actually_sciplot" style="width:1000px;height:auto;">
+                    
+
+                    <h2>HDBSCAN Clustering</h2>
+                    <img src="Visualizations/Plots/manualrun_Specter2Actually_HDBSCAN_pro_cluster_plot.png" alt="Specter2Actually_proplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_Specter2Actually_HDBSCAN_reg_cluster_plot.png" alt="Specter2Actually_regplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_Specter2Actually_HDBSCAN_sci_cluster_plot.png" alt="Specter2Actually_sciplot" style="width:1000px;height:auto;">
                 </div>
             </div>
             <div id="services" style="display: none;"> 

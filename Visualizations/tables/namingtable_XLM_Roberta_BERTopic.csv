@@ -1,40 +1,40 @@
-Source,cluster,count,TF_IDF_topic_name,BERTopic_topic_name
-pro,0,37,district heat co2 emiss electr consumpt,energi green climat
-pro,1,23,nuclear power open door wave power,energi island wind
-pro,2,21,offshor wind energiø bornholm danish energi agenc,energi wind offshor
-pro,3,18,north sea convert station wind farm,energi island wind
-pro,4,17,data center marin mammal christian bueger,energi area sea
-pro,5,16,offshor wind wind turbin wind farm,energi wind offshor
-pro,6,16,hydrogen produc 000 tonn green fuel,energi hydrogen wind
-pro,7,15,hesselag pedersen morten hesselag pedersen morten hesselag,energi island electr
-reg,0,97,wind turbin offshor wind north sea,energi bornholm island
-reg,1,81,municip council elect campaign associ energiø bornholm,bornholm energi island
-reg,2,55,energi agenc danish energi agenc baltic energi,energi bornholm island
-reg,3,51,energi park busi park green transit,bornholm energi island
-reg,4,44,high voltag land plant local plan,bornholm energi municip
-reg,5,38,hydrogen product power plant electrolysi plant,bornholm energi hydrogen
-reg,6,36,offshor wind danish energi wind farm,energi bornholm wind
-reg,7,34,baltic sea critic infrastructur war ukrain,bornholm energi baltic
-reg,8,33,municip council next year social democraci,bornholm municip year
-reg,9,28,jacob trøst social democraci citizen meet,bornholm energi island
-reg,10,23,energiø bornholm state aid electr price,energi bornholm island
-reg,11,23,center bornholm busi center busi center bornholm,bornholm energi busi
-reg,12,22,bornholm museum develop strategi plan develop strategi,bornholm energi island
-reg,13,22,danish environment danish environment protect protect agenc,bornholm energi island
-reg,14,19,district heat heat pump klau vesløv,bornholm energi heat
-reg,15,18,ann thoma top candid social democraci,say municip bornholm
-reg,16,18,food school bornholm agricultur søren schow,bornholm food energi
-sci,0,103,vsc hvdc wind turbin high voltag,system control convert
-sci,1,91,north sea offshor grid energi secur,offshor energi grid
-sci,2,44,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,3,43,power system microgrid structur linear program,energi system power
-sci,4,42,renew energi 100 renew energi 100 renew,energi system island
-sci,5,31,renew energi small island energi sourc,energi island system
-sci,6,29,oil ga co2 emiss power hub,energi power system
-sci,7,25,smart grid sustain energi system infrastructur,energi system island
-sci,8,20,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,9,19,energi island transmiss grid renew energi,energi island grid
-sci,10,19,wind farm krieger flak offshor wind,offshor wind grid
-sci,11,17,energi island right reserv water wave,energi island wave
-sci,12,15,north sea grid space legal framework,offshor sea construct
-sci,13,15,energi island time seri long term,island variabl studi
+Source,cluster,count,TF_IDF_topic_name,BERTopic_topic_name,count_words
+pro,0,37,district heat co2 emiss electr consumpt,energi green climat,0
+pro,1,23,nuclear power open door wave power,energi island wind,0
+pro,2,21,offshor wind energiø bornholm danish energi agenc,energi wind offshor,3
+pro,3,18,north sea convert station wind farm,energi island wind,1
+pro,4,17,data center marin mammal christian bueger,energi area sea,0
+pro,5,16,offshor wind wind turbin wind farm,energi wind offshor,2
+pro,6,16,hydrogen produc 000 tonn green fuel,energi hydrogen wind,1
+pro,7,15,hesselag pedersen morten hesselag pedersen morten hesselag,energi island electr,0
+reg,0,97,wind turbin offshor wind north sea,energi bornholm island,0
+reg,1,81,municip council elect campaign associ energiø bornholm,bornholm energi island,1
+reg,2,55,energi agenc danish energi agenc baltic energi,energi bornholm island,1
+reg,3,51,energi park busi park green transit,bornholm energi island,1
+reg,4,44,high voltag land plant local plan,bornholm energi municip,0
+reg,5,38,hydrogen product power plant electrolysi plant,bornholm energi hydrogen,1
+reg,6,36,offshor wind danish energi wind farm,energi bornholm wind,2
+reg,7,34,baltic sea critic infrastructur war ukrain,bornholm energi baltic,1
+reg,8,33,municip council next year social democraci,bornholm municip year,2
+reg,9,28,jacob trøst social democraci citizen meet,bornholm energi island,0
+reg,10,23,energiø bornholm state aid electr price,energi bornholm island,1
+reg,11,23,center bornholm busi center busi center bornholm,bornholm energi busi,2
+reg,12,22,bornholm museum develop strategi plan develop strategi,bornholm energi island,1
+reg,13,22,danish environment danish environment protect protect agenc,bornholm energi island,0
+reg,14,19,district heat heat pump klau vesløv,bornholm energi heat,1
+reg,15,18,ann thoma top candid social democraci,say municip bornholm,0
+reg,16,18,food school bornholm agricultur søren schow,bornholm food energi,2
+sci,0,103,vsc hvdc wind turbin high voltag,system control convert,0
+sci,1,91,north sea offshor grid energi secur,offshor energi grid,3
+sci,2,44,wind farm offshor wind offshor wind farm,offshor wind grid,2
+sci,3,43,power system microgrid structur linear program,energi system power,2
+sci,4,42,renew energi 100 renew energi 100 renew,energi system island,1
+sci,5,31,renew energi small island energi sourc,energi island system,2
+sci,6,29,oil ga co2 emiss power hub,energi power system,1
+sci,7,25,smart grid sustain energi system infrastructur,energi system island,2
+sci,8,20,green hydrogen hydrogen product energi hub,energi hydrogen offshor,2
+sci,9,19,energi island transmiss grid renew energi,energi island grid,3
+sci,10,19,wind farm krieger flak offshor wind,offshor wind grid,2
+sci,11,17,energi island right reserv water wave,energi island wave,3
+sci,12,15,north sea grid space legal framework,offshor sea construct,1
+sci,13,15,energi island time seri long term,island variabl studi,1
