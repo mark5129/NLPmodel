@@ -1,0 +1,45 @@
+Source,cluster,count,TF_IDF_topic_name,BERTopic_topic_name
+pro,0,50,energi island north sea island north sea,energi island wind
+pro,1,40,offshor wind data center wind turbin,energi wind offshor
+pro,2,22,natur ga hydrogen produc green power,energi green power
+pro,3,22,million tonn million ton co2 emiss,co2 climat energi
+pro,4,16,energi island wind turbin district heat,energi island wind
+reg,0,54,energiø bornholm energi island 10 million,energi bornholm island
+reg,1,47,municip council social democraci climat plan,municip bornholm energi
+reg,2,45,social democraci social democrat ann thoma,bornholm say also
+reg,3,41,labor market center bornholm busi center,bornholm energi busi
+reg,4,40,realli good green transit green island,bornholm energi island
+reg,5,38,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
+reg,6,33,baltic sea rønne harbor ga station,bornholm energi wind
+reg,7,29,baltic sea green energi north sea,bornholm energi island
+reg,8,27,offshor wind wind farm danish energi agenc,energi bornholm wind
+reg,9,27,baltic sea baltic energi baltic energi island,bornholm energi baltic
+reg,10,26,local plan high voltag land plant,bornholm energinet energi
+reg,11,24,nuclear power electr grid wast heat,bornholm energi heat
+reg,12,23,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
+reg,13,23,citizen meet citizen associ civic meet,bornholm energi citizen
+reg,14,22,land plant energi park island land,energi bornholm island
+reg,15,20,high voltag transform station voltag station,bornholm area plant
+reg,16,19,cultur ident henrik espersen energiø bornholm,bornholm energi island
+reg,17,18,jacob trøst say jacob jacob consol,bornholm energi say
+reg,18,16,energi agenc danish energi agenc danish energi,bornholm energi land
+reg,19,16,citizen associ associ energiø citizen associ energiø,bornholm energi dream
+reg,20,15,electr grid bornholm electr price zone,bornholm energi electr
+reg,21,15,busi park municip council munk ravnborg,bornholm energi busi
+sci,0,78,north sea offshor grid baltic sea,offshor grid energi
+sci,1,52,wind farm offshor wind offshor grid,offshor grid wind
+sci,2,45,sourc convert vsc hvdc hvdc link,offshor grid power
+sci,3,34,sustain energi long term energi island,energi island system
+sci,4,33,renew energi small island energi storag,energi island system
+sci,5,33,offshor wind wind power wind farm,wind offshor grid
+sci,6,32,energi secur renew energi energi system,energi system island
+sci,7,32,island microgrid smart grid microgrid structur,energi system power
+sci,8,29,wind farm wind turbin ac grid,power grid wind
+sci,9,27,energi system energi storag multi vector,energi system power
+sci,10,23,hydrogen product green hydrogen green hydrogen product,hydrogen energi offshor
+sci,11,22,time domain hvdc convert domain simul,control system grid
+sci,12,21,power system critic mode vsc hvdc,system power energi
+sci,13,19,energi island wave energi right reserv,energi island growth
+sci,14,18,energi island wave energi energi convers,island energi wind
+sci,15,18,co2 emiss oil ga power hub,energi power offshor
+sci,16,15,vsc hvdc fault ride new energi,power system grid

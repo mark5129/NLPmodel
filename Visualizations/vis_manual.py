@@ -2,6 +2,7 @@ import pandas as pd
 
 from Merged_embeddings_plot import merged_embeddings_plot
 from Individual_embeddings_plot import individual_embeddings_plot
+from namingtables import naming_tableIndividual
 
 import yaml
 with open('parameters.yaml', 'r') as file:
@@ -20,4 +21,6 @@ for embedding in embeddings:
         elif parameters['visualization'] == 'Individual':
             for source in sources:
                 individual_embeddings_plot(embedding, cluster_model, source)
+            
+            naming_tableIndividual(embedding, cluster_model)
 

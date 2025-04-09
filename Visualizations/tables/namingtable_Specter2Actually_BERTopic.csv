@@ -1,0 +1,36 @@
+Source,cluster,count,TF_IDF_topic_name,BERTopic_topic_name
+pro,0,45,green fuel million tonn natur ga,energi green climat
+pro,1,42,electr grid data center electr consumpt,energi electr island
+pro,2,25,energiø bornholm open door state aid,energi project island
+pro,3,22,offshor wind artifici island wind turbin,wind energi island
+pro,4,22,global wind district heat morten hesselag,energi say project
+pro,5,19,north sea offshor wind convert station,energi wind island
+reg,0,79,municip council social democraci climat plan,bornholm energi island
+reg,1,58,social democraci ann thoma municip council,bornholm say also
+reg,2,54,north sea realli good use bornholm,bornholm energi island
+reg,3,53,high voltag consult respons high voltag station,area plant energinet
+reg,4,49,power plant nuclear power green transit,bornholm energi island
+reg,5,38,electr grid bornholm electr bornholm electr grid,bornholm energi hydrogen
+reg,6,34,rønne harbor baltic sea thoma bendtsen,bornholm energi wind
+reg,7,32,energi park land facil land plant,energi bornholm say
+reg,8,32,baltic energi baltic energi island green energi,bornholm energi island
+reg,9,32,transform station land plant green transit,bornholm energi island
+reg,10,32,energiø bornholm state aid energi island,energi bornholm island
+reg,11,25,bornholm offshor wind offshor wind bornholm offshor,bornholm wind offshor
+reg,12,18,offshor wind danish energi agenc energi agenc,energi bornholm wind
+reg,13,17,mayor jacob green transit rønne harbor,bornholm energi island
+reg,14,16,critic infrastructur citizen associ baltic sea,bornholm energi defens
+reg,15,15,labor market center bornholm busi center bornholm,bornholm compani busi
+reg,16,15,energi busi develop strategi plan develop strategi,bornholm energi island
+reg,17,15,district heat surplu heat cip ørsted,bornholm energi heat
+sci,0,171,vsc hvdc ac grid reactiv power,offshor grid power
+sci,1,93,north sea offshor wind offshor grid,offshor grid wind
+sci,2,51,sustain energi renew energi energi transit,energi island system
+sci,3,44,wind farm offshor wind wind power,offshor wind grid
+sci,4,39,energi island wave energi numer model,energi island wave
+sci,5,37,power system long term electr price,energi system power
+sci,6,37,energi system energi storag heat recoveri,energi system island
+sci,7,24,hydrogen product green hydrogen energi system,hydrogen energi offshor
+sci,8,16,energi island right reserv qd growth,energi island growth
+sci,9,15,energi consumpt renew energi zero energi,energi island heat
+sci,10,15,pilot site energi market energi island,energi risk develop

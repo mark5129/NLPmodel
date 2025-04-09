@@ -1,0 +1,30 @@
+Source,cluster,count,TF_IDF_topic_name,BERTopic_topic_name
+pro,0,18,convert station north sea wind farm,energi island wind
+pro,1,156,solar cell district heat open door,energi island wind
+reg,0,23,energiø bornholm state aid north sea,energi bornholm island
+reg,1,40,high voltag land plant local plan,bornholm energi municip
+reg,2,25,greenlab skive energi park green transit,bornholm energi green
+reg,3,38,jacob trøst jacob consol social democraci,bornholm energi island
+reg,4,20,ann thoma top candid social democraci,say municip bornholm
+reg,5,61,nuclear power wind turbin north sea,energi bornholm wind
+reg,6,36,municip council next year climat plan,bornholm municip year
+reg,7,18,food school bornholm agricultur bornholm food,bornholm food energi
+reg,8,21,busi park wind turbin social democrat,bornholm energi island
+reg,9,25,baltic energi baltic energi island energi island,energi bornholm island
+reg,10,23,baltic sea baltic bridg secur polici,bornholm energi baltic
+reg,11,32,municip council say peter elect campaign,bornholm energi municip
+reg,12,17,offshor wind energiø bornholm denmark germani,bornholm energi wind
+reg,13,47,district heat green fuel hydrogen product,bornholm energi wind
+reg,14,18,center bornholm lone reppien lone reppien thomsen,bornholm energi wind
+reg,15,46,offshor wind danish energi agenc energi agenc,energi bornholm wind
+sci,0,35,oil ga co2 emiss energi product,energi system power
+sci,1,39,energi island wave energi grid space,wave grid offshor
+sci,2,55,smart grid power system microgrid structur,energi power system
+sci,3,20,green hydrogen hydrogen product energi hub,energi hydrogen offshor
+sci,4,32,renew energi energi sourc renew energi sourc,energi island system
+sci,5,22,renew energi 100 renew 100 renew energi,energi system island
+sci,6,20,new energi vsc hvdc convert station,power system control
+sci,7,75,wind turbin high voltag wind farm,offshor control grid
+sci,8,22,transmiss grid energi island harmon distort,energi island grid
+sci,9,75,north sea offshor grid offshor wind,offshor grid wind
+sci,10,47,wind farm offshor wind offshor wind farm,offshor wind grid

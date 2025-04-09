@@ -1,0 +1,30 @@
+Source,cluster,count,TF_IDF_topic_name,BERTopic_topic_name
+pro,0,42,million tonn green fuel green power,energi green climat
+pro,1,25,electr grid energi island electr consumpt,energi island electr
+pro,2,19,north sea offshor wind convert station,energi wind island
+pro,3,22,wind turbin offshor wind artifici island,wind energi island
+pro,4,19,global wind district heat morten hesselag,energi say project
+pro,5,25,energiø bornholm open door state aid,energi project island
+reg,0,18,land plant transform station green transit,bornholm energi island
+reg,1,20,citizen associ critic infrastructur transform station,bornholm energi say
+reg,2,54,euroregion baltic realli good north sea,bornholm energi island
+reg,3,59,high voltag high voltag station voltag station,bornholm energi plant
+reg,4,36,energi park jacob trøst social democraci,energi bornholm island
+reg,5,57,social democraci ann thoma municip council,bornholm say also
+reg,6,48,climat plan municip council young peopl,bornholm island energi
+reg,7,21,bornholm offshor wind bornholm offshor offshor wind,wind bornholm offshor
+reg,8,45,center bornholm rønne harbor bornholm compani,bornholm energi wind
+reg,9,36,energiø bornholm state aid søren møller christensen,energi bornholm say
+reg,10,27,electrolysi plant district heat hydrogen product,bornholm energi hydrogen
+reg,11,54,electr grid energi island bornholm electr,energi bornholm island
+reg,12,16,good idea wast heat power plant,energi bornholm island
+reg,13,20,green transit green fuel residenti colleg,bornholm energi island
+sci,0,47,energi island wave energi grid space,energi island wave
+sci,1,15,wind farm offshor wind farm power qualiti,offshor wind grid
+sci,2,170,vsc hvdc ac grid reactiv power,power grid offshor
+sci,3,22,hydrogen product green hydrogen energi system,hydrogen energi offshor
+sci,4,17,wind farm offshor wind grid design,wind offshor grid
+sci,5,84,north sea offshor wind offshor grid,offshor grid wind
+sci,6,15,energi island renew energi energi consumpt,energi island heat
+sci,7,27,power system electr price long term,energi system power
+sci,8,87,renew energi sustain energi energi system,energi system island
