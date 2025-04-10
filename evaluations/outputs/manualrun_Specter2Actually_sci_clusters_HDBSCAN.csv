@@ -1,462 +1,531 @@
 Source,cluster,x,y,TF_IDF_topic_name,BERTopic_topic_name
-sci,2,1.574026,-7.741751,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,0,4.209855,-3.8786411,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,7,6.8394175,-4.631332,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,6,6.9455314,-4.4145617,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,3,5.7866173,-5.6323977,power system electr price long term energi manag plan model,energi system power model cost
-sci,5,4.612077,-4.9047675,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,7,6.446192,-3.7860398,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,0,8.281583,-4.4645905,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,2,2.036087,-7.635301,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.0471847,-7.9712605,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.2563326,-8.251945,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,0,8.051065,-4.271936,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,2,1.9217229,-8.283809,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,5.1768136,-3.459589,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,2.5022845,-8.540727,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,6,7.183268,-4.5906334,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,0,8.214223,-4.263437,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,7,6.2976217,-3.714895,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,7,6.4230704,-3.5212321,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,6,7.174508,-5.1093717,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,0,8.453969,-4.5972033,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,4,3.0404887,-4.883228,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,7,6.4965196,-3.825044,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,6,7.5992,-4.6345716,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,2,2.321179,-7.4174476,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,1,7.350446,-2.3208177,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,2,3.2841558,-8.161469,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,6,7.0026298,-5.2516546,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,5,4.3046136,-3.8014324,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,4.057231,-6.700043,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.457084,-8.525356,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,0,7.905546,-4.5524297,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,0,8.325732,-4.5158424,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,5,4.749172,-3.7227542,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,4,4.214342,-4.9148116,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,7,6.729269,-3.854158,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,2,2.1379144,-7.734491,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,0,8.293199,-4.525846,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,2,2.9724185,-7.5565205,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,6,7.3027744,-4.744315,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,7,6.4343486,-3.7981594,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,6,7.3633223,-4.963642,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,2,1.8267442,-7.9217377,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,1,6.715706,-2.050478,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,2,2.342803,-7.631527,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.6557717,-7.7056646,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.5952542,-7.1429744,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,0,8.335306,-4.540344,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,5,4.5584273,-4.8739386,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,0,8.335399,-4.454204,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,2,2.6816027,-7.458758,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,6,7.5117016,-5.0809526,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,6,7.6477532,-4.7418723,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,3,5.6931686,-5.6040134,power system electr price long term energi manag plan model,energi system power model cost
-sci,3,6.2309737,-5.7484894,power system electr price long term energi manag plan model,energi system power model cost
-sci,2,2.7691307,-7.3214107,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,3,5.0384665,-6.062262,power system electr price long term energi manag plan model,energi system power model cost
-sci,2,1.6968958,-6.741328,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,7,6.1854234,-3.5861259,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,2,2.0557246,-7.3932037,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,3.9462276,-4.342271,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,6,6.8854756,-5.307947,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,7,6.8472695,-4.801755,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,3,5.326135,-5.9229684,power system electr price long term energi manag plan model,energi system power model cost
-sci,0,8.442048,-4.6449127,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,2,2.7761354,-7.4166627,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,0,8.038079,-4.424775,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,2,2.4729972,-8.267258,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.796878,-8.137078,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,3,4.8807244,-5.3325915,power system electr price long term energi manag plan model,energi system power model cost
-sci,0,8.359172,-4.470706,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,5,4.813829,-3.7057285,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,5,3.6981668,-4.8544083,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,4,3.1827877,-4.9038863,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,2,2.2248902,-8.06407,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.421669,-8.329332,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.6329696,-8.486968,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,4,3.0923538,-5.206105,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,6,7.3319664,-4.795762,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,2,2.8380923,-7.7633576,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,7,6.8327894,-4.2736044,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,7,6.618832,-3.9941635,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,7,6.714677,-4.7308135,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,2,1.9969587,-8.408652,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,3,6.338421,-5.49101,power system electr price long term energi manag plan model,energi system power model cost
-sci,6,7.3534417,-5.212434,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,7,6.974619,-4.3042793,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,2,1.903011,-8.388215,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,7,6.4078965,-3.8251894,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,0,8.393677,-4.607145,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,0,8.189638,-4.6825705,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,6,7.444652,-4.7963476,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,4,2.7881339,-5.550555,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,6,7.8261814,-4.6915073,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,7,6.485129,-4.112244,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,2,3.0801353,-8.424133,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,4.0628996,-4.2753277,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,4,2.9785352,-4.9022937,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,0,8.045008,-4.2665324,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,7,6.598354,-4.194776,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,4,3.3918633,-4.5913315,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,2,2.1616273,-7.4362597,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,0,8.065647,-4.2156925,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,0,8.0621395,-4.226151,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,2,1.8810123,-8.080126,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,0,8.324167,-4.5184503,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,1,6.7715445,-2.001654,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,0,8.326764,-4.5591807,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,2,1.3771257,-7.274911,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.2490482,-6.4695525,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,3,6.351902,-5.2328534,power system electr price long term energi manag plan model,energi system power model cost
-sci,1,6.7428617,-2.3188584,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,4,3.343783,-5.2031407,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,2,2.4682963,-7.891219,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,7,6.470598,-3.4659326,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,2,2.7204041,-8.052504,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,3,5.85275,-5.746998,power system electr price long term energi manag plan model,energi system power model cost
-sci,2,2.535435,-8.611906,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,7,6.5098357,-3.4523299,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,6,7.1043353,-4.675117,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,2,1.4427004,-8.291521,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.4351742,-7.732335,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,7,6.61582,-4.3589015,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,5,3.8755405,-4.3680215,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,7,6.7333694,-4.5211854,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,2,3.4026985,-7.472309,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,7,6.442815,-3.8184662,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,7,6.332951,-3.8995278,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,3,6.335907,-5.6731176,power system electr price long term energi manag plan model,energi system power model cost
-sci,4,3.295246,-4.6758304,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,7,6.4332013,-3.7364895,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,7,6.5194206,-3.978206,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,2,3.1666834,-7.768175,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.9717325,-8.145061,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,0,7.7233233,-4.422442,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,2,3.2799377,-7.4416895,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,1,7.3572936,-2.020539,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,2,1.7391102,-8.525529,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.6127441,-6.870538,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,7,6.0624566,-4.06965,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,5,4.1233244,-4.0920196,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,3,4.7875743,-5.1855373,power system electr price long term energi manag plan model,energi system power model cost
-sci,2,2.6426141,-7.939133,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.4216495,-8.018301,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,3.1556222,-7.204185,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,6,7.083438,-4.982963,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,1,7.354577,-1.9889789,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,6,7.482861,-5.245371,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,2,1.7027922,-8.20927,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.873026,-8.373484,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,0,7.9835725,-4.464252,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,6,7.147544,-4.9750733,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,2,2.4943724,-7.992379,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,0,8.264192,-4.475779,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,2,3.2362897,-8.272487,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,3,6.608924,-5.21288,power system electr price long term energi manag plan model,energi system power model cost
-sci,1,7.400152,-2.0445511,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,3,6.4338603,-5.392277,power system electr price long term energi manag plan model,energi system power model cost
-sci,6,7.0495114,-5.5535235,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,3,5.1416616,-5.1595006,power system electr price long term energi manag plan model,energi system power model cost
-sci,2,2.2040362,-7.754041,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,6,7.448959,-4.9595637,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,2,3.2584534,-8.102949,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,7,6.955347,-4.785905,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,4,2.7540145,-5.2463107,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,2,2.3086872,-6.9495482,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.6070434,-7.372309,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.1975908,-6.257862,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.4312758,-7.547918,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,3,5.5638347,-5.356635,power system electr price long term energi manag plan model,energi system power model cost
-sci,7,6.4903727,-3.8713074,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,3,6.4028625,-5.094615,power system electr price long term energi manag plan model,energi system power model cost
-sci,2,2.2174797,-6.10523,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,3,5.4262877,-5.429397,power system electr price long term energi manag plan model,energi system power model cost
-sci,5,4.287534,-4.022391,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,1.7265302,-7.075286,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,4,3.1810737,-5.034841,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,4,3.4214456,-5.2277617,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,2,2.7539544,-8.015869,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,4.7712364,-4.1288166,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,3,6.263136,-5.573068,power system electr price long term energi manag plan model,energi system power model cost
-sci,2,1.6916449,-7.963499,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.0817802,-7.941837,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,3,6.209676,-5.588334,power system electr price long term energi manag plan model,energi system power model cost
-sci,3,5.896745,-5.2313232,power system electr price long term energi manag plan model,energi system power model cost
-sci,1,7.3811936,-2.7782764,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,3,6.321931,-5.52387,power system electr price long term energi manag plan model,energi system power model cost
-sci,2,3.6834903,-7.0900636,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.7839272,-8.098793,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,3.9824808,-4.843049,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,1.8939098,-8.539284,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.0120509,-6.873932,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.3032222,-8.3041935,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,3.4713118,-7.352949,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,3.7721143,-4.2782393,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,2.4247787,-7.790787,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,7,6.571682,-3.9189813,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,7,6.668775,-4.714242,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,5,5.17117,-3.3983498,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,7,6.902548,-4.9093914,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,1,7.3614855,-2.1162317,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,7,6.450809,-3.585696,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,5,4.2243123,-4.0002584,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,6,7.088028,-4.875877,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,5,4.5076146,-3.9875982,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,6,7.631322,-4.5216885,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,2,2.1065824,-7.7510066,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.8310034,-7.3700986,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.5627203,-8.213614,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.1428604,-7.3992696,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,7,6.417846,-4.2518787,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,2,2.3544118,-8.298979,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,3,5.9983635,-5.473412,power system electr price long term energi manag plan model,energi system power model cost
-sci,5,4.4463935,-4.0875945,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,1.4513036,-7.0574117,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.0466049,-7.7990017,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,4,3.2239313,-4.826172,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,6,7.2119255,-4.9509225,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,2,1.6049805,-8.424663,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,3.9380095,-4.3750873,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,2.7253928,-8.05476,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,4,2.4641085,-5.930016,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,4,2.5832655,-5.330962,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,2,1.7110233,-8.425762,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.5589123,-7.8727946,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,4.183677,-4.4193974,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,6,7.090514,-4.6272883,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,1,6.80043,-1.9358308,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,6.8173003,-2.1286097,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,6,7.2015123,-5.238864,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,7,6.5412135,-3.823973,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,2,1.5723447,-8.101401,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,4.463124,-4.479318,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,2.4055512,-6.4111967,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,4.64523,-3.9460804,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,1.6881213,-6.930656,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,4,2.6238413,-5.6422963,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,2,3.6059983,-7.12436,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.8990833,-7.434679,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.271196,-6.8361964,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.783721,-7.898799,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,6,7.542654,-4.6006455,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,2,1.6127107,-7.6238,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.8357595,-8.2926655,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.5994493,-6.817181,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.349759,-7.2515125,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.5806739,-8.4721155,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,0,8.093219,-4.2193055,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind
-sci,5,3.8792396,-4.955132,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,2.8599496,-7.771178,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,7,6.6015024,-4.1310554,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,2,1.6887116,-8.425941,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,1,7.4495063,-3.502798,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,5,3.7534337,-4.385363,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,3.7629592,-5.83303,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.4098978,-7.4439497,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,4,2.9442644,-5.8259287,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,7,6.721542,-4.1982923,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,2,2.052739,-7.3955665,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.627891,-7.592169,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,3,5.445054,-5.173288,power system electr price long term energi manag plan model,energi system power model cost
-sci,2,2.0526483,-8.650964,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,5.1187377,-3.9795468,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,1.8924798,-6.908848,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,7,6.761118,-4.391561,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,2,2.2029512,-7.5721164,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.46436,-7.560161,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,4.4168243,-4.52157,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,1.6835519,-8.3736925,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.803241,-8.481588,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.9361783,-7.4893036,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.6268382,-7.316486,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,4,3.145947,-4.754534,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,3,6.439862,-5.4391255,power system electr price long term energi manag plan model,energi system power model cost
-sci,3,5.6274867,-5.4459324,power system electr price long term energi manag plan model,energi system power model cost
-sci,2,2.9053183,-7.5926046,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,7,6.098545,-4.070595,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,6,6.784707,-5.742737,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,4,2.9264183,-5.780541,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,2,1.7276301,-8.350534,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,3.35053,-8.217397,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,4.265732,-3.8351421,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,2.4334056,-7.1380653,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.6077882,-7.972171,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,4.7498136,-3.654978,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,1.7751507,-6.9757977,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,5.0131893,-3.941409,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,7,6.527111,-3.4731731,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,2,2.379803,-6.3405037,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,6,7.10792,-4.5323133,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,2,2.7101767,-6.9145827,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.7804422,-8.430226,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,3,5.4581685,-5.45104,power system electr price long term energi manag plan model,energi system power model cost
-sci,2,1.7731752,-7.4876604,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,4.5165625,-4.90401,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,3.633321,-6.741974,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.8663504,-7.9338026,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.7804213,-8.124802,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.7924467,-7.879358,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,7,6.6625714,-5.2045655,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,3,5.584067,-5.476722,power system electr price long term energi manag plan model,energi system power model cost
-sci,2,2.4112449,-7.0779667,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,3,4.942134,-5.434842,power system electr price long term energi manag plan model,energi system power model cost
-sci,5,4.7533865,-3.6456947,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,7,6.5186934,-3.3521123,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,2,1.6360565,-6.830345,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.3419185,-7.9356923,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,3,5.8218527,-5.4386463,power system electr price long term energi manag plan model,energi system power model cost
-sci,3,5.3817034,-5.8072386,power system electr price long term energi manag plan model,energi system power model cost
-sci,5,4.169228,-4.089045,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,3.2283418,-8.303421,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,4.8424697,-4.119338,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,4,2.5940647,-5.868148,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,2,2.1380138,-8.598661,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.3159976,-7.7201667,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,3,5.418769,-5.396246,power system electr price long term energi manag plan model,energi system power model cost
-sci,5,3.7235758,-4.616542,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,1.7550333,-7.3848176,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,7,6.5237627,-4.421384,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,5,5.031612,-3.558778,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,1.5328923,-6.80136,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.8592128,-8.408029,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,3,4.993642,-5.4182115,power system electr price long term energi manag plan model,energi system power model cost
-sci,5,3.92173,-4.3028097,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,2.2553976,-7.416249,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,4.0667224,-4.761444,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,1.7499949,-7.2351465,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,3,6.5356054,-5.494688,power system electr price long term energi manag plan model,energi system power model cost
-sci,4,2.8514051,-5.2273974,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,4,2.643008,-5.5938454,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,2,3.6633198,-6.73878,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.2422,-7.41227,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.5881121,-8.46913,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,1,7.376393,-2.6602392,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,2,2.4214325,-8.08086,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,1,6.759321,-2.0053315,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,5,4.840075,-3.7546546,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,6,7.3378553,-5.335724,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,1,6.526968,-2.2571898,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,5,4.7240496,-3.824236,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,5,4.0946264,-4.7831216,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,2.0223987,-7.4259205,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.3649626,-8.277205,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.2651051,-7.318728,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.4714637,-7.8562503,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,6,7.561782,-4.4870872,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,1,6.609158,-2.2974653,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,5,3.5585203,-4.4522576,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,4,4.316151,-5.223943,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,2,3.8129892,-5.969682,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,4.082038,-4.2322993,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,6,7.1136837,-4.7947507,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,2,1.9699199,-7.225503,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.9931418,-6.802633,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.3259394,-7.4053817,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,4.9545197,-4.0942664,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,4,3.522111,-4.7977567,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,2,1.7290372,-7.358804,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,3.5021477,-7.292314,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,3,5.802638,-5.2695875,power system electr price long term energi manag plan model,energi system power model cost
-sci,5,4.4363685,-4.8919663,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,3.735041,-6.3320494,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.1491296,-8.653875,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,4,3.016654,-5.315766,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,2,2.709124,-7.2139516,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.3509912,-6.4448667,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,4,2.7217958,-5.3391795,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,5,5.1594176,-4.0723047,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,3.5160935,-7.4162216,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,1,6.742059,-2.258921,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,6,7.4120245,-5.3353114,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,2,2.2663236,-7.051536,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,4.408424,-4.9340577,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,2.7286556,-6.333229,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,4.406846,-4.25326,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,1.9466212,-6.6046777,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.9431127,-6.7706046,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,3.3955204,-7.10978,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,6,7.0325317,-4.5386667,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,2,1.7752227,-7.401395,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,4.638881,-3.8104792,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,4,3.219988,-5.0254836,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,2,1.9631962,-8.594084,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,4,3.1425927,-4.890647,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,2,1.8109143,-7.193021,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,2.0349407,-6.6242237,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,4.0839295,-4.294068,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,5,3.7180898,-4.452314,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,2.7710888,-6.2073174,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,4.903874,-3.8154032,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,2.3971727,-8.301907,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,3.8053188,-5.9650784,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,3.6351902,-4.6432433,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,1.9423481,-7.040868,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,6,6.7611604,-5.733424,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,4,3.0458472,-4.743954,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,4,3.2847292,-4.692734,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,2,1.9133877,-7.448552,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,6,7.5317154,-5.215984,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,6,7.266197,-5.3922906,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,2,3.5879624,-5.998179,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,7,6.532357,-3.4028046,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
-sci,5,4.034137,-4.3969984,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,1.5386412,-8.023646,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,3,5.4427247,-5.4423046,power system electr price long term energi manag plan model,energi system power model cost
-sci,5,3.8486304,-4.2794175,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,1.8204497,-7.512641,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.8584777,-7.556841,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,5.0619435,-4.0220537,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,3.7550964,-6.146132,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,5,5.1191545,-4.065521,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,4,2.8094738,-5.3970337,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,1,6.63606,-1.9827883,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,7.3631845,-1.9953445,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,7.348841,-1.9811367,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,7.43057,-2.885961,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,7.058941,-1.9787507,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,2,3.41428,-7.351671,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,1,7.2220435,-2.5429425,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,4,3.1906786,-4.895167,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,1,7.0861506,-2.34175,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,6.9978437,-1.9339995,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,4,3.4768314,-4.727061,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,2,1.5721388,-7.4387836,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,2,1.2816089,-7.681494,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,1,6.9666915,-2.6038668,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,4,3.144096,-4.759697,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,1,6.9279194,-2.136724,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,6.7490883,-2.1134791,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,7.385129,-1.9666258,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,7.134301,-2.4579628,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,2,1.2759824,-7.456895,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,1,7.2862597,-2.2787368,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,6.7707086,-1.8947912,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,4,3.26852,-4.801471,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,6,7.5259156,-5.0288787,renew energi energi system energi storag energi suppli small island,energi system island renew electr
-sci,1,7.3384776,-1.9339657,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,6.7694907,-2.5578613,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,6.924575,-1.9345598,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,5,4.3244824,-3.8264937,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,1,6.8423967,-2.3513026,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,6.849751,-1.8709779,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,7.400498,-1.9552262,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,7.3788266,-2.7163188,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,7.3835273,-1.9494157,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,5,4.5190334,-4.3517118,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,5,4.639675,-3.6605868,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,5,4.5685935,-4.3391724,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop
-sci,2,1.4146591,-7.287843,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,1,7.412109,-2.1008723,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,6.9577103,-2.6333601,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,6.9332247,-2.6299133,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,7.3616924,-1.8967686,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,7.424561,-2.8655305,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,6.814213,-1.881254,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,1,7.2439055,-2.0894544,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,2,1.3017703,-7.739852,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,1,6.784743,-1.9194474,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system
-sci,2,1.2704432,-7.7477064,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control
-sci,4,3.3472214,-4.802028,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm
-sci,7,6.3398633,-3.9478958,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain
+sci,0,5.2698812,12.91376,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,2,1.4828551,9.84694,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,1,-0.14016883,11.285747,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,0.5231647,11.857331,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,0.3754505,11.703064,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,3.4299529,10.246444,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,1.6739358,11.45417,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,2.306792,9.574003,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,1.4055737,11.987128,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,3.887143,11.540714,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,-0.72910076,11.850298,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,2,1.2606297,9.945312,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,0,4.8642263,13.009593,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.832224,13.093904,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.974698,13.477467,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,2,0.8367943,10.302303,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,0,5.1809893,13.392467,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,0.99734396,8.911855,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,2,1.3250326,10.454953,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,0,4.6103907,13.509017,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,0.3798579,11.684168,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,2,0.98739785,10.186037,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,1,-0.44979128,11.598647,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,0.15413654,11.2531185,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,-0.78500104,11.770808,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,1.1703362,11.723391,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,2,1.3344511,10.0666,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,4,-0.533699,9.322659,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,1,-0.44837612,11.9547415,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,1.0320731,11.264727,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.7869425,12.473338,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,5,-0.92993367,10.366938,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,3,1.1734138,8.679915,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,4.233919,13.035371,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,1.3029529,11.512164,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,2.3494892,8.792858,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,3.6567001,11.538365,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.539744,13.573893,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,2,1.2709532,9.823963,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,2,1.1733395,10.111454,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,2,1.3112564,10.066523,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,3,1.5882901,8.437265,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,2,1.9132723,9.588417,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,1,-0.1146576,10.225888,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.9456863,12.9523,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,2,1.0974308,10.258231,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,0,4.4016013,13.209476,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,0.54917705,11.622225,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,-0.61286277,11.925412,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,0.7001975,11.926476,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,5.1522417,13.062221,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,4,-0.64851874,9.459522,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,0,5.136477,12.772204,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.568785,13.09647,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,0.28812328,10.413449,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.719178,12.131666,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,2,1.3889761,9.539918,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,2,1.2456422,10.184199,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,3,2.3343527,9.5265665,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,2,1.1191924,10.242009,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,0,4.5778713,12.286347,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,1.9589883,10.088508,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,1.1410508,11.246334,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,0.56282896,11.776917,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,2,0.58458817,10.295429,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,1,1.7588825,11.296454,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.089905,13.333172,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.6149015,12.297152,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.5752015,11.85393,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.138575,12.466437,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,2.8560865,9.105567,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,1.1521906,11.504231,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,0.8187562,11.661885,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,0.7265798,11.897696,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,-0.047336392,11.363153,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,0.36158058,10.472067,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,2,1.5283327,10.524672,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,2,1.2996719,10.107274,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,0,4.722146,12.617181,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,2,1.0370389,10.585945,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,0,5.229852,13.4875,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.447821,13.169644,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,2.7656658,9.847784,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,2,1.3935081,9.946157,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,3,1.5656579,8.447922,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,2.4500058,9.07297,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,3.4618714,9.417958,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,4.8711004,13.171029,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.7111087,13.453675,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.5526123,13.615647,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,4,-0.46070027,9.261775,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,1,0.6541333,11.422726,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,5.1329303,12.273095,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,2,1.3879396,10.133161,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,1,-0.5034038,11.756167,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,0.96237314,9.276228,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,0.85034555,12.10002,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,5.227198,13.485268,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,1.764964,12.002518,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,1.0111946,11.829928,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,3.6484578,9.533335,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,-0.108535014,10.35038,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,0.5068846,11.86715,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,5.5462165,13.383931,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,-0.57821906,11.828726,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,3.87643,11.606177,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,2,0.6020835,10.312257,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,2,1.0900451,10.689931,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,1,0.83473945,11.169887,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,1.1894836,11.085104,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,-0.2063268,11.878117,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,-0.1674092,12.371437,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,2.0018182,12.160775,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,2.0890813,9.080528,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,4,-0.56322384,9.337708,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,2,0.93038136,10.4661,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,1,-0.6258849,11.783446,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,-0.19707268,12.374797,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,2,1.5590519,9.799585,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,0,5.0487847,12.09148,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,2,1.0954708,9.848155,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,2,1.03057,10.070356,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,0,5.3584027,13.190332,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,2,1.30361,10.012409,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,1,0.70318705,12.023858,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,4,-0.80319405,9.475114,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,2,1.1158938,10.205471,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,0,5.3172536,12.199119,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.8865104,12.123975,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,1.6097519,12.009754,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,4,-0.31440565,9.5716095,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,3,3.3415923,9.678599,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,4.8457704,12.389727,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,-0.7669574,11.854431,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.2460194,13.331741,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,1.817631,11.612863,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.926044,13.672262,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,-0.86135626,11.644363,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,0.6267425,11.858846,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.417693,11.453651,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.6800885,12.677392,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,-0.02152737,11.8546915,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,2.7712405,9.034611,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,0.43063432,11.57337,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,1.9323041,9.094259,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,4.040249,11.707118,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,-0.5508624,11.992098,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,-0.4024193,12.047694,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,2,0.9892058,10.63158,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,1,1.8712841,12.042776,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,2.8102334,9.1720705,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,-0.6102014,11.822946,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,-0.21406068,11.78568,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.3482423,11.994615,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.210973,12.95892,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,0.07407057,10.729541,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,5,-1.4803579,10.0138,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,0,5.483741,13.707964,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.6443567,11.79693,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,1.8925165,8.992398,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,3.8434865,11.562334,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,2,1.2998154,9.536554,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,1,-0.4360452,12.057432,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,2.0285485,8.673708,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,2.6615524,9.887753,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,4.312088,13.29676,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,0.73908144,11.89301,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,2,0.81107813,9.717714,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,0,4.459559,13.137113,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,3.9341888,11.431385,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,0.9670296,11.650553,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,5,-1.4787816,10.083668,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,1,0.88322675,12.031958,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,5.677271,12.843622,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,1.9816906,12.189777,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,2,1.2309878,10.056521,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,1,0.88374746,11.782898,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.4332337,13.184421,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,2,1.8047808,9.788487,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,1,0.028887369,11.33155,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,1.9979374,12.434841,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,1.3514836,12.03571,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,5,-1.565567,10.076827,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,1,1.324665,11.86492,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,1.708017,12.304114,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,2.2992773,9.680259,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,4.8883595,13.281381,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,2.1745718,10.099356,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,0.6587656,11.935555,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.482232,13.123812,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,0.57387424,11.874306,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.9202514,11.230864,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,1.9333721,10.216132,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.995108,12.372134,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,-0.35781604,11.493469,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,2,0.84240377,10.581072,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,0,5.225873,12.459483,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.515115,12.628077,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.9327855,12.812909,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,1.7703536,10.937356,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,-0.16573681,12.406706,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,-0.49461773,12.061736,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,1.1992931,11.606012,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,0.6163603,11.815132,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.9933577,11.639796,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,1.9853042,10.755536,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,2.1529193,9.133774,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.5411315,11.9449,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,3.7106826,9.601894,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,3.7199938,9.5962715,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,4.25433,13.344946,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,2.304345,8.970907,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,1.8406181,11.989477,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,5.586791,13.438977,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.338089,13.173836,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,-0.10156989,12.477724,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,1.7499923,11.567674,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,0.88069016,11.859251,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,0.15680464,10.840345,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,1.6792088,11.873133,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,3.7918117,11.544298,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.214702,13.380813,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,2,1.3967501,9.688505,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,0,5.705967,13.185535,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.9909525,11.483199,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.1333027,13.634765,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,3.8881066,11.579374,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,2.9039624,9.122253,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,-0.16331208,12.47122,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.7994637,13.091157,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,-0.5154092,12.009858,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,0.8992057,12.301249,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,-0.07425842,11.362151,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,0.92366165,8.960544,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,0.6312766,11.8647995,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,5,-1.3226355,10.238594,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,1,-0.82345057,11.914601,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,2.416413,8.868897,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,0.33586565,11.554588,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,1.8018285,8.59549,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,0.61604875,11.03951,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.9384766,13.069376,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.710912,12.438756,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.4377995,13.385615,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.8229012,12.506987,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,-0.42793664,11.998339,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,5.2712245,13.6767,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,1.5630963,11.419732,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,1.987896,8.714521,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.4775095,11.577544,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.030078,13.227904,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,2,0.78265685,10.466423,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,1,1.1142029,11.752153,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,3.3853543,9.217535,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,1.0257057,11.246315,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,-0.18346485,12.414152,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,5.4250836,13.719025,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,2.280061,9.072753,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,4.2853713,13.359105,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.4679275,11.340774,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.874913,11.239305,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.3755994,13.655964,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.423355,13.189063,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,2.3763978,8.982146,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,0.5701858,11.883042,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,4,-0.76873416,9.511592,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,2,1.1521614,9.5125065,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,4,-0.7751396,9.851092,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,1,1.0268344,11.844294,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,-0.4271827,11.729996,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,5.600688,13.001095,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,2.0592084,8.777935,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,2.167278,8.348046,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,1.9391878,8.692782,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.4007874,11.731006,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.287243,10.943778,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,3.6850126,11.492344,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,-0.4423317,12.040798,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.2426076,11.213181,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.315822,12.075278,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,4.095594,10.811377,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,4.224097,13.360058,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,0.7793606,11.182802,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,5.6702127,12.705612,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.395231,13.702962,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,2,0.701024,9.616185,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,0,5.5783825,11.872991,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.708095,11.865161,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.528727,13.595338,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,2,0.88113,10.332968,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power
+sci,1,-0.025782537,11.280488,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,3.811327,10.362194,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,4.7215123,12.770477,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,-0.051074993,11.96745,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,5.4628363,13.653321,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,1.9303442,8.778425,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,5,-0.37804085,10.6627,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,3,2.6424074,9.33368,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,4.030543,10.359765,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,4.6511655,11.727643,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.850113,12.457274,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,3.3233027,9.795234,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,0.23374525,11.869286,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.724922,11.122528,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.664689,12.710201,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,1.980027,10.682274,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.109716,13.66467,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,1.6089575,8.909886,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.5225816,11.677777,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,0.5487313,11.922808,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,5.560674,12.387401,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.548661,12.428129,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,2.1514564,9.1388235,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.388462,13.712952,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.2637753,13.540599,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.4603443,12.533828,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.0471425,12.418416,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,3.2815328,9.426451,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,1.6694999,11.9407425,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,1.8172656,11.008614,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,4.616542,11.871562,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,1.2457213,9.00836,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,1.8602157,12.258438,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,5.738796,13.148127,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.5645924,13.49574,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,1.9355189,12.361049,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,2.8347442,9.344952,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,2.044742,8.584547,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,4.8402863,12.2297535,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.7696223,12.950867,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,1.6434994,8.445181,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.669166,12.004458,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,1.7458376,8.656758,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,-0.8156425,11.879148,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,5.3603973,11.264639,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,0.66058445,12.014093,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.5816255,12.138087,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.453654,13.54324,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,2.006982,10.743918,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.2662196,12.538315,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,2.2718818,9.370475,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,4.026248,10.734635,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.4881015,13.655043,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.851126,12.148986,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.4939504,13.734532,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,1.7463201,12.266898,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,1.8154329,10.995955,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.0107045,12.137856,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,2.794429,9.913082,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,1.6013446,8.435318,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,-0.905333,11.743977,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,5.71095,12.079993,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.9523516,12.643438,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,1.4969437,11.20892,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.499994,11.4979515,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,2.1754234,9.08826,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,1.9546006,12.387361,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,1.4397998,8.942192,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.5741596,11.441686,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.077011,13.638934,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.151465,12.682809,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,2.0005836,10.739693,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,2.4968798,8.720318,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.5250754,12.47576,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,3.2396128,12.339016,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,1.4156303,8.516159,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.6702185,11.751364,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.3600554,13.572713,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,-0.18333176,12.460749,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,2.8699791,10.033788,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,2.5771413,9.20108,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.3368,12.612545,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,3.0058517,9.661081,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.4933653,12.675923,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,1.8834909,12.027664,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.8697243,11.119692,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.364951,11.045041,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,4.105295,10.796602,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.872388,12.716807,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.4268503,13.650929,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,0.035662852,10.547138,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.679408,13.142441,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,4,-0.81527364,9.485486,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,3,1.6627905,8.385297,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,1.2553403,12.218781,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,4,-0.71759385,9.584675,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,3,1.5665475,8.401344,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,0.3332065,11.35367,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,2.310672,8.950092,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.463394,12.399113,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.902046,13.445994,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.567233,11.571538,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.890533,12.410758,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,0.34065554,11.16596,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,4,-0.772135,9.778079,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,3,3.9255042,10.623531,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,3.1553764,9.286739,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,3.0507019,9.523496,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,3.8160477,10.210587,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,3.1362743,9.234333,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,0.90273434,12.178093,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,5.4233003,12.01073,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.111598,11.485728,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.345237,11.305258,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,0.77263427,11.122024,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,1.892232,8.762084,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,3.3007293,9.52671,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,3.0371895,9.114535,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,2.0596328,8.416836,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.7744637,12.360436,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.4978333,11.229323,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,0.3250251,11.002172,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,0.035003882,12.312538,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,2.4213657,9.549031,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,4.1065836,10.826579,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.0328436,13.730178,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,1.9892001,8.471434,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,3.1799488,9.200599,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.1252766,12.33704,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,2.2467504,8.236274,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,4.8975806,11.402224,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,1.8501102,8.61274,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,2.8955815,8.952703,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,2.9607315,9.206396,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,4,-0.45363724,9.646161,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,3,3.0604513,9.321218,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,1.2354116,12.20539,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.754402,12.32197,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,4.1378384,10.760307,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,2.3530111,9.546079,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.1815686,11.406339,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,3.105064,8.893964,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.0863876,11.591178,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.1293945,11.455829,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,4.044466,10.773749,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,0.1582297,11.667017,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,5.2227387,12.477349,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,1.6828766,8.390938,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,4.0785065,10.684127,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,1.7310537,9.222325,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,4.936386,13.546402,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,3.4258533,9.3690405,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.4519467,12.189234,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.9305086,11.36027,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,2.487429,8.875856,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,4,-0.25860694,9.39531,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,3,2.7859647,9.552146,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.3736434,11.1017475,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,1.662829,8.409116,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,4.889895,13.44687,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,3.6397092,9.985446,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,2.992924,9.481932,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.4351196,12.021317,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.5883923,12.11067,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,3.1771803,9.160745,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,0.0826564,12.165509,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,4,-0.69684106,9.320494,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,3,3.4981735,9.235322,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.0777965,12.486736,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,1.2726363,12.233856,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,1.0313925,11.969454,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,4.818212,11.13776,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,4.3305054,11.218173,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,3.7837913,9.520631,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,-0.7731073,11.749684,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,2.3904145,8.911416,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.9117684,12.410377,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,1.9972007,8.3318205,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,2.7032893,8.944954,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.0649233,12.548166,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.0254292,12.461801,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,3.903262,9.816329,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,1.727975,8.65056,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.7209706,12.76386,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,2.0444677,8.592644,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.3660765,10.929169,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,4,-0.75983083,9.509372,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,5,-1.4686933,10.11429,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,5,-1.5254102,10.041133,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,4,-0.5378769,9.887491,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,1,0.14771101,10.848175,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,4,-1.0210958,9.699196,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,0,3.8570428,11.696661,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,5,-0.859227,10.402873,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,3,3.547097,9.3285,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,5,-1.1502527,10.258275,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,4,-0.8965036,9.599356,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,3,3.4540396,9.171608,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,0,5.7834716,12.46082,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,0,5.9322686,12.521172,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,3.409875,9.1981945,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,4,-0.97902066,9.723099,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,4,-0.72666997,9.693275,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,5,-1.5166928,10.03524,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,5,-0.6197599,10.442145,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,0,5.937123,12.216859,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,5,-1.1262851,10.200168,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,4,-0.84379196,9.50979,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,3,3.232658,9.384856,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,1.0434049,12.172193,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,1,-0.32938227,10.479572,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,3,3.3446403,9.122428,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,5,-1.4805905,10.114466,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,4,-0.98671144,9.707936,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,3,3.468446,9.155952,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,5,-0.75444144,10.161775,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,4,-0.8446651,9.509859,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,5,-1.5419482,10.049699,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,1,0.18328866,10.927319,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,5,-1.5458157,10.050585,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,3,2.945386,8.775957,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,1.6341729,8.434169,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,3,3.0061502,8.857671,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,-0.20803526,11.201589,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,5.684492,12.25981,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,5,-1.4902334,10.058986,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,5,-0.7896464,10.389234,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,5,-0.7986538,10.242693,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,5,-1.5893228,10.113184,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,1,0.16344288,10.891247,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,4,-0.87143123,9.510435,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,5,-0.6456478,10.671667,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,5,-1.4968674,10.047125,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands
+sci,0,5.9488454,12.613718,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,1,0.80054057,11.42771,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,4,-0.8012208,9.488557,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy
+sci,1,0.40925354,11.423214,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable
+sci,0,5.9297075,12.573073,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind
+sci,3,3.3789566,9.369692,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north
+sci,1,-0.11536875,11.589687,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable

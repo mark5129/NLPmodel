@@ -1,532 +1,510 @@
 Source,cluster,x,y,TF_IDF_topic_name,BERTopic_topic_name
-sci,10,10.670583,7.014208,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,2,9.821272,4.913105,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,2,9.315844,5.477508,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,5,10.916439,5.2261715,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,13,7.5576005,3.7751398,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,2,8.677895,5.269329,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,7,7.5307097,3.4290822,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,10,9.811352,6.786887,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,6,7.6117997,5.380052,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,2,9.540067,5.223676,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,10,8.468009,2.1901805,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,11,5.805759,5.5128555,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,10,10.57363,6.58832,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,1,5.1879244,5.756499,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,0,9.022599,3.480702,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,3,11.270079,5.635448,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,12,7.085275,6.3108454,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,3,10.800912,6.0405974,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,10,10.4082155,6.781669,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,5,10.5133505,5.107635,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,9,10.045324,5.9264116,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,5,10.043067,4.323834,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,3,10.974211,5.8584585,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,0,9.182287,2.5162487,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,4,7.8163705,2.6339183,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,5,10.223714,4.4743743,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,9,9.192872,6.479503,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,17,5.507248,5.7157516,vsc hvdc fault ride reactiv power new energi safeti margin,power system grid voltag control
-sci,15,11.476258,5.4081144,energi island wave energi energi convers energi energi energi convers system,island energi wind offshor concept
-sci,5,10.545562,4.8207293,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,12,6.629477,5.9009748,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,9,8.916233,5.9446964,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,0,9.000261,2.3485365,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,6,7.780346,6.0755367,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,6,7.553483,6.332664,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,5,10.56018,5.1779313,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,10,10.452405,6.792328,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,10,10.656262,6.9086146,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,0,9.347959,3.6321702,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,7,7.637568,3.2755277,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,15,11.368936,5.7105665,energi island wave energi energi convers energi energi energi convers system,island energi wind offshor concept
-sci,17,5.5660377,5.801267,vsc hvdc fault ride reactiv power new energi safeti margin,power system grid voltag control
-sci,10,10.394182,6.813599,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,12,6.05983,6.2098975,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,3,10.9774475,5.730683,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,2,9.685978,5.26439,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,3,11.212696,5.7348423,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,14,9.195555,6.6185703,energi island wave energi right reserv qd growth ion implant,energi island growth 111 surfac
-sci,1,4.815978,5.7442694,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,12,6.0691195,6.2727838,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,3,11.002702,5.8954115,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,11,5.430535,5.765471,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,16,9.886094,5.9513044,co2 emiss oil ga power hub ga turbin energi product,energi power offshor emiss wind
-sci,10,10.4522505,6.8579645,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,13,7.68748,3.6784637,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,10,10.434523,6.866568,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,1,4.9741035,5.7671523,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,4,8.104911,2.1874857,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,10,9.964664,6.8950305,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,5,10.725668,5.1794457,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,10,10.587321,6.4358754,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,2,8.59246,5.056165,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,3,11.405426,6.0272975,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,1,5.205398,6.187901,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,6,8.263769,5.8205504,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,8,5.4374533,4.6368923,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,4,8.002134,2.327849,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,7,8.173224,3.154168,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,9,8.854694,6.0069795,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,5,10.69828,5.0077267,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,9,9.969886,5.2602615,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,16,10.431098,5.7560344,co2 emiss oil ga power hub ga turbin energi product,energi power offshor emiss wind
-sci,16,10.338368,6.2287464,co2 emiss oil ga power hub ga turbin energi product,energi power offshor emiss wind
-sci,6,8.14664,6.1129446,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,16,9.927221,5.8208776,co2 emiss oil ga power hub ga turbin energi product,energi power offshor emiss wind
-sci,10,10.477201,6.890731,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,1,4.92611,6.144091,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,10,10.638726,6.83236,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,6,8.482098,6.0994415,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,8,5.256473,4.6787724,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,0,8.745764,3.1073236,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,10,10.669793,6.9851184,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,15,11.066105,5.0899606,energi island wave energi energi convers energi energi energi convers system,island energi wind offshor concept
-sci,0,8.798134,3.3704097,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,4,8.510622,2.0300786,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,12,6.007384,6.278733,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,6,7.753588,6.3280487,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,4,7.807974,2.527739,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,3,10.697073,5.497996,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,8,5.608277,4.717343,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,15,11.166032,5.431766,energi island wave energi energi convers energi energi energi convers system,island energi wind offshor concept
-sci,9,9.831817,5.5560513,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,0,9.491426,3.3815875,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,3,10.816031,6.3722677,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,1,4.6334963,5.921594,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,6,8.435553,5.5180726,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,9,9.829208,5.7799854,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,16,10.40196,6.070876,co2 emiss oil ga power hub ga turbin energi product,energi power offshor emiss wind
-sci,15,11.319869,5.33245,energi island wave energi energi convers energi energi energi convers system,island energi wind offshor concept
-sci,3,10.966052,5.602321,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,15,11.16341,5.2097707,energi island wave energi energi convers energi energi energi convers system,island energi wind offshor concept
-sci,5,10.461035,5.2621946,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,6,7.5382786,5.4118705,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,10,10.471433,6.596282,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,10,10.382091,6.8876586,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,9,9.092906,6.000755,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,17,5.798459,5.277288,vsc hvdc fault ride reactiv power new energi safeti margin,power system grid voltag control
-sci,10,9.988593,6.841854,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,5,10.320869,5.0614,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,2,9.509392,4.9165835,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,6,7.801332,6.381728,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,0,8.947789,3.2450159,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,8,5.46785,4.737023,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,10,10.404261,6.8821106,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,2,9.411172,5.2618876,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,2,9.680388,5.1811852,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,0,8.67194,3.1133523,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,12,6.7129264,6.210542,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,5,10.351976,4.7451134,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,0,9.552555,2.9558012,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,8,5.397327,5.094787,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,10,10.476598,6.896226,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,14,9.198366,6.7272015,energi island wave energi right reserv qd growth ion implant,energi island growth 111 surfac
-sci,0,9.166774,4.167324,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,0,8.600129,3.3471663,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,1,4.5999227,5.79762,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,1,4.583105,5.8120136,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,2,9.133736,5.603867,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,0,9.246191,4.0348215,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,7,7.697427,3.0767498,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,17,5.699166,5.59488,vsc hvdc fault ride reactiv power new energi safeti margin,power system grid voltag control
-sci,2,9.820072,4.87936,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,12,6.527667,6.303911,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,6,8.349374,6.097204,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,6,7.668074,6.2688546,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,2,9.981047,4.8934207,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,3,10.664111,5.541958,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,11,4.7277393,5.109573,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,8,5.2318172,4.8567295,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,16,10.258595,5.3787403,co2 emiss oil ga power hub ga turbin energi product,energi power offshor emiss wind
-sci,7,7.839257,3.3521807,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,3,10.777874,5.6964226,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,0,9.193027,2.8195906,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,11,6.0574617,5.321178,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,5,10.237871,4.4743123,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,5,10.218857,4.522487,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,16,10.2733345,6.175192,co2 emiss oil ga power hub ga turbin energi product,energi power offshor emiss wind
-sci,6,7.843909,6.388392,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,0,8.934273,2.6113977,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,5,10.299739,4.9607315,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,5,10.125217,5.4347353,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,12,6.858078,5.804999,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,1,4.9941206,5.889987,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,2,10.073623,5.4973583,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,14,9.001998,6.6821113,energi island wave energi right reserv qd growth ion implant,energi island growth 111 surfac
-sci,14,9.046883,7.037087,energi island wave energi right reserv qd growth ion implant,energi island growth 111 surfac
-sci,11,5.9135423,5.564272,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,15,11.16312,5.009062,energi island wave energi energi convers energi energi energi convers system,island energi wind offshor concept
-sci,8,5.933356,4.0463867,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,5,10.7415695,5.0273685,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,6,7.6081934,5.4183507,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,16,10.135152,5.945669,co2 emiss oil ga power hub ga turbin energi product,energi power offshor emiss wind
-sci,5,10.04779,4.4572725,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,7,8.076584,2.7469404,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,0,9.175343,2.999029,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,17,5.80652,6.280077,vsc hvdc fault ride reactiv power new energi safeti margin,power system grid voltag control
-sci,3,11.214913,5.8028226,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,15,11.146221,5.217501,energi island wave energi energi convers energi energi energi convers system,island energi wind offshor concept
-sci,17,5.3780346,5.8585625,vsc hvdc fault ride reactiv power new energi safeti margin,power system grid voltag control
-sci,0,8.462198,3.6013622,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,9,8.665569,6.206865,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,15,11.14188,5.407582,energi island wave energi energi convers energi energi energi convers system,island energi wind offshor concept
-sci,14,9.105709,7.072584,energi island wave energi right reserv qd growth ion implant,energi island growth 111 surfac
-sci,3,11.303679,5.9655766,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,6,7.8860497,6.44978,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,0,8.8178425,3.3814933,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,3,10.813512,5.368782,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,1,4.7346516,6.010818,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,10,10.747154,6.822911,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,5,10.264662,5.1679444,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,6,7.9821467,6.240508,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,6,7.7954593,6.43234,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,14,9.099517,7.041508,energi island wave energi right reserv qd growth ion implant,energi island growth 111 surfac
-sci,6,8.261234,6.016288,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,6,7.979375,6.210944,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,13,7.9244018,3.975629,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,17,5.515881,5.8369913,vsc hvdc fault ride reactiv power new energi safeti margin,power system grid voltag control
-sci,5,10.3106985,4.0593824,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,3,11.036189,6.2116246,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,6,7.6993117,6.2545466,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,3,10.8598175,5.709975,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,4,8.585164,1.8808496,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,5,10.451636,4.3360376,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,8,4.948461,4.8484592,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,2,9.697081,4.9775014,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,16,10.02837,5.973421,co2 emiss oil ga power hub ga turbin energi product,energi power offshor emiss wind
-sci,1,4.9710636,5.3560495,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,8,5.3898463,4.4382744,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,1,5.096178,5.2487073,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,13,7.961989,3.6395843,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,5,10.268858,4.7679753,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,2,9.232014,4.962799,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,9,8.952277,5.852949,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,3,11.312115,5.7522645,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,4,8.603998,1.8868718,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,13,7.8429546,3.9394512,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,0,8.838036,2.7043154,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,1,4.6574903,5.6769257,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,0,8.706698,2.6822164,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,4,7.784374,2.3916442,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,12,5.963689,6.3333178,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,0,8.778105,3.285592,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,2,8.132402,4.47001,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,1,4.7501364,5.655635,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,17,5.6209207,5.2753534,vsc hvdc fault ride reactiv power new energi safeti margin,power system grid voltag control
-sci,6,7.959883,5.7102327,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,13,8.132599,4.241388,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,2,9.127723,5.6159825,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,9,9.302039,5.8264656,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,16,10.248554,5.649752,co2 emiss oil ga power hub ga turbin energi product,energi power offshor emiss wind
-sci,2,9.435957,5.181611,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,17,5.5637174,6.2368693,vsc hvdc fault ride reactiv power new energi safeti margin,power system grid voltag control
-sci,1,5.0819736,5.094583,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,12,6.663418,6.1739235,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,4,8.537274,1.845911,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,11,5.249977,5.775727,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,6,7.7415657,5.6873374,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,0,8.657341,2.9500945,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,6,7.9445677,5.7278967,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,1,5.176861,5.842462,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,2,9.227747,4.9759827,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,2,9.364881,5.438187,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,2,9.688558,5.365046,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,7,8.03505,3.597561,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,3,10.979466,5.717323,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,17,5.3478346,6.3071003,vsc hvdc fault ride reactiv power new energi safeti margin,power system grid voltag control
-sci,5,10.576456,4.9683123,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,0,8.96238,2.6608884,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,3,11.118613,5.9205003,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,0,9.247523,2.698662,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,9,9.721188,5.838871,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,1,5.1339707,6.131989,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,8,5.241257,4.698518,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,1,4.9826627,5.8403645,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,5,10.686101,5.206412,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,11,5.7412786,5.2579746,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,6,7.8846483,5.976087,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,7,7.482479,3.1248896,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,7,7.045441,3.183981,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,1,4.9224324,5.7324667,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,16,9.97904,5.9960313,co2 emiss oil ga power hub ga turbin energi product,energi power offshor emiss wind
-sci,5,10.58416,5.111713,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,7,8.397486,2.9231737,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,9,9.343491,6.0180993,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,5,10.227172,4.965151,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,11,5.246772,5.3309183,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,0,9.156988,2.3363407,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,17,5.4200563,6.292801,vsc hvdc fault ride reactiv power new energi safeti margin,power system grid voltag control
-sci,7,7.6612396,2.751949,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,4,8.48995,1.7780908,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,11,5.471897,5.5452485,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,12,5.9687304,6.2018137,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,0,8.664922,2.518745,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,3,10.9027195,5.6748314,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,0,9.202276,3.8812633,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,16,10.203136,6.0534816,co2 emiss oil ga power hub ga turbin energi product,energi power offshor emiss wind
-sci,2,8.882798,4.570524,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,3,11.157475,6.1248817,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,2,10.3155985,5.0210686,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,8,5.2499332,4.6936917,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,7,7.1739793,3.150188,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,0,8.874334,3.2543752,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,0,9.633683,3.2451646,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,7,6.6952696,3.4470725,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,7,7.594803,3.117978,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,5,10.0661545,3.8989847,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,5,10.146918,4.341303,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,12,6.7145333,5.7125835,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,1,5.255276,5.638737,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,13,7.6060467,4.237546,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,17,5.4531016,6.3333726,vsc hvdc fault ride reactiv power new energi safeti margin,power system grid voltag control
-sci,9,9.111436,6.158443,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,11,4.7010493,5.2120667,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,16,10.44962,5.7069144,co2 emiss oil ga power hub ga turbin energi product,energi power offshor emiss wind
-sci,0,8.975989,2.26006,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,4,8.875762,1.977709,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,4,7.82019,2.4879293,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,3,10.755929,6.509408,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,3,11.210066,5.8308573,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,4,8.331585,2.1589272,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,17,5.725106,6.1130595,vsc hvdc fault ride reactiv power new energi safeti margin,power system grid voltag control
-sci,5,10.441402,4.6195703,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,11,4.719462,5.174198,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,5,10.250022,4.4257536,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,2,9.590932,5.2525244,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,0,9.043166,2.2060866,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,7,7.6452923,2.827087,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,1,4.8627214,5.935,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,1,5.09166,6.005376,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,4,7.7154913,2.3191493,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,3,11.224055,5.5864387,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,8,5.339268,4.556374,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,17,5.5688305,5.7558084,vsc hvdc fault ride reactiv power new energi safeti margin,power system grid voltag control
-sci,0,9.313091,3.1615124,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,12,6.2426085,5.761667,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,0,9.443192,3.4864352,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,1,4.5475807,5.652912,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,3,11.070914,5.9606175,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,8,5.5000954,4.860811,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,0,8.701662,2.8796542,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,11,4.719616,5.1078115,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,11,4.625622,5.325346,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,1,4.8222556,6.048225,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,7,8.095071,2.6710086,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,3,11.152506,6.08805,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,2,8.245318,5.018675,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,12,6.468231,5.8645325,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,5,10.451079,4.8993974,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,6,8.0339985,6.205958,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,8,6.05283,4.6631703,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,11,4.7708097,5.2355075,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,6,7.9622264,6.273538,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,7,8.221878,2.847634,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,7,8.189659,2.8578868,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,1,5.104006,5.8773293,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,1,5.087145,4.957331,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,0,9.615034,3.8844585,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,1,4.7912564,5.5624948,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,0,9.211432,3.6406329,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,2,9.966281,4.8344145,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,8,5.0839496,4.588339,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,3,11.206415,5.747134,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,0,9.277483,3.5885146,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,11,4.730765,5.1353455,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,13,7.971192,3.9027908,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,1,4.815968,5.8028765,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,13,7.7002892,3.6728768,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,7,7.769676,3.099362,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,1,5.160062,5.83713,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,8,5.482412,4.7624135,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,11,4.7315407,5.2769194,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,6,8.246691,6.2492876,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,2,8.324039,5.119384,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,4,8.336008,1.9752088,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,13,7.5886335,3.766572,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,0,9.635263,3.8497078,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,15,11.26508,5.100129,energi island wave energi energi convers energi energi energi convers system,island energi wind offshor concept
-sci,1,4.5374823,5.830381,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,11,5.714609,5.9087105,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,5,10.522758,5.0644693,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,16,9.97513,5.907441,co2 emiss oil ga power hub ga turbin energi product,energi power offshor emiss wind
-sci,0,9.166845,2.592475,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,6,7.7031565,6.2784886,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,0,9.226208,3.677865,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,7,7.619585,2.762371,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,12,6.090939,6.0024095,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,1,4.944668,6.044549,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,13,7.838466,3.7632504,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,0,8.625748,3.183872,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,17,5.2903333,5.8014402,vsc hvdc fault ride reactiv power new energi safeti margin,power system grid voltag control
-sci,15,9.412111,4.389162,energi island wave energi energi convers energi energi energi convers system,island energi wind offshor concept
-sci,0,9.468887,2.8148665,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,0,9.091153,2.3994904,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,11,4.6117764,5.2184114,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,9,9.722513,6.2822723,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,6,7.777966,6.1362967,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,2,7.7241063,4.776888,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,0,8.964115,2.301545,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,17,5.6470795,5.6889744,vsc hvdc fault ride reactiv power new energi safeti margin,power system grid voltag control
-sci,13,7.7569103,3.9002912,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,1,4.720816,5.6601157,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,6,8.315892,6.052601,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,4,7.9933443,2.3263915,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,4,8.757678,2.2476022,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,4,8.528013,1.9326707,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,13,7.6165586,4.1290903,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,8,5.239213,4.901177,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,11,4.692297,5.1064477,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,3,11.007253,5.943966,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,12,6.7913947,6.2668424,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,0,9.1380825,4.1251483,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,0,9.53289,3.3785691,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,9,9.430478,5.9371877,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,15,11.5294695,5.3299603,energi island wave energi energi convers energi energi energi convers system,island energi wind offshor concept
-sci,0,9.364486,3.4461792,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,16,10.34572,5.713584,co2 emiss oil ga power hub ga turbin energi product,energi power offshor emiss wind
-sci,4,8.32104,2.143683,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,1,5.119544,5.199914,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,11,6.0599866,5.406909,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,8,5.2306585,4.729984,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,8,5.274352,4.700179,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,9,9.155972,6.0991855,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,0,9.15345,4.105517,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,13,7.929378,3.9631684,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,0,9.279988,2.4932995,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,7,7.823983,3.4704242,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,13,7.6694283,3.8158965,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,4,8.434066,2.1961348,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,3,10.804929,6.0154004,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,1,4.713509,5.9853005,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,8,5.812009,4.1453247,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,1,5.015466,4.9890275,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,9,8.860032,6.029791,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,0,9.334151,2.6732283,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,7,7.760655,3.4005935,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,2,8.25473,4.733264,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,0,8.945144,3.5367506,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,1,5.47665,5.8528547,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,9,9.003964,6.14682,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,2,9.469514,5.464705,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,7,7.4868045,3.1703072,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,13,7.6351824,4.1085076,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,12,6.288994,5.86941,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,0,8.926728,3.5731385,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,7,7.800732,3.28906,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,1,5.037665,5.9534287,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,0,9.240529,3.5300272,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,0,9.118318,2.257177,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,0,9.3869095,2.7026517,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,0,9.843654,3.6422553,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,12,6.269995,6.223438,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,10,10.397323,6.222641,hydrogen product green hydrogen green hydrogen product energi system hydrogen price,hydrogen energi offshor wind power
-sci,14,9.253023,6.7313952,energi island wave energi right reserv qd growth ion implant,energi island growth 111 surfac
-sci,0,9.652149,3.1181793,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,9,9.911895,6.074009,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,1,4.952654,5.83012,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,8,6.397931,4.05226,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,0,9.4458685,2.8106868,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,7,7.4427085,3.2223144,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,4,8.131134,2.0743108,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,7,8.07385,2.8148296,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,1,4.928384,5.926553,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,8,5.8269024,4.1082096,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,12,6.445878,5.7994037,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,16,10.233676,5.749206,co2 emiss oil ga power hub ga turbin energi product,energi power offshor emiss wind
-sci,1,5.0106215,5.942442,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,0,9.393384,3.6300056,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,1,7.329919,3.1332827,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,0,9.589899,3.4420524,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,11,5.773323,5.5539627,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,7,7.7709694,2.8659978,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,1,5.12535,5.896214,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,1,5.6303477,4.3136334,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,4,8.377877,2.3847241,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,4,8.491173,2.2980642,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,0,8.873638,2.6585145,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,4,8.068692,2.0918682,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,0,9.299935,3.762716,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,11,6.119614,5.3948593,time domain hvdc convert domain simul time domain simul harmon stabil,control system grid stabil convert
-sci,13,7.535318,3.6527836,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,0,8.485963,3.0928562,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,8,5.4874835,4.595789,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,0,9.861569,3.447701,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,4,8.522947,2.0561526,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,5,10.347862,4.2391505,energi secur renew energi energi system sustain energi energi island,energi system island transit renew
-sci,7,8.330052,2.574882,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,4,8.72028,2.0297961,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,4,8.808529,1.8988785,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,3,11.311253,5.9899087,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,9,9.49299,6.021713,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,8,6.5827265,4.0201235,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,12,6.5015316,5.8103223,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,0,8.725526,2.720018,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,2,9.895113,4.942241,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,0,8.976813,2.2281399,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,12,6.673302,5.9734626,power system critic mode vsc hvdc power compens reactiv power compens,system power energi control grid
-sci,13,8.265386,3.9812994,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,0,8.862873,2.263739,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,1,4.701291,6.1713853,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,4,8.81569,1.852147,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,4,8.957287,1.9449669,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,0,9.779203,3.3819568,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,13,7.6674724,3.8814054,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,0,9.298535,2.6720352,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,7,7.5561705,2.651924,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,14,9.145315,4.5406165,energi island wave energi right reserv qd growth ion implant,energi island growth 111 surfac
-sci,14,9.102833,7.1095643,energi island wave energi right reserv qd growth ion implant,energi island growth 111 surfac
-sci,14,8.957478,6.881572,energi island wave energi right reserv qd growth ion implant,energi island growth 111 surfac
-sci,15,11.33192,5.2262034,energi island wave energi energi convers energi energi energi convers system,island energi wind offshor concept
-sci,9,8.825539,6.2160735,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,14,9.560328,6.5809193,energi island wave energi right reserv qd growth ion implant,energi island growth 111 surfac
-sci,6,7.7307315,5.828549,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,9,9.629513,6.808829,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,7,7.884184,2.8242264,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,14,9.306642,5.040617,energi island wave energi right reserv qd growth ion implant,energi island growth 111 surfac
-sci,0,9.26573,4.388195,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,4,8.763516,1.9540102,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,1,5.1148443,5.200269,sourc convert hvdc link vsc hvdc hvdc grid sourc convert vsc,offshor grid power convert wind
-sci,8,5.2588887,4.685516,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,3,10.989484,5.5000963,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,4,8.398053,1.9599155,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,0,9.144951,4.264035,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,15,11.355007,5.474212,energi island wave energi energi convers energi energi energi convers system,island energi wind offshor concept
-sci,14,8.998397,6.9129634,energi island wave energi right reserv qd growth ion implant,energi island growth 111 surfac
-sci,2,9.592994,5.3127494,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,8,5.225882,4.6350737,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,9,9.599603,6.890643,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,0,9.090259,4.1414385,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,4,8.491717,2.179921,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,3,11.239054,5.804774,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,15,11.443092,5.567332,energi island wave energi energi convers energi energi energi convers system,island energi wind offshor concept
-sci,6,7.8799925,5.9718456,island microgrid smart grid microgrid structur distribut gener transmiss grid,energi system power grid microgrid
-sci,14,9.061402,7.1131687,energi island wave energi right reserv qd growth ion implant,energi island growth 111 surfac
-sci,9,9.706093,6.168862,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,2,8.629619,4.902545,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,0,9.423844,2.617982,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,0,9.299966,4.2824016,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,0,9.072768,4.0724916,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,14,9.012834,6.9447546,energi island wave energi right reserv qd growth ion implant,energi island growth 111 surfac
-sci,9,8.648359,6.2894673,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,14,9.01385,6.9989657,energi island wave energi right reserv qd growth ion implant,energi island growth 111 surfac
-sci,13,7.4932113,3.4657204,grid design cost save expans plan plan model network design,offshor cost grid wind transmiss
-sci,0,9.585693,3.7493365,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,4,8.049113,2.4065635,offshor wind wind power wind farm offshor wind power power capac,wind offshor grid power energi
-sci,15,11.5614805,5.4683986,energi island wave energi energi convers energi energi energi convers system,island energi wind offshor concept
-sci,14,8.903176,6.950179,energi island wave energi right reserv qd growth ion implant,energi island growth 111 surfac
-sci,16,10.196073,5.852923,co2 emiss oil ga power hub ga turbin energi product,energi power offshor emiss wind
-sci,15,11.395667,5.4290557,energi island wave energi energi convers energi energi energi convers system,island energi wind offshor concept
-sci,14,9.134579,7.062666,energi island wave energi right reserv qd growth ion implant,energi island growth 111 surfac
-sci,9,8.745564,6.3434105,energi system energi storag multi vector heat power energi sourc,energi system power heat oper
-sci,0,9.130894,4.1539555,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,2,9.838843,5.3177505,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,14,9.155767,7.106421,energi island wave energi right reserv qd growth ion implant,energi island growth 111 surfac
-sci,8,5.3453975,4.618182,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,15,11.374977,5.5178027,energi island wave energi energi convers energi energi energi convers system,island energi wind offshor concept
-sci,2,9.540801,5.633624,sustain energi long term pilot site energi island renew energi,energi island system develop use
-sci,0,9.19969,4.0517106,north sea offshor grid baltic sea energi hub legal framework,offshor grid wind energi power
-sci,3,11.184447,6.095652,renew energi small island energi system energi storag electr demand,energi island system renew electr
-sci,8,5.313134,4.7322874,wind farm wind turbin ac grid frequenc control grid frequenc control,power wind grid control offshor
-sci,7,8.273794,2.8802273,wind farm offshor wind offshor grid offshor wind farm wind power,offshor grid wind power farm
-sci,16,10.1680975,5.400049,co2 emiss oil ga power hub ga turbin energi product,energi power offshor emiss wind
+sci,3,4.875858,2.4683583,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,9,2.8940532,8.568869,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,15,1.7060642,7.441723,sustainable energy social norms energy island rights reserved taking account,energy sustainable social island paper
+sci,14,1.0346833,7.005912,energy community energy consumption energy sources renewable energy renewable energy sources,energy power renewable system electricity
+sci,9,1.7196722,8.522908,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,2,4.597898,5.8964305,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,11,0.5208311,7.3208528,energy islands energy island island concept pilot sites energy conversion,energy island project islands concept
+sci,2,4.584726,5.8875875,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,8,1.2671357,5.4848757,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,5,2.298324,8.355782,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,15,1.2768912,7.1574283,sustainable energy social norms energy island rights reserved taking account,energy sustainable social island paper
+sci,0,4.3327556,8.460018,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,3,4.8376164,2.5294845,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,3,4.8533134,2.5193758,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,6,3.7635515,3.4196029,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,9,2.2176414,8.856439,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,7,4.123232,6.8079066,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,4,0.33229837,8.041107,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,8,3.0868592,3.8805456,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,4,0.623479,7.8813734,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,9,2.3973494,8.907092,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,15,1.2826418,7.2398643,sustainable energy social norms energy island rights reserved taking account,energy sustainable social island paper
+sci,15,1.3288555,7.749236,sustainable energy social norms energy island rights reserved taking account,energy sustainable social island paper
+sci,4,0.2284836,7.9021173,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,9,1.8037038,8.879091,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,0,5.391364,7.178326,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,5,1.6219542,7.9895506,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,8,1.0567734,5.753627,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,3,4.3581514,3.0609076,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,8,0.80418366,5.6345334,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,12,0.9089993,6.009241,power system power systems multi vector energy systems dimension reduction,energy system power systems model
+sci,0,5.101391,8.147161,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,13,0.5315622,6.041331,smart grid energy storage energy systems energy island systems infrastructure,energy power system systems island
+sci,8,0.7908516,5.3846507,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,5,2.529219,8.112595,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,9,2.2935793,8.865666,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,9,2.5671332,8.8186655,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,7,4.2763276,6.9819593,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,0,5.47016,7.2438498,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,11,0.6943018,8.209732,energy islands energy island island concept pilot sites energy conversion,energy island project islands concept
+sci,6,3.466738,3.4104288,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,9,2.396903,8.925049,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,16,3.5407417,2.887197,vsc hvdc vsc hvdc system new energy converter station safety margin,power system vschvdc energy control
+sci,4,0.51565033,8.137636,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,11,0.7169537,7.5315695,energy islands energy island island concept pilot sites energy conversion,energy island project islands concept
+sci,4,0.30510068,8.183128,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,3,4.8772125,2.457242,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,10,2.3656754,5.7333193,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,3,4.88894,2.573662,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,16,3.5613544,3.042754,vsc hvdc vsc hvdc system new energy converter station safety margin,power system vschvdc energy control
+sci,4,0.3586859,7.878614,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,16,4.216728,3.5350087,vsc hvdc vsc hvdc system new energy converter station safety margin,power system vschvdc energy control
+sci,9,2.1921525,8.883686,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,0,5.036006,7.23927,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,9,2.3484075,8.898565,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,0,4.839528,7.900327,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,8,1.1923524,5.432414,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,4,0.89445305,8.264708,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,0,5.2800446,7.671268,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,12,0.7479406,6.324319,power system power systems multi vector energy systems dimension reduction,energy system power systems model
+sci,12,0.89284897,5.7006307,power system power systems multi vector energy systems dimension reduction,energy system power systems model
+sci,1,3.8359377,2.5028532,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,13,0.4738149,6.792066,smart grid energy storage energy systems energy island systems infrastructure,energy power system systems island
+sci,3,5.0952005,3.8718238,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,0,5.3254747,7.282376,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,1,4.5129943,2.7589345,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,0,4.438897,7.821075,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,12,0.82669556,6.0523553,power system power systems multi vector energy systems dimension reduction,energy system power systems model
+sci,4,0.8672289,8.15662,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,14,1.2321509,7.471425,energy community energy consumption energy sources renewable energy renewable energy sources,energy power renewable system electricity
+sci,12,0.5520858,6.2660418,power system power systems multi vector energy systems dimension reduction,energy system power systems model
+sci,2,4.1634784,5.627428,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,9,2.487662,9.000202,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,1,4.237358,3.2418072,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,9,2.1310074,8.787599,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,3,5.1101036,3.4657803,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,0,4.1514277,7.864682,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,9,2.6230557,8.859486,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,9,1.778804,8.732659,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,0,3.6932275,7.580335,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,4.9212327,8.04794,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,3,4.894921,2.4333992,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,6,3.4967752,3.2922359,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,8,0.77978945,5.310091,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,0,5.524154,7.309348,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,4,0.70811266,7.9287024,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,3,4.857453,3.3980026,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,11,0.44432843,8.199889,energy islands energy island island concept pilot sites energy conversion,energy island project islands concept
+sci,0,3.646601,7.676304,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,11,0.4262176,7.80613,energy islands energy island island concept pilot sites energy conversion,energy island project islands concept
+sci,1,4.5274153,2.6694546,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,13,0.5511899,6.4091387,smart grid energy storage energy systems energy island systems infrastructure,energy power system systems island
+sci,14,0.8917897,6.8094373,energy community energy consumption energy sources renewable energy renewable energy sources,energy power renewable system electricity
+sci,11,1.1012776,8.596831,energy islands energy island island concept pilot sites energy conversion,energy island project islands concept
+sci,4,0.41658682,8.044616,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,5,2.3241181,8.428412,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,15,1.3990785,7.642364,sustainable energy social norms energy island rights reserved taking account,energy sustainable social island paper
+sci,5,2.3271117,8.30768,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,9,2.433774,8.834237,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,9,2.4143438,8.918879,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,12,0.8403662,5.9617743,power system power systems multi vector energy systems dimension reduction,energy system power systems model
+sci,2,4.9183545,5.4439816,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,8,1.1722915,5.6696534,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,5,1.8270258,7.855903,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,11,0.64727014,7.3757296,energy islands energy island island concept pilot sites energy conversion,energy island project islands concept
+sci,8,0.76658744,5.496362,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,7,4.2949586,7.131296,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,3,5.2519774,3.577372,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,9,2.2606199,8.894653,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,14,1.0969628,7.00219,energy community energy consumption energy sources renewable energy renewable energy sources,energy power renewable system electricity
+sci,11,0.53148,7.3860373,energy islands energy island island concept pilot sites energy conversion,energy island project islands concept
+sci,7,4.5897927,7.010119,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,6,3.4471338,4.0596247,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,5,2.547059,8.022139,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,5,2.6998425,8.297818,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,3,4.69356,3.1515424,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,9,2.6806304,8.972632,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,8,0.95763457,5.513076,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,2,3.088107,5.6140547,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,0,3.6895869,7.6311297,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,1,4.354052,3.091509,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,1,4.4530015,2.6220613,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,5,1.8679098,7.8839507,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,2,3.3822587,6.106235,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,2,4.8991847,6.2121005,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,6,3.709183,3.1312,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,15,1.4415929,7.11135,sustainable energy social norms energy island rights reserved taking account,energy sustainable social island paper
+sci,12,0.7086177,6.1579027,power system power systems multi vector energy systems dimension reduction,energy system power systems model
+sci,12,0.6341588,6.224874,power system power systems multi vector energy systems dimension reduction,energy system power systems model
+sci,8,0.7090892,5.344303,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,4,0.73861253,7.733266,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,4,0.6870064,7.9051313,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,3,5.1011553,2.8366563,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,5,1.8431344,7.6768517,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,2,4.7834554,6.094531,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,4,0.6490601,7.4714494,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,0,3.700884,7.810136,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,6,3.71295,3.9033427,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,5,1.7183458,7.838213,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,5,1.6170459,7.954865,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,8,0.8226881,5.4379396,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,0,3.795441,7.6741033,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,15,1.4560533,7.3328614,sustainable energy social norms energy island rights reserved taking account,energy sustainable social island paper
+sci,15,1.4803455,7.278471,sustainable energy social norms energy island rights reserved taking account,energy sustainable social island paper
+sci,6,4.1993423,5.0479493,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,1,4.3260555,2.631118,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,4,0.37268594,8.179742,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,10,2.0895853,5.6574097,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,6,3.8050308,3.9277275,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,9,1.9048887,8.640993,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,1,4.611138,4.201584,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,9,1.7030337,8.482903,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,5,2.2989902,8.331661,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,5,1.8861558,8.073228,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,0,4.8068075,7.859736,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,4.083005,7.9463034,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,16,3.4743788,3.0361233,vsc hvdc vsc hvdc system new energy converter station safety margin,power system vschvdc energy control
+sci,4,0.6820986,8.434047,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,11,2.211164,7.8341084,energy islands energy island island concept pilot sites energy conversion,energy island project islands concept
+sci,16,3.6825345,2.736623,vsc hvdc vsc hvdc system new energy converter station safety margin,power system vschvdc energy control
+sci,2,3.8679287,5.4531274,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,12,0.81622946,5.9830394,power system power systems multi vector energy systems dimension reduction,energy system power systems model
+sci,11,0.57348645,8.425109,energy islands energy island island concept pilot sites energy conversion,energy island project islands concept
+sci,10,2.0968964,5.647498,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,11,0.6002402,7.783071,energy islands energy island island concept pilot sites energy conversion,energy island project islands concept
+sci,3,4.892024,2.6951618,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,8,1.0052284,5.2792406,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,0,3.768281,7.6139946,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,4,0.8341667,8.11191,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,6,3.3226345,3.80034,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,5,2.8458245,8.303736,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,14,1.1420168,7.145161,energy community energy consumption energy sources renewable energy renewable energy sources,energy power renewable system electricity
+sci,13,0.16642852,6.4919715,smart grid energy storage energy systems energy island systems infrastructure,energy power system systems island
+sci,8,0.89276886,5.443319,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,10,2.1254785,5.5665545,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,12,0.5797504,6.219095,power system power systems multi vector energy systems dimension reduction,energy system power systems model
+sci,8,0.63970727,5.5519,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,2,3.6019936,6.0867443,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,3,4.342987,2.9447374,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,0,3.944809,8.153499,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,4,0.46063468,8.37347,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,8,0.60141736,5.4064727,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,4,0.64858747,8.216754,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,0,5.426391,8.215761,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,5,2.6801817,7.92627,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,3,5.0769944,3.069048,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,15,1.4469252,7.0070133,sustainable energy social norms energy island rights reserved taking account,energy sustainable social island paper
+sci,3,5.0830107,2.842932,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,1,4.5869994,3.6119883,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,12,0.59286594,6.274749,power system power systems multi vector energy systems dimension reduction,energy system power systems model
+sci,11,0.8823182,7.6785636,energy islands energy island island concept pilot sites energy conversion,energy island project islands concept
+sci,15,1.4744172,7.035924,sustainable energy social norms energy island rights reserved taking account,energy sustainable social island paper
+sci,12,0.76854146,6.0713496,power system power systems multi vector energy systems dimension reduction,energy system power systems model
+sci,4,0.6933719,8.504651,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,0,5.446227,8.311859,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,2,3.7040572,6.045712,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,0,4.595863,7.637072,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,3,4.2574635,2.7940443,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,0,4.970449,8.035134,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,4.9401174,8.071223,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,16,3.4712415,2.8921704,vsc hvdc vsc hvdc system new energy converter station safety margin,power system vschvdc energy control
+sci,7,4.3784366,6.956256,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,8,0.9537251,5.294773,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,1,4.475926,2.6735957,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,3,4.441686,3.032407,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,13,0.37238055,6.7749267,smart grid energy storage energy systems energy island systems infrastructure,energy power system systems island
+sci,11,0.48995453,7.3810577,energy islands energy island island concept pilot sites energy conversion,energy island project islands concept
+sci,14,0.68749005,7.1711254,energy community energy consumption energy sources renewable energy renewable energy sources,energy power renewable system electricity
+sci,13,0.55253565,6.5616827,smart grid energy storage energy systems energy island systems infrastructure,energy power system systems island
+sci,14,0.8621062,6.877913,energy community energy consumption energy sources renewable energy renewable energy sources,energy power renewable system electricity
+sci,10,1.8447837,6.069356,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,16,3.514922,2.8120487,vsc hvdc vsc hvdc system new energy converter station safety margin,power system vschvdc energy control
+sci,0,5.2407823,6.450806,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,8,3.2387276,3.9248548,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,0,5.319688,8.243672,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,6,3.865767,3.2055228,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,2,3.7727556,5.491083,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,0,4.951987,7.276327,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,13,0.35634866,6.782021,smart grid energy storage energy systems energy island systems infrastructure,energy power system systems island
+sci,15,1.436794,7.0642595,sustainable energy social norms energy island rights reserved taking account,energy sustainable social island paper
+sci,15,1.3737774,7.1419234,sustainable energy social norms energy island rights reserved taking account,energy sustainable social island paper
+sci,14,1.1999182,7.1168103,energy community energy consumption energy sources renewable energy renewable energy sources,energy power renewable system electricity
+sci,7,4.3951197,6.3233304,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,4,0.7686333,8.15008,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,16,3.5552804,2.8179789,vsc hvdc vsc hvdc system new energy converter station safety margin,power system vschvdc energy control
+sci,5,1.4929122,7.940846,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,0,4.668027,7.234199,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,4,0.26164076,7.921001,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,0,4.4123397,7.6539087,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,13,0.4427873,7.007942,smart grid energy storage energy systems energy island systems infrastructure,energy power system systems island
+sci,3,4.8376946,2.6048336,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,1,3.8173022,2.7618942,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,3,5.056647,3.1266363,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,1,4.113174,2.6413429,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,5,1.7634819,7.989591,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,6,3.940034,3.4379122,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,14,0.4125327,6.8333025,energy community energy consumption energy sources renewable energy renewable energy sources,energy power renewable system electricity
+sci,0,4.8861203,7.666866,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,1,4.6692004,4.228491,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,1,4.1900797,2.7489638,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,4,1.2803142,8.07012,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,0,4.955266,7.078346,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,13,0.3382734,6.5794635,smart grid energy storage energy systems energy island systems infrastructure,energy power system systems island
+sci,11,0.9103513,7.629995,energy islands energy island island concept pilot sites energy conversion,energy island project islands concept
+sci,0,4.3709397,8.223408,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,16,3.4792666,2.7848923,vsc hvdc vsc hvdc system new energy converter station safety margin,power system vschvdc energy control
+sci,0,5.4270887,7.7598343,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,5.4109015,8.3112955,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,6,3.7857602,3.2998216,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,6,3.6030982,3.1450057,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,0,4.9170074,7.8972497,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,4,0.5081478,8.19166,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,2,3.5589583,6.04357,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,2,3.7005565,5.527768,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,4,0.2235474,7.74178,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,15,1.3273755,7.258345,sustainable energy social norms energy island rights reserved taking account,energy sustainable social island paper
+sci,3,5.1645584,3.067171,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,0,4.9754868,6.9890685,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,7,4.1141224,6.579796,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,0,4.809289,7.435379,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,1,4.6478357,3.9587471,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,2,4.808156,6.079582,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,5,2.0210083,8.159169,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,5,1.9174052,8.114899,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,2,3.7785413,5.2354183,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,16,4.377387,3.3657389,vsc hvdc vsc hvdc system new energy converter station safety margin,power system vschvdc energy control
+sci,1,4.19949,2.410898,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,16,3.7140846,2.6161132,vsc hvdc vsc hvdc system new energy converter station safety margin,power system vschvdc energy control
+sci,13,0.49809843,6.6440167,smart grid energy storage energy systems energy island systems infrastructure,energy power system systems island
+sci,3,4.7816167,2.3928668,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,4,1.0001004,8.459089,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,0,4.977984,8.16839,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,5.1054826,8.240117,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,5.4772863,7.3132567,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,4,0.26195884,8.017876,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,4,0.26851684,8.066468,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,0,5.208735,7.884013,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,5,2.0739317,8.090829,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,15,1.5507064,7.4651246,sustainable energy social norms energy island rights reserved taking account,energy sustainable social island paper
+sci,5,1.9340501,7.902358,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,15,1.7227126,6.8468466,sustainable energy social norms energy island rights reserved taking account,energy sustainable social island paper
+sci,0,4.7268844,8.147652,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,5.4302506,7.051658,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,1,4.511463,3.677578,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,1,4.00368,2.633129,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,0,5.4268994,7.1894627,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,4,0.7318465,8.164076,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,1,5.0174427,3.743721,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,3,4.615317,2.7053766,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,0,4.292982,7.321315,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,6,3.7150218,3.608355,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,7,4.057139,7.295096,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,1,4.5398355,3.411292,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,4,0.4184793,8.273684,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,6,5.111167,4.1129937,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,3,4.663674,3.1366343,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,0,4.9203186,7.29629,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,3,4.723576,2.8784702,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,1,4.0049677,2.6444514,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,0,5.431112,7.102379,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,13,0.30228305,6.2533064,smart grid energy storage energy systems energy island systems infrastructure,energy power system systems island
+sci,12,0.95936275,6.5178995,power system power systems multi vector energy systems dimension reduction,energy system power systems model
+sci,6,4.0818143,4.1876645,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,5,1.8084141,7.9846687,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,14,0.6802324,6.805731,energy community energy consumption energy sources renewable energy renewable energy sources,energy power renewable system electricity
+sci,8,0.6607397,5.6339226,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,7,4.7590623,6.9552455,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,0,4.901296,7.3660135,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,16,3.9856539,2.9729154,vsc hvdc vsc hvdc system new energy converter station safety margin,power system vschvdc energy control
+sci,1,4.9664483,3.3884692,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,7,4.3842835,7.0364223,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,1,4.306281,2.7005265,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,7,4.255021,7.031075,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,15,1.4650242,7.4761024,sustainable energy social norms energy island rights reserved taking account,energy sustainable social island paper
+sci,1,4.682693,3.823249,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,4,0.37056866,8.071011,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,7,4.138867,6.592176,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,2,3.6804662,5.996958,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,1,4.0744543,2.8539958,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,2,4.731765,6.1726627,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,2,4.426769,5.7868476,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,16,4.1394734,3.1034472,vsc hvdc vsc hvdc system new energy converter station safety margin,power system vschvdc energy control
+sci,6,1.0953557,5.108224,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,14,0.54276586,7.1972885,energy community energy consumption energy sources renewable energy renewable energy sources,energy power renewable system electricity
+sci,12,0.8520772,6.3993692,power system power systems multi vector energy systems dimension reduction,energy system power systems model
+sci,0,5.397547,8.3060055,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,6,4.3980355,5.184544,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,7,4.3254476,7.118219,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,9,1.6875983,8.540491,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,1,4.347389,2.5651145,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,16,4.114081,3.5092347,vsc hvdc vsc hvdc system new energy converter station safety margin,power system vschvdc energy control
+sci,4,0.76292926,7.673822,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,0,4.274784,7.817651,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,8,0.65900296,5.4683867,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,7,4.2204185,6.8669863,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,0,5.5034885,7.4538603,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,6,3.6462743,3.388723,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,1,4.199928,2.847044,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,2,3.7495008,6.2281866,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,2,3.7225375,6.068836,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,3,4.411739,2.9044955,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,4,1.3002697,8.359525,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,0,4.1716547,7.710027,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,5.0422716,8.227207,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,13,1.1978906,6.3302608,smart grid energy storage energy systems energy island systems infrastructure,energy power system systems island
+sci,12,0.4691712,5.938565,power system power systems multi vector energy systems dimension reduction,energy system power systems model
+sci,1,3.6247408,2.5905466,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,0,4.518011,7.9676924,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,6,4.084042,4.150388,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,0,5.0452085,7.610029,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,1,4.368517,2.6162949,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,14,0.7133041,6.924978,energy community energy consumption energy sources renewable energy renewable energy sources,energy power renewable system electricity
+sci,9,1.8814173,9.001657,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,0,4.838217,8.206733,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,5.221042,8.109994,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,1,4.083877,3.5025527,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,3,5.1600904,2.7067075,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,4,0.28164026,7.8974338,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,6,3.3133774,3.4502687,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,2,2.9326742,5.7902765,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,7,4.282765,7.1383343,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,13,0.15751392,6.601839,smart grid energy storage energy systems energy island systems infrastructure,energy power system systems island
+sci,4,0.9311055,8.600036,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,7,4.1965,7.1231966,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,14,1.0569938,7.1613283,energy community energy consumption energy sources renewable energy renewable energy sources,energy power renewable system electricity
+sci,0,5.005114,7.734922,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,3,4.6547914,2.65908,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,6,4.0397887,4.1695757,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,3,5.114124,3.0535192,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,3,5.166492,3.0197163,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,2,3.569656,5.577338,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,2,4.4888005,6.040239,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,0,5.07835,8.119435,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,4.893245,7.4118214,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,2,4.641398,5.934103,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,0,5.065814,7.8943224,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,14,0.7912232,7.2853007,energy community energy consumption energy sources renewable energy renewable energy sources,energy power renewable system electricity
+sci,1,4.1716533,2.6344192,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,1,4.6613126,4.0169597,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,1,4.625929,3.0710933,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,12,0.95987546,6.1971374,power system power systems multi vector energy systems dimension reduction,energy system power systems model
+sci,0,4.033293,8.036679,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,2,4.6884212,6.273941,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,12,0.8919973,6.387808,power system power systems multi vector energy systems dimension reduction,energy system power systems model
+sci,7,4.1311436,6.8176336,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,3,5.026678,2.7811356,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,6,3.5406213,3.4593213,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,12,1.0145447,6.311025,power system power systems multi vector energy systems dimension reduction,energy system power systems model
+sci,13,0.65058535,6.7378397,smart grid energy storage energy systems energy island systems infrastructure,energy power system systems island
+sci,0,5.1980324,7.079931,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,1,4.2298555,3.5856366,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,6,3.6059563,3.5383458,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,7,4.1358056,6.775539,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,2,4.924009,6.2567954,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,1,3.9228387,2.9115195,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,7,4.186259,6.9415746,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,0,4.9353476,8.318537,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,4.091811,7.739233,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,4.1531663,8.335754,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,6,3.2351136,3.4562511,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,0,4.5076118,8.307452,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,10,3.1578763,6.512423,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,0,4.3513465,8.247913,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,13,0.5571852,6.625575,smart grid energy storage energy systems energy island systems infrastructure,energy power system systems island
+sci,1,3.954934,2.549085,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,1,4.557479,4.0420175,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,7,4.396504,6.32365,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,0,5.3724046,7.148876,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,5.429123,7.626412,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,5.168252,6.8978043,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,1,4.062904,2.5588095,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,1,4.6605325,3.9495573,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,2,3.9865825,5.1258197,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,14,1.107131,7.0841556,energy community energy consumption energy sources renewable energy renewable energy sources,energy power renewable system electricity
+sci,1,3.9836783,2.5918899,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,7,4.2946134,7.1272726,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,1,4.5830545,3.667319,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,5,2.5698004,7.7694974,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,6,3.7391934,3.2639663,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,0,4.943972,6.9093366,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,3,4.099356,2.6125827,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,1,4.692389,3.5935102,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,0,4.901852,7.423377,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,4.9072247,8.275145,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,4.685237,7.6722,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,5.418394,7.657161,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,7,4.193672,6.9819894,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,6,4.0173965,4.170013,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,2,4.6741567,5.879199,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,7,4.305961,6.8089643,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,3,5.2219963,3.4809036,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,5,2.17725,8.074856,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,0,5.218134,8.081943,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,5,2.6833055,7.9407005,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,2,5.1317873,6.6173334,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,0,5.080677,8.134149,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,5.2233005,8.213813,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,13,0.20135538,7.1163692,smart grid energy storage energy systems energy island systems infrastructure,energy power system systems island
+sci,5,1.7312206,7.304594,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,1,4.3764663,3.8467546,offshore ac hvdc transmission ac grid voltage source multi terminal,offshore grid power hvdc wind
+sci,6,3.801746,3.750458,paper presents critical modes time domain simulation results simulation tool,power system offshore grid control
+sci,0,5.185622,7.6555552,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,15,1.5229814,7.234555,sustainable energy social norms energy island rights reserved taking account,energy sustainable social island paper
+sci,0,4.835707,7.985611,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,3,4.911137,3.28416,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,7,4.27447,6.3800974,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,0,5.215526,7.800422,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,16,3.9667094,3.0966964,vsc hvdc vsc hvdc system new energy converter station safety margin,power system vschvdc energy control
+sci,0,5.2187943,8.334556,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,5.1018734,8.21484,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,5,2.9370544,7.8669405,energy security energy policy transmission grid energy system harmonic distortion,energy grid system transmission harmonic
+sci,2,4.4489636,5.8045273,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,0,4.2507367,7.747802,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,0,5.557105,7.311064,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,2,2.8292713,5.552118,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,10,2.1680944,5.5855937,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,10,2.1834862,5.626729,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,9,1.4894449,8.734779,hydrogen production green hydrogen energy islands offshore wind hydrogen price,energy hydrogen offshore wind system
+sci,8,1.122334,5.6737103,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,10,2.5824554,5.7610455,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,13,0.3070792,6.170033,smart grid energy storage energy systems energy island systems infrastructure,energy power system systems island
+sci,10,1.8433917,5.8926225,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,0,5.145043,6.9996014,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,10,2.1581423,5.7803597,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,2,2.7972047,5.7918644,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,0,4.9280186,8.042528,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,3,5.0675898,2.8568187,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,3,5.1875887,3.3565052,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,11,0.76072735,7.882235,energy islands energy island island concept pilot sites energy conversion,energy island project islands concept
+sci,0,5.2060585,8.195348,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,2,3.504352,5.5453615,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,4,0.25774732,8.221531,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,10,2.1809232,5.6386533,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,10,2.3456337,6.046159,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,3,5.2652087,3.3072908,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,10,1.9105685,5.8598104,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,2,3.1288478,5.473621,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,0,4.6716576,8.201254,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,4,0.3470919,8.241839,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,11,0.9326543,8.612972,energy islands energy island island concept pilot sites energy conversion,energy island project islands concept
+sci,12,0.8788379,6.3332415,power system power systems multi vector energy systems dimension reduction,energy system power systems model
+sci,10,2.2350447,5.5491314,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,13,0.2637163,7.3481684,smart grid energy storage energy systems energy island systems infrastructure,energy power system systems island
+sci,2,2.9005456,5.753266,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,0,4.7125015,7.868934,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,2,2.7176197,5.949586,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,2,3.3385098,5.619971,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,10,2.106836,5.5828786,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,8,0.781991,5.656584,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,10,2.1400385,5.6073394,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,2,4.659295,6.1604753,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,7,4.4419856,7.2362003,north sea offshore grid legal framework offshore wind energy wind energy,offshore grid wind energy north
+sci,0,5.1131535,7.288685,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,11,0.3650865,7.7260427,energy islands energy island island concept pilot sites energy conversion,energy island project islands concept
+sci,3,5.122303,3.3280425,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,10,2.102916,5.6369534,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,11,0.97403806,8.654668,energy islands energy island island concept pilot sites energy conversion,energy island project islands concept
+sci,10,2.1803331,5.623392,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,8,1.1368079,5.700408,islanded microgrid operation cost individual generation frequency voltage management system,energy power system control grid
+sci,2,3.1910207,5.6427717,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,11,0.8939825,7.270762,energy islands energy island island concept pilot sites energy conversion,energy island project islands concept
+sci,10,2.1447861,5.6056285,energy islands energy island arc shaped rights reserved low energy,energy island growth 111 islands
+sci,3,5.2511334,3.342641,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,4,0.4255449,8.363582,renewable energy energy system small islands elsevier ltd energy costs,energy island islands system renewable
+sci,14,1.4254307,6.8926625,energy community energy consumption energy sources renewable energy renewable energy sources,energy power renewable system electricity
+sci,2,3.2410567,5.7770796,offshore grid sea surface grid spacing wind farms time series,offshore wind transmission grid cost
+sci,3,5.247543,3.2591345,grid frequency wind farm wind turbines direct current diode rectifier,offshore power wind grid control
+sci,0,4.8784146,7.021163,offshore wind wind power wind farms north sea wind farm,offshore wind grid power energy
+sci,14,1.0673306,7.2496543,energy community energy consumption energy sources renewable energy renewable energy sources,energy power renewable system electricity
