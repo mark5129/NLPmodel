@@ -10,7 +10,7 @@ with open('parameters.yaml', 'r') as file:
     parameters = yaml.safe_load(file)
 
 #Load embeddings from embeddings file
-which_model = ['XLM_Roberta', 'Specter2Actually', 'MiniLm12']
+which_model = ['Specter2Actually']
 sources = ['pro', 'reg', 'sci']
 
 # Determine the latest run ID to know which embeddings to use

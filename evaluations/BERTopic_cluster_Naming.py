@@ -9,7 +9,7 @@ from bertopic import BERTopic
 with open('parameters.yaml', 'r') as file:
     parameters = yaml.safe_load(file)
 
-def BERTopic_cluster_topic(cluster_texts, other_texts, n_terms=5):
+def BERTopic_cluster_topic(cluster_texts, other_texts, n_terms=20):
     """
     Use BERTopic to extract representative terms for a group of cluster_texts.
     This does not compare to 'other_texts' but instead relies on topic modeling output.
