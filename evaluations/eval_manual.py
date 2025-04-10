@@ -14,7 +14,7 @@ which_model = ['XLM_Roberta', 'Specter2Actually', 'MiniLm12']
 sources = ['pro', 'reg', 'sci']
 
 # Determine the latest run ID to know which embeddings to use
-Latest_run_id = '1303156299'
+Latest_run_id = '3886251367'
 
 # Load the data file for the merged documents
 df_file = pd.read_csv('data/merged_media_stemmed_eng.csv')
