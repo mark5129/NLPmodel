@@ -1,24 +1,24 @@
 Source,cluster,count,TF_IDF_topic_name,BERTopic_topic_name,count_words
-pro,0,106,energi island offshor wind north sea,energi island wind,3
-pro,1,63,million tonn nuclear power natur ga,energi climat green,0
-reg,0,69,electr grid bornholm electr energiø bornholm,energi bornholm island,1
-reg,1,22,realli good green island bornholm agricultur,bornholm energi island,2
-reg,2,33,center bornholm busi center labor market,bornholm energi busi,2
-reg,3,27,baltic sea baltic energi baltic energi island,bornholm baltic sea,2
-reg,4,20,baltic sea north sea island baltic,bornholm energi island,1
-reg,5,32,hydrogen product district heat electrolysi plant,bornholm energi hydrogen,1
-reg,6,60,jacob trøst citizen meet citizen associ,bornholm energi island,0
-reg,7,78,social democraci municip council social democrat,bornholm municip energi,1
-reg,8,18,energi park energi island land plant,energi bornholm island,2
-reg,9,56,high voltag bornholm museum land plant,bornholm energi plant,2
-reg,10,19,baltic sea rønne harbor offshor wind,bornholm energi wind,1
-reg,11,28,offshor wind danish energi agenc energi agenc,wind energi bornholm,2
-reg,12,35,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi,2
-sci,0,145,vsc hvdc ac grid wind turbin,offshor power grid,1
-sci,1,18,energi island wave energi right reserv,energi island growth,2
-sci,2,19,hydrogen product green hydrogen green hydrogen product,hydrogen energi offshor,1
-sci,3,160,offshor wind north sea offshor grid,offshor grid wind,3
-sci,4,27,sustain energi energi island pilot site,energi island system,2
-sci,5,41,distribut energi smart grid island microgrid,energi system power,1
-sci,6,40,energi secur co2 emiss sustain energi,energi island system,1
-sci,7,51,renew energi energi island small island,energi system island,2
+pro,0,106,energi island offshor wind north sea energiø bornholm wind farm,energi island wind offshor sea,5
+pro,1,63,million tonn nuclear power natur ga green transit 70 percent,energi say climat green co2,1
+reg,0,69,electr grid bornholm electr energiø bornholm energi island bornholm electr grid,energi island bornholm project say,3
+reg,1,22,realli good green island bornholm agricultur green transit bornholm food,bornholm energi island green also,3
+reg,2,33,center bornholm busi center labor market busi center bornholm young peopl,bornholm energi busi island compani,2
+reg,3,27,baltic sea baltic energi baltic energi island secur polici green transit,bornholm energi baltic also island,3
+reg,4,20,baltic sea north sea island baltic possibl establish energi island,bornholm energi island sea area,3
+reg,5,32,hydrogen product district heat electrolysi plant surplu heat hydrogen ammonia,bornholm energi hydrogen heat wind,2
+reg,6,60,jacob trøst citizen meet citizen associ associ energiø bornholm associ energiø,bornholm energi island say also,1
+reg,7,78,social democraci municip council social democrat ann thoma top candid,municip bornholm plan energi also,1
+reg,8,18,energi park energi island land plant busi park land facil,energi bornholm island say land,3
+reg,9,56,high voltag bornholm museum land plant voltag station high voltag station,bornholm energi plant energinet area,2
+reg,10,19,baltic sea rønne harbor offshor wind wind turbin ga station,bornholm energi wind sea offshor,3
+reg,11,28,offshor wind danish energi agenc energi agenc danish energi wind farm,wind energi bornholm offshor turbin,3
+reg,12,35,offshor wind bornholm offshor wind bornholm offshor wind farm wind turbin,bornholm wind energi offshor project,3
+sci,0,145,vsc hvdc ac grid wind turbin high voltag hvdc system,system control power grid offshor,2
+sci,1,18,energi island wave energi right reserv qd growth low energi,energi island growth 111 surfac,3
+sci,2,19,hydrogen product green hydrogen green hydrogen product hydrogen price energi system,hydrogen energi offshor wind power,2
+sci,3,160,offshor wind north sea offshor grid wind farm wind power,offshor grid wind energi sea,4
+sci,4,27,sustain energi energi island pilot site renew energi social norm,energi island system project develop,2
+sci,5,41,distribut energi smart grid island microgrid distribut gener energi island,energi system power oper island,2
+sci,6,40,energi secur co2 emiss sustain energi energi system oil ga,energi system island transit sustain,3
+sci,7,51,renew energi energi island small island energi energi energi storag,energi island system power wind,2
