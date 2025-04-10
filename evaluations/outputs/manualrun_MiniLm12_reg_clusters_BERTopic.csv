@@ -1,619 +1,595 @@
 Source,cluster,x,y,TF_IDF_topic_name,BERTopic_topic_name
-reg,4,6.356777,4.288617,realli good green transit green island,bornholm energi island
-reg,2,7.0283027,1.1811987,social democraci social democrat ann thoma,bornholm say also
-reg,11,7.9556623,5.495857,nuclear power electr grid wast heat,bornholm energi heat
-reg,4,7.0045037,4.063676,realli good green transit green island,bornholm energi island
-reg,4,7.0857472,3.9870672,realli good green transit green island,bornholm energi island
-reg,8,7.1881323,7.0273337,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,6,6.686713,6.463428,baltic sea rønne harbor ga station,bornholm energi wind
-reg,7,6.5747814,5.697346,baltic sea green energi north sea,bornholm energi island
-reg,6,7.317537,6.6806755,baltic sea rønne harbor ga station,bornholm energi wind
-reg,12,8.183066,6.7178154,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,6,7.556724,6.740745,baltic sea rønne harbor ga station,bornholm energi wind
-reg,8,7.196072,7.0867033,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,3,6.3139005,3.596894,labor market center bornholm busi center,bornholm energi busi
-reg,0,5.2798862,4.9512906,energiø bornholm energi island 10 million,energi bornholm island
-reg,7,6.600285,5.7459416,baltic sea green energi north sea,bornholm energi island
-reg,7,6.649519,5.663121,baltic sea green energi north sea,bornholm energi island
-reg,0,5.083344,5.0965066,energiø bornholm energi island 10 million,energi bornholm island
-reg,5,7.258416,7.5037704,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,0,4.965797,5.1384687,energiø bornholm energi island 10 million,energi bornholm island
-reg,3,5.558726,2.795635,labor market center bornholm busi center,bornholm energi busi
-reg,5,7.4281406,7.3936324,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,7,6.368838,6.3292036,baltic sea green energi north sea,bornholm energi island
-reg,4,6.923804,4.011441,realli good green transit green island,bornholm energi island
-reg,11,8.165517,6.2773886,nuclear power electr grid wast heat,bornholm energi heat
-reg,2,7.1513453,1.454654,social democraci social democrat ann thoma,bornholm say also
-reg,6,6.6142488,6.505514,baltic sea rønne harbor ga station,bornholm energi wind
-reg,3,5.798495,3.0909295,labor market center bornholm busi center,bornholm energi busi
-reg,6,6.954671,6.544914,baltic sea rønne harbor ga station,bornholm energi wind
-reg,3,5.7194114,3.1140952,labor market center bornholm busi center,bornholm energi busi
-reg,0,4.9888105,4.7254567,energiø bornholm energi island 10 million,energi bornholm island
-reg,3,5.551176,3.324471,labor market center bornholm busi center,bornholm energi busi
-reg,5,7.419342,7.453759,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,5,7.4750247,7.8451033,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,2,6.661683,1.0972058,social democraci social democrat ann thoma,bornholm say also
-reg,0,5.1791167,4.8946376,energiø bornholm energi island 10 million,energi bornholm island
-reg,8,7.2950716,6.73809,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,3,5.775348,3.4001431,labor market center bornholm busi center,bornholm energi busi
-reg,3,5.720722,3.5808175,labor market center bornholm busi center,bornholm energi busi
-reg,6,6.9169936,6.576907,baltic sea rønne harbor ga station,bornholm energi wind
-reg,8,7.213355,7.0663934,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,3,6.3374095,3.6646123,labor market center bornholm busi center,bornholm energi busi
-reg,12,7.7786036,6.745543,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,7,6.348267,5.85208,baltic sea green energi north sea,bornholm energi island
-reg,7,6.750953,5.9642787,baltic sea green energi north sea,bornholm energi island
-reg,3,5.6511374,3.2410612,labor market center bornholm busi center,bornholm energi busi
-reg,4,7.575397,4.086317,realli good green transit green island,bornholm energi island
-reg,8,6.8478465,7.253205,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,3,5.6126785,3.11203,labor market center bornholm busi center,bornholm energi busi
-reg,7,7.308593,5.7190576,baltic sea green energi north sea,bornholm energi island
-reg,3,5.575556,3.1487937,labor market center bornholm busi center,bornholm energi busi
-reg,4,7.049063,4.117745,realli good green transit green island,bornholm energi island
-reg,6,7.359728,6.607694,baltic sea rønne harbor ga station,bornholm energi wind
-reg,12,8.447844,6.7746863,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,4,7.3829093,3.5465178,realli good green transit green island,bornholm energi island
-reg,17,7.362228,2.2938895,jacob trøst say jacob jacob consol,bornholm energi say
-reg,8,6.7082233,6.9306273,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,11,8.207778,6.2849903,nuclear power electr grid wast heat,bornholm energi heat
-reg,3,5.83051,3.398382,labor market center bornholm busi center,bornholm energi busi
-reg,7,6.2742724,5.398014,baltic sea green energi north sea,bornholm energi island
-reg,6,7.0710225,6.493279,baltic sea rønne harbor ga station,bornholm energi wind
-reg,13,8.139864,2.6146288,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,6,6.664645,6.409844,baltic sea rønne harbor ga station,bornholm energi wind
-reg,9,6.650725,5.048981,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,2,6.864118,1.2612461,social democraci social democrat ann thoma,bornholm say also
-reg,6,6.9509506,6.6107917,baltic sea rønne harbor ga station,bornholm energi wind
-reg,11,8.245977,6.153604,nuclear power electr grid wast heat,bornholm energi heat
-reg,4,6.966506,3.770575,realli good green transit green island,bornholm energi island
-reg,4,6.6940117,3.9660125,realli good green transit green island,bornholm energi island
-reg,18,8.843965,4.7634945,energi agenc danish energi agenc danish energi,bornholm energi land
-reg,11,8.398627,5.8191385,nuclear power electr grid wast heat,bornholm energi heat
-reg,0,4.8272195,4.7033935,energiø bornholm energi island 10 million,energi bornholm island
-reg,2,6.6962404,1.130173,social democraci social democrat ann thoma,bornholm say also
-reg,7,7.205469,5.5595026,baltic sea green energi north sea,bornholm energi island
-reg,5,6.891287,7.461363,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,15,9.148423,4.290296,high voltag transform station voltag station,bornholm area plant
-reg,8,7.500535,7.151152,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,13,8.552597,2.8909888,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,8,7.373609,6.786995,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,11,8.411812,5.8566427,nuclear power electr grid wast heat,bornholm energi heat
-reg,20,8.380813,5.697964,electr grid bornholm electr price zone,bornholm energi electr
-reg,16,7.5778236,1.5454237,cultur ident henrik espersen energiø bornholm,bornholm energi island
-reg,18,8.348988,4.281618,energi agenc danish energi agenc danish energi,bornholm energi land
-reg,6,7.1644497,6.750319,baltic sea rønne harbor ga station,bornholm energi wind
-reg,10,9.11432,3.770892,local plan high voltag land plant,bornholm energinet energi
-reg,18,8.730551,4.7174287,energi agenc danish energi agenc danish energi,bornholm energi land
-reg,15,9.27114,4.2539062,high voltag transform station voltag station,bornholm area plant
-reg,5,7.544307,7.3913584,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,6,7.142184,6.1854424,baltic sea rønne harbor ga station,bornholm energi wind
-reg,11,6.203871,2.5165365,nuclear power electr grid wast heat,bornholm energi heat
-reg,0,5.11268,4.857819,energiø bornholm energi island 10 million,energi bornholm island
-reg,5,7.237059,7.4109926,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,1,6.0563526,2.4505556,municip council social democraci climat plan,municip bornholm energi
-reg,15,9.131199,4.219473,high voltag transform station voltag station,bornholm area plant
-reg,10,9.172378,3.8475401,local plan high voltag land plant,bornholm energinet energi
-reg,15,9.112125,4.438467,high voltag transform station voltag station,bornholm area plant
-reg,11,7.8672576,5.513548,nuclear power electr grid wast heat,bornholm energi heat
-reg,15,9.065534,4.214504,high voltag transform station voltag station,bornholm area plant
-reg,6,6.9528117,6.3059583,baltic sea rønne harbor ga station,bornholm energi wind
-reg,12,7.6804094,6.918665,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,4,7.3051147,3.4411898,realli good green transit green island,bornholm energi island
-reg,7,7.043514,5.2222366,baltic sea green energi north sea,bornholm energi island
-reg,16,7.5693207,1.8223495,cultur ident henrik espersen energiø bornholm,bornholm energi island
-reg,11,7.3559537,5.363266,nuclear power electr grid wast heat,bornholm energi heat
-reg,10,8.905517,3.9189463,local plan high voltag land plant,bornholm energinet energi
-reg,5,7.6701035,7.632717,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,6,6.634292,6.3187733,baltic sea rønne harbor ga station,bornholm energi wind
-reg,13,8.485984,3.004022,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,8,7.0436935,7.2281218,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,8,7.023014,7.3761826,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,8,7.6776023,6.9145904,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,15,9.333938,4.1173553,high voltag transform station voltag station,bornholm area plant
-reg,8,7.2326493,7.2425575,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,14,8.082828,4.7202163,land plant energi park island land,energi bornholm island
-reg,7,6.625062,6.0617027,baltic sea green energi north sea,bornholm energi island
-reg,13,8.0372925,3.3881946,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,10,8.661426,3.7161112,local plan high voltag land plant,bornholm energinet energi
-reg,13,8.241833,2.2918987,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,5,7.7035294,7.6469913,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,7,7.3205767,5.6414404,baltic sea green energi north sea,bornholm energi island
-reg,18,8.591605,5.291705,energi agenc danish energi agenc danish energi,bornholm energi land
-reg,13,7.8968616,2.3691633,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,4,7.4173203,3.998269,realli good green transit green island,bornholm energi island
-reg,4,7.213651,4.143106,realli good green transit green island,bornholm energi island
-reg,14,8.033627,3.3614404,land plant energi park island land,energi bornholm island
-reg,21,7.162867,2.4826272,busi park municip council munk ravnborg,bornholm energi busi
-reg,2,7.2569985,1.2821958,social democraci social democrat ann thoma,bornholm say also
-reg,18,8.567381,5.248256,energi agenc danish energi agenc danish energi,bornholm energi land
-reg,0,4.9980364,5.277583,energiø bornholm energi island 10 million,energi bornholm island
-reg,3,5.998951,3.3932598,labor market center bornholm busi center,bornholm energi busi
-reg,12,8.167287,6.7164736,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,20,8.137738,5.5349045,electr grid bornholm electr price zone,bornholm energi electr
-reg,8,6.850147,7.176666,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,3,6.0286736,3.3807251,labor market center bornholm busi center,bornholm energi busi
-reg,4,6.1010084,4.7027283,realli good green transit green island,bornholm energi island
-reg,20,8.398966,5.4487424,electr grid bornholm electr price zone,bornholm energi electr
-reg,5,7.6096525,7.509347,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,5,7.606332,7.6482406,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,9,6.453787,4.964967,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,1,6.0577455,2.0601103,municip council social democraci climat plan,municip bornholm energi
-reg,9,6.2983594,5.22621,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,7,6.8172216,5.960634,baltic sea green energi north sea,bornholm energi island
-reg,8,7.0884776,7.45278,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,7,6.537501,5.8657966,baltic sea green energi north sea,bornholm energi island
-reg,7,7.051968,4.704063,baltic sea green energi north sea,bornholm energi island
-reg,0,5.0606117,4.4779744,energiø bornholm energi island 10 million,energi bornholm island
-reg,0,5.0639625,5.399481,energiø bornholm energi island 10 million,energi bornholm island
-reg,6,6.9613237,6.36825,baltic sea rønne harbor ga station,bornholm energi wind
-reg,0,4.814813,5.0457497,energiø bornholm energi island 10 million,energi bornholm island
-reg,10,8.94305,4.021099,local plan high voltag land plant,bornholm energinet energi
-reg,3,5.586271,2.917517,labor market center bornholm busi center,bornholm energi busi
-reg,15,9.109054,4.57233,high voltag transform station voltag station,bornholm area plant
-reg,5,7.5619397,7.4822707,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,1,5.8873606,1.6809194,municip council social democraci climat plan,municip bornholm energi
-reg,5,7.427155,7.2604237,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,0,4.8780804,5.3131466,energiø bornholm energi island 10 million,energi bornholm island
-reg,2,6.74289,1.1805282,social democraci social democrat ann thoma,bornholm say also
-reg,13,8.161987,2.147643,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,0,4.8697495,4.733801,energiø bornholm energi island 10 million,energi bornholm island
-reg,2,7.008972,1.1086133,social democraci social democrat ann thoma,bornholm say also
-reg,2,6.8435493,1.0954299,social democraci social democrat ann thoma,bornholm say also
-reg,2,6.755515,1.2306558,social democraci social democrat ann thoma,bornholm say also
-reg,2,7.0627418,1.2229879,social democraci social democrat ann thoma,bornholm say also
-reg,4,7.503981,4.158098,realli good green transit green island,bornholm energi island
-reg,6,6.757809,6.5041933,baltic sea rønne harbor ga station,bornholm energi wind
-reg,6,6.629986,6.1969967,baltic sea rønne harbor ga station,bornholm energi wind
-reg,2,6.5887437,1.2657229,social democraci social democrat ann thoma,bornholm say also
-reg,4,7.164996,3.2790277,realli good green transit green island,bornholm energi island
-reg,2,6.8341403,1.4674548,social democraci social democrat ann thoma,bornholm say also
-reg,13,8.775054,3.0239654,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,18,8.576794,4.3657784,energi agenc danish energi agenc danish energi,bornholm energi land
-reg,20,8.297613,5.7698503,electr grid bornholm electr price zone,bornholm energi electr
-reg,18,8.545056,4.5074315,energi agenc danish energi agenc danish energi,bornholm energi land
-reg,11,7.886171,6.1646876,nuclear power electr grid wast heat,bornholm energi heat
-reg,8,6.908028,7.2886186,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,0,5.60188,5.5294356,energiø bornholm energi island 10 million,energi bornholm island
-reg,13,8.049626,2.34934,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,13,7.9758053,2.2568254,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,6,7.1479435,6.2967744,baltic sea rønne harbor ga station,bornholm energi wind
-reg,10,9.242182,3.5781667,local plan high voltag land plant,bornholm energinet energi
-reg,15,9.326039,4.177363,high voltag transform station voltag station,bornholm area plant
-reg,17,7.649098,2.4408057,jacob trøst say jacob jacob consol,bornholm energi say
-reg,11,8.276981,6.392052,nuclear power electr grid wast heat,bornholm energi heat
-reg,3,6.0863457,3.2206066,labor market center bornholm busi center,bornholm energi busi
-reg,18,8.557268,4.4778423,energi agenc danish energi agenc danish energi,bornholm energi land
-reg,18,8.365185,4.163655,energi agenc danish energi agenc danish energi,bornholm energi land
-reg,10,9.2961645,3.6077154,local plan high voltag land plant,bornholm energinet energi
-reg,10,9.077014,3.8842556,local plan high voltag land plant,bornholm energinet energi
-reg,21,6.997756,3.084842,busi park municip council munk ravnborg,bornholm energi busi
-reg,18,8.671597,4.964648,energi agenc danish energi agenc danish energi,bornholm energi land
-reg,10,9.018663,3.4217815,local plan high voltag land plant,bornholm energinet energi
-reg,10,9.29984,3.6962614,local plan high voltag land plant,bornholm energinet energi
-reg,8,7.2310524,7.253682,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,12,7.844351,6.652275,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,0,5.254057,4.7505326,energiø bornholm energi island 10 million,energi bornholm island
-reg,2,6.7940965,1.1870731,social democraci social democrat ann thoma,bornholm say also
-reg,11,8.318611,6.376185,nuclear power electr grid wast heat,bornholm energi heat
-reg,1,5.7170186,2.4157302,municip council social democraci climat plan,municip bornholm energi
-reg,14,7.748442,3.345069,land plant energi park island land,energi bornholm island
-reg,3,6.080301,3.4786446,labor market center bornholm busi center,bornholm energi busi
-reg,15,9.353319,4.273471,high voltag transform station voltag station,bornholm area plant
-reg,18,8.395505,4.177819,energi agenc danish energi agenc danish energi,bornholm energi land
-reg,11,8.179524,6.0680876,nuclear power electr grid wast heat,bornholm energi heat
-reg,21,6.8142886,2.8778899,busi park municip council munk ravnborg,bornholm energi busi
-reg,9,6.4459724,5.1738305,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,14,7.7701116,3.6464827,land plant energi park island land,energi bornholm island
-reg,21,7.024936,3.0348148,busi park municip council munk ravnborg,bornholm energi busi
-reg,4,7.2780843,3.7877922,realli good green transit green island,bornholm energi island
-reg,5,7.4621353,7.3614254,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,12,8.153109,6.6117587,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,4,6.9967422,3.600697,realli good green transit green island,bornholm energi island
-reg,5,5.7459083,3.759411,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,2,6.646367,1.3819212,social democraci social democrat ann thoma,bornholm say also
-reg,14,7.6234875,3.409673,land plant energi park island land,energi bornholm island
-reg,15,9.350124,4.4155674,high voltag transform station voltag station,bornholm area plant
-reg,10,8.932067,4.039834,local plan high voltag land plant,bornholm energinet energi
-reg,15,9.091669,4.5081844,high voltag transform station voltag station,bornholm area plant
-reg,0,4.818117,4.8668466,energiø bornholm energi island 10 million,energi bornholm island
-reg,10,9.261415,3.6480708,local plan high voltag land plant,bornholm energinet energi
-reg,10,9.177716,3.821008,local plan high voltag land plant,bornholm energinet energi
-reg,13,8.684683,2.8919766,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,10,9.353026,3.7160492,local plan high voltag land plant,bornholm energinet energi
-reg,8,7.412212,6.8409834,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,17,7.537822,2.3330615,jacob trøst say jacob jacob consol,bornholm energi say
-reg,10,8.833159,3.6555865,local plan high voltag land plant,bornholm energinet energi
-reg,5,7.2858133,7.50658,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,7,6.4376717,5.7585855,baltic sea green energi north sea,bornholm energi island
-reg,13,7.8909745,2.2812147,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,5,7.562348,7.2897944,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,4,7.316756,4.171083,realli good green transit green island,bornholm energi island
-reg,14,7.937759,3.62573,land plant energi park island land,energi bornholm island
-reg,21,7.4839387,2.7640634,busi park municip council munk ravnborg,bornholm energi busi
-reg,2,7.0799704,1.7751803,social democraci social democrat ann thoma,bornholm say also
-reg,5,7.160189,7.582263,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,2,7.190888,1.0908716,social democraci social democrat ann thoma,bornholm say also
-reg,2,6.939209,2.0368598,social democraci social democrat ann thoma,bornholm say also
-reg,1,6.630806,2.3324714,municip council social democraci climat plan,municip bornholm energi
-reg,9,6.281061,5.2203164,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,14,7.5716877,3.3848898,land plant energi park island land,energi bornholm island
-reg,17,7.65585,2.6003983,jacob trøst say jacob jacob consol,bornholm energi say
-reg,9,6.4688706,5.0821085,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,1,6.1855125,2.1161575,municip council social democraci climat plan,municip bornholm energi
-reg,1,6.587024,2.160564,municip council social democraci climat plan,municip bornholm energi
-reg,1,6.511197,1.4284763,municip council social democraci climat plan,municip bornholm energi
-reg,4,7.499521,4.150293,realli good green transit green island,bornholm energi island
-reg,19,7.372045,2.22837,citizen associ associ energiø citizen associ energiø,bornholm energi dream
-reg,17,7.7009773,2.2902598,jacob trøst say jacob jacob consol,bornholm energi say
-reg,20,8.49886,5.6203346,electr grid bornholm electr price zone,bornholm energi electr
-reg,20,8.528339,5.6239476,electr grid bornholm electr price zone,bornholm energi electr
-reg,20,8.415125,5.6071978,electr grid bornholm electr price zone,bornholm energi electr
-reg,17,7.4747896,2.0369577,jacob trøst say jacob jacob consol,bornholm energi say
-reg,20,8.233553,5.257752,electr grid bornholm electr price zone,bornholm energi electr
-reg,4,6.9277163,4.1525307,realli good green transit green island,bornholm energi island
-reg,20,8.311161,5.5706534,electr grid bornholm electr price zone,bornholm energi electr
-reg,14,8.534929,3.7952156,land plant energi park island land,energi bornholm island
-reg,3,5.831947,3.3269982,labor market center bornholm busi center,bornholm energi busi
-reg,10,9.286227,3.89211,local plan high voltag land plant,bornholm energinet energi
-reg,14,8.325862,3.5475173,land plant energi park island land,energi bornholm island
-reg,10,9.208626,3.9251351,local plan high voltag land plant,bornholm energinet energi
-reg,10,9.226896,3.9653893,local plan high voltag land plant,bornholm energinet energi
-reg,10,9.222895,3.9641616,local plan high voltag land plant,bornholm energinet energi
-reg,10,9.129404,3.8715172,local plan high voltag land plant,bornholm energinet energi
-reg,13,8.023193,2.319192,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,1,6.5654936,2.2522101,municip council social democraci climat plan,municip bornholm energi
-reg,14,8.189824,3.8526506,land plant energi park island land,energi bornholm island
-reg,2,7.209571,1.2955993,social democraci social democrat ann thoma,bornholm say also
-reg,2,7.1521044,1.7076753,social democraci social democrat ann thoma,bornholm say also
-reg,14,7.826327,3.5925045,land plant energi park island land,energi bornholm island
-reg,3,6.212713,3.7678008,labor market center bornholm busi center,bornholm energi busi
-reg,9,6.682872,5.200785,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,6,6.663092,6.3282323,baltic sea rønne harbor ga station,bornholm energi wind
-reg,15,9.159785,4.4592543,high voltag transform station voltag station,bornholm area plant
-reg,13,8.160537,2.5471604,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,10,9.245443,3.922496,local plan high voltag land plant,bornholm energinet energi
-reg,8,7.6836987,7.081519,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,2,6.448779,1.3596944,social democraci social democrat ann thoma,bornholm say also
-reg,14,8.26957,3.6770961,land plant energi park island land,energi bornholm island
-reg,15,9.261873,4.302204,high voltag transform station voltag station,bornholm area plant
-reg,13,8.038441,2.3749516,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,21,6.6633186,2.8802443,busi park municip council munk ravnborg,bornholm energi busi
-reg,21,6.8857207,2.8734653,busi park municip council munk ravnborg,bornholm energi busi
-reg,5,7.568398,8.088721,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,19,6.804067,4.4932766,citizen associ associ energiø citizen associ energiø,bornholm energi dream
-reg,14,8.228185,3.7687292,land plant energi park island land,energi bornholm island
-reg,9,6.7194414,4.8118777,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,19,6.742516,4.619012,citizen associ associ energiø citizen associ energiø,bornholm energi dream
-reg,6,6.9936934,6.346406,baltic sea rønne harbor ga station,bornholm energi wind
-reg,11,8.1733465,6.1855435,nuclear power electr grid wast heat,bornholm energi heat
-reg,3,5.9069505,2.5694,labor market center bornholm busi center,bornholm energi busi
-reg,8,7.6965976,7.0475116,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,12,8.138545,6.895254,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,3,5.6736107,3.2241068,labor market center bornholm busi center,bornholm energi busi
-reg,0,5.0683393,4.864959,energiø bornholm energi island 10 million,energi bornholm island
-reg,13,8.177874,2.260322,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,17,7.6800427,2.127957,jacob trøst say jacob jacob consol,bornholm energi say
-reg,12,8.329297,6.8710465,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,12,8.3690195,6.826747,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,6,6.8696165,6.184342,baltic sea rønne harbor ga station,bornholm energi wind
-reg,3,6.176383,3.8125522,labor market center bornholm busi center,bornholm energi busi
-reg,1,6.4126644,1.3572822,municip council social democraci climat plan,municip bornholm energi
-reg,12,8.3482485,6.784746,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,13,8.0194235,2.3012712,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,14,8.241312,3.9801426,land plant energi park island land,energi bornholm island
-reg,15,9.259497,4.3664813,high voltag transform station voltag station,bornholm area plant
-reg,5,7.8429623,7.3350816,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,17,7.523852,2.1460345,jacob trøst say jacob jacob consol,bornholm energi say
-reg,3,6.04192,2.5889745,labor market center bornholm busi center,bornholm energi busi
-reg,2,6.928776,1.3905562,social democraci social democrat ann thoma,bornholm say also
-reg,21,6.946656,2.7547843,busi park municip council munk ravnborg,bornholm energi busi
-reg,0,5.444781,5.795119,energiø bornholm energi island 10 million,energi bornholm island
-reg,3,5.709397,3.0006766,labor market center bornholm busi center,bornholm energi busi
-reg,0,5.0853453,5.4668164,energiø bornholm energi island 10 million,energi bornholm island
-reg,20,8.457936,5.558494,electr grid bornholm electr price zone,bornholm energi electr
-reg,20,8.278208,5.4823966,electr grid bornholm electr price zone,bornholm energi electr
-reg,11,7.818052,5.5759444,nuclear power electr grid wast heat,bornholm energi heat
-reg,0,5.178883,5.544637,energiø bornholm energi island 10 million,energi bornholm island
-reg,10,9.00315,4.1092143,local plan high voltag land plant,bornholm energinet energi
-reg,0,5.547575,5.7594323,energiø bornholm energi island 10 million,energi bornholm island
-reg,1,5.419039,2.414637,municip council social democraci climat plan,municip bornholm energi
-reg,9,6.17998,5.091664,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,3,5.702211,2.9039307,labor market center bornholm busi center,bornholm energi busi
-reg,9,6.448226,5.4662323,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,17,7.5312724,2.096125,jacob trøst say jacob jacob consol,bornholm energi say
-reg,19,6.770825,4.496669,citizen associ associ energiø citizen associ energiø,bornholm energi dream
-reg,11,8.258983,6.109294,nuclear power electr grid wast heat,bornholm energi heat
-reg,18,8.290607,4.2180524,energi agenc danish energi agenc danish energi,bornholm energi land
-reg,4,7.4018064,3.9616392,realli good green transit green island,bornholm energi island
-reg,12,8.4183655,6.8036485,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,9,6.509746,5.3092604,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,2,7.2255354,1.3478123,social democraci social democrat ann thoma,bornholm say also
-reg,9,6.802655,5.1721554,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,19,6.7450776,3.853145,citizen associ associ energiø citizen associ energiø,bornholm energi dream
-reg,19,6.610772,4.632545,citizen associ associ energiø citizen associ energiø,bornholm energi dream
-reg,11,8.555136,6.32513,nuclear power electr grid wast heat,bornholm energi heat
-reg,2,6.6980205,1.3315735,social democraci social democrat ann thoma,bornholm say also
-reg,17,6.8830504,2.2812304,jacob trøst say jacob jacob consol,bornholm energi say
-reg,6,7.0140033,6.729072,baltic sea rønne harbor ga station,bornholm energi wind
-reg,9,6.7708697,5.152988,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,19,7.0856595,3.2889278,citizen associ associ energiø citizen associ energiø,bornholm energi dream
-reg,12,8.042793,7.0072336,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,17,7.4503474,2.4463625,jacob trøst say jacob jacob consol,bornholm energi say
-reg,0,5.748695,5.8014827,energiø bornholm energi island 10 million,energi bornholm island
-reg,12,8.141701,6.7332063,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,0,5.482677,5.1252823,energiø bornholm energi island 10 million,energi bornholm island
-reg,5,7.130659,7.365519,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,6,6.74358,6.8986716,baltic sea rønne harbor ga station,bornholm energi wind
-reg,13,8.249006,2.6309733,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,0,5.305546,5.3111415,energiø bornholm energi island 10 million,energi bornholm island
-reg,7,6.762056,5.9740515,baltic sea green energi north sea,bornholm energi island
-reg,1,6.3969336,2.0387769,municip council social democraci climat plan,municip bornholm energi
-reg,18,8.74762,4.7100706,energi agenc danish energi agenc danish energi,bornholm energi land
-reg,12,7.9311557,6.3727975,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,0,5.10341,5.560858,energiø bornholm energi island 10 million,energi bornholm island
-reg,9,6.56189,5.1969275,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,2,7.341321,1.4716351,social democraci social democrat ann thoma,bornholm say also
-reg,12,8.139541,6.728407,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,9,6.683232,4.9874325,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,7,7.0139365,5.7710466,baltic sea green energi north sea,bornholm energi island
-reg,9,6.21262,5.313844,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,19,6.9964743,5.111189,citizen associ associ energiø citizen associ energiø,bornholm energi dream
-reg,9,6.3387427,4.6968355,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,1,5.912786,1.7477882,municip council social democraci climat plan,municip bornholm energi
-reg,7,6.4926424,5.7113385,baltic sea green energi north sea,bornholm energi island
-reg,1,5.9597287,1.6982381,municip council social democraci climat plan,municip bornholm energi
-reg,0,4.9854813,5.467755,energiø bornholm energi island 10 million,energi bornholm island
-reg,8,6.7227674,7.122384,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,17,7.7812824,2.0894394,jacob trøst say jacob jacob consol,bornholm energi say
-reg,17,7.2691803,2.3145123,jacob trøst say jacob jacob consol,bornholm energi say
-reg,3,5.6173134,3.0942166,labor market center bornholm busi center,bornholm energi busi
-reg,1,6.5514045,2.0900984,municip council social democraci climat plan,municip bornholm energi
-reg,4,6.3426237,4.2205567,realli good green transit green island,bornholm energi island
-reg,1,5.770477,1.8537133,municip council social democraci climat plan,municip bornholm energi
-reg,4,6.903285,4.217958,realli good green transit green island,bornholm energi island
-reg,4,7.4910526,3.7646353,realli good green transit green island,bornholm energi island
-reg,4,6.5880127,3.4060516,realli good green transit green island,bornholm energi island
-reg,1,5.718774,2.1708174,municip council social democraci climat plan,municip bornholm energi
-reg,7,6.6169295,5.7400293,baltic sea green energi north sea,bornholm energi island
-reg,6,6.766379,6.7927933,baltic sea rønne harbor ga station,bornholm energi wind
-reg,2,6.5845146,1.1332899,social democraci social democrat ann thoma,bornholm say also
-reg,1,6.307143,1.367402,municip council social democraci climat plan,municip bornholm energi
-reg,3,5.8146954,2.6345208,labor market center bornholm busi center,bornholm energi busi
-reg,4,7.0499883,3.451746,realli good green transit green island,bornholm energi island
-reg,12,8.395335,6.850578,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,12,8.35112,6.8744645,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,16,7.742398,1.7497644,cultur ident henrik espersen energiø bornholm,bornholm energi island
-reg,1,5.7653036,2.3100047,municip council social democraci climat plan,municip bornholm energi
-reg,16,9.383377,3.0864942,cultur ident henrik espersen energiø bornholm,bornholm energi island
-reg,1,6.044667,1.6430035,municip council social democraci climat plan,municip bornholm energi
-reg,8,6.796717,7.2347536,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,12,8.315183,6.7647386,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,12,7.9102163,6.7229714,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,12,8.265037,6.692254,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,2,6.762395,1.3683168,social democraci social democrat ann thoma,bornholm say also
-reg,1,6.0219107,1.7327217,municip council social democraci climat plan,municip bornholm energi
-reg,2,6.8713126,1.3268316,social democraci social democrat ann thoma,bornholm say also
-reg,12,8.341454,6.6329265,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,5,7.5953336,7.629989,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,10,9.342656,3.6551492,local plan high voltag land plant,bornholm energinet energi
-reg,15,9.277335,4.31455,high voltag transform station voltag station,bornholm area plant
-reg,18,8.527011,4.5205364,energi agenc danish energi agenc danish energi,bornholm energi land
-reg,16,7.723828,1.6692604,cultur ident henrik espersen energiø bornholm,bornholm energi island
-reg,8,6.9398665,7.3155737,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,0,5.5353546,5.1186414,energiø bornholm energi island 10 million,energi bornholm island
-reg,14,7.691226,3.039999,land plant energi park island land,energi bornholm island
-reg,3,6.4608083,3.6780741,labor market center bornholm busi center,bornholm energi busi
-reg,12,8.377155,6.8388186,hydrogen product electrolysi plant green fuel,bornholm energi hydrogen
-reg,4,7.0454674,4.0436373,realli good green transit green island,bornholm energi island
-reg,17,7.1477304,3.0636623,jacob trøst say jacob jacob consol,bornholm energi say
-reg,18,8.573469,4.5000997,energi agenc danish energi agenc danish energi,bornholm energi land
-reg,5,7.492582,7.867515,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,8,6.8603735,7.36388,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,5,7.411873,7.9730487,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,5,7.7930117,7.6219707,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,13,8.087418,2.6361604,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,1,5.583045,2.4820046,municip council social democraci climat plan,municip bornholm energi
-reg,19,6.8379335,4.5443153,citizen associ associ energiø citizen associ energiø,bornholm energi dream
-reg,4,7.635741,3.805789,realli good green transit green island,bornholm energi island
-reg,9,6.741043,5.1034145,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,16,7.9083858,1.721682,cultur ident henrik espersen energiø bornholm,bornholm energi island
-reg,5,7.2041883,7.467058,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,16,7.8562164,1.7307352,cultur ident henrik espersen energiø bornholm,bornholm energi island
-reg,2,6.6399956,1.7371395,social democraci social democrat ann thoma,bornholm say also
-reg,5,7.6040497,7.4059553,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,4,7.1514945,4.040812,realli good green transit green island,bornholm energi island
-reg,1,5.722288,1.9125557,municip council social democraci climat plan,municip bornholm energi
-reg,16,7.755242,1.5163372,cultur ident henrik espersen energiø bornholm,bornholm energi island
-reg,3,5.54649,2.8517303,labor market center bornholm busi center,bornholm energi busi
-reg,16,7.7781954,1.6925286,cultur ident henrik espersen energiø bornholm,bornholm energi island
-reg,13,8.422558,3.166787,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,21,7.119854,2.849632,busi park municip council munk ravnborg,bornholm energi busi
-reg,3,6.19218,2.5431168,labor market center bornholm busi center,bornholm energi busi
-reg,17,7.3715,2.1307151,jacob trøst say jacob jacob consol,bornholm energi say
-reg,0,4.9590197,5.3413634,energiø bornholm energi island 10 million,energi bornholm island
-reg,2,7.1113763,1.4581523,social democraci social democrat ann thoma,bornholm say also
-reg,9,6.6478143,4.7471256,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,0,5.111334,5.425401,energiø bornholm energi island 10 million,energi bornholm island
-reg,7,6.4265194,5.771713,baltic sea green energi north sea,bornholm energi island
-reg,11,8.034883,5.953416,nuclear power electr grid wast heat,bornholm energi heat
-reg,5,7.373009,7.89941,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,5,7.303055,7.9099226,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,5,7.39299,7.835793,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,1,6.2578907,2.0810583,municip council social democraci climat plan,municip bornholm energi
-reg,5,7.29365,7.993375,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,5,7.437606,7.7609797,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,7,6.734114,5.680003,baltic sea green energi north sea,bornholm energi island
-reg,1,7.553922,4.9942207,municip council social democraci climat plan,municip bornholm energi
-reg,1,6.426665,1.9924141,municip council social democraci climat plan,municip bornholm energi
-reg,1,6.299009,1.3552762,municip council social democraci climat plan,municip bornholm energi
-reg,11,8.020535,7.2152014,nuclear power electr grid wast heat,bornholm energi heat
-reg,2,6.940672,1.8684748,social democraci social democrat ann thoma,bornholm say also
-reg,17,7.478359,2.366376,jacob trøst say jacob jacob consol,bornholm energi say
-reg,19,6.7680893,4.6604156,citizen associ associ energiø citizen associ energiø,bornholm energi dream
-reg,3,6.161309,3.4929433,labor market center bornholm busi center,bornholm energi busi
-reg,14,7.801273,3.158428,land plant energi park island land,energi bornholm island
-reg,8,6.939907,7.1711445,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,16,7.8095913,1.9271059,cultur ident henrik espersen energiø bornholm,bornholm energi island
-reg,1,6.1774864,1.657041,municip council social democraci climat plan,municip bornholm energi
-reg,7,6.8311224,5.735716,baltic sea green energi north sea,bornholm energi island
-reg,15,8.839416,4.255825,high voltag transform station voltag station,bornholm area plant
-reg,19,8.553139,2.2493227,citizen associ associ energiø citizen associ energiø,bornholm energi dream
-reg,15,8.86126,4.391866,high voltag transform station voltag station,bornholm area plant
-reg,15,8.92243,4.4913917,high voltag transform station voltag station,bornholm area plant
-reg,6,6.542102,6.300065,baltic sea rønne harbor ga station,bornholm energi wind
-reg,6,6.479538,6.347631,baltic sea rønne harbor ga station,bornholm energi wind
-reg,16,7.867585,1.4895627,cultur ident henrik espersen energiø bornholm,bornholm energi island
-reg,7,6.9513297,4.806459,baltic sea green energi north sea,bornholm energi island
-reg,7,6.410772,5.5356913,baltic sea green energi north sea,bornholm energi island
-reg,16,7.7167563,1.4779065,cultur ident henrik espersen energiø bornholm,bornholm energi island
-reg,16,7.786345,1.3997467,cultur ident henrik espersen energiø bornholm,bornholm energi island
-reg,16,8.088301,1.9169731,cultur ident henrik espersen energiø bornholm,bornholm energi island
-reg,13,8.070415,2.6456892,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,15,9.414561,4.3221774,high voltag transform station voltag station,bornholm area plant
-reg,2,6.814531,1.1382092,social democraci social democrat ann thoma,bornholm say also
-reg,1,5.8612533,1.8130977,municip council social democraci climat plan,municip bornholm energi
-reg,21,7.4787574,2.8140335,busi park municip council munk ravnborg,bornholm energi busi
-reg,0,5.3455353,5.423728,energiø bornholm energi island 10 million,energi bornholm island
-reg,0,5.409721,5.285862,energiø bornholm energi island 10 million,energi bornholm island
-reg,16,8.022335,1.86243,cultur ident henrik espersen energiø bornholm,bornholm energi island
-reg,11,8.577911,6.6318226,nuclear power electr grid wast heat,bornholm energi heat
-reg,11,8.262318,5.8279443,nuclear power electr grid wast heat,bornholm energi heat
-reg,1,6.130808,1.4687436,municip council social democraci climat plan,municip bornholm energi
-reg,9,6.861667,5.3153114,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,6,6.7617235,6.293728,baltic sea rønne harbor ga station,bornholm energi wind
-reg,10,9.204188,4.049384,local plan high voltag land plant,bornholm energinet energi
-reg,2,6.9533157,1.2449489,social democraci social democrat ann thoma,bornholm say also
-reg,2,6.7954426,1.0724967,social democraci social democrat ann thoma,bornholm say also
-reg,3,6.1018414,3.1604657,labor market center bornholm busi center,bornholm energi busi
-reg,5,7.549856,7.8380694,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,3,6.138554,3.205523,labor market center bornholm busi center,bornholm energi busi
-reg,20,5.963729,2.6299078,electr grid bornholm electr price zone,bornholm energi electr
-reg,0,4.778501,4.8777018,energiø bornholm energi island 10 million,energi bornholm island
-reg,19,8.42571,2.169588,citizen associ associ energiø citizen associ energiø,bornholm energi dream
-reg,15,8.863851,3.2150397,high voltag transform station voltag station,bornholm area plant
-reg,19,8.452998,2.1948752,citizen associ associ energiø citizen associ energiø,bornholm energi dream
-reg,7,6.241004,4.2984424,baltic sea green energi north sea,bornholm energi island
-reg,2,6.5166936,1.828206,social democraci social democrat ann thoma,bornholm say also
-reg,2,6.798638,1.5711585,social democraci social democrat ann thoma,bornholm say also
-reg,9,6.401981,5.1283,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,3,6.3922963,3.4646091,labor market center bornholm busi center,bornholm energi busi
-reg,9,6.4872084,5.0510883,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,9,6.583273,5.013276,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,9,6.2321963,5.199072,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,1,6.4803658,2.206901,municip council social democraci climat plan,municip bornholm energi
-reg,19,6.684436,3.9854167,citizen associ associ energiø citizen associ energiø,bornholm energi dream
-reg,18,8.559626,4.499362,energi agenc danish energi agenc danish energi,bornholm energi land
-reg,7,6.2665205,5.3536673,baltic sea green energi north sea,bornholm energi island
-reg,3,5.5961494,2.9354725,labor market center bornholm busi center,bornholm energi busi
-reg,4,7.1475124,4.029388,realli good green transit green island,bornholm energi island
-reg,1,6.8421855,2.1208804,municip council social democraci climat plan,municip bornholm energi
-reg,0,5.6227536,5.586185,energiø bornholm energi island 10 million,energi bornholm island
-reg,16,8.143847,1.9818174,cultur ident henrik espersen energiø bornholm,bornholm energi island
-reg,0,4.8539057,5.3542686,energiø bornholm energi island 10 million,energi bornholm island
-reg,0,4.867333,5.2990856,energiø bornholm energi island 10 million,energi bornholm island
-reg,2,7.2307014,1.5668811,social democraci social democrat ann thoma,bornholm say also
-reg,11,8.168583,6.2659793,nuclear power electr grid wast heat,bornholm energi heat
-reg,16,7.556845,1.7969834,cultur ident henrik espersen energiø bornholm,bornholm energi island
-reg,19,7.050428,4.947778,citizen associ associ energiø citizen associ energiø,bornholm energi dream
-reg,16,7.815853,1.5123544,cultur ident henrik espersen energiø bornholm,bornholm energi island
-reg,2,6.9018884,1.1189905,social democraci social democrat ann thoma,bornholm say also
-reg,0,5.065213,4.872777,energiø bornholm energi island 10 million,energi bornholm island
-reg,1,6.145949,2.472039,municip council social democraci climat plan,municip bornholm energi
-reg,11,8.223382,5.598466,nuclear power electr grid wast heat,bornholm energi heat
-reg,13,8.064641,2.3406348,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,5,7.8374896,7.5878463,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,6,7.0457897,6.712614,baltic sea rønne harbor ga station,bornholm energi wind
-reg,14,8.558843,3.8244889,land plant energi park island land,energi bornholm island
-reg,5,7.508509,7.9102154,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,20,8.306153,5.568056,electr grid bornholm electr price zone,bornholm energi electr
-reg,20,8.196489,5.487296,electr grid bornholm electr price zone,bornholm energi electr
-reg,3,5.569097,2.7880547,labor market center bornholm busi center,bornholm energi busi
-reg,1,5.439092,2.5348227,municip council social democraci climat plan,municip bornholm energi
-reg,13,8.197089,2.1580133,citizen meet citizen associ civic meet,bornholm energi citizen
-reg,4,7.456212,3.8340392,realli good green transit green island,bornholm energi island
-reg,4,6.321681,4.203838,realli good green transit green island,bornholm energi island
-reg,1,6.424998,1.6192052,municip council social democraci climat plan,municip bornholm energi
-reg,9,6.252337,4.5963674,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,8,6.557781,7.0423265,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,1,5.749986,1.9601761,municip council social democraci climat plan,municip bornholm energi
-reg,16,7.836305,1.6748657,cultur ident henrik espersen energiø bornholm,bornholm energi island
-reg,17,7.4982357,2.5116515,jacob trøst say jacob jacob consol,bornholm energi say
-reg,9,6.521695,5.3458695,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,1,5.9325695,1.6550862,municip council social democraci climat plan,municip bornholm energi
-reg,10,8.954061,3.6220155,local plan high voltag land plant,bornholm energinet energi
-reg,0,5.6127763,5.196657,energiø bornholm energi island 10 million,energi bornholm island
-reg,0,4.954764,5.317278,energiø bornholm energi island 10 million,energi bornholm island
-reg,0,5.3637347,5.2233233,energiø bornholm energi island 10 million,energi bornholm island
-reg,0,5.1200905,5.473925,energiø bornholm energi island 10 million,energi bornholm island
-reg,0,5.8741794,5.829418,energiø bornholm energi island 10 million,energi bornholm island
-reg,0,5.0165067,5.501476,energiø bornholm energi island 10 million,energi bornholm island
-reg,1,6.6838865,2.179129,municip council social democraci climat plan,municip bornholm energi
-reg,1,5.8858557,1.7109053,municip council social democraci climat plan,municip bornholm energi
-reg,1,5.9313245,1.8014581,municip council social democraci climat plan,municip bornholm energi
-reg,9,6.0322413,4.6827073,baltic sea baltic energi baltic energi island,bornholm energi baltic
-reg,4,6.7510047,3.512189,realli good green transit green island,bornholm energi island
-reg,3,6.1757474,3.512721,labor market center bornholm busi center,bornholm energi busi
-reg,6,6.7721386,6.5194545,baltic sea rønne harbor ga station,bornholm energi wind
-reg,1,5.4954996,2.0299613,municip council social democraci climat plan,municip bornholm energi
-reg,4,6.6452513,3.6776261,realli good green transit green island,bornholm energi island
-reg,4,6.2739887,4.256091,realli good green transit green island,bornholm energi island
-reg,14,7.667173,3.3945525,land plant energi park island land,energi bornholm island
-reg,4,7.135955,3.4475145,realli good green transit green island,bornholm energi island
-reg,2,7.2697744,1.2058794,social democraci social democrat ann thoma,bornholm say also
-reg,4,7.0915804,3.7169864,realli good green transit green island,bornholm energi island
-reg,14,8.029404,3.1724412,land plant energi park island land,energi bornholm island
-reg,5,6.929728,7.521812,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,4,7.1452036,4.0318236,realli good green transit green island,bornholm energi island
-reg,6,5.997534,6.1102514,baltic sea rønne harbor ga station,bornholm energi wind
-reg,4,7.078117,3.671238,realli good green transit green island,bornholm energi island
-reg,5,7.6363816,7.3869653,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,3,6.258734,3.011594,labor market center bornholm busi center,bornholm energi busi
-reg,4,6.940312,3.624479,realli good green transit green island,bornholm energi island
-reg,14,7.605328,2.9669247,land plant energi park island land,energi bornholm island
-reg,0,5.5965524,5.15016,energiø bornholm energi island 10 million,energi bornholm island
-reg,21,6.748074,2.7356832,busi park municip council munk ravnborg,bornholm energi busi
-reg,21,6.9418035,2.5592346,busi park municip council munk ravnborg,bornholm energi busi
-reg,1,6.191972,1.5299761,municip council social democraci climat plan,municip bornholm energi
-reg,1,6.1450434,1.5403858,municip council social democraci climat plan,municip bornholm energi
-reg,2,6.3497977,1.448842,social democraci social democrat ann thoma,bornholm say also
-reg,21,7.3496175,2.9582694,busi park municip council munk ravnborg,bornholm energi busi
-reg,21,7.5870466,2.964558,busi park municip council munk ravnborg,bornholm energi busi
-reg,21,7.337355,2.839428,busi park municip council munk ravnborg,bornholm energi busi
-reg,14,9.304401,4.542737,land plant energi park island land,energi bornholm island
-reg,3,6.0815187,3.2685676,labor market center bornholm busi center,bornholm energi busi
-reg,7,6.730872,5.4835157,baltic sea green energi north sea,bornholm energi island
-reg,0,4.8885627,5.27717,energiø bornholm energi island 10 million,energi bornholm island
-reg,19,8.485569,2.3096712,citizen associ associ energiø citizen associ energiø,bornholm energi dream
-reg,2,7.0108986,1.0948913,social democraci social democrat ann thoma,bornholm say also
-reg,17,7.5081954,2.0673962,jacob trøst say jacob jacob consol,bornholm energi say
-reg,1,6.922137,2.1513624,municip council social democraci climat plan,municip bornholm energi
-reg,0,4.959997,5.3614593,energiø bornholm energi island 10 million,energi bornholm island
-reg,2,6.692099,1.0382873,social democraci social democrat ann thoma,bornholm say also
-reg,20,8.298649,5.52368,electr grid bornholm electr price zone,bornholm energi electr
-reg,0,5.5966887,5.5499997,energiø bornholm energi island 10 million,energi bornholm island
-reg,14,8.34908,3.6085055,land plant energi park island land,energi bornholm island
-reg,7,7.2870307,5.9095535,baltic sea green energi north sea,bornholm energi island
-reg,8,6.661568,7.0483937,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,0,5.419576,5.1208067,energiø bornholm energi island 10 million,energi bornholm island
-reg,0,4.978445,5.453799,energiø bornholm energi island 10 million,energi bornholm island
-reg,1,6.6275544,1.9276296,municip council social democraci climat plan,municip bornholm energi
-reg,3,5.9591064,3.2934258,labor market center bornholm busi center,bornholm energi busi
-reg,0,4.9454503,5.162908,energiø bornholm energi island 10 million,energi bornholm island
-reg,1,6.3318124,1.9765657,municip council social democraci climat plan,municip bornholm energi
-reg,3,5.8835154,2.6995723,labor market center bornholm busi center,bornholm energi busi
-reg,0,4.881492,5.258198,energiø bornholm energi island 10 million,energi bornholm island
-reg,0,4.887572,5.3637547,energiø bornholm energi island 10 million,energi bornholm island
-reg,1,6.1129894,1.9607688,municip council social democraci climat plan,municip bornholm energi
-reg,6,7.008272,6.7389073,baltic sea rønne harbor ga station,bornholm energi wind
-reg,0,4.8876595,5.2137213,energiø bornholm energi island 10 million,energi bornholm island
-reg,8,6.714694,7.126728,offshor wind wind farm danish energi agenc,energi bornholm wind
-reg,0,5.082013,4.890256,energiø bornholm energi island 10 million,energi bornholm island
-reg,6,6.6874766,6.240796,baltic sea rønne harbor ga station,bornholm energi wind
-reg,2,6.9528255,1.0967454,social democraci social democrat ann thoma,bornholm say also
-reg,6,7.0297093,6.502993,baltic sea rønne harbor ga station,bornholm energi wind
-reg,0,4.830991,5.030205,energiø bornholm energi island 10 million,energi bornholm island
-reg,2,6.769645,1.2043141,social democraci social democrat ann thoma,bornholm say also
-reg,11,8.561072,6.6686177,nuclear power electr grid wast heat,bornholm energi heat
-reg,10,9.019764,3.8331056,local plan high voltag land plant,bornholm energinet energi
-reg,5,7.2766795,7.9059944,offshor wind bornholm offshor wind bornholm offshor,bornholm wind energi
-reg,2,6.8844924,1.0863198,social democraci social democrat ann thoma,bornholm say also
+reg,4,6.356777,4.288617,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,3,7.0283027,1.1811987,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,0,7.9556623,5.495857,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,4,7.0045037,4.063676,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,4,7.0857472,3.9870672,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,19,7.1881323,7.0273337,danish energi agenc energi agenc danish energi offshor wind wind farm,energi wind bornholm offshor danish
+reg,6,6.686713,6.463428,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,7,6.5747814,5.697346,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,6,7.317537,6.6806755,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,0,8.183066,6.7178154,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,6,7.556724,6.740745,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,8,6.3139005,3.596894,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,1,5.2798862,4.9512906,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,7,6.600285,5.7459416,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,7,6.649519,5.663121,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,1,5.083344,5.0965066,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,5,7.258416,7.5037704,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,1,4.965797,5.1384687,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,5,7.4281406,7.3936324,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,7,6.368838,6.3292036,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,4,6.923804,4.011441,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,0,8.165517,6.2773886,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,3,7.1513453,1.454654,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,6,6.6142488,6.505514,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,6,6.954671,6.544914,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,1,4.9888105,4.7254567,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,8,5.551176,3.324471,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,5,7.419342,7.453759,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,5,7.4750247,7.8451033,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,3,6.661683,1.0972058,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,1,5.1791167,4.8946376,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,8,5.775348,3.4001431,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,8,5.720722,3.5808175,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,6,6.9169936,6.576907,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,8,6.3374095,3.6646123,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,0,7.7786036,6.745543,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,7,6.348267,5.85208,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,7,6.750953,5.9642787,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,8,5.6511374,3.2410612,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,4,7.575397,4.086317,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,19,6.8478465,7.253205,danish energi agenc energi agenc danish energi offshor wind wind farm,energi wind bornholm offshor danish
+reg,8,5.6126785,3.11203,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,7,7.308593,5.7190576,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,8,5.575556,3.1487937,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,4,7.049063,4.117745,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,6,7.359728,6.607694,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,0,8.447844,6.7746863,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,4,7.3829093,3.5465178,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,16,7.362228,2.2938895,jacob trøst say jacob jacob consol lar aagaard mayor jacob trøst,bornholm energi say also jacob
+reg,0,8.207778,6.2849903,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,8,5.83051,3.398382,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,7,6.2742724,5.398014,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,6,7.0710225,6.493279,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,11,8.139864,2.6146288,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,6,6.664645,6.409844,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,9,6.650725,5.048981,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,3,6.864118,1.2612461,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,6,6.9509506,6.6107917,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,0,8.245977,6.153604,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,4,6.966506,3.770575,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,4,6.6940117,3.9660125,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,14,8.843965,4.7634945,energi agenc danish energi agenc danish energi nation center consult respons,bornholm energi plant area island
+reg,0,8.398627,5.8191385,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,1,4.8272195,4.7033935,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,14,7.7503448,4.514543,energi agenc danish energi agenc danish energi nation center consult respons,bornholm energi plant area island
+reg,3,6.6962404,1.130173,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,7,7.205469,5.5595026,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,5,6.891287,7.461363,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,13,9.148423,4.290296,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,11,8.552597,2.8909888,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,0,8.411812,5.8566427,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,0,8.380813,5.697964,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,15,7.5778236,1.5454237,cultur ident henrik espersen energiø bornholm citizen associ help creat,bornholm energi island cultur also
+reg,14,8.348988,4.281618,energi agenc danish energi agenc danish energi nation center consult respons,bornholm energi plant area island
+reg,14,7.684305,4.540573,energi agenc danish energi agenc danish energi nation center consult respons,bornholm energi plant area island
+reg,14,7.503549,4.4659057,energi agenc danish energi agenc danish energi nation center consult respons,bornholm energi plant area island
+reg,6,7.1644497,6.750319,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,10,9.11432,3.770892,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,14,8.730551,4.7174287,energi agenc danish energi agenc danish energi nation center consult respons,bornholm energi plant area island
+reg,13,9.27114,4.2539062,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,5,7.544307,7.3913584,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,6,7.142184,6.1854424,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,0,6.203871,2.5165365,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,1,5.11268,4.857819,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,5,7.237059,7.4109926,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,2,6.0563526,2.4505556,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,13,9.131199,4.219473,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,10,9.172378,3.8475401,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,13,9.112125,4.438467,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,0,7.8672576,5.513548,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,13,9.065534,4.214504,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,6,6.9528117,6.3059583,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,4,7.3051147,3.4411898,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,7,7.043514,5.2222366,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,15,7.5693207,1.8223495,cultur ident henrik espersen energiø bornholm citizen associ help creat,bornholm energi island cultur also
+reg,0,7.3559537,5.363266,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,10,8.905517,3.9189463,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,5,7.6701035,7.632717,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,6,6.634292,6.3187733,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,11,8.485984,3.004022,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,19,7.0436935,7.2281218,danish energi agenc energi agenc danish energi offshor wind wind farm,energi wind bornholm offshor danish
+reg,19,7.023014,7.3761826,danish energi agenc energi agenc danish energi offshor wind wind farm,energi wind bornholm offshor danish
+reg,13,9.333938,4.1173553,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,19,7.2326493,7.2425575,danish energi agenc energi agenc danish energi offshor wind wind farm,energi wind bornholm offshor danish
+reg,12,8.082828,4.7202163,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,7,6.625062,6.0617027,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,11,8.0372925,3.3881946,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,10,8.661426,3.7161112,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,11,8.241833,2.2918987,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,5,7.7035294,7.6469913,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,7,7.3205767,5.6414404,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,14,8.591605,5.291705,energi agenc danish energi agenc danish energi nation center consult respons,bornholm energi plant area island
+reg,11,7.8968616,2.3691633,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,4,7.4173203,3.998269,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,4,7.213651,4.143106,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,12,8.033627,3.3614404,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,17,7.162867,2.4826272,busi park municip council hell munk ravnborg munk ravnborg hell munk,bornholm energi busi island municip
+reg,3,7.2569985,1.2821958,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,14,8.567381,5.248256,energi agenc danish energi agenc danish energi nation center consult respons,bornholm energi plant area island
+reg,1,4.9980364,5.277583,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,8,5.998951,3.3932598,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,0,8.167287,6.7164736,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,0,8.137738,5.5349045,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,19,6.850147,7.176666,danish energi agenc energi agenc danish energi offshor wind wind farm,energi wind bornholm offshor danish
+reg,8,6.0286736,3.3807251,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,4,6.1010084,4.7027283,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,0,8.398966,5.4487424,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,5,7.6096525,7.509347,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,5,7.606332,7.6482406,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,9,6.453787,4.964967,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,2,6.0577455,2.0601103,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,9,6.2983594,5.22621,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,7,6.8172216,5.960634,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,19,7.0884776,7.45278,danish energi agenc energi agenc danish energi offshor wind wind farm,energi wind bornholm offshor danish
+reg,7,6.537501,5.8657966,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,7,7.051968,4.704063,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,1,5.0606117,4.4779744,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,1,5.0639625,5.399481,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,6,6.9613237,6.36825,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,1,4.814813,5.0457497,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,10,8.94305,4.021099,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,13,9.109054,4.57233,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,5,7.5619397,7.4822707,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,2,5.8873606,1.6809194,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,5,7.427155,7.2604237,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,1,4.8780804,5.3131466,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,3,6.74289,1.1805282,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,11,8.161987,2.147643,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,1,4.8697495,4.733801,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,3,7.008972,1.1086133,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,3,6.8435493,1.0954299,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,3,6.755515,1.2306558,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,3,7.0627418,1.2229879,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,4,7.503981,4.158098,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,6,6.757809,6.5041933,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,6,6.629986,6.1969967,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,3,6.5887437,1.2657229,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,4,7.164996,3.2790277,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,3,6.8341403,1.4674548,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,11,8.775054,3.0239654,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,14,8.576794,4.3657784,energi agenc danish energi agenc danish energi nation center consult respons,bornholm energi plant area island
+reg,0,8.297613,5.7698503,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,14,8.545056,4.5074315,energi agenc danish energi agenc danish energi nation center consult respons,bornholm energi plant area island
+reg,0,7.886171,6.1646876,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,19,6.908028,7.2886186,danish energi agenc energi agenc danish energi offshor wind wind farm,energi wind bornholm offshor danish
+reg,1,5.60188,5.5294356,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,11,8.049626,2.34934,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,11,7.9758053,2.2568254,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,6,7.1479435,6.2967744,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,10,9.242182,3.5781667,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,13,9.326039,4.177363,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,16,7.649098,2.4408057,jacob trøst say jacob jacob consol lar aagaard mayor jacob trøst,bornholm energi say also jacob
+reg,0,8.276981,6.392052,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,8,6.0863457,3.2206066,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,14,8.557268,4.4778423,energi agenc danish energi agenc danish energi nation center consult respons,bornholm energi plant area island
+reg,14,8.365185,4.163655,energi agenc danish energi agenc danish energi nation center consult respons,bornholm energi plant area island
+reg,10,9.2961645,3.6077154,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,10,9.077014,3.8842556,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,17,6.997756,3.084842,busi park municip council hell munk ravnborg munk ravnborg hell munk,bornholm energi busi island municip
+reg,14,8.671597,4.964648,energi agenc danish energi agenc danish energi nation center consult respons,bornholm energi plant area island
+reg,10,9.018663,3.4217815,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,10,9.29984,3.6962614,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,0,7.844351,6.652275,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,1,5.254057,4.7505326,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,3,6.7940965,1.1870731,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,0,8.318611,6.376185,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,2,5.7170186,2.4157302,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,12,7.748442,3.345069,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,8,6.080301,3.4786446,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,13,9.353319,4.273471,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,14,8.395505,4.177819,energi agenc danish energi agenc danish energi nation center consult respons,bornholm energi plant area island
+reg,0,8.179524,6.0680876,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,17,6.8142886,2.8778899,busi park municip council hell munk ravnborg munk ravnborg hell munk,bornholm energi busi island municip
+reg,9,6.4459724,5.1738305,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,12,7.7701116,3.6464827,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,17,7.024936,3.0348148,busi park municip council hell munk ravnborg munk ravnborg hell munk,bornholm energi busi island municip
+reg,4,7.2780843,3.7877922,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,5,7.4621353,7.3614254,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,0,8.153109,6.6117587,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,4,6.9967422,3.600697,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,5,5.7459083,3.759411,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,3,6.646367,1.3819212,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,12,7.6234875,3.409673,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,13,9.350124,4.4155674,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,10,8.932067,4.039834,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,13,9.091669,4.5081844,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,1,4.818117,4.8668466,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,10,9.261415,3.6480708,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,10,9.177716,3.821008,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,11,8.684683,2.8919766,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,10,9.353026,3.7160492,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,16,7.537822,2.3330615,jacob trøst say jacob jacob consol lar aagaard mayor jacob trøst,bornholm energi say also jacob
+reg,10,8.833159,3.6555865,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,5,7.2858133,7.50658,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,7,6.4376717,5.7585855,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,11,7.8909745,2.2812147,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,5,7.562348,7.2897944,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,4,7.316756,4.171083,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,12,7.937759,3.62573,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,17,7.4839387,2.7640634,busi park municip council hell munk ravnborg munk ravnborg hell munk,bornholm energi busi island municip
+reg,3,7.0799704,1.7751803,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,5,7.160189,7.582263,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,3,7.190888,1.0908716,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,3,6.939209,2.0368598,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,2,6.630806,2.3324714,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,9,6.281061,5.2203164,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,12,7.5716877,3.3848898,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,16,7.65585,2.6003983,jacob trøst say jacob jacob consol lar aagaard mayor jacob trøst,bornholm energi say also jacob
+reg,9,6.4688706,5.0821085,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,2,6.1855125,2.1161575,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,2,6.587024,2.160564,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,2,6.511197,1.4284763,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,4,7.499521,4.150293,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,18,7.372045,2.22837,citizen associ associ energiø citizen associ energiø henrik espersen associ energiø bornholm,bornholm energi dream island also
+reg,16,7.7009773,2.2902598,jacob trøst say jacob jacob consol lar aagaard mayor jacob trøst,bornholm energi say also jacob
+reg,0,8.49886,5.6203346,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,0,8.528339,5.6239476,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,0,8.415125,5.6071978,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,16,7.4747896,2.0369577,jacob trøst say jacob jacob consol lar aagaard mayor jacob trøst,bornholm energi say also jacob
+reg,0,8.233553,5.257752,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,4,6.9277163,4.1525307,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,0,8.311161,5.5706534,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,12,8.534929,3.7952156,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,8,5.831947,3.3269982,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,10,9.286227,3.89211,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,12,8.325862,3.5475173,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,10,9.208626,3.9251351,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,10,9.226896,3.9653893,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,10,9.222895,3.9641616,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,10,9.129404,3.8715172,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,11,8.023193,2.319192,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,2,6.5654936,2.2522101,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,12,8.189824,3.8526506,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,3,7.209571,1.2955993,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,3,7.1521044,1.7076753,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,12,7.826327,3.5925045,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,8,6.212713,3.7678008,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,9,6.682872,5.200785,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,6,6.663092,6.3282323,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,13,9.159785,4.4592543,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,11,8.160537,2.5471604,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,10,9.245443,3.922496,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,3,6.448779,1.3596944,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,12,8.26957,3.6770961,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,13,9.261873,4.302204,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,11,8.038441,2.3749516,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,17,6.6633186,2.8802443,busi park municip council hell munk ravnborg munk ravnborg hell munk,bornholm energi busi island municip
+reg,17,6.8857207,2.8734653,busi park municip council hell munk ravnborg munk ravnborg hell munk,bornholm energi busi island municip
+reg,5,7.568398,8.088721,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,18,6.804067,4.4932766,citizen associ associ energiø citizen associ energiø henrik espersen associ energiø bornholm,bornholm energi dream island also
+reg,12,8.228185,3.7687292,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,9,6.7194414,4.8118777,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,18,6.742516,4.619012,citizen associ associ energiø citizen associ energiø henrik espersen associ energiø bornholm,bornholm energi dream island also
+reg,6,6.9936934,6.346406,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,0,8.1733465,6.1855435,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,0,8.138545,6.895254,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,8,5.6736107,3.2241068,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,1,5.0683393,4.864959,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,11,8.177874,2.260322,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,16,7.6800427,2.127957,jacob trøst say jacob jacob consol lar aagaard mayor jacob trøst,bornholm energi say also jacob
+reg,0,8.329297,6.8710465,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,0,8.3690195,6.826747,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,6,6.8696165,6.184342,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,8,6.176383,3.8125522,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,2,6.4126644,1.3572822,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,0,8.3482485,6.784746,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,11,8.0194235,2.3012712,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,12,8.241312,3.9801426,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,13,9.259497,4.3664813,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,5,7.8429623,7.3350816,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,16,7.523852,2.1460345,jacob trøst say jacob jacob consol lar aagaard mayor jacob trøst,bornholm energi say also jacob
+reg,3,6.928776,1.3905562,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,17,6.946656,2.7547843,busi park municip council hell munk ravnborg munk ravnborg hell munk,bornholm energi busi island municip
+reg,1,5.444781,5.795119,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,8,5.709397,3.0006766,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,1,5.0853453,5.4668164,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,0,8.457936,5.558494,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,0,8.278208,5.4823966,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,0,7.818052,5.5759444,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,1,5.178883,5.544637,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,10,9.00315,4.1092143,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,1,5.547575,5.7594323,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,2,5.419039,2.414637,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,9,6.17998,5.091664,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,8,5.702211,2.9039307,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,9,6.448226,5.4662323,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,16,7.5312724,2.096125,jacob trøst say jacob jacob consol lar aagaard mayor jacob trøst,bornholm energi say also jacob
+reg,18,6.770825,4.496669,citizen associ associ energiø citizen associ energiø henrik espersen associ energiø bornholm,bornholm energi dream island also
+reg,0,8.258983,6.109294,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,14,8.290607,4.2180524,energi agenc danish energi agenc danish energi nation center consult respons,bornholm energi plant area island
+reg,4,7.4018064,3.9616392,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,0,8.4183655,6.8036485,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,9,6.509746,5.3092604,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,3,7.2255354,1.3478123,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,9,6.802655,5.1721554,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,18,6.7450776,3.853145,citizen associ associ energiø citizen associ energiø henrik espersen associ energiø bornholm,bornholm energi dream island also
+reg,18,6.610772,4.632545,citizen associ associ energiø citizen associ energiø henrik espersen associ energiø bornholm,bornholm energi dream island also
+reg,0,8.555136,6.32513,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,3,6.6980205,1.3315735,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,16,6.8830504,2.2812304,jacob trøst say jacob jacob consol lar aagaard mayor jacob trøst,bornholm energi say also jacob
+reg,6,7.0140033,6.729072,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,9,6.7708697,5.152988,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,18,7.0856595,3.2889278,citizen associ associ energiø citizen associ energiø henrik espersen associ energiø bornholm,bornholm energi dream island also
+reg,0,8.042793,7.0072336,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,16,7.4503474,2.4463625,jacob trøst say jacob jacob consol lar aagaard mayor jacob trøst,bornholm energi say also jacob
+reg,1,5.748695,5.8014827,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,0,8.141701,6.7332063,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,1,5.482677,5.1252823,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,5,7.130659,7.365519,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,6,6.74358,6.8986716,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,11,8.249006,2.6309733,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,1,5.305546,5.3111415,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,7,6.762056,5.9740515,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,2,6.3969336,2.0387769,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,14,8.74762,4.7100706,energi agenc danish energi agenc danish energi nation center consult respons,bornholm energi plant area island
+reg,0,7.9311557,6.3727975,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,1,5.10341,5.560858,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,9,6.56189,5.1969275,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,3,7.341321,1.4716351,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,0,8.139541,6.728407,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,9,6.683232,4.9874325,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,7,7.0139365,5.7710466,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,9,6.21262,5.313844,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,18,6.9964743,5.111189,citizen associ associ energiø citizen associ energiø henrik espersen associ energiø bornholm,bornholm energi dream island also
+reg,9,6.3387427,4.6968355,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,2,5.912786,1.7477882,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,7,6.4926424,5.7113385,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,2,5.9597287,1.6982381,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,1,4.9854813,5.467755,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,19,6.7227674,7.122384,danish energi agenc energi agenc danish energi offshor wind wind farm,energi wind bornholm offshor danish
+reg,16,7.7812824,2.0894394,jacob trøst say jacob jacob consol lar aagaard mayor jacob trøst,bornholm energi say also jacob
+reg,16,7.2691803,2.3145123,jacob trøst say jacob jacob consol lar aagaard mayor jacob trøst,bornholm energi say also jacob
+reg,8,5.6173134,3.0942166,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,2,6.5514045,2.0900984,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,4,6.3426237,4.2205567,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,2,5.770477,1.8537133,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,4,6.903285,4.217958,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,4,7.4910526,3.7646353,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,4,6.5880127,3.4060516,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,2,5.718774,2.1708174,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,7,6.6169295,5.7400293,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,6,6.766379,6.7927933,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,3,6.5845146,1.1332899,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,2,6.307143,1.367402,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,4,7.0499883,3.451746,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,0,8.395335,6.850578,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,0,8.35112,6.8744645,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,15,7.742398,1.7497644,cultur ident henrik espersen energiø bornholm citizen associ help creat,bornholm energi island cultur also
+reg,2,5.7653036,2.3100047,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,15,9.383377,3.0864942,cultur ident henrik espersen energiø bornholm citizen associ help creat,bornholm energi island cultur also
+reg,2,6.044667,1.6430035,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,19,6.796717,7.2347536,danish energi agenc energi agenc danish energi offshor wind wind farm,energi wind bornholm offshor danish
+reg,0,8.315183,6.7647386,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,0,7.9102163,6.7229714,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,0,8.265037,6.692254,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,3,6.762395,1.3683168,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,2,6.0219107,1.7327217,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,3,6.8713126,1.3268316,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,0,8.341454,6.6329265,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,5,7.5953336,7.629989,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,10,9.342656,3.6551492,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,13,9.277335,4.31455,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,14,8.527011,4.5205364,energi agenc danish energi agenc danish energi nation center consult respons,bornholm energi plant area island
+reg,15,7.723828,1.6692604,cultur ident henrik espersen energiø bornholm citizen associ help creat,bornholm energi island cultur also
+reg,19,6.9398665,7.3155737,danish energi agenc energi agenc danish energi offshor wind wind farm,energi wind bornholm offshor danish
+reg,1,5.5353546,5.1186414,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,12,7.691226,3.039999,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,8,6.4608083,3.6780741,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,0,8.377155,6.8388186,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,4,7.0454674,4.0436373,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,16,7.1477304,3.0636623,jacob trøst say jacob jacob consol lar aagaard mayor jacob trøst,bornholm energi say also jacob
+reg,14,8.573469,4.5000997,energi agenc danish energi agenc danish energi nation center consult respons,bornholm energi plant area island
+reg,5,7.492582,7.867515,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,19,6.8603735,7.36388,danish energi agenc energi agenc danish energi offshor wind wind farm,energi wind bornholm offshor danish
+reg,5,7.411873,7.9730487,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,5,7.7930117,7.6219707,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,11,8.087418,2.6361604,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,2,5.583045,2.4820046,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,18,6.8379335,4.5443153,citizen associ associ energiø citizen associ energiø henrik espersen associ energiø bornholm,bornholm energi dream island also
+reg,4,7.635741,3.805789,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,9,6.741043,5.1034145,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,15,7.9083858,1.721682,cultur ident henrik espersen energiø bornholm citizen associ help creat,bornholm energi island cultur also
+reg,5,7.2041883,7.467058,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,15,7.8562164,1.7307352,cultur ident henrik espersen energiø bornholm citizen associ help creat,bornholm energi island cultur also
+reg,3,6.6399956,1.7371395,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,5,7.6040497,7.4059553,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,4,7.1514945,4.040812,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,2,5.722288,1.9125557,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,15,7.755242,1.5163372,cultur ident henrik espersen energiø bornholm citizen associ help creat,bornholm energi island cultur also
+reg,15,7.7781954,1.6925286,cultur ident henrik espersen energiø bornholm citizen associ help creat,bornholm energi island cultur also
+reg,11,8.422558,3.166787,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,17,7.119854,2.849632,busi park municip council hell munk ravnborg munk ravnborg hell munk,bornholm energi busi island municip
+reg,16,7.3715,2.1307151,jacob trøst say jacob jacob consol lar aagaard mayor jacob trøst,bornholm energi say also jacob
+reg,1,4.9590197,5.3413634,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,3,7.1113763,1.4581523,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,9,6.6478143,4.7471256,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,1,5.111334,5.425401,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,7,6.4265194,5.771713,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,0,8.034883,5.953416,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,5,7.373009,7.89941,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,5,7.303055,7.9099226,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,5,7.39299,7.835793,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,2,6.2578907,2.0810583,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,5,7.29365,7.993375,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,5,7.437606,7.7609797,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,7,6.734114,5.680003,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,2,7.553922,4.9942207,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,2,6.426665,1.9924141,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,2,6.299009,1.3552762,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,0,8.020535,7.2152014,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,3,6.940672,1.8684748,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,16,7.478359,2.366376,jacob trøst say jacob jacob consol lar aagaard mayor jacob trøst,bornholm energi say also jacob
+reg,18,6.7680893,4.6604156,citizen associ associ energiø citizen associ energiø henrik espersen associ energiø bornholm,bornholm energi dream island also
+reg,8,6.161309,3.4929433,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,12,7.801273,3.158428,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,19,6.939907,7.1711445,danish energi agenc energi agenc danish energi offshor wind wind farm,energi wind bornholm offshor danish
+reg,15,7.8095913,1.9271059,cultur ident henrik espersen energiø bornholm citizen associ help creat,bornholm energi island cultur also
+reg,2,6.1774864,1.657041,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,7,6.8311224,5.735716,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,13,8.839416,4.255825,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,18,8.553139,2.2493227,citizen associ associ energiø citizen associ energiø henrik espersen associ energiø bornholm,bornholm energi dream island also
+reg,13,8.86126,4.391866,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,13,8.92243,4.4913917,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,6,6.542102,6.300065,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,6,6.479538,6.347631,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,15,7.867585,1.4895627,cultur ident henrik espersen energiø bornholm citizen associ help creat,bornholm energi island cultur also
+reg,7,6.9513297,4.806459,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,7,6.410772,5.5356913,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,15,7.7167563,1.4779065,cultur ident henrik espersen energiø bornholm citizen associ help creat,bornholm energi island cultur also
+reg,15,7.786345,1.3997467,cultur ident henrik espersen energiø bornholm citizen associ help creat,bornholm energi island cultur also
+reg,15,8.088301,1.9169731,cultur ident henrik espersen energiø bornholm citizen associ help creat,bornholm energi island cultur also
+reg,11,8.070415,2.6456892,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,13,9.414561,4.3221774,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,3,6.814531,1.1382092,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,2,5.8612533,1.8130977,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,17,7.4787574,2.8140335,busi park municip council hell munk ravnborg munk ravnborg hell munk,bornholm energi busi island municip
+reg,1,5.3455353,5.423728,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,1,5.409721,5.285862,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,15,8.022335,1.86243,cultur ident henrik espersen energiø bornholm citizen associ help creat,bornholm energi island cultur also
+reg,0,8.577911,6.6318226,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,0,8.262318,5.8279443,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,2,6.130808,1.4687436,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,9,6.861667,5.3153114,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,6,6.7617235,6.293728,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,10,9.204188,4.049384,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,3,6.9533157,1.2449489,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,3,6.7954426,1.0724967,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,8,6.1018414,3.1604657,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,5,7.549856,7.8380694,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,8,6.138554,3.205523,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,0,5.963729,2.6299078,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,1,4.778501,4.8777018,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,18,8.42571,2.169588,citizen associ associ energiø citizen associ energiø henrik espersen associ energiø bornholm,bornholm energi dream island also
+reg,13,8.863851,3.2150397,high voltag transform station voltag station high voltag station power plant,bornholm area plant energi station
+reg,18,8.452998,2.1948752,citizen associ associ energiø citizen associ energiø henrik espersen associ energiø bornholm,bornholm energi dream island also
+reg,7,6.241004,4.2984424,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,3,6.5166936,1.828206,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,3,6.798638,1.5711585,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,9,6.401981,5.1283,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,9,6.4872084,5.0510883,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,9,6.583273,5.013276,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,9,6.2321963,5.199072,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,2,6.4803658,2.206901,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,18,6.684436,3.9854167,citizen associ associ energiø citizen associ energiø henrik espersen associ energiø bornholm,bornholm energi dream island also
+reg,14,8.559626,4.499362,energi agenc danish energi agenc danish energi nation center consult respons,bornholm energi plant area island
+reg,7,6.2665205,5.3536673,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,4,7.1475124,4.029388,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,2,6.8421855,2.1208804,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,1,5.6227536,5.586185,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,15,8.143847,1.9818174,cultur ident henrik espersen energiø bornholm citizen associ help creat,bornholm energi island cultur also
+reg,1,4.8539057,5.3542686,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,1,4.867333,5.2990856,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,3,7.2307014,1.5668811,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,0,8.168583,6.2659793,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,15,7.556845,1.7969834,cultur ident henrik espersen energiø bornholm citizen associ help creat,bornholm energi island cultur also
+reg,18,7.050428,4.947778,citizen associ associ energiø citizen associ energiø henrik espersen associ energiø bornholm,bornholm energi dream island also
+reg,15,7.815853,1.5123544,cultur ident henrik espersen energiø bornholm citizen associ help creat,bornholm energi island cultur also
+reg,3,6.9018884,1.1189905,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,1,5.065213,4.872777,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,2,6.145949,2.472039,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,0,8.223382,5.598466,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,11,8.064641,2.3406348,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,5,7.8374896,7.5878463,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,6,7.0457897,6.712614,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,12,8.558843,3.8244889,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,5,7.508509,7.9102154,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,0,8.306153,5.568056,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,0,8.196489,5.487296,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,2,5.439092,2.5348227,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,11,8.197089,2.1580133,citizen meet citizen associ civic meet associ energiø bornholm associ energiø,bornholm energi citizen island meet
+reg,4,7.456212,3.8340392,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,4,6.321681,4.203838,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,2,6.424998,1.6192052,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,9,6.252337,4.5963674,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,2,5.749986,1.9601761,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,15,7.836305,1.6748657,cultur ident henrik espersen energiø bornholm citizen associ help creat,bornholm energi island cultur also
+reg,16,7.4982357,2.5116515,jacob trøst say jacob jacob consol lar aagaard mayor jacob trøst,bornholm energi say also jacob
+reg,9,6.521695,5.3458695,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,2,5.9325695,1.6550862,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,10,8.954061,3.6220155,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,1,5.6127763,5.196657,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,1,4.954764,5.317278,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,1,5.3637347,5.2233233,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,1,5.1200905,5.473925,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,1,5.8741794,5.829418,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,1,5.0165067,5.501476,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,2,6.6838865,2.179129,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,2,5.8858557,1.7109053,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,2,5.9313245,1.8014581,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,9,6.0322413,4.6827073,baltic sea baltic energi baltic energi island secur polici green transit,energi bornholm island green wind
+reg,4,6.7510047,3.512189,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,8,6.1757474,3.512721,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,6,6.7721386,6.5194545,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,2,5.4954996,2.0299613,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,4,6.6452513,3.6776261,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,4,6.2739887,4.256091,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,12,7.667173,3.3945525,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,4,7.135955,3.4475145,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,3,7.2697744,1.2058794,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,4,7.0915804,3.7169864,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,12,8.029404,3.1724412,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,5,6.929728,7.521812,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,4,7.1452036,4.0318236,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,6,5.997534,6.1102514,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,4,7.078117,3.671238,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,5,7.6363816,7.3869653,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,4,6.940312,3.624479,realli good green transit green island design area green busi,bornholm energi island green municip
+reg,17,7.605328,2.9669247,busi park municip council hell munk ravnborg munk ravnborg hell munk,bornholm energi busi island municip
+reg,1,5.5965524,5.15016,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,17,6.748074,2.7356832,busi park municip council hell munk ravnborg munk ravnborg hell munk,bornholm energi busi island municip
+reg,17,6.9418035,2.5592346,busi park municip council hell munk ravnborg munk ravnborg hell munk,bornholm energi busi island municip
+reg,2,6.191972,1.5299761,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,2,6.1450434,1.5403858,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,3,6.3497977,1.448842,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,17,7.3496175,2.9582694,busi park municip council hell munk ravnborg munk ravnborg hell munk,bornholm energi busi island municip
+reg,17,7.5870466,2.964558,busi park municip council hell munk ravnborg munk ravnborg hell munk,bornholm energi busi island municip
+reg,17,7.337355,2.839428,busi park municip council hell munk ravnborg munk ravnborg hell munk,bornholm energi busi island municip
+reg,12,9.304401,4.542737,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,8,6.0815187,3.2685676,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,7,6.730872,5.4835157,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,1,4.8885627,5.27717,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,18,8.485569,2.3096712,citizen associ associ energiø citizen associ energiø henrik espersen associ energiø bornholm,bornholm energi dream island also
+reg,3,7.0108986,1.0948913,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,16,7.5081954,2.0673962,jacob trøst say jacob jacob consol lar aagaard mayor jacob trøst,bornholm energi say also jacob
+reg,2,6.922137,2.1513624,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,1,4.959997,5.3614593,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,3,6.692099,1.0382873,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,0,8.298649,5.52368,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,1,5.5966887,5.5499997,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,12,8.34908,3.6085055,land plant energi park energi island land facil island land,energi bornholm island land say
+reg,7,7.2870307,5.9095535,baltic sea north sea energi island green energi island baltic sea,bornholm energi island sea green
+reg,19,6.661568,7.0483937,danish energi agenc energi agenc danish energi offshor wind wind farm,energi wind bornholm offshor danish
+reg,1,5.419576,5.1208067,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,1,4.978445,5.453799,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,2,6.6275544,1.9276296,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,8,5.9591064,3.2934258,labor market center bornholm busi center busi center bornholm bornholm compani,bornholm energi busi island compani
+reg,1,4.9454503,5.162908,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,2,6.3318124,1.9765657,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,1,4.881492,5.258198,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,1,4.887572,5.3637547,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,2,6.1129894,1.9607688,municip council social democraci climat plan municip budget uniti list,municip bornholm energi also say
+reg,6,7.008272,6.7389073,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,1,4.8876595,5.2137213,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,19,6.714694,7.126728,danish energi agenc energi agenc danish energi offshor wind wind farm,energi wind bornholm offshor danish
+reg,1,5.082013,4.890256,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,6,6.6874766,6.240796,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,3,6.9528255,1.0967454,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,6,7.0297093,6.502993,baltic sea rønne harbor ga station offshor wind north sea,bornholm energi wind sea island
+reg,1,4.830991,5.030205,energiø bornholm energi island 10 million 31 billion think tank,energi bornholm island project say
+reg,3,6.769645,1.2043141,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
+reg,0,8.561072,6.6686177,electr grid hydrogen product bornholm electr surplu heat district heat,bornholm energi electr island connect
+reg,10,9.019764,3.8331056,local plan high voltag land plant søgaard mikkelsen kim søgaard,bornholm energinet energi plant say
+reg,5,7.2766795,7.9059944,offshor wind bornholm offshor wind bornholm offshor wind turbin wind farm,bornholm wind energi offshor project
+reg,3,6.8844924,1.0863198,social democraci social democrat ann thoma top candid elect campaign,bornholm say also municip social
