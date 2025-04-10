@@ -1,443 +1,443 @@
 Source,cluster,x,y,TF_IDF_topic_name,BERTopic_topic_name
-sci,7,0.15708038,4.4137745,wind turbin high voltag wind farm,offshor control grid
-sci,2,4.4146695,4.282083,smart grid power system microgrid structur,energi power system
-sci,8,4.7827992,1.462815,transmiss grid energi island harmon distort,energi island grid
-sci,10,1.8413658,3.1898394,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,0,6.769467,3.596902,oil ga co2 emiss energi product,energi system power
-sci,8,4.6718497,1.3315091,transmiss grid energi island harmon distort,energi island grid
-sci,2,3.9949555,4.3265758,smart grid power system microgrid structur,energi power system
-sci,3,6.618049,2.9972546,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,7,0.26407686,4.3879294,wind turbin high voltag wind farm,offshor control grid
-sci,7,0.031572178,4.0087295,wind turbin high voltag wind farm,offshor control grid
-sci,2,1.977535,4.569222,smart grid power system microgrid structur,energi power system
-sci,3,6.636546,3.303495,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,7,0.79110664,4.508567,wind turbin high voltag wind farm,offshor control grid
-sci,5,5.291178,4.289986,renew energi 100 renew 100 renew energi,energi system island
-sci,6,0.99409425,5.1389036,new energi vsc hvdc convert station,power system control
-sci,4,5.8693976,3.725674,renew energi energi sourc renew energi sourc,energi island system
-sci,5,4.9419894,3.9342387,renew energi 100 renew 100 renew energi,energi system island
-sci,8,4.5906987,1.6183085,transmiss grid energi island harmon distort,energi island grid
-sci,4,5.935878,3.741562,renew energi energi sourc renew energi sourc,energi island system
-sci,9,3.4740534,1.8959372,north sea offshor grid offshor wind,offshor grid wind
-sci,8,4.443981,1.6355561,transmiss grid energi island harmon distort,energi island grid
-sci,0,6.5235825,3.8901436,oil ga co2 emiss energi product,energi system power
-sci,7,0.35027987,4.87812,wind turbin high voltag wind farm,offshor control grid
-sci,0,5.1880927,4.7408404,oil ga co2 emiss energi product,energi system power
-sci,2,4.0068693,4.096768,smart grid power system microgrid structur,energi power system
-sci,9,3.4449167,2.0864596,north sea offshor grid offshor wind,offshor grid wind
-sci,2,1.4115106,4.689092,smart grid power system microgrid structur,energi power system
-sci,6,1.0298737,5.1817484,new energi vsc hvdc convert station,power system control
-sci,8,4.7307887,1.4419496,transmiss grid energi island harmon distort,energi island grid
-sci,3,6.517569,3.097587,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,3,6.612217,2.9439495,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,10,1.1771692,3.511035,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,5,5.1318846,4.0448456,renew energi 100 renew 100 renew energi,energi system island
-sci,7,0.20269895,4.300446,wind turbin high voltag wind farm,offshor control grid
-sci,3,6.6470337,3.3098893,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,6,1.2758856,5.8123116,new energi vsc hvdc convert station,power system control
-sci,5,5.3056817,4.034201,renew energi 100 renew 100 renew energi,energi system island
-sci,2,3.3221164,4.3327103,smart grid power system microgrid structur,energi power system
-sci,4,5.8985023,3.7640696,renew energi energi sourc renew energi sourc,energi island system
-sci,7,0.23178826,4.2537065,wind turbin high voltag wind farm,offshor control grid
-sci,1,4.2433615,5.478463,energi island wave energi grid space,wave grid offshor
-sci,6,1.3587248,5.7600913,new energi vsc hvdc convert station,power system control
-sci,6,0.99026835,5.4119534,new energi vsc hvdc convert station,power system control
-sci,3,6.2901425,3.3399029,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,7,0.9580085,4.0795956,wind turbin high voltag wind farm,offshor control grid
-sci,0,5.9739294,4.496081,oil ga co2 emiss energi product,energi system power
-sci,3,6.7601995,3.2340453,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,10,1.8016602,2.9989495,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,3,6.656064,3.2146032,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,3,6.59883,3.212858,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,0,6.7152753,3.6911058,oil ga co2 emiss energi product,energi system power
-sci,9,3.8414812,2.963077,north sea offshor grid offshor wind,offshor grid wind
-sci,5,5.2465215,4.146794,renew energi 100 renew 100 renew energi,energi system island
-sci,1,2.9730155,5.1560197,energi island wave energi grid space,wave grid offshor
-sci,4,5.9262257,3.121536,renew energi energi sourc renew energi sourc,energi island system
-sci,2,2.1596508,4.901169,smart grid power system microgrid structur,energi power system
-sci,4,5.709932,3.044562,renew energi energi sourc renew energi sourc,energi island system
-sci,7,0.32711697,4.0212007,wind turbin high voltag wind farm,offshor control grid
-sci,9,3.180357,2.3000057,north sea offshor grid offshor wind,offshor grid wind
-sci,9,3.5753925,2.970032,north sea offshor grid offshor wind,offshor grid wind
-sci,4,5.492396,3.838286,renew energi energi sourc renew energi sourc,energi island system
-sci,2,2.0945048,5.023917,smart grid power system microgrid structur,energi power system
-sci,0,5.5147095,4.759134,oil ga co2 emiss energi product,energi system power
-sci,3,6.7520623,3.3892658,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,2,1.4781489,4.598172,smart grid power system microgrid structur,energi power system
-sci,8,4.7686024,1.4398029,transmiss grid energi island harmon distort,energi island grid
-sci,2,2.195648,5.266684,smart grid power system microgrid structur,energi power system
-sci,7,0.8179939,3.7346883,wind turbin high voltag wind farm,offshor control grid
-sci,9,3.1842175,2.8890438,north sea offshor grid offshor wind,offshor grid wind
-sci,3,6.610379,3.0089655,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,8,4.5971413,1.4420224,transmiss grid energi island harmon distort,energi island grid
-sci,10,2.588882,2.833205,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,9,3.5296369,2.1766212,north sea offshor grid offshor wind,offshor grid wind
-sci,7,0.17763303,4.5440736,wind turbin high voltag wind farm,offshor control grid
-sci,6,1.329285,5.6611547,new energi vsc hvdc convert station,power system control
-sci,6,1.0651609,5.0772614,new energi vsc hvdc convert station,power system control
-sci,1,3.2494848,5.1363497,energi island wave energi grid space,wave grid offshor
-sci,5,5.1495457,4.0766187,renew energi 100 renew 100 renew energi,energi system island
-sci,10,4.4150715,3.294528,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,0,6.0473742,4.519306,oil ga co2 emiss energi product,energi system power
-sci,9,3.3212476,2.6319757,north sea offshor grid offshor wind,offshor grid wind
-sci,4,5.6917596,4.0207977,renew energi energi sourc renew energi sourc,energi island system
-sci,7,-0.018881554,4.043807,wind turbin high voltag wind farm,offshor control grid
-sci,2,2.1745276,4.8845053,smart grid power system microgrid structur,energi power system
-sci,0,6.1168804,4.560976,oil ga co2 emiss energi product,energi system power
-sci,4,5.725566,3.7205765,renew energi energi sourc renew energi sourc,energi island system
-sci,5,5.33742,4.008663,renew energi 100 renew 100 renew energi,energi system island
-sci,4,5.904025,3.8108516,renew energi energi sourc renew energi sourc,energi island system
-sci,8,4.567209,1.3707523,transmiss grid energi island harmon distort,energi island grid
-sci,4,5.776119,4.1175876,renew energi energi sourc renew energi sourc,energi island system
-sci,8,4.649479,1.2475697,transmiss grid energi island harmon distort,energi island grid
-sci,3,6.653641,3.2152019,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,3,6.799071,3.2436802,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,0,5.819045,4.79453,oil ga co2 emiss energi product,energi system power
-sci,10,1.7727184,2.4109955,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,0,6.5070477,3.8886185,oil ga co2 emiss energi product,energi system power
-sci,9,4.37071,3.0085883,north sea offshor grid offshor wind,offshor grid wind
-sci,2,1.9997443,4.9320536,smart grid power system microgrid structur,energi power system
-sci,9,3.2073085,3.0708108,north sea offshor grid offshor wind,offshor grid wind
-sci,3,6.646886,3.3675652,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,2,3.512247,4.292514,smart grid power system microgrid structur,energi power system
-sci,3,6.7189727,3.1370356,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,8,4.7554727,1.4774913,transmiss grid energi island harmon distort,energi island grid
-sci,9,3.7323222,1.6817356,north sea offshor grid offshor wind,offshor grid wind
-sci,7,0.40173677,4.9314494,wind turbin high voltag wind farm,offshor control grid
-sci,3,6.7150903,3.0670767,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,5,5.108317,4.1005545,renew energi 100 renew 100 renew energi,energi system island
-sci,1,3.6148393,5.082128,energi island wave energi grid space,wave grid offshor
-sci,3,6.630682,3.137017,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,7,0.7684477,4.2202997,wind turbin high voltag wind farm,offshor control grid
-sci,9,3.5683804,1.2990992,north sea offshor grid offshor wind,offshor grid wind
-sci,10,1.9933549,2.3837526,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,6,1.4167914,5.5650835,new energi vsc hvdc convert station,power system control
-sci,8,4.6865034,1.6410682,transmiss grid energi island harmon distort,energi island grid
-sci,5,5.796501,3.372607,renew energi 100 renew 100 renew energi,energi system island
-sci,2,2.1408606,4.9960203,smart grid power system microgrid structur,energi power system
-sci,5,5.6511126,3.3058283,renew energi 100 renew 100 renew energi,energi system island
-sci,5,5.0955706,3.9525318,renew energi 100 renew 100 renew energi,energi system island
-sci,7,-0.067473896,4.0139375,wind turbin high voltag wind farm,offshor control grid
-sci,7,0.035196576,3.5943263,wind turbin high voltag wind farm,offshor control grid
-sci,4,5.650536,3.570636,renew energi energi sourc renew energi sourc,energi island system
-sci,10,2.0848515,3.0836797,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,8,4.390684,1.6112272,transmiss grid energi island harmon distort,energi island grid
-sci,9,3.2698193,3.093468,north sea offshor grid offshor wind,offshor grid wind
-sci,9,3.2612708,3.215078,north sea offshor grid offshor wind,offshor grid wind
-sci,0,4.6912565,4.994588,oil ga co2 emiss energi product,energi system power
-sci,4,5.967934,3.1154559,renew energi energi sourc renew energi sourc,energi island system
-sci,9,3.458236,1.8283248,north sea offshor grid offshor wind,offshor grid wind
-sci,9,3.5784588,2.467419,north sea offshor grid offshor wind,offshor grid wind
-sci,2,1.8852803,4.944323,smart grid power system microgrid structur,energi power system
-sci,7,0.32833344,4.4674034,wind turbin high voltag wind farm,offshor control grid
-sci,4,5.707148,4.0301733,renew energi energi sourc renew energi sourc,energi island system
-sci,1,3.625661,5.726515,energi island wave energi grid space,wave grid offshor
-sci,8,4.712581,1.3714614,transmiss grid energi island harmon distort,energi island grid
-sci,7,0.7642282,3.7749155,wind turbin high voltag wind farm,offshor control grid
-sci,8,4.660989,1.5047597,transmiss grid energi island harmon distort,energi island grid
-sci,8,4.6398015,1.238265,transmiss grid energi island harmon distort,energi island grid
-sci,5,5.247096,4.46368,renew energi 100 renew 100 renew energi,energi system island
-sci,10,2.0436842,2.7917123,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,9,3.4694855,2.908655,north sea offshor grid offshor wind,offshor grid wind
-sci,5,5.533269,3.4964113,renew energi 100 renew 100 renew energi,energi system island
-sci,6,1.3232187,5.7329264,new energi vsc hvdc convert station,power system control
-sci,2,2.3598857,4.480242,smart grid power system microgrid structur,energi power system
-sci,1,3.9105082,5.855202,energi island wave energi grid space,wave grid offshor
-sci,0,6.3657007,3.6326602,oil ga co2 emiss energi product,energi system power
-sci,7,0.53631014,4.1756473,wind turbin high voltag wind farm,offshor control grid
-sci,2,2.377313,5.3862195,smart grid power system microgrid structur,energi power system
-sci,3,6.445723,3.432289,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,2,1.3426409,4.706573,smart grid power system microgrid structur,energi power system
-sci,2,2.7147727,5.1165295,smart grid power system microgrid structur,energi power system
-sci,4,5.4416876,3.166768,renew energi energi sourc renew energi sourc,energi island system
-sci,0,5.51756,4.9289184,oil ga co2 emiss energi product,energi system power
-sci,1,3.828968,5.8206453,energi island wave energi grid space,wave grid offshor
-sci,4,6.0476294,3.4079602,renew energi energi sourc renew energi sourc,energi island system
-sci,2,2.8988783,4.1758885,smart grid power system microgrid structur,energi power system
-sci,7,0.2989673,4.9189057,wind turbin high voltag wind farm,offshor control grid
-sci,9,3.8521469,2.7036834,north sea offshor grid offshor wind,offshor grid wind
-sci,4,5.9960265,3.384471,renew energi energi sourc renew energi sourc,energi island system
-sci,4,5.7613163,3.8326428,renew energi energi sourc renew energi sourc,energi island system
-sci,9,3.6947818,1.4224123,north sea offshor grid offshor wind,offshor grid wind
-sci,9,4.1994896,2.9633477,north sea offshor grid offshor wind,offshor grid wind
-sci,2,4.103075,4.2516994,smart grid power system microgrid structur,energi power system
-sci,0,5.6983,4.602332,oil ga co2 emiss energi product,energi system power
-sci,7,0.64796114,4.245021,wind turbin high voltag wind farm,offshor control grid
-sci,7,0.2781191,3.8117788,wind turbin high voltag wind farm,offshor control grid
-sci,7,0.8550353,4.4856887,wind turbin high voltag wind farm,offshor control grid
-sci,2,2.1495166,4.4355664,smart grid power system microgrid structur,energi power system
-sci,5,5.446092,3.5831428,renew energi 100 renew 100 renew energi,energi system island
-sci,9,3.9660397,1.2831707,north sea offshor grid offshor wind,offshor grid wind
-sci,2,2.9340858,4.389994,smart grid power system microgrid structur,energi power system
-sci,9,3.1028953,2.5884938,north sea offshor grid offshor wind,offshor grid wind
-sci,10,1.6104552,2.7293606,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,9,3.2132227,2.0493364,north sea offshor grid offshor wind,offshor grid wind
-sci,10,2.0498118,2.313748,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,6,1.2618208,5.790453,new energi vsc hvdc convert station,power system control
-sci,10,2.5769207,2.9592175,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,7,0.114320576,3.8303626,wind turbin high voltag wind farm,offshor control grid
-sci,7,0.5402852,4.898779,wind turbin high voltag wind farm,offshor control grid
-sci,2,2.7539053,4.52262,smart grid power system microgrid structur,energi power system
-sci,2,2.5939643,5.136965,smart grid power system microgrid structur,energi power system
-sci,2,4.133927,4.3753085,smart grid power system microgrid structur,energi power system
-sci,0,5.0888166,3.6445427,oil ga co2 emiss energi product,energi system power
-sci,1,3.0625577,5.012271,energi island wave energi grid space,wave grid offshor
-sci,6,1.2763702,5.8102474,new energi vsc hvdc convert station,power system control
-sci,3,6.783396,3.3652806,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,7,0.26688674,4.8212976,wind turbin high voltag wind farm,offshor control grid
-sci,2,1.4216776,4.9768314,smart grid power system microgrid structur,energi power system
-sci,6,0.7041501,5.1441717,new energi vsc hvdc convert station,power system control
-sci,9,3.5226557,1.4647436,north sea offshor grid offshor wind,offshor grid wind
-sci,2,2.703083,4.52905,smart grid power system microgrid structur,energi power system
-sci,7,0.14855391,4.657227,wind turbin high voltag wind farm,offshor control grid
-sci,2,4.177798,4.270394,smart grid power system microgrid structur,energi power system
-sci,0,6.1027837,4.6205273,oil ga co2 emiss energi product,energi system power
-sci,10,1.7480813,3.0609424,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,4,6.0003138,3.7030704,renew energi energi sourc renew energi sourc,energi island system
-sci,1,3.705306,5.737083,energi island wave energi grid space,wave grid offshor
-sci,8,4.702234,1.3458714,transmiss grid energi island harmon distort,energi island grid
-sci,9,3.6090097,1.3893648,north sea offshor grid offshor wind,offshor grid wind
-sci,9,3.1866481,2.5230598,north sea offshor grid offshor wind,offshor grid wind
-sci,0,6.1978226,4.5701776,oil ga co2 emiss energi product,energi system power
-sci,7,0.18117288,3.6735218,wind turbin high voltag wind farm,offshor control grid
-sci,6,1.3240666,5.683283,new energi vsc hvdc convert station,power system control
-sci,7,0.89695966,3.7255874,wind turbin high voltag wind farm,offshor control grid
-sci,7,0.30187264,4.125858,wind turbin high voltag wind farm,offshor control grid
-sci,9,3.8410134,1.9152315,north sea offshor grid offshor wind,offshor grid wind
-sci,2,1.7011037,4.9950657,smart grid power system microgrid structur,energi power system
-sci,2,2.2681766,4.939508,smart grid power system microgrid structur,energi power system
-sci,10,2.3871603,2.8242753,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,7,0.5915712,4.119407,wind turbin high voltag wind farm,offshor control grid
-sci,7,0.32222766,3.5771325,wind turbin high voltag wind farm,offshor control grid
-sci,0,5.7702723,4.5775576,oil ga co2 emiss energi product,energi system power
-sci,9,2.902899,2.2799478,north sea offshor grid offshor wind,offshor grid wind
-sci,2,2.1600323,4.9925866,smart grid power system microgrid structur,energi power system
-sci,7,0.5598042,4.517936,wind turbin high voltag wind farm,offshor control grid
-sci,9,3.3980544,2.5873947,north sea offshor grid offshor wind,offshor grid wind
-sci,6,0.76204664,5.2545953,new energi vsc hvdc convert station,power system control
-sci,9,3.5064228,1.2275358,north sea offshor grid offshor wind,offshor grid wind
-sci,9,3.8954463,1.2875097,north sea offshor grid offshor wind,offshor grid wind
-sci,7,0.6655347,4.5811024,wind turbin high voltag wind farm,offshor control grid
-sci,6,0.677864,5.1985574,new energi vsc hvdc convert station,power system control
-sci,9,3.4436355,1.9385363,north sea offshor grid offshor wind,offshor grid wind
-sci,4,5.899612,3.8457093,renew energi energi sourc renew energi sourc,energi island system
-sci,0,4.7108192,4.8204975,oil ga co2 emiss energi product,energi system power
-sci,0,5.6691685,4.5902686,oil ga co2 emiss energi product,energi system power
-sci,2,2.498213,4.9503217,smart grid power system microgrid structur,energi power system
-sci,5,5.837067,3.4393568,renew energi 100 renew 100 renew energi,energi system island
-sci,10,1.4568248,3.0573099,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,9,3.1812232,2.778452,north sea offshor grid offshor wind,offshor grid wind
-sci,10,1.4553757,3.0687084,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,9,3.9033067,2.3089573,north sea offshor grid offshor wind,offshor grid wind
-sci,9,3.74988,1.950253,north sea offshor grid offshor wind,offshor grid wind
-sci,2,2.4210756,5.1120653,smart grid power system microgrid structur,energi power system
-sci,7,0.45544904,3.9881513,wind turbin high voltag wind farm,offshor control grid
-sci,10,1.2525942,3.4442263,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,5,6.0107145,4.0100894,renew energi 100 renew 100 renew energi,energi system island
-sci,7,0.24872795,4.448833,wind turbin high voltag wind farm,offshor control grid
-sci,4,5.418674,3.915938,renew energi energi sourc renew energi sourc,energi island system
-sci,9,3.4059656,1.8690746,north sea offshor grid offshor wind,offshor grid wind
-sci,9,3.625148,2.416154,north sea offshor grid offshor wind,offshor grid wind
-sci,10,1.5507535,3.1125183,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,9,3.3111732,2.5569353,north sea offshor grid offshor wind,offshor grid wind
-sci,7,-0.07188623,4.202555,wind turbin high voltag wind farm,offshor control grid
-sci,9,3.570908,1.424736,north sea offshor grid offshor wind,offshor grid wind
-sci,1,3.6640623,5.447233,energi island wave energi grid space,wave grid offshor
-sci,9,3.3740025,1.8679426,north sea offshor grid offshor wind,offshor grid wind
-sci,7,0.644481,3.930787,wind turbin high voltag wind farm,offshor control grid
-sci,10,1.5807711,2.9500837,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,7,0.4613117,3.3961434,wind turbin high voltag wind farm,offshor control grid
-sci,4,5.1418324,2.9658542,renew energi energi sourc renew energi sourc,energi island system
-sci,4,5.553521,3.7374444,renew energi energi sourc renew energi sourc,energi island system
-sci,10,1.1242526,3.4336538,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,6,0.5606043,5.1638036,new energi vsc hvdc convert station,power system control
-sci,9,3.3074672,3.1604464,north sea offshor grid offshor wind,offshor grid wind
-sci,2,1.9838285,5.111688,smart grid power system microgrid structur,energi power system
-sci,7,0.12740617,4.5279994,wind turbin high voltag wind farm,offshor control grid
-sci,4,5.937943,3.7257075,renew energi energi sourc renew energi sourc,energi island system
-sci,7,0.34877956,3.504172,wind turbin high voltag wind farm,offshor control grid
-sci,7,0.32658708,4.3854876,wind turbin high voltag wind farm,offshor control grid
-sci,10,2.5715094,2.569458,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,7,1.0285592,4.253237,wind turbin high voltag wind farm,offshor control grid
-sci,7,0.11615511,4.557599,wind turbin high voltag wind farm,offshor control grid
-sci,7,0.31509176,4.983748,wind turbin high voltag wind farm,offshor control grid
-sci,7,1.0103104,4.2866664,wind turbin high voltag wind farm,offshor control grid
-sci,10,2.7421365,2.5100865,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,4,5.8832006,3.1373687,renew energi energi sourc renew energi sourc,energi island system
-sci,2,2.1536932,4.852303,smart grid power system microgrid structur,energi power system
-sci,2,2.4007542,5.3391757,smart grid power system microgrid structur,energi power system
-sci,2,2.4275055,4.828919,smart grid power system microgrid structur,energi power system
-sci,0,5.8902392,4.70598,oil ga co2 emiss energi product,energi system power
-sci,7,-0.13328275,4.11232,wind turbin high voltag wind farm,offshor control grid
-sci,2,2.4811985,5.363964,smart grid power system microgrid structur,energi power system
-sci,10,2.3585763,2.8490329,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,9,3.5864506,1.3660191,north sea offshor grid offshor wind,offshor grid wind
-sci,10,1.591286,3.449586,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,7,-0.006295937,4.409634,wind turbin high voltag wind farm,offshor control grid
-sci,0,5.1088676,4.7821145,oil ga co2 emiss energi product,energi system power
-sci,7,0.15447822,4.3043594,wind turbin high voltag wind farm,offshor control grid
-sci,8,4.5841603,1.6226459,transmiss grid energi island harmon distort,energi island grid
-sci,10,1.7106334,2.6844993,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,4,6.015266,3.739619,renew energi energi sourc renew energi sourc,energi island system
-sci,7,0.40698355,4.5401797,wind turbin high voltag wind farm,offshor control grid
-sci,2,2.3107035,4.6125455,smart grid power system microgrid structur,energi power system
-sci,7,0.2043085,3.809244,wind turbin high voltag wind farm,offshor control grid
-sci,10,1.8416915,3.072918,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,6,0.666444,5.103601,new energi vsc hvdc convert station,power system control
-sci,10,0.7527894,3.34351,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,7,0.094163775,4.0523047,wind turbin high voltag wind farm,offshor control grid
-sci,4,6.0591035,3.1931102,renew energi energi sourc renew energi sourc,energi island system
-sci,2,2.1242325,4.699295,smart grid power system microgrid structur,energi power system
-sci,8,2.0326905,3.3599248,transmiss grid energi island harmon distort,energi island grid
-sci,10,1.1274441,3.4984126,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,0,5.104956,4.7800035,oil ga co2 emiss energi product,energi system power
-sci,8,4.632622,1.4400215,transmiss grid energi island harmon distort,energi island grid
-sci,7,0.5092288,4.2380137,wind turbin high voltag wind farm,offshor control grid
-sci,6,0.5889038,5.14442,new energi vsc hvdc convert station,power system control
-sci,2,2.191574,5.2374153,smart grid power system microgrid structur,energi power system
-sci,0,5.4077473,4.802557,oil ga co2 emiss energi product,energi system power
-sci,9,3.0685744,2.572403,north sea offshor grid offshor wind,offshor grid wind
-sci,6,1.2625892,5.155211,new energi vsc hvdc convert station,power system control
-sci,9,3.4739707,1.2250743,north sea offshor grid offshor wind,offshor grid wind
-sci,2,1.6855438,4.9833193,smart grid power system microgrid structur,energi power system
-sci,7,0.19911417,4.6050053,wind turbin high voltag wind farm,offshor control grid
-sci,10,2.4931583,2.961417,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,7,0.17510813,3.93036,wind turbin high voltag wind farm,offshor control grid
-sci,1,3.774768,4.8802333,energi island wave energi grid space,wave grid offshor
-sci,9,3.6144304,1.2972875,north sea offshor grid offshor wind,offshor grid wind
-sci,9,3.4267964,1.8775785,north sea offshor grid offshor wind,offshor grid wind
-sci,7,0.14783512,4.707311,wind turbin high voltag wind farm,offshor control grid
-sci,0,5.981048,4.6384177,oil ga co2 emiss energi product,energi system power
-sci,2,3.847,4.293787,smart grid power system microgrid structur,energi power system
-sci,2,2.1604254,4.4034624,smart grid power system microgrid structur,energi power system
-sci,9,3.596022,1.5597659,north sea offshor grid offshor wind,offshor grid wind
-sci,7,0.47134,5.022593,wind turbin high voltag wind farm,offshor control grid
-sci,9,3.188966,2.4414623,north sea offshor grid offshor wind,offshor grid wind
-sci,2,1.6921513,5.0114737,smart grid power system microgrid structur,energi power system
-sci,10,2.055802,2.3200457,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,10,1.371817,3.3742864,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,7,0.48204386,3.9333842,wind turbin high voltag wind farm,offshor control grid
-sci,7,0.21421534,4.1678205,wind turbin high voltag wind farm,offshor control grid
-sci,2,1.2944801,4.9690213,smart grid power system microgrid structur,energi power system
-sci,1,3.6424906,5.1066875,energi island wave energi grid space,wave grid offshor
-sci,9,3.1683304,3.2466671,north sea offshor grid offshor wind,offshor grid wind
-sci,5,5.821631,3.2013502,renew energi 100 renew 100 renew energi,energi system island
-sci,5,5.394222,3.5414927,renew energi 100 renew 100 renew energi,energi system island
-sci,9,3.0589645,2.9122167,north sea offshor grid offshor wind,offshor grid wind
-sci,9,3.4294634,2.2739732,north sea offshor grid offshor wind,offshor grid wind
-sci,7,-0.024880808,3.853427,wind turbin high voltag wind farm,offshor control grid
-sci,2,1.8911177,5.0821056,smart grid power system microgrid structur,energi power system
-sci,7,0.46817926,4.2112155,wind turbin high voltag wind farm,offshor control grid
-sci,7,-0.09010746,3.573876,wind turbin high voltag wind farm,offshor control grid
-sci,1,3.0235887,4.978297,energi island wave energi grid space,wave grid offshor
-sci,10,1.4369744,3.621821,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,9,3.626025,1.7273661,north sea offshor grid offshor wind,offshor grid wind
-sci,10,2.7794404,2.7980006,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,10,1.7594577,3.1397994,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,4,6.079926,3.630701,renew energi energi sourc renew energi sourc,energi island system
-sci,7,0.60140175,3.5339084,wind turbin high voltag wind farm,offshor control grid
-sci,9,3.5703828,1.2738898,north sea offshor grid offshor wind,offshor grid wind
-sci,9,3.6512601,2.0730538,north sea offshor grid offshor wind,offshor grid wind
-sci,9,3.5899603,1.4289671,north sea offshor grid offshor wind,offshor grid wind
-sci,7,0.18813628,4.8017163,wind turbin high voltag wind farm,offshor control grid
-sci,10,1.4528563,3.1569767,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,10,1.3331488,3.378905,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,2,1.7342018,5.066368,smart grid power system microgrid structur,energi power system
-sci,9,3.1962757,3.3726842,north sea offshor grid offshor wind,offshor grid wind
-sci,10,1.8564262,2.6513538,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,7,0.7500957,4.4457936,wind turbin high voltag wind farm,offshor control grid
-sci,10,2.6183565,2.9165354,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,9,3.5974965,2.1092157,north sea offshor grid offshor wind,offshor grid wind
-sci,9,4.032211,2.7861547,north sea offshor grid offshor wind,offshor grid wind
-sci,6,1.1590265,5.7860622,new energi vsc hvdc convert station,power system control
-sci,1,3.787296,5.108597,energi island wave energi grid space,wave grid offshor
-sci,9,3.1153684,2.3786266,north sea offshor grid offshor wind,offshor grid wind
-sci,0,6.320889,4.182424,oil ga co2 emiss energi product,energi system power
-sci,10,1.4510921,3.4087236,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,10,2.1434243,2.2685037,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,10,1.2975771,3.1551955,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,4,5.2606907,2.984177,renew energi energi sourc renew energi sourc,energi island system
-sci,10,2.0707808,2.7979882,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,2,2.1699848,5.2573466,smart grid power system microgrid structur,energi power system
-sci,0,5.9856124,4.3110833,oil ga co2 emiss energi product,energi system power
-sci,7,0.43397593,3.3594668,wind turbin high voltag wind farm,offshor control grid
-sci,9,4.049602,2.8935313,north sea offshor grid offshor wind,offshor grid wind
-sci,2,1.6946957,4.8680043,smart grid power system microgrid structur,energi power system
-sci,10,2.4672952,2.8206058,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,7,0.036025144,4.517447,wind turbin high voltag wind farm,offshor control grid
-sci,7,0.77108794,4.1870384,wind turbin high voltag wind farm,offshor control grid
-sci,9,3.0594535,2.2175603,north sea offshor grid offshor wind,offshor grid wind
-sci,4,5.233796,2.9325686,renew energi energi sourc renew energi sourc,energi island system
-sci,2,1.814428,4.9966106,smart grid power system microgrid structur,energi power system
-sci,10,1.7557253,3.1891,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,9,2.791132,2.6801977,north sea offshor grid offshor wind,offshor grid wind
-sci,0,4.964705,4.833554,oil ga co2 emiss energi product,energi system power
-sci,9,4.2308903,2.7226899,north sea offshor grid offshor wind,offshor grid wind
-sci,9,3.799664,2.5067668,north sea offshor grid offshor wind,offshor grid wind
-sci,9,3.639125,2.2168052,north sea offshor grid offshor wind,offshor grid wind
-sci,3,6.2919583,3.3360035,green hydrogen hydrogen product energi hub,energi hydrogen offshor
-sci,2,1.9101865,5.0395007,smart grid power system microgrid structur,energi power system
-sci,9,3.3205516,2.4759564,north sea offshor grid offshor wind,offshor grid wind
-sci,1,3.3803315,4.9243546,energi island wave energi grid space,wave grid offshor
-sci,9,3.1769786,2.0184367,north sea offshor grid offshor wind,offshor grid wind
-sci,7,0.48024517,5.013216,wind turbin high voltag wind farm,offshor control grid
-sci,2,3.2003872,4.2433667,smart grid power system microgrid structur,energi power system
-sci,9,3.383454,1.9925734,north sea offshor grid offshor wind,offshor grid wind
-sci,8,3.9179668,1.2570735,transmiss grid energi island harmon distort,energi island grid
-sci,9,3.550035,2.4884062,north sea offshor grid offshor wind,offshor grid wind
-sci,9,3.965476,2.557779,north sea offshor grid offshor wind,offshor grid wind
-sci,9,3.4854085,2.624456,north sea offshor grid offshor wind,offshor grid wind
-sci,1,4.288937,5.4123106,energi island wave energi grid space,wave grid offshor
-sci,1,3.8839436,5.8077183,energi island wave energi grid space,wave grid offshor
-sci,1,3.4750247,5.5596933,energi island wave energi grid space,wave grid offshor
-sci,1,4.5394125,5.332719,energi island wave energi grid space,wave grid offshor
-sci,5,6.0410175,4.0625005,renew energi 100 renew 100 renew energi,energi system island
-sci,1,3.8316672,5.5148215,energi island wave energi grid space,wave grid offshor
-sci,2,2.627857,4.589527,smart grid power system microgrid structur,energi power system
-sci,10,2.0895865,2.4934368,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,1,3.55428,5.4512873,energi island wave energi grid space,wave grid offshor
-sci,1,3.6659045,5.2579694,energi island wave energi grid space,wave grid offshor
-sci,9,3.1955643,2.477372,north sea offshor grid offshor wind,offshor grid wind
-sci,7,0.16824184,3.8398173,wind turbin high voltag wind farm,offshor control grid
-sci,7,0.7139958,3.654483,wind turbin high voltag wind farm,offshor control grid
-sci,4,5.690667,3.905137,renew energi energi sourc renew energi sourc,energi island system
-sci,9,3.6919737,2.279841,north sea offshor grid offshor wind,offshor grid wind
-sci,1,3.0806508,5.1715565,energi island wave energi grid space,wave grid offshor
-sci,1,3.5939605,5.0577106,energi island wave energi grid space,wave grid offshor
-sci,1,3.913087,5.7899055,energi island wave energi grid space,wave grid offshor
-sci,1,3.5612779,5.5104523,energi island wave energi grid space,wave grid offshor
-sci,7,0.42809582,3.7777033,wind turbin high voltag wind farm,offshor control grid
-sci,5,5.919611,3.1093233,renew energi 100 renew 100 renew energi,energi system island
-sci,1,4.282561,5.4324026,energi island wave energi grid space,wave grid offshor
-sci,9,3.2414782,2.3625946,north sea offshor grid offshor wind,offshor grid wind
-sci,4,5.938444,3.774981,renew energi energi sourc renew energi sourc,energi island system
-sci,5,4.9806576,4.0799966,renew energi 100 renew 100 renew energi,energi system island
-sci,1,3.799126,5.7546706,energi island wave energi grid space,wave grid offshor
-sci,0,4.4852138,5.086744,oil ga co2 emiss energi product,energi system power
-sci,1,3.7144516,5.1363187,energi island wave energi grid space,wave grid offshor
-sci,9,3.6984844,2.4586413,north sea offshor grid offshor wind,offshor grid wind
-sci,1,3.6853523,5.048491,energi island wave energi grid space,wave grid offshor
-sci,1,3.4897578,5.0146375,energi island wave energi grid space,wave grid offshor
-sci,1,3.8684757,5.8206577,energi island wave energi grid space,wave grid offshor
-sci,0,6.154439,4.5903316,oil ga co2 emiss energi product,energi system power
-sci,1,3.651737,5.6170654,energi island wave energi grid space,wave grid offshor
-sci,10,1.1109792,3.377804,wind farm offshor wind offshor wind farm,offshor wind grid
-sci,8,4.549532,1.3928746,transmiss grid energi island harmon distort,energi island grid
-sci,8,4.61451,1.9563526,transmiss grid energi island harmon distort,energi island grid
-sci,0,5.408252,4.888378,oil ga co2 emiss energi product,energi system power
-sci,7,0.10950537,3.7603517,wind turbin high voltag wind farm,offshor control grid
-sci,1,3.247031,5.5836315,energi island wave energi grid space,wave grid offshor
-sci,0,5.126997,4.699951,oil ga co2 emiss energi product,energi system power
-sci,0,4.446296,5.142412,oil ga co2 emiss energi product,energi system power
-sci,1,3.877436,5.8386993,energi island wave energi grid space,wave grid offshor
-sci,5,6.0816813,4.0847225,renew energi 100 renew 100 renew energi,energi system island
-sci,1,3.3288407,5.166893,energi island wave energi grid space,wave grid offshor
-sci,0,5.556197,4.433115,oil ga co2 emiss energi product,energi system power
-sci,1,3.8787959,5.8630443,energi island wave energi grid space,wave grid offshor
-sci,7,0.86922,3.7745743,wind turbin high voltag wind farm,offshor control grid
-sci,1,3.4803748,4.813192,energi island wave energi grid space,wave grid offshor
-sci,0,6.097914,4.738958,oil ga co2 emiss energi product,energi system power
-sci,1,3.753946,5.030728,energi island wave energi grid space,wave grid offshor
-sci,4,5.8069057,3.4147267,renew energi energi sourc renew energi sourc,energi island system
-sci,7,0.6740329,3.8851252,wind turbin high voltag wind farm,offshor control grid
-sci,10,2.009514,2.8878212,wind farm offshor wind offshor wind farm,offshor wind grid
+sci,7,0.15708038,4.4137745,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,2,4.4146695,4.282083,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,8,4.7827992,1.462815,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,10,1.8413658,3.1898394,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,0,6.769467,3.596902,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,8,4.6718497,1.3315091,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,2,3.9949555,4.3265758,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,3,6.618049,2.9972546,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,7,0.26407686,4.3879294,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,7,0.031572178,4.0087295,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,2,1.977535,4.569222,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,3,6.636546,3.303495,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,7,0.79110664,4.508567,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,5,5.291178,4.289986,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,6,0.99409425,5.1389036,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,4,5.8693976,3.725674,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,5,4.9419894,3.9342387,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,8,4.5906987,1.6183085,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,4,5.935878,3.741562,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,9,3.4740534,1.8959372,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,8,4.443981,1.6355561,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,0,6.5235825,3.8901436,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,7,0.35027987,4.87812,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,0,5.1880927,4.7408404,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,2,4.0068693,4.096768,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,9,3.4449167,2.0864596,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,2,1.4115106,4.689092,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,6,1.0298737,5.1817484,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,8,4.7307887,1.4419496,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,3,6.517569,3.097587,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,3,6.612217,2.9439495,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,10,1.1771692,3.511035,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,5,5.1318846,4.0448456,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,7,0.20269895,4.300446,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,3,6.6470337,3.3098893,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,6,1.2758856,5.8123116,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,5,5.3056817,4.034201,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,2,3.3221164,4.3327103,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,4,5.8985023,3.7640696,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,7,0.23178826,4.2537065,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,1,4.2433615,5.478463,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,6,1.3587248,5.7600913,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,6,0.99026835,5.4119534,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,3,6.2901425,3.3399029,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,7,0.9580085,4.0795956,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,0,5.9739294,4.496081,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,3,6.7601995,3.2340453,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,10,1.8016602,2.9989495,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,3,6.656064,3.2146032,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,3,6.59883,3.212858,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,0,6.7152753,3.6911058,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,9,3.8414812,2.963077,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,5,5.2465215,4.146794,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,1,2.9730155,5.1560197,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,4,5.9262257,3.121536,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,2,2.1596508,4.901169,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,4,5.709932,3.044562,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,7,0.32711697,4.0212007,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,9,3.180357,2.3000057,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,9,3.5753925,2.970032,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,4,5.492396,3.838286,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,2,2.0945048,5.023917,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,0,5.5147095,4.759134,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,3,6.7520623,3.3892658,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,2,1.4781489,4.598172,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,8,4.7686024,1.4398029,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,2,2.195648,5.266684,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,7,0.8179939,3.7346883,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,9,3.1842175,2.8890438,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,3,6.610379,3.0089655,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,8,4.5971413,1.4420224,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,10,2.588882,2.833205,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,9,3.5296369,2.1766212,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,7,0.17763303,4.5440736,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,6,1.329285,5.6611547,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,6,1.0651609,5.0772614,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,1,3.2494848,5.1363497,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,5,5.1495457,4.0766187,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,10,4.4150715,3.294528,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,0,6.0473742,4.519306,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,9,3.3212476,2.6319757,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,4,5.6917596,4.0207977,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,7,-0.018881554,4.043807,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,2,2.1745276,4.8845053,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,0,6.1168804,4.560976,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,4,5.725566,3.7205765,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,5,5.33742,4.008663,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,4,5.904025,3.8108516,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,8,4.567209,1.3707523,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,4,5.776119,4.1175876,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,8,4.649479,1.2475697,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,3,6.653641,3.2152019,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,3,6.799071,3.2436802,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,0,5.819045,4.79453,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,10,1.7727184,2.4109955,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,0,6.5070477,3.8886185,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,9,4.37071,3.0085883,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,2,1.9997443,4.9320536,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,9,3.2073085,3.0708108,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,3,6.646886,3.3675652,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,2,3.512247,4.292514,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,3,6.7189727,3.1370356,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,8,4.7554727,1.4774913,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,9,3.7323222,1.6817356,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,7,0.40173677,4.9314494,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,3,6.7150903,3.0670767,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,5,5.108317,4.1005545,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,1,3.6148393,5.082128,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,3,6.630682,3.137017,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,7,0.7684477,4.2202997,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,9,3.5683804,1.2990992,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,10,1.9933549,2.3837526,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,6,1.4167914,5.5650835,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,8,4.6865034,1.6410682,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,5,5.796501,3.372607,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,2,2.1408606,4.9960203,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,5,5.6511126,3.3058283,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,5,5.0955706,3.9525318,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,7,-0.067473896,4.0139375,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,7,0.035196576,3.5943263,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,4,5.650536,3.570636,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,10,2.0848515,3.0836797,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,8,4.390684,1.6112272,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,9,3.2698193,3.093468,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,9,3.2612708,3.215078,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,0,4.6912565,4.994588,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,4,5.967934,3.1154559,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,9,3.458236,1.8283248,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,9,3.5784588,2.467419,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,2,1.8852803,4.944323,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,7,0.32833344,4.4674034,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,4,5.707148,4.0301733,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,1,3.625661,5.726515,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,8,4.712581,1.3714614,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,7,0.7642282,3.7749155,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,8,4.660989,1.5047597,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,8,4.6398015,1.238265,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,5,5.247096,4.46368,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,10,2.0436842,2.7917123,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,9,3.4694855,2.908655,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,5,5.533269,3.4964113,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,6,1.3232187,5.7329264,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,2,2.3598857,4.480242,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,1,3.9105082,5.855202,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,0,6.3657007,3.6326602,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,7,0.53631014,4.1756473,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,2,2.377313,5.3862195,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,3,6.445723,3.432289,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,2,1.3426409,4.706573,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,2,2.7147727,5.1165295,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,4,5.4416876,3.166768,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,0,5.51756,4.9289184,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,1,3.828968,5.8206453,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,4,6.0476294,3.4079602,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,2,2.8988783,4.1758885,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,7,0.2989673,4.9189057,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,9,3.8521469,2.7036834,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,4,5.9960265,3.384471,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,4,5.7613163,3.8326428,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,9,3.6947818,1.4224123,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,9,4.1994896,2.9633477,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,2,4.103075,4.2516994,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,0,5.6983,4.602332,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,7,0.64796114,4.245021,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,7,0.2781191,3.8117788,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,7,0.8550353,4.4856887,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,2,2.1495166,4.4355664,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,5,5.446092,3.5831428,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,9,3.9660397,1.2831707,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,2,2.9340858,4.389994,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,9,3.1028953,2.5884938,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,10,1.6104552,2.7293606,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,9,3.2132227,2.0493364,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,10,2.0498118,2.313748,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,6,1.2618208,5.790453,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,10,2.5769207,2.9592175,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,7,0.114320576,3.8303626,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,7,0.5402852,4.898779,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,2,2.7539053,4.52262,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,2,2.5939643,5.136965,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,2,4.133927,4.3753085,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,0,5.0888166,3.6445427,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,1,3.0625577,5.012271,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,6,1.2763702,5.8102474,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,3,6.783396,3.3652806,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,7,0.26688674,4.8212976,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,2,1.4216776,4.9768314,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,6,0.7041501,5.1441717,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,9,3.5226557,1.4647436,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,2,2.703083,4.52905,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,7,0.14855391,4.657227,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,2,4.177798,4.270394,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,0,6.1027837,4.6205273,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,10,1.7480813,3.0609424,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,4,6.0003138,3.7030704,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,1,3.705306,5.737083,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,8,4.702234,1.3458714,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,9,3.6090097,1.3893648,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,9,3.1866481,2.5230598,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,0,6.1978226,4.5701776,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,7,0.18117288,3.6735218,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,6,1.3240666,5.683283,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,7,0.89695966,3.7255874,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,7,0.30187264,4.125858,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,9,3.8410134,1.9152315,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,2,1.7011037,4.9950657,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,2,2.2681766,4.939508,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,10,2.3871603,2.8242753,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,7,0.5915712,4.119407,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,7,0.32222766,3.5771325,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,0,5.7702723,4.5775576,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,9,2.902899,2.2799478,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,2,2.1600323,4.9925866,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,7,0.5598042,4.517936,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,9,3.3980544,2.5873947,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,6,0.76204664,5.2545953,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,9,3.5064228,1.2275358,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,9,3.8954463,1.2875097,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,7,0.6655347,4.5811024,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,6,0.677864,5.1985574,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,9,3.4436355,1.9385363,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,4,5.899612,3.8457093,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,0,4.7108192,4.8204975,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,0,5.6691685,4.5902686,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,2,2.498213,4.9503217,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,5,5.837067,3.4393568,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,10,1.4568248,3.0573099,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,9,3.1812232,2.778452,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,10,1.4553757,3.0687084,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,9,3.9033067,2.3089573,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,9,3.74988,1.950253,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,2,2.4210756,5.1120653,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,7,0.45544904,3.9881513,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,10,1.2525942,3.4442263,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,5,6.0107145,4.0100894,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,7,0.24872795,4.448833,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,4,5.418674,3.915938,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,9,3.4059656,1.8690746,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,9,3.625148,2.416154,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,10,1.5507535,3.1125183,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,9,3.3111732,2.5569353,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,7,-0.07188623,4.202555,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,9,3.570908,1.424736,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,1,3.6640623,5.447233,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,9,3.3740025,1.8679426,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,7,0.644481,3.930787,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,10,1.5807711,2.9500837,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,7,0.4613117,3.3961434,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,4,5.1418324,2.9658542,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,4,5.553521,3.7374444,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,10,1.1242526,3.4336538,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,6,0.5606043,5.1638036,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,9,3.3074672,3.1604464,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,2,1.9838285,5.111688,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,7,0.12740617,4.5279994,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,4,5.937943,3.7257075,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,7,0.34877956,3.504172,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,7,0.32658708,4.3854876,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,10,2.5715094,2.569458,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,7,1.0285592,4.253237,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,7,0.11615511,4.557599,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,7,0.31509176,4.983748,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,7,1.0103104,4.2866664,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,10,2.7421365,2.5100865,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,4,5.8832006,3.1373687,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,2,2.1536932,4.852303,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,2,2.4007542,5.3391757,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,2,2.4275055,4.828919,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,0,5.8902392,4.70598,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,7,-0.13328275,4.11232,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,2,2.4811985,5.363964,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,10,2.3585763,2.8490329,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,9,3.5864506,1.3660191,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,10,1.591286,3.449586,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,7,-0.006295937,4.409634,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,0,5.1088676,4.7821145,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,7,0.15447822,4.3043594,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,8,4.5841603,1.6226459,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,10,1.7106334,2.6844993,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,4,6.015266,3.739619,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,7,0.40698355,4.5401797,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,2,2.3107035,4.6125455,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,7,0.2043085,3.809244,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,10,1.8416915,3.072918,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,6,0.666444,5.103601,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,10,0.7527894,3.34351,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,7,0.094163775,4.0523047,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,4,6.0591035,3.1931102,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,2,2.1242325,4.699295,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,8,2.0326905,3.3599248,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,10,1.1274441,3.4984126,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,0,5.104956,4.7800035,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,8,4.632622,1.4400215,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,7,0.5092288,4.2380137,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,6,0.5889038,5.14442,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,2,2.191574,5.2374153,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,0,5.4077473,4.802557,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,9,3.0685744,2.572403,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,6,1.2625892,5.155211,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,9,3.4739707,1.2250743,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,2,1.6855438,4.9833193,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,7,0.19911417,4.6050053,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,10,2.4931583,2.961417,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,7,0.17510813,3.93036,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,1,3.774768,4.8802333,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,9,3.6144304,1.2972875,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,9,3.4267964,1.8775785,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,7,0.14783512,4.707311,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,0,5.981048,4.6384177,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,2,3.847,4.293787,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,2,2.1604254,4.4034624,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,9,3.596022,1.5597659,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,7,0.47134,5.022593,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,9,3.188966,2.4414623,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,2,1.6921513,5.0114737,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,10,2.055802,2.3200457,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,10,1.371817,3.3742864,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,7,0.48204386,3.9333842,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,7,0.21421534,4.1678205,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,2,1.2944801,4.9690213,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,1,3.6424906,5.1066875,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,9,3.1683304,3.2466671,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,5,5.821631,3.2013502,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,5,5.394222,3.5414927,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,9,3.0589645,2.9122167,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,9,3.4294634,2.2739732,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,7,-0.024880808,3.853427,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,2,1.8911177,5.0821056,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,7,0.46817926,4.2112155,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,7,-0.09010746,3.573876,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,1,3.0235887,4.978297,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,10,1.4369744,3.621821,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,9,3.626025,1.7273661,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,10,2.7794404,2.7980006,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,10,1.7594577,3.1397994,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,4,6.079926,3.630701,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,7,0.60140175,3.5339084,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,9,3.5703828,1.2738898,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,9,3.6512601,2.0730538,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,9,3.5899603,1.4289671,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,7,0.18813628,4.8017163,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,10,1.4528563,3.1569767,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,10,1.3331488,3.378905,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,2,1.7342018,5.066368,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,9,3.1962757,3.3726842,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,10,1.8564262,2.6513538,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,7,0.7500957,4.4457936,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,10,2.6183565,2.9165354,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,9,3.5974965,2.1092157,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,9,4.032211,2.7861547,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,6,1.1590265,5.7860622,new energi vsc hvdc convert station new energi island control strategi,power system control voltag energi
+sci,1,3.787296,5.108597,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,9,3.1153684,2.3786266,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,0,6.320889,4.182424,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,10,1.4510921,3.4087236,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,10,2.1434243,2.2685037,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,10,1.2975771,3.1551955,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,4,5.2606907,2.984177,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,10,2.0707808,2.7979882,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,2,2.1699848,5.2573466,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,0,5.9856124,4.3110833,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,7,0.43397593,3.3594668,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,9,4.049602,2.8935313,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,2,1.6946957,4.8680043,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,10,2.4672952,2.8206058,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,7,0.036025144,4.517447,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,7,0.77108794,4.1870384,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,9,3.0594535,2.2175603,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,4,5.233796,2.9325686,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,2,1.814428,4.9966106,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,10,1.7557253,3.1891,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,9,2.791132,2.6801977,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,0,4.964705,4.833554,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,9,4.2308903,2.7226899,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,9,3.799664,2.5067668,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,9,3.639125,2.2168052,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,3,6.2919583,3.3360035,green hydrogen hydrogen product energi hub techno econom energi system,energi hydrogen offshor system wind
+sci,2,1.9101865,5.0395007,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,9,3.3205516,2.4759564,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,1,3.3803315,4.9243546,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,9,3.1769786,2.0184367,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,7,0.48024517,5.013216,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,2,3.2003872,4.2433667,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,9,3.383454,1.9925734,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,8,3.9179668,1.2570735,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,9,3.550035,2.4884062,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,9,3.965476,2.557779,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,9,3.4854085,2.624456,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,1,4.288937,5.4123106,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,1,3.8839436,5.8077183,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,1,3.4750247,5.5596933,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,1,4.5394125,5.332719,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,5,6.0410175,4.0625005,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,1,3.8316672,5.5148215,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,2,2.627857,4.589527,smart grid power system microgrid structur plan model reliabl indic,energi power system use cost
+sci,10,2.0895865,2.4934368,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,1,3.55428,5.4512873,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,1,3.6659045,5.2579694,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,9,3.1955643,2.477372,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,7,0.16824184,3.8398173,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,7,0.7139958,3.654483,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,4,5.690667,3.905137,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,9,3.6919737,2.279841,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,1,3.0806508,5.1715565,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,1,3.5939605,5.0577106,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,1,3.913087,5.7899055,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,1,3.5612779,5.5104523,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,7,0.42809582,3.7777033,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,5,5.919611,3.1093233,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,1,4.282561,5.4324026,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,9,3.2414782,2.3625946,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,4,5.938444,3.774981,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,5,4.9806576,4.0799966,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,1,3.799126,5.7546706,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,0,4.4852138,5.086744,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,1,3.7144516,5.1363187,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,9,3.6984844,2.4586413,north sea offshor grid offshor wind baltic sea wind power,offshor wind grid power transmiss
+sci,1,3.6853523,5.048491,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,1,3.4897578,5.0146375,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,1,3.8684757,5.8206577,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,0,6.154439,4.5903316,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,1,3.651737,5.6170654,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,10,1.1109792,3.377804,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
+sci,8,4.549532,1.3928746,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,8,4.61451,1.9563526,transmiss grid energi island harmon distort artifici island renew energi,energi island grid wind harmon
+sci,0,5.408252,4.888378,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,7,0.10950537,3.7603517,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,1,3.247031,5.5836315,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,0,5.126997,4.699951,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,0,4.446296,5.142412,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,1,3.877436,5.8386993,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,5,6.0816813,4.0847225,renew energi 100 renew 100 renew energi energi island renew energi island,energi system island power renew
+sci,1,3.3288407,5.166893,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,0,5.556197,4.433115,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,1,3.8787959,5.8630443,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,7,0.86922,3.7745743,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,1,3.4803748,4.813192,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,0,6.097914,4.738958,oil ga co2 emiss energi product heat recoveri power hub,energi system power offshor oper
+sci,1,3.753946,5.030728,energi island wave energi grid space sea surfac taylor franci,wave grid offshor model island
+sci,4,5.8069057,3.4147267,renew energi energi sourc renew energi sourc energi storag small island,energi island system renew power
+sci,7,0.6740329,3.8851252,wind turbin high voltag wind farm vsc hvdc hvdc transmiss,grid power offshor wind voltag
+sci,10,2.009514,2.8878212,wind farm offshor wind offshor wind farm offshor grid offshor network,offshor wind grid power farm
