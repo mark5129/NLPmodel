@@ -1,527 +1,522 @@
 Source,cluster,x,y,TF_IDF_topic_name,BERTopic_topic_name
-sci,2,0.15708038,4.4137745,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,1,4.4495435,2.647901,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,4.4146695,4.282083,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,4.459679,3.7713275,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,8,4.7827992,1.462815,transmiss grid energi island harmon distort artifici island renew energi,energi island grid harmon offshor
-sci,0,1.7058741,4.6343226,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,4.1743016,3.6316047,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,6,1.8413658,3.1898394,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,4,6.769467,3.596902,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,8,4.6718497,1.3315091,transmiss grid energi island harmon distort artifici island renew energi,energi island grid harmon offshor
-sci,0,3.9949555,4.3265758,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,7,6.618049,2.9972546,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,2,0.26407686,4.3879294,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,0.031572178,4.0087295,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,1.977535,4.569222,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,7,6.636546,3.303495,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,2,0.79110664,4.508567,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,2.7801025,3.7783513,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,3,5.291178,4.289986,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,2,0.99409425,5.1389036,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,4,5.8693976,3.725674,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,3,4.9419894,3.9342387,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,8,4.5906987,1.6183085,transmiss grid energi island harmon distort artifici island renew energi,energi island grid harmon offshor
-sci,4,5.935878,3.741562,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,1,3.4740534,1.8959372,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,9,4.443981,1.6355561,wind farm krieger flak offshor wind kf cg north sea,offshor wind grid power model
-sci,1,4.0069656,3.297537,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,4,6.5235825,3.8901436,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,2,0.35027987,4.87812,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,5,5.1880927,4.7408404,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,0,4.0068693,4.096768,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,4.0512176,3.8640013,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,3.4449167,2.0864596,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,1.4115106,4.689092,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,2,1.0298737,5.1817484,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,8,4.7307887,1.4419496,transmiss grid energi island harmon distort artifici island renew energi,energi island grid harmon offshor
-sci,7,6.517569,3.097587,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,7,6.612217,2.9439495,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,0,3.5476406,4.7453165,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,10,1.1771692,3.511035,wind farm hvdc network offshor wind circuit breaker black start,offshor wind power grid system
-sci,3,5.1318846,4.0448456,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,2,0.20269895,4.300446,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,7,6.6470337,3.3098893,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,2,1.2758856,5.8123116,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,3,5.3056817,4.034201,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,0,3.3221164,4.3327103,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,4,5.8985023,3.7640696,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,2,0.23178826,4.2537065,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,4.2433615,5.478463,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,2,1.3587248,5.7600913,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,0.99026835,5.4119534,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,7,6.2901425,3.3399029,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,2,0.9580085,4.0795956,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,5,5.9739294,4.496081,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,7,6.7601995,3.2340453,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,6,1.8016602,2.9989495,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,7,6.656064,3.2146032,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,5,5.9496403,4.4246445,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,7,6.59883,3.212858,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,4,6.7152753,3.6911058,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,1,3.8414812,2.963077,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,3,5.2465215,4.146794,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,0,2.9730155,5.1560197,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,3,5.9262257,3.121536,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,0,2.269489,4.0499263,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,2.1596508,4.901169,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,10,0.95531595,2.9397683,wind farm hvdc network offshor wind circuit breaker black start,offshor wind power grid system
-sci,3,5.709932,3.044562,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,2,0.32711697,4.0212007,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,1,3.180357,2.3000057,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,3.8611844,3.8615322,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,3.5753925,2.970032,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,4,5.492396,3.838286,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,0,2.0945048,5.023917,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,5,5.5147095,4.759134,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,7,6.7520623,3.3892658,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,0,1.4781489,4.598172,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,8,4.7686024,1.4398029,transmiss grid energi island harmon distort artifici island renew energi,energi island grid harmon offshor
-sci,0,2.195648,5.266684,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,2,0.8179939,3.7346883,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,1,3.1842175,2.8890438,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,7,6.610379,3.0089655,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,8,4.5971413,1.4420224,transmiss grid energi island harmon distort artifici island renew energi,energi island grid harmon offshor
-sci,1,2.588882,2.833205,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,3.5296369,2.1766212,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,2,0.17763303,4.5440736,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,1.329285,5.6611547,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,1.0651609,5.0772614,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,3.2494848,5.1363497,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,3,5.1495457,4.0766187,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,10,1.5059323,2.6008394,wind farm hvdc network offshor wind circuit breaker black start,offshor wind power grid system
-sci,1,4.4150715,3.294528,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,5,6.0473742,4.519306,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,1,3.3212476,2.6319757,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,4,5.6917596,4.0207977,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,2,-0.018881554,4.043807,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,2.1745276,4.8845053,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,5,6.1168804,4.560976,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,4,5.725566,3.7205765,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,3,5.33742,4.008663,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,4,5.904025,3.8108516,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,8,4.567209,1.3707523,transmiss grid energi island harmon distort artifici island renew energi,energi island grid harmon offshor
-sci,4,5.776119,4.1175876,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,8,4.649479,1.2475697,transmiss grid energi island harmon distort artifici island renew energi,energi island grid harmon offshor
-sci,7,6.653641,3.2152019,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,7,6.799071,3.2436802,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,5,5.819045,4.79453,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,6,1.7727184,2.4109955,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,4,6.5070477,3.8886185,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,1,4.37071,3.0085883,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,4.459653,3.489398,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,1.9997443,4.9320536,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,3.2073085,3.0708108,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,2,1.1571511,4.0822716,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,7,6.646886,3.3675652,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,0,3.512247,4.292514,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,4.370113,3.550054,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,7,6.7189727,3.1370356,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,2,0.89081275,4.8538504,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,8,4.7554727,1.4774913,transmiss grid energi island harmon distort artifici island renew energi,energi island grid harmon offshor
-sci,9,3.7323222,1.6817356,wind farm krieger flak offshor wind kf cg north sea,offshor wind grid power model
-sci,2,0.40173677,4.9314494,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,7,6.7150903,3.0670767,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,3,5.108317,4.1005545,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,0,3.6148393,5.082128,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,7,6.630682,3.137017,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,2,0.7684477,4.2202997,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,9,3.5683804,1.2990992,wind farm krieger flak offshor wind kf cg north sea,offshor wind grid power model
-sci,1,4.0198193,3.3065786,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,3.0680168,4.691568,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,6,1.9933549,2.3837526,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,2,1.4167914,5.5650835,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,8,4.6865034,1.6410682,transmiss grid energi island harmon distort artifici island renew energi,energi island grid harmon offshor
-sci,3,5.796501,3.372607,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,0,2.1408606,4.9960203,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,3,5.6511126,3.3058283,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,5,5.3811812,4.341419,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,3,5.0955706,3.9525318,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,2,-0.067473896,4.0139375,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,0.035196576,3.5943263,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,4,5.650536,3.570636,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,6,2.0848515,3.0836797,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,3,5.2615395,3.3598416,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,8,4.390684,1.6112272,transmiss grid energi island harmon distort artifici island renew energi,energi island grid harmon offshor
-sci,1,2.7273707,1.9877018,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,3.2698193,3.093468,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,3.2612708,3.215078,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,5,4.6912565,4.994588,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,3,5.967934,3.1154559,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,1,3.458236,1.8283248,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,3.5784588,2.467419,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,3,5.1876006,3.8894722,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,0,1.8852803,4.944323,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,2,0.32833344,4.4674034,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,4,5.707148,4.0301733,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,0,3.9574256,4.9173875,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,3.625661,5.726515,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,2,1.0137815,4.563653,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,8,4.712581,1.3714614,transmiss grid energi island harmon distort artifici island renew energi,energi island grid harmon offshor
-sci,2,0.7642282,3.7749155,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,8,4.660989,1.5047597,transmiss grid energi island harmon distort artifici island renew energi,energi island grid harmon offshor
-sci,8,4.6398015,1.238265,transmiss grid energi island harmon distort artifici island renew energi,energi island grid harmon offshor
-sci,3,5.247096,4.46368,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,6,2.0436842,2.7917123,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,1,3.4694855,2.908655,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,3,5.533269,3.4964113,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,3,4.9810305,3.7489703,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,2,1.3232187,5.7329264,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,2.3598857,4.480242,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,3.988474,3.9348116,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,3.0929677,4.810777,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,3.9105082,5.855202,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,4,6.3657007,3.6326602,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,2,0.53631014,4.1756473,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,2.377313,5.3862195,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,7,6.445723,3.432289,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,3,5.052182,3.4290369,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,0,1.3426409,4.706573,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,6.3983345,2.6863534,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,2.7147727,5.1165295,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,3,5.4416876,3.166768,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,5,5.51756,4.9289184,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,0,3.828968,5.8206453,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,4.5413823,3.8880062,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,3,6.0476294,3.4079602,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,0,2.8988783,4.1758885,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,2,0.2989673,4.9189057,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,1,3.8521469,2.7036834,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,3,5.9960265,3.384471,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,2,0.5050816,3.7666981,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,4,5.7613163,3.8326428,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,9,3.6947818,1.4224123,wind farm krieger flak offshor wind kf cg north sea,offshor wind grid power model
-sci,1,4.1994896,2.9633477,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,10,1.676981,4.0494976,wind farm hvdc network offshor wind circuit breaker black start,offshor wind power grid system
-sci,0,4.103075,4.2516994,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,5,5.6983,4.602332,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,2,0.64796114,4.245021,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,0.2781191,3.8117788,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,0.8550353,4.4856887,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,2.1495166,4.4355664,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,4.3936625,3.2744803,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,4.0207176,3.517299,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,3,5.446092,3.5831428,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,9,3.9660397,1.2831707,wind farm krieger flak offshor wind kf cg north sea,offshor wind grid power model
-sci,0,2.9340858,4.389994,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,3.1028953,2.5884938,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,6,1.6104552,2.7293606,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,1,3.2132227,2.0493364,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,6,2.0498118,2.313748,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,2,1.2618208,5.790453,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,1,2.5769207,2.9592175,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,4.818408,3.2690113,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,2,0.114320576,3.8303626,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,0.5402852,4.898779,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,2.7539053,4.52262,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,2.5939643,5.136965,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,3,4.7221045,3.8219821,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,0,4.133927,4.3753085,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,4,5.0888166,3.6445427,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,0,3.0625577,5.012271,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,2,1.2763702,5.8102474,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,7,6.783396,3.3652806,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,2,0.26688674,4.8212976,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,1,2.3891442,2.1500647,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,1.4216776,4.9768314,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,2,0.7041501,5.1441717,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,9,3.5226557,1.4647436,wind farm krieger flak offshor wind kf cg north sea,offshor wind grid power model
-sci,0,2.703083,4.52905,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,2,0.14855391,4.657227,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,4.177798,4.270394,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,5,6.1027837,4.6205273,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,6,1.7480813,3.0609424,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,4,6.0003138,3.7030704,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,0,3.705306,5.737083,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,8,4.702234,1.3458714,transmiss grid energi island harmon distort artifici island renew energi,energi island grid harmon offshor
-sci,9,3.6090097,1.3893648,wind farm krieger flak offshor wind kf cg north sea,offshor wind grid power model
-sci,1,3.1866481,2.5230598,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,5,6.1978226,4.5701776,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,2,0.18117288,3.6735218,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,1.3240666,5.683283,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,0.89695966,3.7255874,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,0.30187264,4.125858,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,1,3.8410134,1.9152315,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,1.7011037,4.9950657,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,2.2681766,4.939508,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,6,2.3871603,2.8242753,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,2,0.5915712,4.119407,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,0.32222766,3.5771325,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,5,5.7702723,4.5775576,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,1,4.6694126,3.1357653,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,2.902899,2.2799478,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,2.1600323,4.9925866,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,4.4349046,3.3284383,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,2,0.5598042,4.517936,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,1,3.3980544,2.5873947,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,2,0.76204664,5.2545953,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,9,3.5064228,1.2275358,wind farm krieger flak offshor wind kf cg north sea,offshor wind grid power model
-sci,9,3.8954463,1.2875097,wind farm krieger flak offshor wind kf cg north sea,offshor wind grid power model
-sci,2,0.6655347,4.5811024,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,0.677864,5.1985574,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,1,3.4436355,1.9385363,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,4,5.899612,3.8457093,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,5,4.7108192,4.8204975,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,5,5.6691685,4.5902686,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,0,2.498213,4.9503217,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,3,5.837067,3.4393568,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,0,3.9944825,4.602467,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,2,0.39987254,4.4002566,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,6,1.4568248,3.0573099,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,1,3.5108924,2.7381551,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,3.1812232,2.778452,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,6,1.4553757,3.0687084,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,10,0.92697597,2.9262466,wind farm hvdc network offshor wind circuit breaker black start,offshor wind power grid system
-sci,1,3.9033067,2.3089573,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,3.74988,1.950253,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,2.4210756,5.1120653,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,2,0.45544904,3.9881513,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,10,1.2525942,3.4442263,wind farm hvdc network offshor wind circuit breaker black start,offshor wind power grid system
-sci,3,6.0107145,4.0100894,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,2,-0.040163893,4.329317,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,0.24872795,4.448833,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,4,5.418674,3.915938,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,1,3.4059656,1.8690746,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,3.625148,2.416154,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,6,1.5507535,3.1125183,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,4,6.185071,3.7026935,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,1,3.3111732,2.5569353,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,4.2347035,3.294433,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,4.409043,3.2457435,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,2,-0.07188623,4.202555,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,9,3.570908,1.424736,wind farm krieger flak offshor wind kf cg north sea,offshor wind grid power model
-sci,0,3.6640623,5.447233,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,3.3740025,1.8679426,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,2,0.644481,3.930787,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,6,1.5807711,2.9500837,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,2,0.4613117,3.3961434,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,3,5.1418324,2.9658542,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,4,5.553521,3.7374444,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,10,1.1242526,3.4336538,wind farm hvdc network offshor wind circuit breaker black start,offshor wind power grid system
-sci,2,0.5606043,5.1638036,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,1,3.3074672,3.1604464,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,1.9838285,5.111688,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,3.930914,3.3189528,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,2,0.12740617,4.5279994,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,4,5.937943,3.7257075,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,2,0.34877956,3.504172,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,0.32658708,4.3854876,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,1,2.5715094,2.569458,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,2,1.0285592,4.253237,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,0.11615511,4.557599,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,0.31509176,4.983748,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,1.0103104,4.2866664,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,1,2.7421365,2.5100865,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,3,5.8832006,3.1373687,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,0,2.1536932,4.852303,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,2.4007542,5.3391757,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,4.3852777,2.783309,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,2.4275055,4.828919,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,5,5.8902392,4.70598,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,2,-0.13328275,4.11232,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,2.4811985,5.363964,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,2.3585763,2.8490329,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,9,3.5864506,1.3660191,wind farm krieger flak offshor wind kf cg north sea,offshor wind grid power model
-sci,10,1.591286,3.449586,wind farm hvdc network offshor wind circuit breaker black start,offshor wind power grid system
-sci,2,-0.006295937,4.409634,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,5,5.1088676,4.7821145,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,2,0.15447822,4.3043594,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,3.0354848,4.3100715,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,8,4.5841603,1.6226459,transmiss grid energi island harmon distort artifici island renew energi,energi island grid harmon offshor
-sci,6,1.7106334,2.6844993,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,4,6.015266,3.739619,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,0,2.8000438,4.3521023,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,2,0.40698355,4.5401797,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,2.3107035,4.6125455,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,2,0.2043085,3.809244,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,6,1.8416915,3.072918,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,2,1.2906164,3.8670092,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,0.666444,5.103601,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,10,0.7527894,3.34351,wind farm hvdc network offshor wind circuit breaker black start,offshor wind power grid system
-sci,2,0.094163775,4.0523047,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,3,6.0591035,3.1931102,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,0,2.1242325,4.699295,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,9,2.0326905,3.3599248,wind farm krieger flak offshor wind kf cg north sea,offshor wind grid power model
-sci,10,1.1274441,3.4984126,wind farm hvdc network offshor wind circuit breaker black start,offshor wind power grid system
-sci,5,5.104956,4.7800035,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,8,4.632622,1.4400215,transmiss grid energi island harmon distort artifici island renew energi,energi island grid harmon offshor
-sci,2,0.5092288,4.2380137,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,0.5889038,5.14442,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,2.191574,5.2374153,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,5,5.4077473,4.802557,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,1,3.0685744,2.572403,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,2,1.2625892,5.155211,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,3.375289,3.7936726,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,9,3.4739707,1.2250743,wind farm krieger flak offshor wind kf cg north sea,offshor wind grid power model
-sci,0,1.6855438,4.9833193,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,2,0.19911417,4.6050053,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,2.4820533,3.7147977,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,2.4931583,2.961417,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,2,0.17510813,3.93036,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,3.774768,4.8802333,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,9,3.6144304,1.2972875,wind farm krieger flak offshor wind kf cg north sea,offshor wind grid power model
-sci,1,3.4267964,1.8775785,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,2,0.14783512,4.707311,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,5,5.981048,4.6384177,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,0,3.847,4.293787,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,2.1604254,4.4034624,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,9,3.596022,1.5597659,wind farm krieger flak offshor wind kf cg north sea,offshor wind grid power model
-sci,2,0.47134,5.022593,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,1,3.188966,2.4414623,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,1.6921513,5.0114737,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,2.7550433,2.0105963,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,6,2.055802,2.3200457,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,10,1.371817,3.3742864,wind farm hvdc network offshor wind circuit breaker black start,offshor wind power grid system
-sci,2,0.48204386,3.9333842,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,0.21421534,4.1678205,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,3,5.582045,4.239747,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,0,1.2944801,4.9690213,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,3.6424906,5.1066875,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,3.1683304,3.2466671,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,3,5.821631,3.2013502,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,3,5.394222,3.5414927,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,1,3.0589645,2.9122167,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,4,6.1531997,3.8248382,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,1,3.4294634,2.2739732,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,2,-0.024880808,3.853427,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,1.8911177,5.0821056,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,2,0.46817926,4.2112155,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,-0.09010746,3.573876,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,3.0235887,4.978297,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,10,1.4369744,3.621821,wind farm hvdc network offshor wind circuit breaker black start,offshor wind power grid system
-sci,9,3.626025,1.7273661,wind farm krieger flak offshor wind kf cg north sea,offshor wind grid power model
-sci,1,2.7794404,2.7980006,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,6,1.7594577,3.1397994,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,1,4.035007,2.1704943,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,4,6.079926,3.630701,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,2,0.60140175,3.5339084,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,1,4.846053,4.7107615,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,9,3.5703828,1.2738898,wind farm krieger flak offshor wind kf cg north sea,offshor wind grid power model
-sci,1,3.6512601,2.0730538,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,2.4186082,3.6085,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,3,5.0934467,2.9231675,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,9,3.5899603,1.4289671,wind farm krieger flak offshor wind kf cg north sea,offshor wind grid power model
-sci,2,0.18813628,4.8017163,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,1.4959952,4.429635,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,4.5508986,4.003509,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,6,1.4528563,3.1569767,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,10,1.3331488,3.378905,wind farm hvdc network offshor wind circuit breaker black start,offshor wind power grid system
-sci,0,1.7342018,5.066368,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,3.1962757,3.3726842,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,6,1.8564262,2.6513538,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,2,0.7500957,4.4457936,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,1,2.6183565,2.9165354,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,3.5974965,2.1092157,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,4.032211,2.7861547,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,3.7227254,3.272232,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,2,1.1590265,5.7860622,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,1,4.267311,2.3408885,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,3.787296,5.108597,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,3.1153684,2.3786266,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,4,6.320889,4.182424,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,10,1.3219506,2.8110409,wind farm hvdc network offshor wind circuit breaker black start,offshor wind power grid system
-sci,10,1.4510921,3.4087236,wind farm hvdc network offshor wind circuit breaker black start,offshor wind power grid system
-sci,6,2.1434243,2.2685037,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,6,1.2975771,3.1551955,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,3,5.2606907,2.984177,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,6,2.0707808,2.7979882,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,1,2.5013037,1.9078525,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,3.8573818,2.8709445,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,2.1699848,5.2573466,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,4,5.9856124,4.3110833,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,2,0.43397593,3.3594668,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,3.0956883,4.119865,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,2.914942,3.264967,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,4.049602,2.8935313,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,1.6946957,4.8680043,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,2.4672952,2.8206058,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,2,0.036025144,4.517447,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,0.77108794,4.1870384,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,1,4.0425544,2.2057247,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,2.882317,2.0048015,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,3.0594535,2.2175603,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,3,5.233796,2.9325686,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,0,3.1780634,4.0414853,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,1.814428,4.9966106,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,6,1.7557253,3.1891,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,1,2.791132,2.6801977,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,5,4.964705,4.833554,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,1,4.2308903,2.7226899,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,4.1114345,2.1918278,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,3.799664,2.5067668,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,2.879788,2.4537141,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,3.639125,2.2168052,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,4.2268023,2.5350509,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,7,6.2919583,3.3360035,green hydrogen hydrogen product energi hub green hydrogen product hydrogen price,energi hydrogen offshor system wind
-sci,3,5.2253227,3.1958718,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,10,1.0757457,2.9980268,wind farm hvdc network offshor wind circuit breaker black start,offshor wind power grid system
-sci,0,1.9101865,5.0395007,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,3.3205516,2.4759564,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,3.3803315,4.9243546,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,3.1769786,2.0184367,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,2,0.48024517,5.013216,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,3.2003872,4.2433667,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,3.383454,1.9925734,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,9,3.9179668,1.2570735,wind farm krieger flak offshor wind kf cg north sea,offshor wind grid power model
-sci,1,4.218364,2.5116928,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,3.550035,2.4884062,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,1,3.965476,2.557779,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,2.3038714,3.6461103,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,3.4854085,2.624456,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,10,0.9408618,2.909023,wind farm hvdc network offshor wind circuit breaker black start,offshor wind power grid system
-sci,0,4.288937,5.4123106,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,3.8839436,5.8077183,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,3.4750247,5.5596933,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,4.5394125,5.332719,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,3,6.0410175,4.0625005,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,0,3.8316672,5.5148215,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,2.627857,4.589527,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,6,2.0895865,2.4934368,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,0,3.55428,5.4512873,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,3.6659045,5.2579694,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,3.1955643,2.477372,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,2,0.16824184,3.8398173,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,2,0.7139958,3.654483,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,4,5.690667,3.905137,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,1,3.6919737,2.279841,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,3.0806508,5.1715565,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,3.5939605,5.0577106,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,3.913087,5.7899055,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,3.5612779,5.5104523,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,2,0.42809582,3.7777033,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,3,5.919611,3.1093233,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,0,4.282561,5.4324026,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,3.2414782,2.3625946,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,4,5.938444,3.774981,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
-sci,3,4.9806576,4.0799966,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,1,4.345346,2.670914,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,3.799126,5.7546706,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,5,4.4852138,5.086744,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,0,3.7144516,5.1363187,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,1,3.6984844,2.4586413,north sea offshor grid energi secur baltic sea wind power,energi offshor grid wind power
-sci,0,3.6853523,5.048491,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,3.4897578,5.0146375,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,0,3.8684757,5.8206577,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,5,6.154439,4.5903316,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,0,3.651737,5.6170654,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,10,1.1109792,3.377804,wind farm hvdc network offshor wind circuit breaker black start,offshor wind power grid system
-sci,8,4.549532,1.3928746,transmiss grid energi island harmon distort artifici island renew energi,energi island grid harmon offshor
-sci,8,4.61451,1.9563526,transmiss grid energi island harmon distort artifici island renew energi,energi island grid harmon offshor
-sci,5,5.408252,4.888378,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,2,0.10950537,3.7603517,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,3.247031,5.5836315,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,5,5.126997,4.699951,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,5,4.446296,5.142412,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,0,3.877436,5.8386993,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,3,6.0816813,4.0847225,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,0,3.3288407,5.166893,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,5,5.556197,4.433115,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,0,3.8787959,5.8630443,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,2,0.86922,3.7745743,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,0,3.4803748,4.813192,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,5,6.097914,4.738958,oil ga co2 emiss power hub ga turbin offshor oil,energi power system offshor wind
-sci,0,3.753946,5.030728,energi island right reserv wave energi time seri distribut system,energi system power model optim
-sci,3,5.8069057,3.4147267,renew energi 100 renew energi 100 renew energi island energi sourc,energi system island power renew
-sci,2,0.6740329,3.8851252,vsc hvdc wind turbin high voltag hvdc system control strategi,grid wind power offshor control
-sci,6,2.009514,2.8878212,wind farm offshor wind offshor grid offshor wind farm transmiss system,offshor wind grid power farm
-sci,4,6.2410207,4.372612,small island renew energi energi sourc energi storag renew energi sourc,energi island system electr renew
+sci,0,3.5723581,6.428953,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,2,5.1070666,1.6976489,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,11,6.7509565,4.2019277,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
+sci,4,6.473237,3.1170993,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,12,6.8037915,2.1120203,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
+sci,6,4.440301,4.4748864,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,6,4.3218107,4.565458,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,0,5.1211534,6.4982557,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,12,6.4825525,1.8254547,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
+sci,8,8.231179,3.3797176,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,0,3.8535295,6.8270745,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,3.6402676,6.4340405,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,5.020874,6.0024695,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,8,8.381632,3.637143,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,0,4.0972657,6.347596,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,6,4.561101,4.538318,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,4,7.8747807,3.3976412,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,0,4.5900235,6.3990145,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,10,7.565633,3.8775313,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,8,8.38047,3.6040273,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,10,7.5058837,4.144403,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,11,6.490131,3.6816888,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
+sci,4,7.5830035,3.5081491,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,2,4.866476,2.172052,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,13,6.605286,5.4040694,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
+sci,2,5.578918,1.9216245,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,7,7.808609,4.484159,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,0,3.9821515,6.1335144,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,13,7.043475,5.8592978,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
+sci,9,4.239228,2.444385,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,3,6.2877407,4.695923,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,3,6.160108,5.1898046,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,2,5.101851,1.4289235,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,0,5.0552673,6.752977,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,4.961733,6.853053,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,2,5.282518,1.2441328,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,8,8.319705,3.7225218,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,8,8.3499,3.4585075,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,9,4.1660595,2.505025,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,6,4.362457,4.705338,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,4,7.206029,2.9695852,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,0,3.656004,6.7229915,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,8,8.255163,3.9206402,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,0,4.6090846,5.5855756,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,4,7.08957,3.1004767,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,4,7.664284,3.6529613,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,0,3.7237165,5.808685,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,5,6.557507,6.2973723,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,0,4.720669,6.086509,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,4.555152,6.173135,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,4,7.7863417,3.442163,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,0,3.7105997,6.725662,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,10,7.4234867,4.1722336,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,8,8.391592,3.5585763,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,2,4.330529,2.0606618,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,8,8.426005,3.648015,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,7,7.723535,4.935435,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,8,8.058083,3.7416496,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,7,7.7069716,4.6421485,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,1,5.624234,2.3841279,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,8,8.321753,3.6604505,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,3,5.85379,5.587956,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,0,4.818835,5.863785,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,4.7209344,5.367144,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,3,5.8919215,5.404405,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,14,4.4354405,2.9485424,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
+sci,0,3.3852816,6.682188,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,1,5.266957,2.2533953,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,3,6.3510456,4.471078,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,2,6.3574815,2.7471752,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,4,6.314576,3.0038974,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,10,7.999178,4.136114,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,10,7.848529,4.0760903,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,3,6.342409,4.682951,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,8,8.39127,3.76323,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,0,3.9478621,5.814064,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,8,8.578644,3.4320843,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,6,4.0377173,4.7975135,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,0,3.4756653,6.713589,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,2,4.7996516,1.2392029,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,8,8.388838,3.7114,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,12,6.151393,2.0405157,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
+sci,2,4.4303303,2.092255,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,1,5.246343,2.2423294,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,0,3.858589,6.7395115,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,4.7383084,5.894692,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,4.9805617,6.729063,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,4,7.30896,3.2545295,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,0,3.5504053,6.248214,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,2,4.534539,2.1569095,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,2,4.9711504,1.9342341,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,7,7.736637,3.8736951,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,0,3.5673902,5.661506,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,3,6.486286,4.410951,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,7,7.1154776,4.608625,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,1,5.36227,2.2524385,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,4,6.9667306,3.0233178,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,4,7.6530633,3.684354,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,12,6.6629786,1.9399077,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
+sci,10,7.9510875,4.2185483,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,12,6.5251937,1.7805202,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
+sci,8,8.424897,3.6955583,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,8,8.472018,3.7569985,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,7,7.497691,4.760659,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,9,4.126656,3.8506196,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,7,7.7308254,4.690185,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,11,6.748176,3.9536378,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
+sci,11,6.355049,4.0757546,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
+sci,0,5.158012,6.0281854,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,2,4.3491216,1.6264826,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,6,4.0140166,5.0073857,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,8,8.55397,3.5427468,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,11,5.7733197,3.9762912,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
+sci,11,6.2757454,4.0505924,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
+sci,1,4.9684863,2.1649678,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,6,4.059583,5.2035985,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,12,6.6524334,2.0876276,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
+sci,2,5.2895827,1.4427637,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,0,4.145455,6.848284,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,8,8.455221,3.3971314,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,7,6.728627,4.825968,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,5,6.4320636,6.1090746,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,8,8.433428,3.6667287,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,0,3.9704096,6.520636,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,1,5.6665897,1.5539694,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,1,5.7589993,2.5983098,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,3,5.735779,5.4718904,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,14,4.616622,2.9122517,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
+sci,0,5.014636,5.8739934,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,12,6.5925837,2.7244575,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
+sci,10,7.187218,4.2051787,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,3,6.316387,4.489796,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,10,7.1737046,4.354532,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,4,7.61232,3.5476708,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,4,7.277731,3.1715276,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,0,3.3809876,5.771065,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,3.629503,6.5791683,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,1,5.860758,2.9077024,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,6,4.344353,4.5419545,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,13,6.6468797,5.264965,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
+sci,12,6.554684,1.8263944,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
+sci,0,4.4452896,6.361367,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,2,6.3493004,3.4206378,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,2,6.1847825,3.357869,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,0,4.8605103,5.563874,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,2,4.341305,1.7782761,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,1,5.8328514,2.2482433,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,12,6.7149844,2.1299777,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
+sci,0,5.2818084,5.6690564,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,3.8370118,6.782715,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,10,7.7106924,4.446025,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,4,7.6322107,3.3029351,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,5,6.645398,6.461052,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,0,3.9469101,5.6960163,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,12,6.6228685,2.0146146,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
+sci,1,4.9669137,3.6229205,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,12,6.5978365,2.0222144,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
+sci,12,6.5253673,1.7935264,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
+sci,8,8.127782,3.5867193,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,2,5.7541137,1.789186,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,2,4.6988177,1.9436533,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,1,5.311148,2.0176075,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,0,4.7140446,5.4852257,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,13,6.9660172,5.4014473,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
+sci,12,6.4220676,2.132517,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
+sci,0,4.786879,5.733603,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,3,5.597012,4.9877305,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,3,6.2009735,4.417876,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,3,5.755159,5.446203,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,5,6.700746,6.478224,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,8,8.074403,3.938957,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,0,3.5074532,6.605809,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,4.3256216,5.91725,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,8,8.349918,3.9525018,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,4,7.2590775,3.1402974,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,0,4.314691,5.986219,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,2,5.173708,1.4602357,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,11,6.711144,4.142461,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
+sci,7,7.4924154,4.0595407,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,7,7.892422,4.793085,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,5,6.655357,6.4645047,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,3,6.2681155,4.4363613,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,7,7.6178327,4.030995,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,11,5.8568525,4.187458,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
+sci,0,4.524512,6.7870426,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,1,5.352153,2.0065258,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,10,7.483373,4.2028284,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,0,4.732926,5.552354,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,4,7.4862895,3.1823692,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,1,6.126069,1.7736859,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,1,5.4738717,2.0953403,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,6,3.6453571,4.6724977,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,11,6.735705,4.1234965,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
+sci,0,4.1378684,6.969474,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,3.5430293,6.528227,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,9,4.022839,3.5264652,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,3,6.1162257,4.3555207,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,3,5.840178,4.410796,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,11,5.8191056,4.0325084,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
+sci,3,6.2874274,4.4035177,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,13,6.9861135,5.461994,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
+sci,1,6.2204037,1.675143,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,3,5.672585,4.8621116,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,2,4.674625,1.4893929,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,14,4.4497776,2.9945474,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
+sci,1,5.04755,2.6068943,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,14,4.7298207,2.6647677,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
+sci,0,4.787093,5.861525,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,2,4.5624957,2.147627,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,4,7.2164087,3.514729,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,0,3.697693,6.216713,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,4.3424435,6.354971,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,3,5.6237235,4.5516944,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,11,6.197786,3.9746249,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
+sci,11,6.698686,4.1258965,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
+sci,11,6.5837193,4.2542357,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
+sci,3,5.2206693,4.4340315,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,0,4.7135615,5.875675,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,8,8.531494,3.4825115,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
+sci,0,4.92767,6.6819153,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,1,5.5431323,2.5160224,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,0,4.313112,6.2967625,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,3,5.526109,5.1201105,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,1,5.6087956,1.5699732,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,3,5.6392164,4.580514,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,0,4.225217,6.400099,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,11,5.774794,4.0291157,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
+sci,4,6.8202276,3.1586835,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,10,7.104805,4.2541904,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,9,4.3206134,3.1898632,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,4,7.503931,3.2178807,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,0,4.3342113,6.7975063,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,12,6.790183,1.9685249,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
+sci,1,5.429025,1.7400068,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,10,7.382019,3.8347306,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,2,4.7288914,1.7176887,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,7,7.75984,4.886184,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,0,3.490797,6.536419,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,1,5.2553525,2.720218,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,0,4.1980524,5.771643,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,1,5.3596654,2.866726,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,2,5.340601,1.4225366,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,0,4.5968423,6.6870127,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,3,6.158141,4.7123313,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,2,4.3808885,1.675215,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,0,3.6943018,5.63567,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,4.0162864,5.9609747,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,2,6.5919003,2.7889855,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,14,4.561061,2.771772,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
+sci,7,7.530375,4.8860645,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,3,5.8493567,4.431414,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,0,3.9191914,6.5617166,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,1,5.5424585,2.252488,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,0,4.731696,5.7629824,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,1,5.6600213,1.5100058,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,1,6.071119,1.5743481,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,0,4.2148395,6.6806746,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,4.587196,6.4101152,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,2,4.759091,1.9501675,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,4,7.420703,3.1889868,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,13,7.0278473,5.7623243,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
+sci,3,5.835347,5.635226,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,10,7.8413982,4.387139,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,0,3.7062175,6.6969457,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,2,4.251897,2.2122662,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,9,6.074198,2.456257,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,2,4.764632,1.6250093,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,0,3.4599419,5.6610394,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,14,4.299654,3.078526,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
+sci,2,5.681835,1.8287731,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,2,5.517249,1.7041651,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,3,5.2579737,5.1875706,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,0,3.5590715,6.620714,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,4.261765,7.181048,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,4.7294974,5.4192305,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,7,7.497454,4.826856,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,0,4.2402062,7.160155,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,3.853381,6.8865542,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,4,7.50569,3.1329958,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,13,5.466275,3.0400994,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
+sci,1,5.2172613,2.5865483,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,10,7.9450684,4.2556458,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,0,7.2996807,5.2165337,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,2,4.8860235,1.2028809,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,1,5.410842,2.4311383,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,4,6.9111753,3.0376709,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,0,4.297883,6.395137,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,1,5.6959243,1.5756171,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,11,6.7721667,4.005949,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
+sci,1,5.357483,1.9437302,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,3,5.685399,4.8913283,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,2,4.2907963,1.8883029,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,1,5.192327,2.8052788,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,4,7.4689975,3.1127129,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,6,3.7730365,4.577345,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,0,4.414108,6.746709,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,2,4.6070905,1.230396,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,0,4.5509057,6.286067,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,1,5.466626,2.0894196,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,0,3.6974998,5.9209175,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,4,7.6113276,3.2937667,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,0,3.476842,6.2743907,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,4.1591005,7.0996227,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,2,4.4213896,1.3943973,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,0,4.35428,6.7438655,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,4.0865464,6.367661,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,4.3885503,6.8716807,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,3.7760754,5.9317846,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,13,6.6937046,5.421807,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
+sci,4,7.5884247,3.4712906,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,3,5.924262,4.7910843,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,6,4.1442523,4.3336935,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,2,5.8832717,2.5234475,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,3,6.4085946,4.557297,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,0,4.3659997,6.202678,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,3,5.882373,5.2555814,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,1,4.9448056,2.0381453,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,1,5.574327,1.8329264,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,0,3.3881147,6.190467,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,3.8654635,6.6417546,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,9,4.103494,2.4454215,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,0,3.4930322,6.6549945,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,9,4.166379,3.6393015,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,12,6.777369,2.0673895,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
+sci,9,4.187293,3.7849345,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,4,7.602512,3.5150065,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,9,4.161495,3.6524196,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,0,4.121249,6.855791,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,3,5.8701735,4.7391434,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,0,3.777391,6.0397005,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,6,4.3317556,4.607898,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,6,3.9609802,5.175429,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,0,4.018018,6.1143208,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,3.2552545,6.56261,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,3.740744,6.587039,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,1,5.950928,3.04599,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,3,6.044931,4.6145334,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,0,3.447243,6.2113237,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,4.8774366,6.2272997,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,9,4.1687627,2.4110675,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,12,6.8448615,2.0202448,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
+sci,0,3.3650453,6.192146,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,4.3962636,6.3570375,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,3,5.140227,4.3325524,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,2,4.456149,1.2767204,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,0,5.0878606,5.963815,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,9,4.3335695,2.469166,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,1,5.6635027,1.5107782,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,0,4.6525846,6.482647,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,3.840462,6.2266083,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,1,5.770613,2.45865,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,6,4.515876,3.970379,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,0,4.0967054,6.384961,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,6,4.0973706,4.0598083,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,1,5.9988894,1.6052419,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,13,5.418327,3.006945,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
+sci,0,4.2554445,6.496902,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,7,7.2172275,4.71364,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,3,6.3425174,4.520162,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,3,6.2219114,4.532014,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,1,5.608103,1.8740534,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,0,4.7098694,6.8130574,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,2,4.810358,2.3648977,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,0,3.921828,6.176803,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,10,7.447329,4.194857,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,9,4.2279887,3.8103418,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,1,5.8736105,2.278178,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,1,5.13431,2.4913623,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,6,3.8733509,5.213126,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,0,3.3333323,6.7819743,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,4.0481396,6.6749063,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,13,7.2224474,5.265467,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
+sci,0,4.742057,6.8959413,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,5,6.450937,6.043438,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,2,4.4976816,1.5104305,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,13,6.992557,5.032953,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
+sci,13,6.7808137,5.496062,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
+sci,2,5.095439,1.8957244,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,10,7.914239,4.2117357,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,2,4.9062843,1.4124278,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,0,3.9161198,7.046696,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,6,4.0195565,4.8065076,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,0,3.5594296,6.587188,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,13,6.957445,5.079223,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
+sci,10,7.426935,4.317694,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,3,5.957761,5.6820807,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,6,3.915399,4.7462654,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,2,5.141796,1.7416863,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,2,4.9860144,1.642569,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,6,4.26124,4.571207,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,1,4.945642,2.3732343,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,10,7.4174314,3.9061482,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,0,3.3164022,6.6282125,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,3.2731054,5.8635225,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,1,5.9360657,1.550469,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,7,6.8000345,4.656695,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,1,5.419321,1.7550722,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,14,4.300559,3.111036,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
+sci,11,5.788766,3.5287018,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
+sci,9,6.241893,2.18606,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,0,3.3485734,6.328519,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,3.6063604,5.890104,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,7,6.9873586,4.7877307,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,11,6.5620146,4.252327,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
+sci,2,4.2894473,1.905417,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,6,3.8370674,5.2374406,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,0,4.537707,6.1617703,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,9,6.2862325,2.29634,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,14,4.315166,2.8313122,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
+sci,0,3.9948163,5.9322577,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,14,4.6199794,3.0133128,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
+sci,1,5.1591988,2.503816,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,1,5.340806,2.0910876,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,2,4.620646,1.1812676,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,0,4.495636,6.595897,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,2,4.9344845,1.2574656,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,13,6.7481647,5.7399554,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
+sci,2,4.7149878,1.4662021,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,7,7.797158,4.3247457,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,9,4.091338,3.674634,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,0,3.7110338,5.442495,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,14,4.3432093,2.8487546,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
+sci,14,4.2227807,2.5699942,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
+sci,1,5.0387793,2.6516404,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,0,3.2480412,5.8287926,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,6,3.9318423,4.2606425,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,11,6.8978095,4.353108,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
+sci,0,3.6685095,5.6025605,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,9,4.1158056,2.526168,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,1,5.2967157,2.8918455,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,12,6.163155,2.5240438,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
+sci,0,5.053708,6.044709,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,2,4.7544823,1.52346,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,0,4.0131035,6.3572536,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,3.8018217,6.112811,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,14,4.6603775,2.4759858,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
+sci,1,5.835121,2.1841836,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,2,4.9099493,1.5368392,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,9,4.1862583,2.3260186,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,6,4.066645,4.897288,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,6,4.110651,4.244405,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,2,5.0153494,1.5740274,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,0,3.2085545,5.9916267,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,1,5.4077554,2.3895528,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,1,5.0809574,2.348903,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,1,5.312899,2.1283388,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,13,6.695867,5.3798437,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
+sci,1,5.134758,2.5695436,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,1,5.2934313,3.3263078,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,7,7.9153132,3.9149761,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,10,7.110551,3.886073,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,9,4.0515323,3.7142363,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,6,4.283827,5.1331286,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,2,4.407725,1.2917181,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,11,6.7728076,3.9932876,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
+sci,2,4.5167956,2.4079275,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,0,4.774439,6.8729506,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,9,4.131537,3.640599,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,1,5.169897,2.0691407,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,1,5.1415854,3.6700256,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,1,5.279025,3.3709054,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,2,4.9073133,1.4192827,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,1,5.362431,2.2891788,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,6,4.1196933,4.3287582,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,2,5.013686,1.7556925,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,5,6.3125134,6.2728786,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,5,6.711335,6.47855,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,5,6.594272,6.233964,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,5,6.603846,6.0762944,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,7,7.619587,4.865781,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,5,6.774801,6.1495557,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,3,5.5501213,5.0775223,energy island power systems energy islands smart grid real time,energy power system systems grid
+sci,7,7.1118507,4.869173,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,14,4.6185226,2.6470726,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
+sci,5,6.8735824,6.2412534,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,5,6.64616,6.079295,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,2,4.8619504,1.2691624,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,0,3.7552187,6.657976,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,0,3.2275052,6.49333,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,10,8.000925,4.4627013,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,1,5.303094,2.3418436,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,5,6.424894,6.095905,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,5,6.4487762,5.786642,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,5,6.711745,6.480288,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,5,6.904267,6.0293927,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,0,3.4729664,6.6919613,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,7,7.191475,4.9517145,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,5,6.2779245,6.3001885,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,2,4.8781457,1.2112664,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,4,7.7158604,3.3263426,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,4,7.0625734,2.9428384,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,1,5.6027074,3.2469263,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
+sci,5,6.775325,6.560559,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,13,6.9994283,5.571282,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
+sci,5,6.5422926,5.982024,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,2,4.738812,1.197043,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,5,6.7019253,5.998179,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,5,6.3480964,6.0476975,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,5,6.666328,6.484571,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,7,7.555691,4.9293385,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,5,6.589811,6.34832,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,9,3.950902,3.1823976,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,2,4.433525,1.6934649,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
+sci,9,6.3648577,2.287208,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
+sci,7,7.7649684,3.8086455,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,0,3.315396,6.651966,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,5,6.5818367,6.364677,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,13,5.469702,3.9797049,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
+sci,13,6.8213944,5.6586857,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
+sci,5,6.694426,6.4448175,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,7,7.589024,4.9228196,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
+sci,5,6.3081613,6.120028,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,5,6.7573633,6.532814,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,6,3.6739266,5.0589194,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
+sci,14,4.3911047,2.9238708,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
+sci,12,6.559412,1.9593651,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
+sci,5,6.3905563,5.993754,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
+sci,4,7.1679378,3.397289,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
+sci,0,3.501997,6.770087,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
+sci,14,4.3987646,2.852726,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
+sci,10,7.213894,3.9352295,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
