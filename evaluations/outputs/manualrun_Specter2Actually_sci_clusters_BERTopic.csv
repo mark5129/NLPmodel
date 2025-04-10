@@ -1,481 +1,530 @@
 Source,cluster,x,y,TF_IDF_topic_name,BERTopic_topic_name
-sci,0,1.574026,-7.741751,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,9,4.209855,-3.8786411,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,11,7.4200697,-3.598634,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,6,6.8394175,-4.631332,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,11,6.9455314,-4.4145617,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,7,5.7866173,-5.6323977,long term plan model north sea power system grid north sea,energi system power model cost
-sci,4,4.612077,-4.9047675,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,9,7.8938155,-5.1199965,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,14,5.4399476,-4.4394183,transmiss grid harmon distort super grid north sea countri offshor grid,grid energi transmiss harmon offshor
-sci,8,6.446192,-3.7860398,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,9,8.281583,-4.4645905,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,0,2.036087,-7.635301,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,0,2.0471847,-7.9712605,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,1,2.2563326,-8.251945,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,9,8.051065,-4.271936,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,0,1.9217229,-8.283809,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,4,5.1768136,-3.459589,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,6,7.183268,-4.5906334,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,9,8.214223,-4.263437,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,8,6.2976217,-3.714895,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,11,7.4731674,-3.9064674,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,8,6.4230704,-3.5212321,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,10,7.174508,-5.1093717,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,9,8.453969,-4.5972033,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,2,3.0404887,-4.883228,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,8,6.4965196,-3.825044,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,12,7.5992,-4.6345716,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,3,2.321179,-7.4174476,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,15,7.350446,-2.3208177,energi island right reserv qd growth ion implant low energi,energi island growth 111 grain
-sci,14,5.3276443,-3.661755,transmiss grid harmon distort super grid north sea countri offshor grid,grid energi transmiss harmon offshor
-sci,12,7.0026298,-5.2516546,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,4,4.3046136,-3.8014324,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,14,5.7584143,-4.3402357,transmiss grid harmon distort super grid north sea countri offshor grid,grid energi transmiss harmon offshor
-sci,9,7.905546,-4.5524297,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,9,8.325732,-4.5158424,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,4,4.749172,-3.7227542,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,8,6.729269,-3.854158,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,0,2.1379144,-7.734491,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,9,8.293199,-4.525846,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,1,2.9724185,-7.5565205,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,6,7.3027744,-4.744315,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,8,6.4343486,-3.7981594,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,10,7.3633223,-4.963642,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,0,1.8267442,-7.9217377,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,5,6.715706,-2.050478,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,3,2.342803,-7.631527,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,1,2.6557717,-7.7056646,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,11,7.286842,-4.01533,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,1,2.5952542,-7.1429744,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,4,4.7104187,-4.63537,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,9,8.335306,-4.540344,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,4,4.5584273,-4.8739386,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,9,8.335399,-4.454204,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,1,2.6816027,-7.458758,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,10,7.5117016,-5.0809526,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,12,7.6477532,-4.7418723,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,6,6.334359,-4.820749,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,9,8.116563,-4.1928644,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,7,5.6931686,-5.6040134,long term plan model north sea power system grid north sea,energi system power model cost
-sci,12,6.2309737,-5.7484894,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,1,2.7691307,-7.3214107,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,7,5.0384665,-6.062262,long term plan model north sea power system grid north sea,energi system power model cost
-sci,3,1.6968958,-6.741328,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,8,6.1854234,-3.5861259,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,3,2.0557246,-7.3932037,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,13,3.9462276,-4.342271,offshor wind offshor grid wind farm onshor grid baltic sea,offshor grid wind system power
-sci,12,6.8854756,-5.307947,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,6,6.633712,-4.895917,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,6,6.8472695,-4.801755,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,11,7.1718655,-4.171689,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,11,7.188829,-3.9316738,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,7,5.326135,-5.9229684,long term plan model north sea power system grid north sea,energi system power model cost
-sci,7,4.891852,-4.8325567,long term plan model north sea power system grid north sea,energi system power model cost
-sci,9,8.442048,-4.6449127,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,1,2.7761354,-7.4166627,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,9,8.038079,-4.424775,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,0,1.796878,-8.137078,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,7,4.8807244,-5.3325915,long term plan model north sea power system grid north sea,energi system power model cost
-sci,9,8.359172,-4.470706,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,4,4.813829,-3.7057285,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,13,3.6981668,-4.8544083,offshor wind offshor grid wind farm onshor grid baltic sea,offshor grid wind system power
-sci,2,3.1827877,-4.9038863,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,1,2.2248902,-8.06407,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,1,2.421669,-8.329332,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,2,3.0923538,-5.206105,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,10,7.3319664,-4.795762,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,1,2.8380923,-7.7633576,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,12,6.1721406,-5.4866896,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,6,6.8327894,-4.2736044,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,8,6.618832,-3.9941635,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,6,6.714677,-4.7308135,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,0,1.9969587,-8.408652,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,12,6.338421,-5.49101,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,10,7.3534417,-5.212434,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,2,3.0420563,-6.0048585,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,11,6.7027297,-3.1339936,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,6,6.974619,-4.3042793,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,0,1.903011,-8.388215,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,8,6.4078965,-3.8251894,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,14,5.3422365,-4.4812284,transmiss grid harmon distort super grid north sea countri offshor grid,grid energi transmiss harmon offshor
-sci,9,8.393677,-4.607145,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,9,8.189638,-4.6825705,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,12,7.444652,-4.7963476,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,2,2.7881339,-5.550555,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,12,7.8261814,-4.6915073,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,8,6.485129,-4.112244,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,13,4.0628996,-4.2753277,offshor wind offshor grid wind farm onshor grid baltic sea,offshor grid wind system power
-sci,2,2.9785352,-4.9022937,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,9,8.045008,-4.2665324,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,8,6.598354,-4.194776,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,2,3.3918633,-4.5913315,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,3,2.1616273,-7.4362597,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,9,8.065647,-4.2156925,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,9,8.0621395,-4.226151,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,0,1.8810123,-8.080126,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,9,8.324167,-4.5184503,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,11,7.379988,-3.749356,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,5,6.7715445,-2.001654,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,9,8.326764,-4.5591807,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,3,1.3771257,-7.274911,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,10,6.351902,-5.2328534,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,5,6.7428617,-2.3188584,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,2,3.343783,-5.2031407,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,1,2.4682963,-7.891219,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,8,6.470598,-3.4659326,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,1,2.7204041,-8.052504,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,7,5.85275,-5.746998,long term plan model north sea power system grid north sea,energi system power model cost
-sci,8,6.5098357,-3.4523299,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,11,7.1043353,-4.675117,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,0,1.4427004,-8.291521,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,0,1.4351742,-7.732335,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,6,6.61582,-4.3589015,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,13,3.8755405,-4.3680215,offshor wind offshor grid wind farm onshor grid baltic sea,offshor grid wind system power
-sci,6,6.7333694,-4.5211854,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,4,4.243149,-4.437448,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,8,6.442815,-3.8184662,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,8,6.332951,-3.8995278,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,12,7.6137075,-4.0628633,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,12,6.335907,-5.6731176,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,2,3.295246,-4.6758304,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,8,6.4332013,-3.7364895,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,8,6.5194206,-3.978206,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,1,3.1666834,-7.768175,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,0,1.9717325,-8.145061,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,9,7.7233233,-4.422442,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,15,7.3572936,-2.020539,energi island right reserv qd growth ion implant low energi,energi island growth 111 grain
-sci,0,1.7391102,-8.525529,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,5,6.038257,-2.6426477,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,3,1.6127441,-6.870538,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,14,5.180625,-4.30368,transmiss grid harmon distort super grid north sea countri offshor grid,grid energi transmiss harmon offshor
-sci,14,5.4267406,-4.487749,transmiss grid harmon distort super grid north sea countri offshor grid,grid energi transmiss harmon offshor
-sci,6,6.0624566,-4.06965,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,13,4.1233244,-4.0920196,offshor wind offshor grid wind farm onshor grid baltic sea,offshor grid wind system power
-sci,7,4.7875743,-5.1855373,long term plan model north sea power system grid north sea,energi system power model cost
-sci,1,2.6426141,-7.939133,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,6,6.8168435,-4.7215686,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,1,2.4216495,-8.018301,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,10,7.083438,-4.982963,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,15,7.354577,-1.9889789,energi island right reserv qd growth ion implant low energi,energi island growth 111 grain
-sci,10,7.482861,-5.245371,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,0,1.7027922,-8.20927,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,9,7.9835725,-4.464252,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,10,7.147544,-4.9750733,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,1,2.4943724,-7.992379,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,9,8.264192,-4.475779,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,11,7.3590174,-3.8691423,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,10,6.608924,-5.21288,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,15,7.400152,-2.0445511,energi island right reserv qd growth ion implant low energi,energi island growth 111 grain
-sci,10,6.4338603,-5.392277,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,10,7.0495114,-5.5535235,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,7,5.1416616,-5.1595006,long term plan model north sea power system grid north sea,energi system power model cost
-sci,3,2.2040362,-7.754041,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,6,6.0325723,-4.6221385,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,10,7.448959,-4.9595637,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,1,3.2584534,-8.102949,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,6,6.955347,-4.785905,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,2,2.7540145,-5.2463107,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,6,6.0091715,-4.457302,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,1,2.3086872,-6.9495482,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,11,7.0907264,-3.2249446,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,12,7.6239605,-4.2703624,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,3,1.6070434,-7.372309,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,1,2.4312758,-7.547918,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,7,5.5638347,-5.356635,long term plan model north sea power system grid north sea,energi system power model cost
-sci,8,6.4903727,-3.8713074,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,10,6.4028625,-5.094615,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,6,6.823778,-4.702421,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,7,5.4262877,-5.429397,long term plan model north sea power system grid north sea,energi system power model cost
-sci,4,4.287534,-4.022391,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,3,1.7265302,-7.075286,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,2,3.1810737,-5.034841,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,2,3.4214456,-5.2277617,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,1,2.7539544,-8.015869,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,4,4.7712364,-4.1288166,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,12,6.263136,-5.573068,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,0,1.6916449,-7.963499,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,0,2.0817802,-7.941837,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,12,6.209676,-5.588334,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,7,5.896745,-5.2313232,long term plan model north sea power system grid north sea,energi system power model cost
-sci,5,7.3811936,-2.7782764,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,12,6.321931,-5.52387,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,1,2.7839272,-8.098793,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,13,3.9824808,-4.843049,offshor wind offshor grid wind farm onshor grid baltic sea,offshor grid wind system power
-sci,0,1.8939098,-8.539284,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,1,2.3032222,-8.3041935,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,13,3.7721143,-4.2782393,offshor wind offshor grid wind farm onshor grid baltic sea,offshor grid wind system power
-sci,1,2.4247787,-7.790787,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,8,6.571682,-3.9189813,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,6,6.668775,-4.714242,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,11,7.0910687,-3.9338632,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,4,5.17117,-3.3983498,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,6,6.902548,-4.9093914,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,15,7.3614855,-2.1162317,energi island right reserv qd growth ion implant low energi,energi island growth 111 grain
-sci,8,6.450809,-3.585696,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,4,4.2243123,-4.0002584,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,10,7.088028,-4.875877,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,4,4.5076146,-3.9875982,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,12,7.631322,-4.5216885,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,0,2.1065824,-7.7510066,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,1,2.8310034,-7.3700986,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,0,1.5627203,-8.213614,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,1,2.1428604,-7.3992696,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,6,6.417846,-4.2518787,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,1,2.3544118,-8.298979,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,7,5.9983635,-5.473412,long term plan model north sea power system grid north sea,energi system power model cost
-sci,4,4.4463935,-4.0875945,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,3,1.4513036,-7.0574117,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,0,2.0466049,-7.7990017,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,12,7.621791,-4.3412337,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,6,6.4120607,-4.8367095,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,2,3.2239313,-4.826172,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,12,7.2119255,-4.9509225,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,0,1.6049805,-8.424663,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,13,3.9380095,-4.3750873,offshor wind offshor grid wind farm onshor grid baltic sea,offshor grid wind system power
-sci,1,2.7253928,-8.05476,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,2,2.4641085,-5.930016,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,2,2.5832655,-5.330962,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,0,1.7110233,-8.425762,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,1,2.5589123,-7.8727946,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,13,4.183677,-4.4193974,offshor wind offshor grid wind farm onshor grid baltic sea,offshor grid wind system power
-sci,6,7.090514,-4.6272883,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,5,6.80043,-1.9358308,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,12,7.6662364,-4.185304,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,5,6.8173003,-2.1286097,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,10,7.2015123,-5.238864,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,8,6.5412135,-3.823973,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,0,1.5723447,-8.101401,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,4,4.463124,-4.479318,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,4,4.64523,-3.9460804,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,3,1.6881213,-6.930656,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,2,2.6238413,-5.6422963,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,14,5.453723,-4.2097907,transmiss grid harmon distort super grid north sea countri offshor grid,grid energi transmiss harmon offshor
-sci,6,5.728196,-4.0209446,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,3,1.8990833,-7.434679,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,1,2.271196,-6.8361964,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,1,2.783721,-7.898799,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,12,7.542654,-4.6006455,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,0,1.6127107,-7.6238,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,0,1.8357595,-8.2926655,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,3,1.5994493,-6.817181,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,1,2.349759,-7.2515125,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,0,1.5806739,-8.4721155,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,9,8.093219,-4.2193055,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
-sci,11,7.3952622,-3.8785312,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,13,3.8792396,-4.955132,offshor wind offshor grid wind farm onshor grid baltic sea,offshor grid wind system power
-sci,1,2.8599496,-7.771178,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,8,6.6015024,-4.1310554,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,0,1.6887116,-8.425941,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,6,5.749222,-4.5320716,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,5,7.4495063,-3.502798,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,13,3.7534337,-4.385363,offshor wind offshor grid wind farm onshor grid baltic sea,offshor grid wind system power
-sci,2,3.7629592,-5.83303,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,1,2.4098978,-7.4439497,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,2,2.9442644,-5.8259287,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,6,6.721542,-4.1982923,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,0,2.052739,-7.3955665,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,1,2.627891,-7.592169,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,7,5.445054,-5.173288,long term plan model north sea power system grid north sea,energi system power model cost
-sci,0,2.0526483,-8.650964,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,14,5.1187377,-3.9795468,transmiss grid harmon distort super grid north sea countri offshor grid,grid energi transmiss harmon offshor
-sci,6,6.761118,-4.391561,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,3,2.2029512,-7.5721164,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,0,1.46436,-7.560161,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,4,4.4168243,-4.52157,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,0,1.6835519,-8.3736925,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,0,1.803241,-8.481588,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,3,1.9361783,-7.4893036,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,3,1.6268382,-7.316486,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,2,3.145947,-4.754534,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,10,6.439862,-5.4391255,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,7,5.6274867,-5.4459324,long term plan model north sea power system grid north sea,energi system power model cost
-sci,1,2.9053183,-7.5926046,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,6,6.098545,-4.070595,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,10,6.784707,-5.742737,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,2,2.9264183,-5.780541,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,0,1.7276301,-8.350534,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,4,4.265732,-3.8351421,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,1,2.4334056,-7.1380653,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,0,1.6077882,-7.972171,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,4,4.7498136,-3.654978,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,3,1.7751507,-6.9757977,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,14,5.0131893,-3.941409,transmiss grid harmon distort super grid north sea countri offshor grid,grid energi transmiss harmon offshor
-sci,8,6.527111,-3.4731731,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,11,7.10792,-4.5323133,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,1,2.7101767,-6.9145827,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,0,1.7804422,-8.430226,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,7,5.4581685,-5.45104,long term plan model north sea power system grid north sea,energi system power model cost
-sci,3,1.7731752,-7.4876604,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,4,4.5165625,-4.90401,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,0,1.8663504,-7.9338026,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,3,2.7804213,-8.124802,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,0,1.7924467,-7.879358,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,6,6.6625714,-5.2045655,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,7,5.584067,-5.476722,long term plan model north sea power system grid north sea,energi system power model cost
-sci,1,2.4112449,-7.0779667,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,7,4.942134,-5.434842,long term plan model north sea power system grid north sea,energi system power model cost
-sci,4,4.7533865,-3.6456947,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,8,6.5186934,-3.3521123,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,3,1.6360565,-6.830345,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,1,2.3419185,-7.9356923,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,7,5.8218527,-5.4386463,long term plan model north sea power system grid north sea,energi system power model cost
-sci,7,5.3817034,-5.8072386,long term plan model north sea power system grid north sea,energi system power model cost
-sci,4,4.169228,-4.089045,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,4,4.8424697,-4.119338,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,2,2.5940647,-5.868148,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,0,2.1380138,-8.598661,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,3,2.3159976,-7.7201667,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,7,5.418769,-5.396246,long term plan model north sea power system grid north sea,energi system power model cost
-sci,13,3.7235758,-4.616542,offshor wind offshor grid wind farm onshor grid baltic sea,offshor grid wind system power
-sci,3,1.7550333,-7.3848176,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,6,6.5237627,-4.421384,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,4,5.031612,-3.558778,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,3,1.5328923,-6.80136,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,0,1.8592128,-8.408029,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,7,4.993642,-5.4182115,long term plan model north sea power system grid north sea,energi system power model cost
-sci,13,3.92173,-4.3028097,offshor wind offshor grid wind farm onshor grid baltic sea,offshor grid wind system power
-sci,1,2.2553976,-7.416249,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,4,4.0667224,-4.761444,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,3,1.7499949,-7.2351465,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,12,6.5356054,-5.494688,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,11,6.187367,-3.0199609,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,2,2.8514051,-5.2273974,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,2,2.643008,-5.5938454,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,3,1.2422,-7.41227,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,0,1.5881121,-8.46913,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,5,7.376393,-2.6602392,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,1,2.4214325,-8.08086,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,5,6.759321,-2.0053315,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,4,4.840075,-3.7546546,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,10,7.3378553,-5.335724,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,5,6.526968,-2.2571898,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,4,4.7240496,-3.824236,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,6,7.2851706,-4.465233,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,4,4.0946264,-4.7831216,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,3,2.0223987,-7.4259205,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,1,2.3649626,-8.277205,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,3,1.2651051,-7.318728,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,0,1.4714637,-7.8562503,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,12,7.561782,-4.4870872,heat recoveri power hub multi object optim schedul energi storag,energi system oper optim power
-sci,5,6.609158,-2.2974653,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,2,3.9567878,-5.864461,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,13,3.5585203,-4.4522576,offshor wind offshor grid wind farm onshor grid baltic sea,offshor grid wind system power
-sci,2,3.8129892,-5.969682,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,11,7.1136837,-4.7947507,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,3,1.9699199,-7.225503,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,3,1.3259394,-7.4053817,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,7,5.212955,-6.4773097,long term plan model north sea power system grid north sea,energi system power model cost
-sci,14,4.9545197,-4.0942664,transmiss grid harmon distort super grid north sea countri offshor grid,grid energi transmiss harmon offshor
-sci,14,5.3771214,-4.013503,transmiss grid harmon distort super grid north sea countri offshor grid,grid energi transmiss harmon offshor
-sci,3,1.7290372,-7.358804,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,7,5.1981263,-6.4739227,long term plan model north sea power system grid north sea,energi system power model cost
-sci,7,5.802638,-5.2695875,long term plan model north sea power system grid north sea,energi system power model cost
-sci,4,4.4363685,-4.8919663,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,2,3.735041,-6.3320494,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,0,2.1491296,-8.653875,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,14,5.45066,-4.1871824,transmiss grid harmon distort super grid north sea countri offshor grid,grid energi transmiss harmon offshor
-sci,2,3.016654,-5.315766,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,1,2.709124,-7.2139516,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,2,2.7217958,-5.3391795,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,14,5.1594176,-4.0723047,transmiss grid harmon distort super grid north sea countri offshor grid,grid energi transmiss harmon offshor
-sci,5,6.742059,-2.258921,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,10,7.4120245,-5.3353114,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,1,2.2663236,-7.051536,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,2,3.8748178,-5.1984115,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,5,5.9904695,-2.9277284,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,4,4.408424,-4.9340577,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,4,4.406846,-4.25326,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,11,7.0325317,-4.5386667,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,3,1.7752227,-7.401395,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,4,4.638881,-3.8104792,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,2,3.219988,-5.0254836,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,14,5.37762,-4.0663667,transmiss grid harmon distort super grid north sea countri offshor grid,grid energi transmiss harmon offshor
-sci,0,1.9631962,-8.594084,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,2,3.1425927,-4.890647,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,3,1.8109143,-7.193021,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,13,4.0839295,-4.294068,offshor wind offshor grid wind farm onshor grid baltic sea,offshor grid wind system power
-sci,5,6.0721183,-2.5645382,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,13,3.7180898,-4.452314,offshor wind offshor grid wind farm onshor grid baltic sea,offshor grid wind system power
-sci,4,4.903874,-3.8154032,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,1,2.3971727,-8.301907,vsc hvdc hvdc system hvdc grid dc grid new energi,grid power system control offshor
-sci,2,3.8053188,-5.9650784,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,13,3.6351902,-4.6432433,offshor wind offshor grid wind farm onshor grid baltic sea,offshor grid wind system power
-sci,3,1.9423481,-7.040868,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,10,6.7611604,-5.733424,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,6,6.074536,-4.470421,renew energi energi system energi secur electr demand energi polici,energi island system renew electr
-sci,2,3.0458472,-4.743954,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,2,3.2847292,-4.692734,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,3,1.9133877,-7.448552,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,10,7.5317154,-5.215984,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,10,7.266197,-5.3922906,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,2,3.5879624,-5.998179,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,7,5.0890803,-6.507832,long term plan model north sea power system grid north sea,energi system power model cost
-sci,2,3.0273223,-6.0960116,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,8,6.532357,-3.4028046,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
-sci,13,4.034137,-4.3969984,offshor wind offshor grid wind farm onshor grid baltic sea,offshor grid wind system power
-sci,0,1.5386412,-8.023646,wind turbin convert control time domain voltag control hvdc convert,control convert system power offshor
-sci,7,5.4427247,-5.4423046,long term plan model north sea power system grid north sea,energi system power model cost
-sci,13,3.8486304,-4.2794175,offshor wind offshor grid wind farm onshor grid baltic sea,offshor grid wind system power
-sci,3,1.8204497,-7.512641,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,3,1.8584777,-7.556841,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,2,3.049684,-5.9450326,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,14,5.0619435,-4.0220537,transmiss grid harmon distort super grid north sea countri offshor grid,grid energi transmiss harmon offshor
-sci,2,3.7550964,-6.146132,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,14,5.1191545,-4.065521,transmiss grid harmon distort super grid north sea countri offshor grid,grid energi transmiss harmon offshor
-sci,2,2.8094738,-5.3970337,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,5,6.63606,-1.9827883,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,15,7.3631845,-1.9953445,energi island right reserv qd growth ion implant low energi,energi island growth 111 grain
-sci,15,7.348841,-1.9811367,energi island right reserv qd growth ion implant low energi,energi island growth 111 grain
-sci,11,6.5111117,-2.965292,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,5,7.43057,-2.885961,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,5,7.058941,-1.9787507,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,5,7.2220435,-2.5429425,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,2,3.1906786,-4.895167,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,15,7.0861506,-2.34175,energi island right reserv qd growth ion implant low energi,energi island growth 111 grain
-sci,5,6.9978437,-1.9339995,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,2,3.4768314,-4.727061,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,3,1.5721388,-7.4387836,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,3,1.2816089,-7.681494,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,5,6.9666915,-2.6038668,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,2,3.144096,-4.759697,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,5,6.9279194,-2.136724,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,5,6.7490883,-2.1134791,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,15,7.385129,-1.9666258,energi island right reserv qd growth ion implant low energi,energi island growth 111 grain
-sci,5,7.134301,-2.4579628,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,3,1.2759824,-7.456895,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,15,7.2862597,-2.2787368,energi island right reserv qd growth ion implant low energi,energi island growth 111 grain
-sci,5,6.7707086,-1.8947912,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,2,3.26852,-4.801471,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,10,7.5259156,-5.0288787,renew energi distribut gener solar wind energi storag energi system,energi system island renew electr
-sci,11,7.197648,-4.4160833,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,15,7.3384776,-1.9339657,energi island right reserv qd growth ion implant low energi,energi island growth 111 grain
-sci,5,6.7694907,-2.5578613,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,5,6.924575,-1.9345598,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,4,4.3244824,-3.8264937,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,5,6.8423967,-2.3513026,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,5,6.849751,-1.8709779,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,15,7.400498,-1.9552262,energi island right reserv qd growth ion implant low energi,energi island growth 111 grain
-sci,5,7.3788266,-2.7163188,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,15,7.3835273,-1.9494157,energi island right reserv qd growth ion implant low energi,energi island growth 111 grain
-sci,4,4.5190334,-4.3517118,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,4,4.639675,-3.6605868,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,4,4.5685935,-4.3391724,offshor wind north sea offshor grid offshor wind energi legal framework,offshor grid wind develop energi
-sci,11,7.2254677,-3.611459,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,3,1.4146591,-7.287843,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,15,7.412109,-2.1008723,energi island right reserv qd growth ion implant low energi,energi island growth 111 grain
-sci,5,6.9577103,-2.6333601,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,5,6.9332247,-2.6299133,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,15,7.3616924,-1.8967686,energi island right reserv qd growth ion implant low energi,energi island growth 111 grain
-sci,5,7.424561,-2.8655305,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,5,6.814213,-1.881254,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,11,7.4207563,-3.561125,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,15,7.2439055,-2.0894544,energi island right reserv qd growth ion implant low energi,energi island growth 111 grain
-sci,3,1.3017703,-7.739852,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,11,6.7310185,-3.0461814,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,11,7.211344,-3.5133913,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,5,6.784743,-1.9194474,energi island wave energi numer model grid space 2011 ieee,energi island wave grid use
-sci,11,7.4596853,-3.6500106,renew energi energi island energi energi energi consumpt energi convers,energi island system power renew
-sci,3,1.2704432,-7.7477064,offshor ac reactiv power vsc hvdc wind power plant sourc convert,power offshor grid wind control
-sci,2,3.3472214,-4.802028,wind farm offshor wind wind power offshor grid offshor wind power,offshor wind grid power system
-sci,8,6.3398633,-3.9478958,sustain energi energi island energi commun energi transit renew energi,energi island transit sustain paper
+sci,0,1.574026,-7.741751,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,6,4.209855,-3.8786411,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,7,7.4200697,-3.598634,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,10,6.8394175,-4.631332,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,7,6.9455314,-4.4145617,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,1,4.2933464,-5.725375,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,2,5.7866173,-5.6323977,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,1,4.612077,-4.9047675,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,6,7.8938155,-5.1199965,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,1,5.4399476,-4.4394183,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,4,6.446192,-3.7860398,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,6,8.281583,-4.4645905,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,0,2.036087,-7.635301,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.0471847,-7.9712605,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.2563326,-8.251945,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,6,8.051065,-4.271936,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,0,1.9217229,-8.283809,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,5.1768136,-3.459589,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,1,4.997043,-4.80667,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,2.5022845,-8.540727,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,10,7.183268,-4.5906334,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,6,8.214223,-4.263437,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,4,6.2976217,-3.714895,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,7,7.4731674,-3.9064674,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,8,7.174508,-5.1093717,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,6,8.453969,-4.5972033,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,3,3.0404887,-4.883228,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,4,6.4965196,-3.825044,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,2,7.5992,-4.6345716,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,0,2.321179,-7.4174476,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,5,7.350446,-2.3208177,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,1,5.3276443,-3.661755,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,3.2841558,-8.161469,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,7.0026298,-5.2516546,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,1,4.3046136,-3.8014324,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,4.057231,-6.700043,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.457084,-8.525356,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,5.7584143,-4.3402357,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,6,7.905546,-4.5524297,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,6,8.325732,-4.5158424,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,1,4.749172,-3.7227542,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,1,4.214342,-4.9148116,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,4,6.729269,-3.854158,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,0,2.1379144,-7.734491,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,6,8.293199,-4.525846,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,0,2.9724185,-7.5565205,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,10,7.3027744,-4.744315,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,4,6.4343486,-3.7981594,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,8,7.3633223,-4.963642,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,0,1.8267442,-7.9217377,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,9,6.715706,-2.050478,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,0,2.342803,-7.631527,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.6557717,-7.7056646,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,7,7.286842,-4.01533,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,0,2.5952542,-7.1429744,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,4.7104187,-4.63537,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,6,8.335306,-4.540344,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,1,4.5584273,-4.8739386,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,6,8.335399,-4.454204,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,0,2.6816027,-7.458758,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,8,7.5117016,-5.0809526,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,2,7.6477532,-4.7418723,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,10,6.334359,-4.820749,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,6,8.116563,-4.1928644,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,2,5.6931686,-5.6040134,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,2,6.2309737,-5.7484894,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,0,2.7691307,-7.3214107,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,5.0384665,-6.062262,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,0,1.6968958,-6.741328,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,4,6.1854234,-3.5861259,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,0,2.0557246,-7.3932037,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,3.9462276,-4.342271,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,2,6.8854756,-5.307947,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,10,6.633712,-4.895917,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,10,6.8472695,-4.801755,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,7,7.1718655,-4.171689,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,7,7.188829,-3.9316738,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,2,5.326135,-5.9229684,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,2,4.891852,-4.8325567,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,6,8.442048,-4.6449127,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,0,2.7761354,-7.4166627,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,6,8.038079,-4.424775,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,0,2.4729972,-8.267258,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.796878,-8.137078,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,4.8807244,-5.3325915,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,6,8.359172,-4.470706,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,1,4.813829,-3.7057285,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,1,3.6981668,-4.8544083,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,3,3.1827877,-4.9038863,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,0,2.2248902,-8.06407,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.421669,-8.329332,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.6329696,-8.486968,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,3,3.0923538,-5.206105,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,8,7.3319664,-4.795762,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,0,2.8380923,-7.7633576,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,6.1721406,-5.4866896,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,4,6.8327894,-4.2736044,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,4,6.618832,-3.9941635,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,10,6.714677,-4.7308135,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,0,1.9969587,-8.408652,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,6.338421,-5.49101,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,8,7.3534417,-5.212434,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,3,3.0420563,-6.0048585,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,7,6.7027297,-3.1339936,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,10,6.974619,-4.3042793,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,0,1.903011,-8.388215,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,4,6.4078965,-3.8251894,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,1,5.3422365,-4.4812284,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,6,8.393677,-4.607145,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,6,8.189638,-4.6825705,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,2,7.444652,-4.7963476,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,3,2.7881339,-5.550555,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,2,7.8261814,-4.6915073,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,4,6.485129,-4.112244,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,0,3.0801353,-8.424133,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,4.0628996,-4.2753277,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,3,2.9785352,-4.9022937,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,6,8.045008,-4.2665324,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,4,6.598354,-4.194776,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,3,3.3918633,-4.5913315,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,0,2.1616273,-7.4362597,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,6,8.065647,-4.2156925,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,6,8.0621395,-4.226151,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,0,1.8810123,-8.080126,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,6,8.324167,-4.5184503,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,7,7.379988,-3.749356,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,9,6.7715445,-2.001654,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,6,8.326764,-4.5591807,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,0,1.3771257,-7.274911,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.2490482,-6.4695525,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,8,6.351902,-5.2328534,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,9,6.7428617,-2.3188584,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,3,3.343783,-5.2031407,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,0,2.4682963,-7.891219,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.7204041,-8.052504,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,5.85275,-5.746998,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,0,2.535435,-8.611906,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,7,7.1043353,-4.675117,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,0,1.4427004,-8.291521,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.4351742,-7.732335,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,4,6.61582,-4.3589015,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,1,3.8755405,-4.3680215,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,10,6.7333694,-4.5211854,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,1,4.243149,-4.437448,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,3.4026985,-7.472309,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,4,6.442815,-3.8184662,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,4,6.332951,-3.8995278,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,2,7.6137075,-4.0628633,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,2,6.335907,-5.6731176,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,3,3.295246,-4.6758304,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,4,6.4332013,-3.7364895,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,4,6.5194206,-3.978206,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,0,3.1666834,-7.768175,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.9717325,-8.145061,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,6,7.7233233,-4.422442,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,0,3.2799377,-7.4416895,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,5,7.3572936,-2.020539,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,0,1.7391102,-8.525529,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,9,6.038257,-2.6426477,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,0,1.6127441,-6.870538,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,5.180625,-4.30368,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,1,5.4267406,-4.487749,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,1,5.4073963,-3.2148476,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,4,6.0624566,-4.06965,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,1,4.1233244,-4.0920196,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,2,4.7875743,-5.1855373,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,0,2.6426141,-7.939133,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,10,6.8168435,-4.7215686,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,1,5.59481,-3.4917164,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,2.4216495,-8.018301,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,3.1556222,-7.204185,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,8,7.083438,-4.982963,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,5,7.354577,-1.9889789,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,8,7.482861,-5.245371,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,0,1.7027922,-8.20927,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.873026,-8.373484,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,6,7.9835725,-4.464252,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,8,7.147544,-4.9750733,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,0,2.4943724,-7.992379,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,6,8.264192,-4.475779,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,7,7.3590174,-3.8691423,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,0,3.2362897,-8.272487,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,8,6.608924,-5.21288,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,5,7.400152,-2.0445511,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,8,6.4338603,-5.392277,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,8,7.0495114,-5.5535235,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,2,5.1416616,-5.1595006,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,0,2.2040362,-7.754041,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,4,6.0325723,-4.6221385,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,8,7.448959,-4.9595637,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,0,3.2584534,-8.102949,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,10,6.955347,-4.785905,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,3,2.7540145,-5.2463107,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,4,6.0091715,-4.457302,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,0,2.3086872,-6.9495482,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,7,7.0907264,-3.2249446,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,2,7.6239605,-4.2703624,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,0,1.6070434,-7.372309,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.1975908,-6.257862,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.4312758,-7.547918,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,5.5638347,-5.356635,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,4,6.4903727,-3.8713074,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,8,6.4028625,-5.094615,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,10,6.823778,-4.702421,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,0,2.2174797,-6.10523,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,5.4262877,-5.429397,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,1,4.287534,-4.022391,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,1.7265302,-7.075286,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,3,3.1810737,-5.034841,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,3,3.4214456,-5.2277617,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,0,2.7539544,-8.015869,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,4.7712364,-4.1288166,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,2,6.263136,-5.573068,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,0,1.6916449,-7.963499,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.0817802,-7.941837,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,6.209676,-5.588334,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,2,5.896745,-5.2313232,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,5,7.3811936,-2.7782764,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,2,6.321931,-5.52387,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,0,3.6834903,-7.0900636,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.7839272,-8.098793,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,3.9824808,-4.843049,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,1.8939098,-8.539284,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.0120509,-6.873932,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.3032222,-8.3041935,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,3.4713118,-7.352949,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,3.7721143,-4.2782393,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,2.4247787,-7.790787,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,4,6.571682,-3.9189813,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,10,6.668775,-4.714242,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,7,7.0910687,-3.9338632,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,1,5.17117,-3.3983498,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,10,6.902548,-4.9093914,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,5,7.3614855,-2.1162317,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,1,4.2243123,-4.0002584,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,8,7.088028,-4.875877,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,1,4.5076146,-3.9875982,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,2,7.631322,-4.5216885,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,0,2.1065824,-7.7510066,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.8310034,-7.3700986,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.5627203,-8.213614,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.1428604,-7.3992696,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,4,6.417846,-4.2518787,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,0,2.3544118,-8.298979,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,5.9983635,-5.473412,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,1,4.4463935,-4.0875945,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,1.4513036,-7.0574117,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.0466049,-7.7990017,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,7.621791,-4.3412337,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,10,6.4120607,-4.8367095,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,3,3.2239313,-4.826172,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,2,7.2119255,-4.9509225,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,0,1.6049805,-8.424663,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,3.9380095,-4.3750873,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,2.7253928,-8.05476,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,3,2.4641085,-5.930016,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,3,2.5832655,-5.330962,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,0,1.7110233,-8.425762,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.5589123,-7.8727946,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,4.183677,-4.4193974,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,10,7.090514,-4.6272883,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,9,6.80043,-1.9358308,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,2,7.6662364,-4.185304,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,9,6.8173003,-2.1286097,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,8,7.2015123,-5.238864,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,4,6.5412135,-3.823973,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,0,1.5723447,-8.101401,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,4.463124,-4.479318,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,2.4055512,-6.4111967,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,4.64523,-3.9460804,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,1.6881213,-6.930656,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,3,2.6238413,-5.6422963,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,1,5.453723,-4.2097907,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,4,5.728196,-4.0209446,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,0,3.6059983,-7.12436,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.8990833,-7.434679,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.271196,-6.8361964,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.783721,-7.898799,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,7.542654,-4.6006455,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,0,1.6127107,-7.6238,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.8357595,-8.2926655,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,5.5542183,-3.2690485,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,1.5994493,-6.817181,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.349759,-7.2515125,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.5806739,-8.4721155,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,6,8.093219,-4.2193055,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor power wind
+sci,7,7.3952622,-3.8785312,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,1,3.8792396,-4.955132,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,2.8599496,-7.771178,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,4,6.6015024,-4.1310554,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,0,1.6887116,-8.425941,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,4,5.749222,-4.5320716,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,5,7.4495063,-3.502798,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,1,3.7534337,-4.385363,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,3,3.7629592,-5.83303,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,0,3.059278,-6.6745405,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.4098978,-7.4439497,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,3,2.9442644,-5.8259287,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,10,6.721542,-4.1982923,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,0,2.052739,-7.3955665,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.627891,-7.592169,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,5.445054,-5.173288,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,0,2.0526483,-8.650964,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,5.1187377,-3.9795468,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,1.8924798,-6.908848,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,10,6.761118,-4.391561,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,0,2.2029512,-7.5721164,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.46436,-7.560161,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,4.4168243,-4.52157,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,1.6835519,-8.3736925,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.803241,-8.481588,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.9361783,-7.4893036,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.6268382,-7.316486,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,3,3.145947,-4.754534,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,8,6.439862,-5.4391255,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,2,5.6274867,-5.4459324,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,0,2.9053183,-7.5926046,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,4,6.098545,-4.070595,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,8,6.784707,-5.742737,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,3,2.9264183,-5.780541,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,0,1.7276301,-8.350534,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,3.35053,-8.217397,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,4.0117292,-5.438582,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,1,4.265732,-3.8351421,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,2.4334056,-7.1380653,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.6077882,-7.972171,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,4.7498136,-3.654978,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,1.7751507,-6.9757977,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,5.0131893,-3.941409,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,2.379803,-6.3405037,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,7,7.10792,-4.5323133,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,0,2.7101767,-6.9145827,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.7804422,-8.430226,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,5.4581685,-5.45104,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,0,1.7731752,-7.4876604,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,4.5165625,-4.90401,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,3.633321,-6.741974,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.8663504,-7.9338026,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.7804213,-8.124802,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.7924467,-7.879358,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,10,6.6625714,-5.2045655,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,2,5.584067,-5.476722,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,0,2.4112449,-7.0779667,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,4.942134,-5.434842,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,1,4.7533865,-3.6456947,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,1.6360565,-6.830345,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.3419185,-7.9356923,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,5.8218527,-5.4386463,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,2,5.3817034,-5.8072386,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,1,4.169228,-4.089045,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,3.2283418,-8.303421,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,4.8424697,-4.119338,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,3,2.5940647,-5.868148,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,0,2.1380138,-8.598661,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.3159976,-7.7201667,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,5.418769,-5.396246,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,1,3.7235758,-4.616542,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,1.7550333,-7.3848176,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,10,6.5237627,-4.421384,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,1,5.031612,-3.558778,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,1.5328923,-6.80136,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.8592128,-8.408029,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,5.414875,-3.7071044,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,2,4.993642,-5.4182115,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,1,3.92173,-4.3028097,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,2.2553976,-7.416249,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,4.0667224,-4.761444,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,1.7499949,-7.2351465,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,6.5356054,-5.494688,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,7,6.187367,-3.0199609,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,3,2.8514051,-5.2273974,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,3,2.643008,-5.5938454,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,0,3.6633198,-6.73878,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.2422,-7.41227,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.5881121,-8.46913,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,5,7.376393,-2.6602392,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,0,2.4214325,-8.08086,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,9,6.759321,-2.0053315,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,1,4.840075,-3.7546546,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,8,7.3378553,-5.335724,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,9,6.526968,-2.2571898,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,1,4.7240496,-3.824236,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,10,7.2851706,-4.465233,renew energi electr demand energi system small island water cycl,energi island system renew electr
+sci,1,4.0946264,-4.7831216,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,2.0223987,-7.4259205,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.3649626,-8.277205,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.2651051,-7.318728,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.4714637,-7.8562503,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,7.561782,-4.4870872,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,9,6.609158,-2.2974653,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,3,3.9567878,-5.864461,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,1,3.5585203,-4.4522576,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,1,4.316151,-5.223943,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,3,3.8129892,-5.969682,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,1,4.082038,-4.2322993,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,7,7.1136837,-4.7947507,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,0,1.9699199,-7.225503,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.9931418,-6.802633,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.3259394,-7.4053817,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,5.212955,-6.4773097,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,1,4.9545197,-4.0942664,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,1,3.522111,-4.7977567,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,1,4.3401957,-5.2057385,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,1,5.3771214,-4.013503,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,1.7290372,-7.358804,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,3.5021477,-7.292314,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,5.1981263,-6.4739227,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,2,5.802638,-5.2695875,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,1,4.4363685,-4.8919663,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,3,3.735041,-6.3320494,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,0,2.1491296,-8.653875,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,5.45066,-4.1871824,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,3,3.016654,-5.315766,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,0,2.709124,-7.2139516,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.3509912,-6.4448667,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,3,2.7217958,-5.3391795,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,1,5.1594176,-4.0723047,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,1,5.0787334,-3.7947476,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,3.5160935,-7.4162216,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,4.2839665,-5.080179,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,9,6.742059,-2.258921,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,1,4.37114,-5.249339,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,8,7.4120245,-5.3353114,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,0,2.2663236,-7.051536,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,3,3.8748178,-5.1984115,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,9,5.9904695,-2.9277284,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,1,4.408424,-4.9340577,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,2.7286556,-6.333229,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,4.406846,-4.25326,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,1.9466212,-6.6046777,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.9431127,-6.7706046,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,3.3955204,-7.10978,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,7,7.0325317,-4.5386667,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,0,1.7752227,-7.401395,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,4.638881,-3.8104792,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,3,3.219988,-5.0254836,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,1,5.37762,-4.0663667,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,1.9631962,-8.594084,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,3,3.1425927,-4.890647,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,0,1.8109143,-7.193021,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,2.0349407,-6.6242237,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,4.0839295,-4.294068,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,9,6.0721183,-2.5645382,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,1,3.7180898,-4.452314,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,2.7710888,-6.2073174,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,1,4.903874,-3.8154032,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,2.3971727,-8.301907,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,3,3.8053188,-5.9650784,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,1,3.6351902,-4.6432433,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,1.9423481,-7.040868,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,8,6.7611604,-5.733424,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,1,4.236279,-4.9487233,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,4,6.074536,-4.470421,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
+sci,3,3.0458472,-4.743954,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,3,3.2847292,-4.692734,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,0,1.9133877,-7.448552,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,8,7.5317154,-5.215984,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,8,7.266197,-5.3922906,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,3,3.5879624,-5.998179,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,2,5.0890803,-6.507832,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,3,3.0273223,-6.0960116,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,1,4.034137,-4.3969984,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,1.5386412,-8.023646,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,2,5.4427247,-5.4423046,plan model heat recoveri integ linear linear program power hub,energi power system oper model
+sci,1,3.8486304,-4.2794175,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,0,1.8204497,-7.512641,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.8584777,-7.556841,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,3,3.049684,-5.9450326,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,1,5.0619435,-4.0220537,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,3,3.7550964,-6.146132,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,1,5.1191545,-4.065521,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,3,2.8094738,-5.3970337,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,9,6.63606,-1.9827883,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,5,7.3631845,-1.9953445,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,5,7.348841,-1.9811367,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,7,6.5111117,-2.965292,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,5,7.43057,-2.885961,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,9,7.058941,-1.9787507,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,0,3.41428,-7.351671,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,5,7.2220435,-2.5429425,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,3,3.1906786,-4.895167,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,5,7.0861506,-2.34175,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,9,6.9978437,-1.9339995,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,3,3.4768314,-4.727061,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,0,1.5721388,-7.4387836,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,0,1.2816089,-7.681494,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,5,6.9666915,-2.6038668,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,3,3.144096,-4.759697,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,9,6.9279194,-2.136724,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,9,6.7490883,-2.1134791,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,5,7.385129,-1.9666258,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,5,7.134301,-2.4579628,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,0,1.2759824,-7.456895,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,5,7.2862597,-2.2787368,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,9,6.7707086,-1.8947912,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,3,3.26852,-4.801471,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,8,7.5259156,-5.0288787,renew energi solar wind energi system distribut gener energi storag,energi system island renew electr
+sci,7,7.197648,-4.4160833,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,1,5.543843,-3.594118,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,5,7.3384776,-1.9339657,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,5,6.7694907,-2.5578613,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,9,6.924575,-1.9345598,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,1,4.3244824,-3.8264937,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,5,6.8423967,-2.3513026,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,9,6.849751,-1.8709779,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,5,7.400498,-1.9552262,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,5,7.3788266,-2.7163188,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,5,7.3835273,-1.9494157,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,1,4.5190334,-4.3517118,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,1,4.639675,-3.6605868,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,1,4.5685935,-4.3391724,north sea offshor grid offshor wind transmiss grid offshor wind energi,offshor grid wind energi develop
+sci,7,7.2254677,-3.611459,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,0,1.4146591,-7.287843,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,5,7.412109,-2.1008723,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,5,6.9577103,-2.6333601,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,5,6.9332247,-2.6299133,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,5,7.3616924,-1.8967686,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,5,7.424561,-2.8655305,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,9,6.814213,-1.881254,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,7,7.4207563,-3.561125,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,5,7.2439055,-2.0894544,energi island right reserv individu gener qd growth ion implant,energi island system power growth
+sci,0,1.3017703,-7.739852,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,7,6.7310185,-3.0461814,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,7,7.211344,-3.5133913,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,9,6.784743,-1.9194474,wave energi numer model grid space 2011 ieee sea level,wave grid island offshor model
+sci,7,7.4596853,-3.6500106,renew energi energi island energi consumpt energi energi energi convers,energi island system power renew
+sci,0,1.2704432,-7.7477064,vsc hvdc ac grid reactiv power hvdc system control strategi,power grid offshor control system
+sci,3,3.3472214,-4.802028,wind farm offshor wind wind power offshor grid offshor wind farm,offshor wind grid power system
+sci,4,6.3398633,-3.9478958,sustain energi energi secur energi commun energi demand european union,energi sustain system island renew
