@@ -32,7 +32,10 @@ if parameters['preprocess_data'] == True:
     for source in sources:
         
         # Perform cleaning on pro_media.csv
-        df = pd.read_csv(parameters[f'{source}_media_translated_dir']) # Load the CSV file
+        if source == 'sci':
+            df = pd.read_csv(parameters['sci_media_dir'])
+        else:
+            df = pd.read_csv(parameters[f'{source}_media_translated_dir']) # Load the CSV file
         df = clean_rows(df) # Clean the rows of the dataframe
         df['Content'] = df['Content'].apply(lambda x: remove_stopwords(x, 'english')) # Apply the function to the text column
         df.to_csv(parameters[f'{source}_media_cleaned_dir'], index=False) # Save the cleaned text to a new CSV file
