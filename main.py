@@ -55,7 +55,7 @@ if parameters['train_model'] == True:
 
     for source in sources:
 
-        df_file = pd.read_csv(parameters[f'{source}_media_stemmed_dir'])
+        df_file = pd.read_csv(parameters[f'{source}_media_cleaned_dir'])
 
         df_text_column = df_file['Content']
         
