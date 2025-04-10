@@ -5,11 +5,11 @@ with open('parameters.yaml', 'r') as file:
 
 import pandas as pd
 
-def Merging_textfiles():
+def Merging_textfiles(preprocess_step):
     # Load the CSV files
-    pro_media_df = pd.read_csv(parameters['pro_media_stemmed_dir'])
-    reg_media_df = pd.read_csv(parameters['reg_media_stemmed_dir'])
-    sci_media_df = pd.read_csv(parameters['sci_media_stemmed_dir'])
+    pro_media_df = pd.read_csv(parameters[f'pro_media_{preprocess_step}_dir'])
+    reg_media_df = pd.read_csv(parameters[f'reg_media_{preprocess_step}_dir'])
+    sci_media_df = pd.read_csv(parameters[f'sci_media_{preprocess_step}_dir'])
 
     # Define the columns to keep from each dataframe
     pro_media_columns = ['Date', 'Title', 'Outlet', 'Content']  # Replace with actual column names

@@ -46,7 +46,7 @@ if parameters['preprocess_data'] == True:
 
 
 
-    Merging_textfiles()
+    Merging_textfiles('cleaned')
     
 else:
     print('Data preprocessing is turned off in parameters.yaml')
