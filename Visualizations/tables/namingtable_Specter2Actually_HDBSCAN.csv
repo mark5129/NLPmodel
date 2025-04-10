@@ -1,33 +1,27 @@
 Source,cluster,count,TF_IDF_topic_name,BERTopic_topic_name,count_words
-pro,0,19,energi island electr grid jacob østergaard electr system high voltag,energi island connect electr wind,3
-pro,1,26,energiø bornholm electr price open door state aid energiø north,energi project island wind state,1
-pro,2,20,artifici island wind turbin offshor wind 10 gw steel platform,wind island energi sea area,2
-pro,3,19,north sea offshor wind convert station wind farm energi island,energi wind island offshor sea,5
-pro,4,41,green fuel million tonn green power natur ga climat council,energi green climat 2030 co2,2
-pro,5,32,global wind høje taastrup data center drink water hesselag pedersen,wind energi say also project,1
-reg,0,17,energi busi busi commun energiø bornholm develop strategi uniqu opportun,bornholm energi island busi project,3
-reg,1,20,critic infrastructur citizen associ transform station citizen associ energiø henrik espersen,bornholm energi say defens also,0
-reg,2,15,transform station land plant green transit artifici island wind turbin,bornholm energi island plant land,3
-reg,3,21,offshor wind bornholm offshor wind bornholm offshor offshor wind turbin wind turbin,wind bornholm offshor energi project,3
-reg,4,48,climat plan municip council young peopl municip economi labor market,municip bornholm year climat energi,2
-reg,5,60,euroregion baltic north sea realli good use bornholm el net,bornholm energi island wind project,1
-reg,6,59,high voltag land plant high voltag station voltag station local plan,bornholm energi plant energinet area,1
-reg,7,16,social democraci jacob trøst say jacob energi island municip council,bornholm energi island also municip,3
-reg,8,53,social democraci ann thoma municip council rené danielsson busi park,say bornholm also energi busi,1
-reg,9,15,labor market center bornholm busi center bornholm busi center press releas,bornholm compani busi energi labor,3
-reg,10,17,rønne harbor thoma bendtsen baltic sea center bornholm nexø harbor,bornholm wind energi offshor compani,1
-reg,11,21,green transit bornholm food energi island green fuel residenti colleg,bornholm energi island green also,4
-reg,12,17,danish energi agenc energi agenc danish energi offshor wind wind turbin,energi bornholm wind offshor area,3
-reg,13,15,green energi good idea wast heat wind turbin transform station,energi bornholm island wind green,3
-reg,14,22,district heat surplu heat power plant cip ørsted electrolysi plant,bornholm energi heat plant hydrogen,2
-reg,15,35,energiø bornholm state aid offshor wind møller christensen søren møller christensen,energi bornholm island project say,1
-reg,16,20,baltic energi baltic energi island energi island green energi nation center,energi bornholm island busi green,3
-reg,17,30,electr grid bornholm electr bornholm electr grid connect bornholm lar aagaard,energi bornholm project list wind,1
-sci,0,24,hydrogen product green hydrogen energi system energi hub offshor energi,energi hydrogen offshor system wind,4
-sci,1,48,energi island wave energi grid space water wave 2011 ieee,energi island wave grid system,4
-sci,2,177,vsc hvdc ac grid reactiv power hvdc system high voltag,system power grid offshor control,3
-sci,3,35,power system electr price long term energi manag plan model,energi system power model cost,4
-sci,4,36,offshor wind wind power wind farm offshor grid offshor wind power,offshor wind grid power farm,5
-sci,5,61,offshor wind offshor grid north sea offshor wind energi wind energi,offshor grid wind sea develop,4
-sci,6,37,renew energi energi system energi storag energi suppli small island,energi system island renew electr,4
-sci,7,43,sustain energi renew energi energi secur energi island energi transit,energi island system transit sustain,4
+pro,0,72,offshore wind energy island north sea wind farms wind turbines,energy island wind sea offshore,5
+pro,1,56,million tonnes electricity consumption 000 tonnes green hydrogen green power,energy co2 green climate electricity,2
+pro,2,19,ørsted atp morten hesselager hesselager pedersen morten hesselager pedersen wave power,energy also says green denmark,0
+pro,3,25,energy islands bornholm islands bornholm energy islands open door business case,energy islands project wind bornholm,3
+reg,0,28,baltic sea juel jensen peter juel jensen peter juel shipping capacity,bornholm energy also defense says,0
+reg,1,23,transformer station energy industry property value north sea nuclear power,bornholm energy island must islands,1
+reg,2,58,social democracy municipal council unity list anne thomas søren schow,bornholm also energy says municipal,1
+reg,3,32,next year climate plan savings catalog municipal council labor market,bornholm energy municipality island also,0
+reg,4,22,energy parks lea wermelin jacob trøst local support says jacob,energy bornholm island land also,1
+reg,5,62,high voltage high voltage station voltage station land plant local plan,energinet energy area bornholm land,1
+reg,6,41,rønne harbor det er press release jørgen hammer really good,bornholm energy og til det,1
+reg,7,29,green transition bornholm future ensure bornholm unique opportunity young people,bornholm energy island green also,2
+reg,8,27,baltic energy baltic energy island green energy national center danish business,bornholm energy business green island,4
+reg,9,19,center bornholm business center business center bornholm bornholm companies labor market,bornholm energy companies business labor,4
+reg,10,23,energy agency danish energy agency danish energy offshore wind wind turbines,energy bornholm wind offshore danish,4
+reg,11,26,offshore wind bornholm offshore wind bornholm offshore wind farm offshore wind turbines,wind bornholm offshore energy project,3
+reg,12,19,electricity grid bornholm electricity bornholm electricity grid net east trefor el,bornholm energy electricity energinet island,2
+reg,13,31,energy islands bornholm islands bornholm energy islands state aid north sea,energy bornholm islands island project,3
+reg,14,21,nature bornholm stand together wind turbines wind turbine green island,bornholm energy island wind new,3
+reg,15,46,district heating surplus heat electrolysis plant solar cells green fuels,bornholm energy wind hydrogen green,1
+sci,0,180,vsc hvdc reactive power high voltage ac grid offshore ac,grid system power offshore wind,3
+sci,1,137,renewable energy energy islands energy island energy sources sustainable energy,energy power system island renewable,3
+sci,2,39,hydrogen production green hydrogen energy system offshore energy co2 emissions,energy offshore hydrogen wind power,3
+sci,3,126,north sea offshore wind offshore grid wind energy wind farms,offshore grid energy wind north,5
+sci,4,25,wave energy grid spacing long term offshore grid 2011 ieee,grid offshore wave wind energy,4
+sci,5,23,energy island energy islands rights reserved low energy qd growth,energy island growth 111 islands,4
