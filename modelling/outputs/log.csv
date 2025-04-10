@@ -90,3 +90,4 @@ id,time,preprocess_data,train_model,num_topics,what_data,train_nmf,nmf_random_st
 5173858928,Wed Mar 26 09:27:02 2025,True,True,10,stemmed,42,1000,10,False,False,False
 4552557450,Wed Mar 26 10:04:37 2025,False,True,10,stemmed,42,1000,10,False,False,False
 1303156299,Thu Mar 27 17:10:14 2025,True,True,7,stemmed,42,1000,10,False,False,False
+3886251367,Thu Apr 10 14:41:22 2025,True,True,10,stemmed,42,1000,10,False,False,False
