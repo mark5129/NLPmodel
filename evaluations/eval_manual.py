@@ -10,7 +10,7 @@ with open('parameters.yaml', 'r') as file:
     parameters = yaml.safe_load(file)
 
 #Load embeddings from embeddings file
-which_model = ['XLM_Roberta', 'Specter2Actually', 'MiniLm12']
+which_model = ['XLM_Roberta']
 sources = ['pro', 'reg', 'sci']
 
 # Determine the latest run ID to know which embeddings to use
@@ -35,7 +35,7 @@ for model in which_model:
 
         for source in sources:
             
-            df_file1 = pd.read_csv(f'data/{source}_media_stemmed_eng.csv')
+            df_file1 = pd.read_csv(f'data/{source}_media_cleaned_eng.csv')
             embeddings = pd.read_csv(f'modelling/outputs/{model}/{Latest_run_id}_{source}_{model}_embeddings.csv')
             
             result_df, df_file = clustering_with_umap_hdbscan(df_file1, embeddings, 'manualrun', source, model)
