@@ -73,13 +73,13 @@ def TFIDF_cluster_Naming(df_file, result_df, clustering_method, source, model):
         top_terms = TFIDF_cluster_topic(cluster_texts, other_texts, language='english', n_terms=5)
 
         # Select the 3 most occurring terms as the topic name
-        How_many_terms = 3
-        topic_name = None
-        term_counts = pd.Series(top_terms).value_counts()
-        top_occurring_terms = term_counts.index[:How_many_terms]
+        # How_many_terms = 3
+        # topic_name = None
+        # term_counts = pd.Series(top_terms).value_counts()
+        # top_occurring_terms = term_counts.index[:How_many_terms]
         
-        if len(top_occurring_terms) > 0:
-            topic_name = " ".join(top_occurring_terms)
+        if len(top_terms) > 0:
+            topic_name = " ".join(top_terms)
 
         if topic_name is None:
             topic_name = f"No words found for cluster {label}"

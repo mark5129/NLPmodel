@@ -48,13 +48,13 @@ def BERTopic_cluster_Naming(df_file, result_df, clustering_method, source, model
         cluster_texts = df_file['Content'].iloc[indices].astype(str).tolist()
         top_terms = BERTopic_cluster_topic(cluster_texts, other_texts=None, n_terms=5)
 
-        How_many_terms = 3
-        topic_name = None
-        term_counts = pd.Series(top_terms).value_counts()
-        top_occurring_terms = term_counts.index[:How_many_terms]
+        # How_many_terms = 3
+        # topic_name = None
+        # term_counts = pd.Series(top_terms).value_counts()
+        # top_occurring_terms = term_counts.index[:How_many_terms]
 
-        if len(top_occurring_terms) > 0:
-            topic_name = " ".join(top_occurring_terms)
+        if len(top_terms) > 0:
+            topic_name = " ".join(top_terms)
         else:
             topic_name = f"No words found for cluster {label}"
 
