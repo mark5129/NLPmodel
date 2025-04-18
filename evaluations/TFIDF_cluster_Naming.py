@@ -8,6 +8,8 @@ import os
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.corpus import stopwords
+from sklearn.preprocessing import normalize
+
 with open('parameters.yaml', 'r') as file:
     parameters = yaml.safe_load(file)
 
@@ -37,6 +39,10 @@ def TFIDF_cluster_topic(cluster_texts, other_texts, language='english', n_terms=
         cluster_matrix = X[:len(cluster_texts)]
         other_matrix = X[len(cluster_texts):]
 
+        # Normalize the matrices
+        cluster_matrix = normalize(cluster_matrix, norm='l1', axis=1)
+        other_matrix = normalize(other_matrix, norm='l1', axis=1)
+
         # Compute mean TF-IDF scores for cluster and other documents
         cluster_tf_idf = cluster_matrix.mean(axis=0).A1
         other_tf_idf = other_matrix.mean(axis=0).A1
@@ -45,12 +51,18 @@ def TFIDF_cluster_topic(cluster_texts, other_texts, language='english', n_terms=
         tf_idf_diff = cluster_tf_idf - other_tf_idf
         terms = vectorizer.get_feature_names_out()
 
+        # Get top terms with positive differences
         top_indices = tf_idf_diff.argsort()[::-1][:n_terms]
-        top_terms = [terms[i] for i in top_indices if tf_idf_diff[i] > 0]
+
+        # Define a threshold for the positive difference
+        threshold = 0.01  # Adjust this value as needed
+
+        # Get top terms with positive differences above the threshold
+        top_terms = [terms[i] for i in top_indices if tf_idf_diff[i] > threshold]
 
         return top_terms
     except Exception as e:
-        print(f"Error in get_cluster_topic: {e}")
+        print(f"Error in TFIDF_cluster_topic: {e}")
     return []
 
 def TFIDF_cluster_Naming(df_file, result_df, clustering_method, source, model):
@@ -74,7 +86,7 @@ def TFIDF_cluster_Naming(df_file, result_df, clustering_method, source, model):
 
         # Select the 3 most occurring terms as the topic name
         # How_many_terms = 3
-        # topic_name = None
+        topic_name = None
         # term_counts = pd.Series(top_terms).value_counts()
         # top_occurring_terms = term_counts.index[:How_many_terms]
         
