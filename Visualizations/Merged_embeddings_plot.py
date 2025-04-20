@@ -40,7 +40,7 @@ def merged_embeddings_plot(embedding, cluster_model):
             )
         
         # Plot points for the cluster
-        plt.scatter(cluster_data['x'], cluster_data['y'], label=f'Cluster {cluster}', alpha=0.5, edgecolors='face', linewidth=0.5, marker='o')
+        plt.scatter(cluster_data['x'], cluster_data['y'], label=f'Cluster {cluster}', alpha=0.8, edgecolors='face', linewidth=0.5, marker='o')
     plt.title(f'{embedding} - {cluster_model}')
     plt.xlabel('UMAP 1')
     plt.ylabel('UMAP 2')
