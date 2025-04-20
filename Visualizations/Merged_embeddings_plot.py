@@ -17,7 +17,8 @@ def merged_embeddings_plot(embedding, cluster_model):
     """
     # Load the results from CSV
     df = pd.read_csv(f"evaluations/outputs/manualrun_{embedding}_merged_embeddings_clusters_{cluster_model}.csv")
-            
+    
+
     # Ensure the output directory exists
     output_dir = 'Visualizations/Plots/' 
     os.makedirs(output_dir, exist_ok=True)
@@ -25,6 +26,7 @@ def merged_embeddings_plot(embedding, cluster_model):
     # Create a scatter plot colored by cluster
     plt.figure(figsize=(10, 6))
     unique_clusters = df['cluster'].unique()
+    
     for cluster in unique_clusters:
         cluster_data = df[df['cluster'] == cluster]
         cluster_points = cluster_data[['x', 'y']].values
@@ -40,7 +42,14 @@ def merged_embeddings_plot(embedding, cluster_model):
             )
         
         # Plot points for the cluster
-        plt.scatter(cluster_data['x'], cluster_data['y'], label=f'Cluster {cluster}', alpha=0.8, edgecolors='face', linewidth=0.5, marker='o')
+        plt.scatter(
+                    cluster_data['x'], 
+                    cluster_data['y'], 
+                    label=f'Cluster {cluster}', 
+                    alpha=0.8, 
+                    edgecolors='face', 
+                    linewidth=0.5, 
+                    marker='o')
     plt.title(f'{embedding} - {cluster_model}')
     plt.xlabel('UMAP 1')
     plt.ylabel('UMAP 2')
@@ -53,10 +62,25 @@ def merged_embeddings_plot(embedding, cluster_model):
 
     # Create a scatter plot colored by source
     plt.figure(figsize=(10, 6))
+
+    ggplot_palette = ['#F8766D', '#00BA38', '#619CFF']
+    markers = {
+            "Sci Media": "o",  # Circle
+            "Pro Media": "s",  # Square
+            "Reg Media": "^"
+        }  # Triangle
+    
     unique_sources = df['Source'].unique()
-    for source in unique_sources:
+
+    for i, source in enumerate(unique_sources):
         source_data = df[df['Source'] == source]
-        plt.scatter(source_data['x'], source_data['y'], label=source, alpha=0.5)
+        plt.scatter(
+                    source_data['x'], 
+                    source_data['y'], 
+                    label=source, 
+                    alpha=0.8, 
+                    color=ggplot_palette[i % len(ggplot_palette)]
+                )
     plt.title(f'{embedding} - {cluster_model}')
     plt.xlabel('UMAP 1')
     plt.ylabel('UMAP 2')
