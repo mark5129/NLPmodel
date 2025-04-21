@@ -1,522 +1,519 @@
 Source,cluster,x,y,TF_IDF_topic_name,BERTopic_topic_name
-sci,0,3.5723581,6.428953,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,2,5.1070666,1.6976489,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,11,6.7509565,4.2019277,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
-sci,4,6.473237,3.1170993,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,12,6.8037915,2.1120203,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
-sci,6,4.440301,4.4748864,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,6,4.3218107,4.565458,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,0,5.1211534,6.4982557,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,12,6.4825525,1.8254547,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
-sci,8,8.231179,3.3797176,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,0,3.8535295,6.8270745,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,3.6402676,6.4340405,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,5.020874,6.0024695,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,8,8.381632,3.637143,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,0,4.0972657,6.347596,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,6,4.561101,4.538318,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,4,7.8747807,3.3976412,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,0,4.5900235,6.3990145,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,10,7.565633,3.8775313,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,8,8.38047,3.6040273,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,10,7.5058837,4.144403,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,11,6.490131,3.6816888,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
-sci,4,7.5830035,3.5081491,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,2,4.866476,2.172052,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,13,6.605286,5.4040694,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
-sci,2,5.578918,1.9216245,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,7,7.808609,4.484159,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,0,3.9821515,6.1335144,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,13,7.043475,5.8592978,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
-sci,9,4.239228,2.444385,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,3,6.2877407,4.695923,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,3,6.160108,5.1898046,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,2,5.101851,1.4289235,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,0,5.0552673,6.752977,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,4.961733,6.853053,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,2,5.282518,1.2441328,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,8,8.319705,3.7225218,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,8,8.3499,3.4585075,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,9,4.1660595,2.505025,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,6,4.362457,4.705338,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,4,7.206029,2.9695852,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,0,3.656004,6.7229915,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,8,8.255163,3.9206402,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,0,4.6090846,5.5855756,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,4,7.08957,3.1004767,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,4,7.664284,3.6529613,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,0,3.7237165,5.808685,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,5,6.557507,6.2973723,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,0,4.720669,6.086509,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,4.555152,6.173135,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,4,7.7863417,3.442163,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,0,3.7105997,6.725662,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,10,7.4234867,4.1722336,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,8,8.391592,3.5585763,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,2,4.330529,2.0606618,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,8,8.426005,3.648015,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,7,7.723535,4.935435,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,8,8.058083,3.7416496,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,7,7.7069716,4.6421485,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,1,5.624234,2.3841279,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,8,8.321753,3.6604505,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,3,5.85379,5.587956,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,0,4.818835,5.863785,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,4.7209344,5.367144,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,3,5.8919215,5.404405,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,14,4.4354405,2.9485424,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
-sci,0,3.3852816,6.682188,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,1,5.266957,2.2533953,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,3,6.3510456,4.471078,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,2,6.3574815,2.7471752,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,4,6.314576,3.0038974,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,10,7.999178,4.136114,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,10,7.848529,4.0760903,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,3,6.342409,4.682951,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,8,8.39127,3.76323,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,0,3.9478621,5.814064,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,8,8.578644,3.4320843,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,6,4.0377173,4.7975135,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,0,3.4756653,6.713589,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,2,4.7996516,1.2392029,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,8,8.388838,3.7114,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,12,6.151393,2.0405157,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
-sci,2,4.4303303,2.092255,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,1,5.246343,2.2423294,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,0,3.858589,6.7395115,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,4.7383084,5.894692,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,4.9805617,6.729063,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,4,7.30896,3.2545295,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,0,3.5504053,6.248214,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,2,4.534539,2.1569095,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,2,4.9711504,1.9342341,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,7,7.736637,3.8736951,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,0,3.5673902,5.661506,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,3,6.486286,4.410951,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,7,7.1154776,4.608625,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,1,5.36227,2.2524385,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,4,6.9667306,3.0233178,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,4,7.6530633,3.684354,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,12,6.6629786,1.9399077,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
-sci,10,7.9510875,4.2185483,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,12,6.5251937,1.7805202,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
-sci,8,8.424897,3.6955583,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,8,8.472018,3.7569985,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,7,7.497691,4.760659,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,9,4.126656,3.8506196,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,7,7.7308254,4.690185,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,11,6.748176,3.9536378,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
-sci,11,6.355049,4.0757546,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
-sci,0,5.158012,6.0281854,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,2,4.3491216,1.6264826,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,6,4.0140166,5.0073857,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,8,8.55397,3.5427468,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,11,5.7733197,3.9762912,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
-sci,11,6.2757454,4.0505924,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
-sci,1,4.9684863,2.1649678,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,6,4.059583,5.2035985,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,12,6.6524334,2.0876276,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
-sci,2,5.2895827,1.4427637,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,0,4.145455,6.848284,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,8,8.455221,3.3971314,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,7,6.728627,4.825968,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,5,6.4320636,6.1090746,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,8,8.433428,3.6667287,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,0,3.9704096,6.520636,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,1,5.6665897,1.5539694,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,1,5.7589993,2.5983098,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,3,5.735779,5.4718904,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,14,4.616622,2.9122517,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
-sci,0,5.014636,5.8739934,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,12,6.5925837,2.7244575,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
-sci,10,7.187218,4.2051787,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,3,6.316387,4.489796,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,10,7.1737046,4.354532,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,4,7.61232,3.5476708,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,4,7.277731,3.1715276,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,0,3.3809876,5.771065,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,3.629503,6.5791683,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,1,5.860758,2.9077024,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,6,4.344353,4.5419545,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,13,6.6468797,5.264965,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
-sci,12,6.554684,1.8263944,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
-sci,0,4.4452896,6.361367,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,2,6.3493004,3.4206378,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,2,6.1847825,3.357869,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,0,4.8605103,5.563874,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,2,4.341305,1.7782761,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,1,5.8328514,2.2482433,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,12,6.7149844,2.1299777,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
-sci,0,5.2818084,5.6690564,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,3.8370118,6.782715,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,10,7.7106924,4.446025,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,4,7.6322107,3.3029351,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,5,6.645398,6.461052,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,0,3.9469101,5.6960163,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,12,6.6228685,2.0146146,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
-sci,1,4.9669137,3.6229205,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,12,6.5978365,2.0222144,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
-sci,12,6.5253673,1.7935264,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
-sci,8,8.127782,3.5867193,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,2,5.7541137,1.789186,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,2,4.6988177,1.9436533,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,1,5.311148,2.0176075,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,0,4.7140446,5.4852257,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,13,6.9660172,5.4014473,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
-sci,12,6.4220676,2.132517,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
-sci,0,4.786879,5.733603,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,3,5.597012,4.9877305,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,3,6.2009735,4.417876,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,3,5.755159,5.446203,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,5,6.700746,6.478224,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,8,8.074403,3.938957,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,0,3.5074532,6.605809,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,4.3256216,5.91725,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,8,8.349918,3.9525018,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,4,7.2590775,3.1402974,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,0,4.314691,5.986219,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,2,5.173708,1.4602357,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,11,6.711144,4.142461,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
-sci,7,7.4924154,4.0595407,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,7,7.892422,4.793085,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,5,6.655357,6.4645047,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,3,6.2681155,4.4363613,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,7,7.6178327,4.030995,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,11,5.8568525,4.187458,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
-sci,0,4.524512,6.7870426,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,1,5.352153,2.0065258,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,10,7.483373,4.2028284,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,0,4.732926,5.552354,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,4,7.4862895,3.1823692,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,1,6.126069,1.7736859,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,1,5.4738717,2.0953403,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,6,3.6453571,4.6724977,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,11,6.735705,4.1234965,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
-sci,0,4.1378684,6.969474,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,3.5430293,6.528227,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,9,4.022839,3.5264652,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,3,6.1162257,4.3555207,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,3,5.840178,4.410796,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,11,5.8191056,4.0325084,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
-sci,3,6.2874274,4.4035177,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,13,6.9861135,5.461994,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
-sci,1,6.2204037,1.675143,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,3,5.672585,4.8621116,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,2,4.674625,1.4893929,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,14,4.4497776,2.9945474,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
-sci,1,5.04755,2.6068943,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,14,4.7298207,2.6647677,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
-sci,0,4.787093,5.861525,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,2,4.5624957,2.147627,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,4,7.2164087,3.514729,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,0,3.697693,6.216713,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,4.3424435,6.354971,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,3,5.6237235,4.5516944,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,11,6.197786,3.9746249,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
-sci,11,6.698686,4.1258965,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
-sci,11,6.5837193,4.2542357,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
-sci,3,5.2206693,4.4340315,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,0,4.7135615,5.875675,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,8,8.531494,3.4825115,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power
-sci,0,4.92767,6.6819153,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,1,5.5431323,2.5160224,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,0,4.313112,6.2967625,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,3,5.526109,5.1201105,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,1,5.6087956,1.5699732,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,3,5.6392164,4.580514,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,0,4.225217,6.400099,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,11,5.774794,4.0291157,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
-sci,4,6.8202276,3.1586835,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,10,7.104805,4.2541904,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,9,4.3206134,3.1898632,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,4,7.503931,3.2178807,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,0,4.3342113,6.7975063,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,12,6.790183,1.9685249,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
-sci,1,5.429025,1.7400068,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,10,7.382019,3.8347306,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,2,4.7288914,1.7176887,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,7,7.75984,4.886184,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,0,3.490797,6.536419,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,1,5.2553525,2.720218,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,0,4.1980524,5.771643,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,1,5.3596654,2.866726,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,2,5.340601,1.4225366,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,0,4.5968423,6.6870127,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,3,6.158141,4.7123313,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,2,4.3808885,1.675215,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,0,3.6943018,5.63567,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,4.0162864,5.9609747,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,2,6.5919003,2.7889855,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,14,4.561061,2.771772,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
-sci,7,7.530375,4.8860645,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,3,5.8493567,4.431414,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,0,3.9191914,6.5617166,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,1,5.5424585,2.252488,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,0,4.731696,5.7629824,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,1,5.6600213,1.5100058,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,1,6.071119,1.5743481,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,0,4.2148395,6.6806746,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,4.587196,6.4101152,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,2,4.759091,1.9501675,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,4,7.420703,3.1889868,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,13,7.0278473,5.7623243,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
-sci,3,5.835347,5.635226,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,10,7.8413982,4.387139,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,0,3.7062175,6.6969457,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,2,4.251897,2.2122662,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,9,6.074198,2.456257,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,2,4.764632,1.6250093,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,0,3.4599419,5.6610394,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,14,4.299654,3.078526,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
-sci,2,5.681835,1.8287731,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,2,5.517249,1.7041651,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,3,5.2579737,5.1875706,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,0,3.5590715,6.620714,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,4.261765,7.181048,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,4.7294974,5.4192305,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,7,7.497454,4.826856,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,0,4.2402062,7.160155,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,3.853381,6.8865542,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,4,7.50569,3.1329958,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,13,5.466275,3.0400994,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
-sci,1,5.2172613,2.5865483,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,10,7.9450684,4.2556458,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,0,7.2996807,5.2165337,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,2,4.8860235,1.2028809,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,1,5.410842,2.4311383,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,4,6.9111753,3.0376709,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,0,4.297883,6.395137,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,1,5.6959243,1.5756171,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,11,6.7721667,4.005949,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
-sci,1,5.357483,1.9437302,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,3,5.685399,4.8913283,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,2,4.2907963,1.8883029,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,1,5.192327,2.8052788,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,4,7.4689975,3.1127129,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,6,3.7730365,4.577345,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,0,4.414108,6.746709,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,2,4.6070905,1.230396,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,0,4.5509057,6.286067,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,1,5.466626,2.0894196,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,0,3.6974998,5.9209175,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,4,7.6113276,3.2937667,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,0,3.476842,6.2743907,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,4.1591005,7.0996227,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,2,4.4213896,1.3943973,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,0,4.35428,6.7438655,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,4.0865464,6.367661,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,4.3885503,6.8716807,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,3.7760754,5.9317846,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,13,6.6937046,5.421807,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
-sci,4,7.5884247,3.4712906,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,3,5.924262,4.7910843,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,6,4.1442523,4.3336935,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,2,5.8832717,2.5234475,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,3,6.4085946,4.557297,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,0,4.3659997,6.202678,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,3,5.882373,5.2555814,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,1,4.9448056,2.0381453,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,1,5.574327,1.8329264,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,0,3.3881147,6.190467,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,3.8654635,6.6417546,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,9,4.103494,2.4454215,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,0,3.4930322,6.6549945,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,9,4.166379,3.6393015,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,12,6.777369,2.0673895,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
-sci,9,4.187293,3.7849345,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,4,7.602512,3.5150065,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,9,4.161495,3.6524196,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,0,4.121249,6.855791,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,3,5.8701735,4.7391434,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,0,3.777391,6.0397005,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,6,4.3317556,4.607898,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,6,3.9609802,5.175429,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,0,4.018018,6.1143208,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,3.2552545,6.56261,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,3.740744,6.587039,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,1,5.950928,3.04599,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,3,6.044931,4.6145334,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,0,3.447243,6.2113237,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,4.8774366,6.2272997,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,9,4.1687627,2.4110675,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,12,6.8448615,2.0202448,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
-sci,0,3.3650453,6.192146,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,4.3962636,6.3570375,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,3,5.140227,4.3325524,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,2,4.456149,1.2767204,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,0,5.0878606,5.963815,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,9,4.3335695,2.469166,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,1,5.6635027,1.5107782,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,0,4.6525846,6.482647,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,3.840462,6.2266083,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,1,5.770613,2.45865,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,6,4.515876,3.970379,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,0,4.0967054,6.384961,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,6,4.0973706,4.0598083,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,1,5.9988894,1.6052419,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,13,5.418327,3.006945,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
-sci,0,4.2554445,6.496902,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,7,7.2172275,4.71364,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,3,6.3425174,4.520162,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,3,6.2219114,4.532014,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,1,5.608103,1.8740534,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,0,4.7098694,6.8130574,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,2,4.810358,2.3648977,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,0,3.921828,6.176803,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,10,7.447329,4.194857,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,9,4.2279887,3.8103418,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,1,5.8736105,2.278178,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,1,5.13431,2.4913623,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,6,3.8733509,5.213126,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,0,3.3333323,6.7819743,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,4.0481396,6.6749063,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,13,7.2224474,5.265467,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
-sci,0,4.742057,6.8959413,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,5,6.450937,6.043438,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,2,4.4976816,1.5104305,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,13,6.992557,5.032953,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
-sci,13,6.7808137,5.496062,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
-sci,2,5.095439,1.8957244,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,10,7.914239,4.2117357,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,2,4.9062843,1.4124278,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,0,3.9161198,7.046696,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,6,4.0195565,4.8065076,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,0,3.5594296,6.587188,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,13,6.957445,5.079223,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
-sci,10,7.426935,4.317694,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,3,5.957761,5.6820807,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,6,3.915399,4.7462654,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,2,5.141796,1.7416863,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,2,4.9860144,1.642569,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,6,4.26124,4.571207,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,1,4.945642,2.3732343,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,10,7.4174314,3.9061482,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,0,3.3164022,6.6282125,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,3.2731054,5.8635225,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,1,5.9360657,1.550469,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,7,6.8000345,4.656695,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,1,5.419321,1.7550722,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,14,4.300559,3.111036,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
-sci,11,5.788766,3.5287018,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
-sci,9,6.241893,2.18606,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,0,3.3485734,6.328519,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,3.6063604,5.890104,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,7,6.9873586,4.7877307,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,11,6.5620146,4.252327,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
-sci,2,4.2894473,1.905417,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,6,3.8370674,5.2374406,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,0,4.537707,6.1617703,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,9,6.2862325,2.29634,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,14,4.315166,2.8313122,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
-sci,0,3.9948163,5.9322577,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,14,4.6199794,3.0133128,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
-sci,1,5.1591988,2.503816,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,1,5.340806,2.0910876,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,2,4.620646,1.1812676,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,0,4.495636,6.595897,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,2,4.9344845,1.2574656,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,13,6.7481647,5.7399554,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
-sci,2,4.7149878,1.4662021,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,7,7.797158,4.3247457,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,9,4.091338,3.674634,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,0,3.7110338,5.442495,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,14,4.3432093,2.8487546,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
-sci,14,4.2227807,2.5699942,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
-sci,1,5.0387793,2.6516404,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,0,3.2480412,5.8287926,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,6,3.9318423,4.2606425,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,11,6.8978095,4.353108,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
-sci,0,3.6685095,5.6025605,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,9,4.1158056,2.526168,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,1,5.2967157,2.8918455,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,12,6.163155,2.5240438,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
-sci,0,5.053708,6.044709,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,2,4.7544823,1.52346,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,0,4.0131035,6.3572536,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,3.8018217,6.112811,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,14,4.6603775,2.4759858,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
-sci,1,5.835121,2.1841836,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,2,4.9099493,1.5368392,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,9,4.1862583,2.3260186,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,6,4.066645,4.897288,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,6,4.110651,4.244405,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,2,5.0153494,1.5740274,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,0,3.2085545,5.9916267,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,1,5.4077554,2.3895528,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,1,5.0809574,2.348903,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,1,5.312899,2.1283388,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,13,6.695867,5.3798437,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
-sci,1,5.134758,2.5695436,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,1,5.2934313,3.3263078,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,7,7.9153132,3.9149761,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,10,7.110551,3.886073,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,9,4.0515323,3.7142363,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,6,4.283827,5.1331286,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,2,4.407725,1.2917181,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,11,6.7728076,3.9932876,pilot sites energy islands social norms energy communities energy community,energy social communities paper research
-sci,2,4.5167956,2.4079275,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,0,4.774439,6.8729506,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,9,4.131537,3.640599,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,1,5.169897,2.0691407,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,1,5.1415854,3.6700256,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,1,5.279025,3.3709054,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,2,4.9073133,1.4192827,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,1,5.362431,2.2891788,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,6,4.1196933,4.3287582,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,2,5.013686,1.7556925,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,5,6.3125134,6.2728786,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,5,6.711335,6.47855,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,5,6.594272,6.233964,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,5,6.603846,6.0762944,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,7,7.619587,4.865781,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,5,6.774801,6.1495557,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,3,5.5501213,5.0775223,energy island power systems energy islands smart grid real time,energy power system systems grid
-sci,7,7.1118507,4.869173,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,14,4.6185226,2.6470726,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
-sci,5,6.8735824,6.2412534,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,5,6.64616,6.079295,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,2,4.8619504,1.2691624,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,0,3.7552187,6.657976,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,0,3.2275052,6.49333,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,10,8.000925,4.4627013,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
-sci,1,5.303094,2.3418436,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,5,6.424894,6.095905,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,5,6.4487762,5.786642,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,5,6.711745,6.480288,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,5,6.904267,6.0293927,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,0,3.4729664,6.6919613,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,7,7.191475,4.9517145,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,5,6.2779245,6.3001885,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,2,4.8781457,1.2112664,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,4,7.7158604,3.3263426,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,4,7.0625734,2.9428384,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,1,5.6027074,3.2469263,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north
-sci,5,6.775325,6.560559,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,13,6.9994283,5.571282,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
-sci,5,6.5422926,5.982024,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,2,4.738812,1.197043,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,5,6.7019253,5.998179,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,5,6.3480964,6.0476975,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,5,6.666328,6.484571,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,7,7.555691,4.9293385,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,5,6.589811,6.34832,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,9,3.950902,3.1823976,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,2,4.433525,1.6934649,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power
-sci,9,6.3648577,2.287208,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper
-sci,7,7.7649684,3.8086455,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,0,3.315396,6.651966,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,5,6.5818367,6.364677,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,13,5.469702,3.9797049,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
-sci,13,6.8213944,5.6586857,power plants energy island energy production water cycle electricity demand,energy wind power island offshore
-sci,5,6.694426,6.4448175,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,7,7.589024,4.9228196,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage
-sci,5,6.3081613,6.120028,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,5,6.7573633,6.532814,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,6,3.6739266,5.0589194,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission
-sci,14,4.3911047,2.9238708,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
-sci,12,6.559412,1.9593651,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission
-sci,5,6.3905563,5.993754,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin
-sci,4,7.1679378,3.397289,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable
-sci,0,3.501997,6.770087,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage
-sci,14,4.3987646,2.852726,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy
-sci,10,7.213894,3.9352295,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model
+sci,0,3.5723581,6.428953,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,3,5.1070666,1.6976489,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,1,6.7509565,4.2019277,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,9,6.473237,3.1170993,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,11,6.8037915,2.1120203,"renewable energy, 0.0351 | renewable energy island, 0.0284 | island samsø, 0.0219 | transmission grid, 0.0192 | science technology, 0.0163",energy island harmonic grid transmission
+sci,6,4.440301,4.4748864,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,1,6.3763037,3.7268171,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,6,4.3218107,4.565458,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,0,5.1211534,6.4982557,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,11,6.4825525,1.8254547,"renewable energy, 0.0351 | renewable energy island, 0.0284 | island samsø, 0.0219 | transmission grid, 0.0192 | science technology, 0.0163",energy island harmonic grid transmission
+sci,1,6.3477907,3.7750247,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,7,8.231179,3.3797176,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,0,3.8535295,6.8270745,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,3.6402676,6.4340405,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,5.020874,6.0024695,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,7,8.381632,3.637143,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,0,4.0972657,6.347596,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,6,4.561101,4.538318,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,0,4.5900235,6.3990145,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,5,7.565633,3.8775313,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,7,8.38047,3.6040273,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,5,7.5058837,4.144403,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,1,6.490131,3.6816888,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,3,4.866476,2.172052,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,12,6.605286,5.4040694,"hainan island, 0.0445 | energy production, 0.0377 | 2011 ieee, 0.0354 | power plants, 0.0335 | energy island, 0.0301",energy wind power island offshore
+sci,3,5.578918,1.9216245,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,10,7.808609,4.484159,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based
+sci,0,3.9821515,6.1335144,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,12,7.043475,5.8592978,"hainan island, 0.0445 | energy production, 0.0377 | 2011 ieee, 0.0354 | power plants, 0.0335 | energy island, 0.0301",energy wind power island offshore
+sci,8,4.239228,2.444385,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,1,6.2877407,4.695923,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,1,6.160108,5.1898046,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,3,5.101851,1.4289235,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,0,5.0552673,6.752977,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,4.961733,6.853053,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,3,5.282518,1.2441328,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,7,8.319705,3.7225218,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,7,8.3499,3.4585075,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,8,4.1660595,2.505025,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,6,4.362457,4.705338,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,9,7.206029,2.9695852,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,0,3.656004,6.7229915,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,7,8.255163,3.9206402,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,0,4.6090846,5.5855756,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,9,7.08957,3.1004767,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,1,6.4724746,3.4918487,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,0,3.7237165,5.808685,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,4,6.557507,6.2973723,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,0,4.720669,6.086509,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,4.555152,6.173135,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,3.7105997,6.725662,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,5,7.4234867,4.1722336,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,7,8.391592,3.5585763,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,3,4.330529,2.0606618,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,7,8.426005,3.648015,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,10,7.723535,4.935435,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based
+sci,7,8.058083,3.7416496,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,10,7.7069716,4.6421485,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based
+sci,2,5.624234,2.3841279,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,7,8.321753,3.6604505,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,1,5.85379,5.587956,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,0,4.818835,5.863785,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,4.7209344,5.367144,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,1,5.8919215,5.404405,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,13,4.4354405,2.9485424,"wind energy, 0.0291 | wind energy conversion, 0.0272 | energy conversion, 0.0221 | development offshore, 0.0197 | wind farms, 0.0184",offshore power wind grid energy
+sci,0,3.3852816,6.682188,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,2,5.266957,2.2533953,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,1,6.3510456,4.471078,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,3,6.3574815,2.7471752,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,9,6.314576,3.0038974,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,5,7.999178,4.136114,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,5,7.848529,4.0760903,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,1,6.342409,4.682951,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,7,8.39127,3.76323,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,0,3.9478621,5.814064,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,7,8.578644,3.4320843,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,6,4.0377173,4.7975135,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,0,3.4756653,6.713589,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,3,4.7996516,1.2392029,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,7,8.388838,3.7114,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,11,6.151393,2.0405157,"renewable energy, 0.0351 | renewable energy island, 0.0284 | island samsø, 0.0219 | transmission grid, 0.0192 | science technology, 0.0163",energy island harmonic grid transmission
+sci,3,4.4303303,2.092255,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,2,5.246343,2.2423294,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,0,3.858589,6.7395115,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,4.7383084,5.894692,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,4.9805617,6.729063,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,3.5504053,6.248214,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,3,4.534539,2.1569095,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,3,4.9711504,1.9342341,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,5,7.736637,3.8736951,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,0,3.5673902,5.661506,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,1,6.486286,4.410951,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,10,7.1154776,4.608625,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based
+sci,2,5.36227,2.2524385,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,9,6.9667306,3.0233178,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,11,6.6629786,1.9399077,"renewable energy, 0.0351 | renewable energy island, 0.0284 | island samsø, 0.0219 | transmission grid, 0.0192 | science technology, 0.0163",energy island harmonic grid transmission
+sci,5,7.9510875,4.2185483,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,11,6.5251937,1.7805202,"renewable energy, 0.0351 | renewable energy island, 0.0284 | island samsø, 0.0219 | transmission grid, 0.0192 | science technology, 0.0163",energy island harmonic grid transmission
+sci,7,8.424897,3.6955583,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,7,8.472018,3.7569985,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,10,7.497691,4.760659,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based
+sci,8,4.126656,3.8506196,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,10,7.7308254,4.690185,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based
+sci,1,6.748176,3.9536378,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,1,6.355049,4.0757546,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,0,5.158012,6.0281854,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,3,4.3491216,1.6264826,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,6,4.0140166,5.0073857,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,7,8.55397,3.5427468,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,1,5.7733197,3.9762912,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,1,6.2757454,4.0505924,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,2,4.9684863,2.1649678,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,6,4.059583,5.2035985,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,11,6.6524334,2.0876276,"renewable energy, 0.0351 | renewable energy island, 0.0284 | island samsø, 0.0219 | transmission grid, 0.0192 | science technology, 0.0163",energy island harmonic grid transmission
+sci,3,5.2895827,1.4427637,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,0,4.145455,6.848284,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,7,8.455221,3.3971314,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,10,6.728627,4.825968,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based
+sci,4,6.4320636,6.1090746,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,7,8.433428,3.6667287,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,0,3.9704096,6.520636,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,2,5.6665897,1.5539694,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,2,5.7589993,2.5983098,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,1,5.735779,5.4718904,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,13,4.616622,2.9122517,"wind energy, 0.0291 | wind energy conversion, 0.0272 | energy conversion, 0.0221 | development offshore, 0.0197 | wind farms, 0.0184",offshore power wind grid energy
+sci,0,5.014636,5.8739934,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,11,6.5925837,2.7244575,"renewable energy, 0.0351 | renewable energy island, 0.0284 | island samsø, 0.0219 | transmission grid, 0.0192 | science technology, 0.0163",energy island harmonic grid transmission
+sci,5,7.187218,4.2051787,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,1,6.316387,4.489796,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,5,7.1737046,4.354532,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,9,7.277731,3.1715276,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,0,3.3809876,5.771065,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,3.629503,6.5791683,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,2,5.860758,2.9077024,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,6,4.344353,4.5419545,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,12,6.6468797,5.264965,"hainan island, 0.0445 | energy production, 0.0377 | 2011 ieee, 0.0354 | power plants, 0.0335 | energy island, 0.0301",energy wind power island offshore
+sci,11,6.554684,1.8263944,"renewable energy, 0.0351 | renewable energy island, 0.0284 | island samsø, 0.0219 | transmission grid, 0.0192 | science technology, 0.0163",energy island harmonic grid transmission
+sci,0,4.4452896,6.361367,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,3,6.3493004,3.4206378,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,3,6.1847825,3.357869,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,0,4.8605103,5.563874,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,3,4.341305,1.7782761,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,2,5.8328514,2.2482433,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,11,6.7149844,2.1299777,"renewable energy, 0.0351 | renewable energy island, 0.0284 | island samsø, 0.0219 | transmission grid, 0.0192 | science technology, 0.0163",energy island harmonic grid transmission
+sci,0,5.2818084,5.6690564,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,3.8370118,6.782715,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,5,7.7106924,4.446025,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,9,7.6322107,3.3029351,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,4,6.645398,6.461052,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,0,3.9469101,5.6960163,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,11,6.6228685,2.0146146,"renewable energy, 0.0351 | renewable energy island, 0.0284 | island samsø, 0.0219 | transmission grid, 0.0192 | science technology, 0.0163",energy island harmonic grid transmission
+sci,2,4.9669137,3.6229205,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,11,6.5978365,2.0222144,"renewable energy, 0.0351 | renewable energy island, 0.0284 | island samsø, 0.0219 | transmission grid, 0.0192 | science technology, 0.0163",energy island harmonic grid transmission
+sci,11,6.5253673,1.7935264,"renewable energy, 0.0351 | renewable energy island, 0.0284 | island samsø, 0.0219 | transmission grid, 0.0192 | science technology, 0.0163",energy island harmonic grid transmission
+sci,7,8.127782,3.5867193,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,3,5.7541137,1.789186,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,3,4.6988177,1.9436533,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,2,5.311148,2.0176075,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,0,4.7140446,5.4852257,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,12,6.9660172,5.4014473,"hainan island, 0.0445 | energy production, 0.0377 | 2011 ieee, 0.0354 | power plants, 0.0335 | energy island, 0.0301",energy wind power island offshore
+sci,11,6.4220676,2.132517,"renewable energy, 0.0351 | renewable energy island, 0.0284 | island samsø, 0.0219 | transmission grid, 0.0192 | science technology, 0.0163",energy island harmonic grid transmission
+sci,0,4.786879,5.733603,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,1,5.597012,4.9877305,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,1,6.2009735,4.417876,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,1,5.755159,5.446203,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,4,6.700746,6.478224,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,7,8.074403,3.938957,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,0,3.5074532,6.605809,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,4.3256216,5.91725,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,7,8.349918,3.9525018,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,9,7.2590775,3.1402974,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,0,4.314691,5.986219,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,3,5.173708,1.4602357,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,1,6.711144,4.142461,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,5,7.4924154,4.0595407,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,10,7.892422,4.793085,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based
+sci,4,6.655357,6.4645047,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,1,6.2681155,4.4363613,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,5,7.6178327,4.030995,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,1,5.8568525,4.187458,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,0,4.524512,6.7870426,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,2,5.352153,2.0065258,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,5,7.483373,4.2028284,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,0,4.732926,5.552354,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,9,7.4862895,3.1823692,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,2,6.126069,1.7736859,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,2,5.4738717,2.0953403,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,6,3.6453571,4.6724977,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,1,6.735705,4.1234965,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,0,4.1378684,6.969474,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,3.5430293,6.528227,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,8,4.022839,3.5264652,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,1,6.1162257,4.3555207,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,1,5.840178,4.410796,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,1,5.8191056,4.0325084,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,1,6.2874274,4.4035177,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,12,6.9861135,5.461994,"hainan island, 0.0445 | energy production, 0.0377 | 2011 ieee, 0.0354 | power plants, 0.0335 | energy island, 0.0301",energy wind power island offshore
+sci,2,6.2204037,1.675143,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,1,5.672585,4.8621116,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,3,4.674625,1.4893929,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,13,4.4497776,2.9945474,"wind energy, 0.0291 | wind energy conversion, 0.0272 | energy conversion, 0.0221 | development offshore, 0.0197 | wind farms, 0.0184",offshore power wind grid energy
+sci,2,5.04755,2.6068943,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,13,4.7298207,2.6647677,"wind energy, 0.0291 | wind energy conversion, 0.0272 | energy conversion, 0.0221 | development offshore, 0.0197 | wind farms, 0.0184",offshore power wind grid energy
+sci,0,4.787093,5.861525,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,3,4.5624957,2.147627,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,9,7.2164087,3.514729,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,0,3.697693,6.216713,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,4.3424435,6.354971,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,1,5.6237235,4.5516944,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,1,6.197786,3.9746249,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,1,6.698686,4.1258965,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,1,6.2239766,3.7946463,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,1,6.5837193,4.2542357,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,1,5.2206693,4.4340315,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,0,4.7135615,5.875675,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,7,8.531494,3.4825115,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power
+sci,0,4.92767,6.6819153,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,2,5.5431323,2.5160224,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,0,4.313112,6.2967625,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,1,5.526109,5.1201105,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,2,5.6087956,1.5699732,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,1,5.6392164,4.580514,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,0,4.225217,6.400099,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,1,5.774794,4.0291157,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,9,6.8202276,3.1586835,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,5,7.104805,4.2541904,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,8,4.3206134,3.1898632,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,9,7.503931,3.2178807,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,0,4.3342113,6.7975063,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,11,6.790183,1.9685249,"renewable energy, 0.0351 | renewable energy island, 0.0284 | island samsø, 0.0219 | transmission grid, 0.0192 | science technology, 0.0163",energy island harmonic grid transmission
+sci,2,5.429025,1.7400068,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,5,7.382019,3.8347306,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,3,4.7288914,1.7176887,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,10,7.75984,4.886184,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based
+sci,0,3.490797,6.536419,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,2,5.2553525,2.720218,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,0,4.1980524,5.771643,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,2,5.3596654,2.866726,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,3,5.340601,1.4225366,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,0,4.5968423,6.6870127,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,1,6.158141,4.7123313,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,3,4.3808885,1.675215,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,0,3.6943018,5.63567,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,4.0162864,5.9609747,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,3,6.5919003,2.7889855,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,13,4.561061,2.771772,"wind energy, 0.0291 | wind energy conversion, 0.0272 | energy conversion, 0.0221 | development offshore, 0.0197 | wind farms, 0.0184",offshore power wind grid energy
+sci,10,7.530375,4.8860645,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based
+sci,1,5.8493567,4.431414,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,0,3.9191914,6.5617166,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,2,5.5424585,2.252488,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,0,4.731696,5.7629824,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,2,5.6600213,1.5100058,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,2,6.071119,1.5743481,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,0,4.2148395,6.6806746,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,4.587196,6.4101152,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,3,4.759091,1.9501675,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,9,7.420703,3.1889868,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,12,7.0278473,5.7623243,"hainan island, 0.0445 | energy production, 0.0377 | 2011 ieee, 0.0354 | power plants, 0.0335 | energy island, 0.0301",energy wind power island offshore
+sci,1,5.835347,5.635226,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,5,7.8413982,4.387139,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,1,6.6250606,3.4199188,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,0,3.7062175,6.6969457,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,3,4.251897,2.2122662,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,8,6.074198,2.456257,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,3,4.764632,1.6250093,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,0,3.4599419,5.6610394,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,13,4.299654,3.078526,"wind energy, 0.0291 | wind energy conversion, 0.0272 | energy conversion, 0.0221 | development offshore, 0.0197 | wind farms, 0.0184",offshore power wind grid energy
+sci,3,5.681835,1.8287731,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,3,5.517249,1.7041651,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,1,5.2579737,5.1875706,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,0,3.5590715,6.620714,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,4.261765,7.181048,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,4.7294974,5.4192305,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,10,7.497454,4.826856,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based
+sci,0,4.2402062,7.160155,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,3.853381,6.8865542,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,9,7.50569,3.1329958,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,12,5.466275,3.0400994,"hainan island, 0.0445 | energy production, 0.0377 | 2011 ieee, 0.0354 | power plants, 0.0335 | energy island, 0.0301",energy wind power island offshore
+sci,2,5.2172613,2.5865483,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,5,7.9450684,4.2556458,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,0,7.2996807,5.2165337,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,3,4.8860235,1.2028809,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,2,5.410842,2.4311383,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,9,6.9111753,3.0376709,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,0,4.297883,6.395137,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,2,5.6959243,1.5756171,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,1,6.7721667,4.005949,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,2,5.357483,1.9437302,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,1,5.685399,4.8913283,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,3,4.2907963,1.8883029,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,2,5.192327,2.8052788,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,9,7.4689975,3.1127129,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,6,3.7730365,4.577345,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,0,4.414108,6.746709,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,3,4.6070905,1.230396,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,0,4.5509057,6.286067,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,2,5.466626,2.0894196,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,0,3.6974998,5.9209175,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,9,7.6113276,3.2937667,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,0,3.476842,6.2743907,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,4.1591005,7.0996227,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,3,4.4213896,1.3943973,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,0,4.35428,6.7438655,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,4.0865464,6.367661,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,4.3885503,6.8716807,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,3.7760754,5.9317846,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,12,6.6937046,5.421807,"hainan island, 0.0445 | energy production, 0.0377 | 2011 ieee, 0.0354 | power plants, 0.0335 | energy island, 0.0301",energy wind power island offshore
+sci,9,7.5884247,3.4712906,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,1,5.924262,4.7910843,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,6,4.1442523,4.3336935,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,3,5.8832717,2.5234475,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,1,6.4085946,4.557297,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,0,4.3659997,6.202678,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,1,5.882373,5.2555814,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,2,4.9448056,2.0381453,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,2,5.574327,1.8329264,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,0,3.3881147,6.190467,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,3.8654635,6.6417546,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,8,4.103494,2.4454215,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,0,3.4930322,6.6549945,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,8,4.166379,3.6393015,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,11,6.777369,2.0673895,"renewable energy, 0.0351 | renewable energy island, 0.0284 | island samsø, 0.0219 | transmission grid, 0.0192 | science technology, 0.0163",energy island harmonic grid transmission
+sci,8,4.187293,3.7849345,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,8,4.161495,3.6524196,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,0,4.121249,6.855791,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,1,5.8701735,4.7391434,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,0,3.777391,6.0397005,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,6,4.3317556,4.607898,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,6,3.9609802,5.175429,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,0,4.018018,6.1143208,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,3.2552545,6.56261,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,3.740744,6.587039,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,2,5.950928,3.04599,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,1,6.044931,4.6145334,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,0,3.447243,6.2113237,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,4.8774366,6.2272997,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,8,4.1687627,2.4110675,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,11,6.8448615,2.0202448,"renewable energy, 0.0351 | renewable energy island, 0.0284 | island samsø, 0.0219 | transmission grid, 0.0192 | science technology, 0.0163",energy island harmonic grid transmission
+sci,0,3.3650453,6.192146,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,4.3962636,6.3570375,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,1,5.140227,4.3325524,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,3,4.456149,1.2767204,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,0,5.0878606,5.963815,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,8,4.3335695,2.469166,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,2,5.6635027,1.5107782,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,0,4.6525846,6.482647,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,3.840462,6.2266083,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,2,5.770613,2.45865,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,6,4.515876,3.970379,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,0,4.0967054,6.384961,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,6,4.0973706,4.0598083,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,2,5.9988894,1.6052419,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,12,5.418327,3.006945,"hainan island, 0.0445 | energy production, 0.0377 | 2011 ieee, 0.0354 | power plants, 0.0335 | energy island, 0.0301",energy wind power island offshore
+sci,0,4.2554445,6.496902,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,10,7.2172275,4.71364,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based
+sci,1,6.3425174,4.520162,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,1,6.2219114,4.532014,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,2,5.608103,1.8740534,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,0,4.7098694,6.8130574,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,3,4.810358,2.3648977,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,0,3.921828,6.176803,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,5,7.447329,4.194857,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,8,4.2279887,3.8103418,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,2,5.8736105,2.278178,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,2,5.13431,2.4913623,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,6,3.8733509,5.213126,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,0,3.3333323,6.7819743,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,4.0481396,6.6749063,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,12,7.2224474,5.265467,"hainan island, 0.0445 | energy production, 0.0377 | 2011 ieee, 0.0354 | power plants, 0.0335 | energy island, 0.0301",energy wind power island offshore
+sci,0,4.742057,6.8959413,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,4,6.450937,6.043438,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,3,4.4976816,1.5104305,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,12,6.992557,5.032953,"hainan island, 0.0445 | energy production, 0.0377 | 2011 ieee, 0.0354 | power plants, 0.0335 | energy island, 0.0301",energy wind power island offshore
+sci,12,6.7808137,5.496062,"hainan island, 0.0445 | energy production, 0.0377 | 2011 ieee, 0.0354 | power plants, 0.0335 | energy island, 0.0301",energy wind power island offshore
+sci,3,5.095439,1.8957244,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,5,7.914239,4.2117357,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,3,4.9062843,1.4124278,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,0,3.9161198,7.046696,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,6,4.0195565,4.8065076,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,0,3.5594296,6.587188,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,12,6.957445,5.079223,"hainan island, 0.0445 | energy production, 0.0377 | 2011 ieee, 0.0354 | power plants, 0.0335 | energy island, 0.0301",energy wind power island offshore
+sci,5,7.426935,4.317694,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,1,5.957761,5.6820807,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,6,3.915399,4.7462654,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,3,5.141796,1.7416863,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,3,4.9860144,1.642569,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,6,4.26124,4.571207,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,2,4.945642,2.3732343,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,5,7.4174314,3.9061482,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,0,3.3164022,6.6282125,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,3.2731054,5.8635225,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,2,5.9360657,1.550469,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,10,6.8000345,4.656695,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based
+sci,2,5.419321,1.7550722,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,13,4.300559,3.111036,"wind energy, 0.0291 | wind energy conversion, 0.0272 | energy conversion, 0.0221 | development offshore, 0.0197 | wind farms, 0.0184",offshore power wind grid energy
+sci,1,5.788766,3.5287018,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,8,6.241893,2.18606,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,0,3.3485734,6.328519,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,3.6063604,5.890104,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,10,6.9873586,4.7877307,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based
+sci,1,6.5620146,4.252327,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,3,4.2894473,1.905417,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,6,3.8370674,5.2374406,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,0,4.537707,6.1617703,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,8,6.2862325,2.29634,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,13,4.315166,2.8313122,"wind energy, 0.0291 | wind energy conversion, 0.0272 | energy conversion, 0.0221 | development offshore, 0.0197 | wind farms, 0.0184",offshore power wind grid energy
+sci,0,3.9948163,5.9322577,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,13,4.6199794,3.0133128,"wind energy, 0.0291 | wind energy conversion, 0.0272 | energy conversion, 0.0221 | development offshore, 0.0197 | wind farms, 0.0184",offshore power wind grid energy
+sci,2,5.1591988,2.503816,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,2,5.340806,2.0910876,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,3,4.620646,1.1812676,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,0,4.495636,6.595897,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,3,4.9344845,1.2574656,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,12,6.7481647,5.7399554,"hainan island, 0.0445 | energy production, 0.0377 | 2011 ieee, 0.0354 | power plants, 0.0335 | energy island, 0.0301",energy wind power island offshore
+sci,3,4.7149878,1.4662021,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,5,7.797158,4.3247457,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,8,4.091338,3.674634,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,0,3.7110338,5.442495,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,13,4.3432093,2.8487546,"wind energy, 0.0291 | wind energy conversion, 0.0272 | energy conversion, 0.0221 | development offshore, 0.0197 | wind farms, 0.0184",offshore power wind grid energy
+sci,13,4.2227807,2.5699942,"wind energy, 0.0291 | wind energy conversion, 0.0272 | energy conversion, 0.0221 | development offshore, 0.0197 | wind farms, 0.0184",offshore power wind grid energy
+sci,2,5.0387793,2.6516404,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,0,3.2480412,5.8287926,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,6,3.9318423,4.2606425,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,1,6.8978095,4.353108,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,0,3.6685095,5.6025605,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,8,4.1158056,2.526168,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,2,5.2967157,2.8918455,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,11,6.163155,2.5240438,"renewable energy, 0.0351 | renewable energy island, 0.0284 | island samsø, 0.0219 | transmission grid, 0.0192 | science technology, 0.0163",energy island harmonic grid transmission
+sci,0,5.053708,6.044709,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,3,4.7544823,1.52346,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,0,4.0131035,6.3572536,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,3.8018217,6.112811,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,13,4.6603775,2.4759858,"wind energy, 0.0291 | wind energy conversion, 0.0272 | energy conversion, 0.0221 | development offshore, 0.0197 | wind farms, 0.0184",offshore power wind grid energy
+sci,2,5.835121,2.1841836,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,3,4.9099493,1.5368392,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,8,4.1862583,2.3260186,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,6,4.066645,4.897288,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,6,4.110651,4.244405,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,3,5.0153494,1.5740274,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,0,3.2085545,5.9916267,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,2,5.4077554,2.3895528,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,2,5.0809574,2.348903,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,2,5.312899,2.1283388,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,12,6.695867,5.3798437,"hainan island, 0.0445 | energy production, 0.0377 | 2011 ieee, 0.0354 | power plants, 0.0335 | energy island, 0.0301",energy wind power island offshore
+sci,2,5.134758,2.5695436,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,2,5.2934313,3.3263078,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,5,7.9153132,3.9149761,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,5,7.110551,3.886073,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,8,4.0515323,3.7142363,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,6,4.283827,5.1331286,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,3,4.407725,1.2917181,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,1,6.7728076,3.9932876,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,3,4.5167956,2.4079275,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,0,4.774439,6.8729506,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,8,4.131537,3.640599,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,2,5.169897,2.0691407,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,2,5.1415854,3.6700256,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,2,5.279025,3.3709054,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,3,4.9073133,1.4192827,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,2,5.362431,2.2891788,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,6,4.1196933,4.3287582,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,3,5.013686,1.7556925,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,4,6.3125134,6.2728786,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,4,6.711335,6.47855,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,4,6.594272,6.233964,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,4,6.603846,6.0762944,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,10,7.619587,4.865781,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based
+sci,4,6.774801,6.1495557,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,1,5.5501213,5.0775223,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,10,7.1118507,4.869173,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based
+sci,13,4.6185226,2.6470726,"wind energy, 0.0291 | wind energy conversion, 0.0272 | energy conversion, 0.0221 | development offshore, 0.0197 | wind farms, 0.0184",offshore power wind grid energy
+sci,4,6.8735824,6.2412534,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,4,6.64616,6.079295,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,3,4.8619504,1.2691624,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,0,3.7552187,6.657976,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,0,3.2275052,6.49333,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,5,8.000925,4.4627013,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,2,5.303094,2.3418436,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,4,6.424894,6.095905,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,4,6.4487762,5.786642,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,4,6.711745,6.480288,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,4,6.904267,6.0293927,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,0,3.4729664,6.6919613,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,10,7.191475,4.9517145,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based
+sci,4,6.2779245,6.3001885,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,3,4.8781457,1.2112664,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,9,7.0625734,2.9428384,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,2,5.6027074,3.2469263,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north
+sci,4,6.775325,6.560559,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,12,6.9994283,5.571282,"hainan island, 0.0445 | energy production, 0.0377 | 2011 ieee, 0.0354 | power plants, 0.0335 | energy island, 0.0301",energy wind power island offshore
+sci,4,6.5422926,5.982024,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,3,4.738812,1.197043,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,4,6.7019253,5.998179,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,4,6.3480964,6.0476975,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,4,6.666328,6.484571,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,10,7.555691,4.9293385,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based
+sci,4,6.589811,6.34832,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,8,3.950902,3.1823976,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,3,4.433525,1.6934649,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power
+sci,8,6.3648577,2.287208,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper
+sci,5,7.7649684,3.8086455,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island
+sci,0,3.315396,6.651966,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,4,6.5818367,6.364677,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,12,5.469702,3.9797049,"hainan island, 0.0445 | energy production, 0.0377 | 2011 ieee, 0.0354 | power plants, 0.0335 | energy island, 0.0301",energy wind power island offshore
+sci,12,6.8213944,5.6586857,"hainan island, 0.0445 | energy production, 0.0377 | 2011 ieee, 0.0354 | power plants, 0.0335 | energy island, 0.0301",energy wind power island offshore
+sci,4,6.694426,6.4448175,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,10,7.589024,4.9228196,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based
+sci,4,6.3081613,6.120028,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,1,6.6764064,3.4276936,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid
+sci,4,6.7573633,6.532814,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,6,3.6739266,5.0589194,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission
+sci,13,4.3911047,2.9238708,"wind energy, 0.0291 | wind energy conversion, 0.0272 | energy conversion, 0.0221 | development offshore, 0.0197 | wind farms, 0.0184",offshore power wind grid energy
+sci,11,6.559412,1.9593651,"renewable energy, 0.0351 | renewable energy island, 0.0284 | island samsø, 0.0219 | transmission grid, 0.0192 | science technology, 0.0163",energy island harmonic grid transmission
+sci,4,6.3905563,5.993754,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin
+sci,9,7.1679378,3.397289,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system
+sci,0,3.501997,6.770087,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage
+sci,13,4.3987646,2.852726,"wind energy, 0.0291 | wind energy conversion, 0.0272 | energy conversion, 0.0221 | development offshore, 0.0197 | wind farms, 0.0184",offshore power wind grid energy
+sci,5,7.213894,3.9352295,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island

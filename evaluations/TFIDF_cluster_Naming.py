@@ -13,7 +13,7 @@ from sklearn.preprocessing import normalize
 with open('parameters.yaml', 'r') as file:
     parameters = yaml.safe_load(file)
 
-def TFIDF_cluster_topic(cluster_texts, other_texts, language='english', n_terms=20):
+def TFIDF_cluster_topic(cluster_texts, other_texts,threshold, language='english', n_terms=20):
     # Define stop words for different languages
     stop_words = {
         'english': stopwords.words('english')
@@ -54,18 +54,19 @@ def TFIDF_cluster_topic(cluster_texts, other_texts, language='english', n_terms=
         # Get top terms with positive differences
         top_indices = tf_idf_diff.argsort()[::-1][:n_terms]
 
-        # Define a threshold for the positive difference
-        threshold = 0.01  # Adjust this value as needed
-
         # Get top terms with positive differences above the threshold
         top_terms = [terms[i] for i in top_indices if tf_idf_diff[i] > threshold]
+        top_values = [tf_idf_diff[i] for i in top_indices if tf_idf_diff[i] > threshold]
+
+        # Join the top terms and their values as a list of strings where each string contains "term, value"
+        top_terms = [f"{terms[i]}, {tf_idf_diff[i]:.4f}" for i in top_indices if tf_idf_diff[i] > threshold]
 
         return top_terms
     except Exception as e:
         print(f"Error in TFIDF_cluster_topic: {e}")
     return []
 
-def TFIDF_cluster_Naming(df_file, result_df, clustering_method, source, model):
+def TFIDF_cluster_Naming(df_file, result_df, clustering_method, source, model, threshold):
     # df_file: dataframe containing texts in column 'Content'
     # result_df: dataframe containing cluster integers in column 'cluster' 
 
@@ -82,16 +83,18 @@ def TFIDF_cluster_Naming(df_file, result_df, clustering_method, source, model):
 
         cluster_texts = df_file['Content'].iloc[indices].astype(str).tolist()
         other_texts = df_file['Content'].iloc[other_indices].astype(str).tolist()
-        top_terms = TFIDF_cluster_topic(cluster_texts, other_texts, language='english', n_terms=5)
+        top_terms = TFIDF_cluster_topic(cluster_texts, other_texts, threshold)
 
-        # Select the 3 most occurring terms as the topic name
-        # How_many_terms = 3
         topic_name = None
-        # term_counts = pd.Series(top_terms).value_counts()
-        # top_occurring_terms = term_counts.index[:How_many_terms]
+        # Select the 5 most defining terms
+        How_many_terms = 5
         
         if len(top_terms) > 0:
-            topic_name = " ".join(top_terms)
+            try:
+                top_terms = top_terms[:How_many_terms]
+                topic_name = " | ".join(top_terms)
+            except:
+                topic_name = " | ".join(top_terms)
 
         if topic_name is None:
             topic_name = f"No words found for cluster {label}"

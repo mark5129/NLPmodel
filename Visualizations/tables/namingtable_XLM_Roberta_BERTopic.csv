@@ -1,40 +1,40 @@
 Source,cluster,count,TF_IDF_topic_name,BERTopic_topic_name,count_words
-pro,0,41,000 tonnes north sea ørsted atp gw offshore fuels denmark,energy wind sea island offshore,2
-pro,1,32,offshore wind 70 percent green power electricity consumption climate council,energy wind offshore electricity 2030,3
-pro,2,31,nuclear power open door christian bueger electricity grid marine mammals,energy wind says also offshore,0
-pro,3,30,million tonnes million ton co2 emissions district heating natural gas,energy co2 climate green dkk,1
-pro,4,20,north sea converter stations business case energy islands kriegers flak,energy wind island islands sea,3
-pro,5,18,energy islands north islands north islands north sea wave power jan bentzen,energy island islands wind electricity,2
-reg,0,74,energy parks renewable energy green island claus andersen really good,bornholm energy also wind island,2
-reg,1,74,energy islands bornholm islands bornholm energy islands offshore wind nuclear power,energy bornholm says island islands,3
-reg,2,55,offshore wind baltic sea district heating green fuels rønne harbor,bornholm energy wind offshore hydrogen,2
-reg,3,54,energy agency danish energy agency danish energy offshore wind environmental assessment,wind offshore energy bornholm danish,4
-reg,4,45,business park anne thomas social democracy top candidate food school,bornholm business energy island says,1
-reg,5,41,municipal council next year last year long term municipal treasury,bornholm also municipal year energy,2
-reg,6,37,center bornholm business center business center bornholm bornholm companies press release,bornholm energy business companies center,4
-reg,7,37,baltic sea citizens association critical infrastructure war ukraine cultural identity,bornholm energy also baltic island,1
-reg,8,31,business park green business green business park green transition young people,bornholm energy green island business,2
-reg,9,29,high voltage local plan high voltage station voltage station gross area,energy bornholm energinet plant area,1
-reg,10,26,social democracy municipal council energy island plan strategy claus larsen,energy bornholm island also municipal,3
-reg,11,22,citizens association association energy islands association energy citizens association energy citizens meeting,energy bornholm also citizens island,2
-reg,12,22,bornholm museum feasibility studies land plant project manager high voltage,bornholm energy says museum area,2
-reg,13,20,wind farms offshore wind offshore wind farms cip ørsted green energy,energy bornholm wind island offshore,3
-reg,14,19,42 000 says peter people meeting municipal council peter juel,bornholm energy also island must,0
-reg,15,19,31 billion think tank energy policy energy industry fossil fuels,bornholm energy wind island project,1
-reg,16,15,baltic energy baltic energy island mikael benzon green transition election campaign,bornholm energy island green also,3
-reg,17,15,offshore wind north sea state aid wind farms offshore wind farms,energy bornholm wind offshore islands,2
-sci,0,126,vsc hvdc ac grid hvdc system high voltage control strategy,power control system grid voltage,4
-sci,1,58,north sea offshore wind offshore grid wind generation wind farms,grid energy offshore wind north,4
-sci,2,57,offshore wind energy security north sea offshore grid baltic sea,offshore energy wind grid power,4
-sci,3,36,energy island power systems energy islands smart grid real time,energy power system systems grid,4
-sci,4,29,renewable energy energy system small islands energy costs sustainable energy,energy island system islands renewable,4
-sci,5,29,energy islands grid spacing energy island wave energy rights reserved,wave grid offshore water kelvin,2
-sci,6,26,future offshore offshore wind offshore power network design circuit breakers,offshore wind system grid transmission,2
-sci,7,25,energy storage heat recovery primary energy individual generation numerical simulation,energy system power based storage,2
-sci,8,22,hydrogen production green hydrogen offshore energy green hydrogen production energy hub,energy hydrogen offshore wind power,3
-sci,9,22,north sea offshore wind legal framework offshore wind energy offshore grid,offshore wind grid energy paper,4
-sci,10,21,renewable energy energy demand building energy carbon emissions energy conservation,energy system power renewable model,2
-sci,11,19,pilot sites energy islands social norms energy communities energy community,energy social communities paper research,3
-sci,12,18,renewable energy transmission grid renewable energy island danish island harmonic distortion,energy island harmonic grid transmission,5
-sci,13,18,power plants energy island energy production water cycle electricity demand,energy wind power island offshore,3
-sci,14,15,offshore wind wind power wind energy wind farms development offshore,offshore power wind grid energy,4
+pro,0,31,"nuclear power, 0.0170 | christian bueger, 0.0084 | bent lauritzen, 0.0081 | open door, 0.0080 | marine mammals, 0.0075",energy wind says also offshore,0
+pro,1,29,"ørsted atp, 0.0102 | 000 tonnes, 0.0091 | early 2030s, 0.0083 | north sea, 0.0077 | morten hesselager, 0.0074",energy wind sea offshore island,0
+pro,2,28,"data center, 0.0147 | million tonnes, 0.0134 | million ton, 0.0095 | natural gas, 0.0080 | philip fosbøl, 0.0080",energy co2 climate green dkk,0
+pro,3,28,"offshore wind, 0.0114 | høje taastrup, 0.0069 | 70 percent, 0.0064 | green power, 0.0061 | green sector, 0.0057",energy wind offshore 2030 electricity,1
+pro,4,20,"converter stations, 0.0101 | business case, 0.0100 | north sea, 0.0092 | market design, 0.0087 | energy islands, 0.0079",energy wind island islands sea,1
+pro,5,18,"wave power, 0.0182 | million kroner, 0.0097 | energy islands north, 0.0088 | islands north, 0.0086 | islands north sea, 0.0086",energy island islands wind electricity,2
+pro,6,15,"light pollution, 0.0361 | kjeld pedersen, 0.0213 | solar cell, 0.0163 | lars holmegaard, 0.0130 | turbines solar cells, 0.0124",energy green also says wind,0
+reg,0,75,"really good, 0.0136 | energy parks, 0.0065 | green island, 0.0060 | renewable energy, 0.0059 | bornholm offshore wind, 0.0040",bornholm energy also wind says,2
+reg,1,73,"center bornholm, 0.0115 | business center, 0.0095 | business center bornholm, 0.0090 | business park, 0.0080 | green transition, 0.0077",bornholm energy green island business,2
+reg,2,73,"energy islands bornholm, 0.0071 | islands bornholm, 0.0071 | nuclear power, 0.0071 | energy islands, 0.0070 | offshore wind, 0.0068",energy bornholm island islands says,2
+reg,3,54,"danish energy agency, 0.0165 | energy agency, 0.0165 | danish energy, 0.0164 | offshore wind, 0.0124 | environmental assessment, 0.0104",bornholm energy wind offshore energinet,2
+reg,4,47,"next year, 0.0149 | municipal council, 0.0146 | last year, 0.0106 | social democracy, 0.0105 | savings catalog, 0.0100",bornholm also energy year municipal,1
+reg,5,45,"anne thomas, 0.0213 | business park, 0.0175 | social democracy, 0.0164 | top candidate, 0.0132 | food school, 0.0119",bornholm energy business island says,1
+reg,6,37,"baltic sea, 0.0245 | cultural identity, 0.0157 | critical infrastructure, 0.0143 | home guard, 0.0143 | united states, 0.0139",bornholm energy also baltic island,1
+reg,7,35,"baltic sea, 0.0158 | gas station, 0.0147 | offshore wind, 0.0143 | thomas bendtsen, 0.0141 | wind turbines, 0.0118",bornholm energy wind offshore says,2
+reg,8,29,"high voltage, 0.0242 | local plan, 0.0193 | high voltage station, 0.0168 | voltage station, 0.0167 | gross area, 0.0109",energy bornholm energinet plant area,0
+reg,9,29,"electricity prices, 0.0120 | 10 million, 0.0117 | 31 billion, 0.0107 | think tank, 0.0100 | energy island, 0.0089",bornholm energy island islands wind,1
+reg,10,26,"social democracy, 0.0219 | municipal council, 0.0194 | municipal elections, 0.0168 | energy island, 0.0154 | election campaign, 0.0153",energy bornholm island also municipal,2
+reg,11,22,"ole sonne, 0.0186 | citizens association, 0.0173 | association energy islands, 0.0164 | association energy, 0.0161 | citizens association energy, 0.0137",energy bornholm also citizens island,2
+reg,12,22,"bornholm museum, 0.0568 | land plant, 0.0213 | feasibility studies, 0.0201 | project manager, 0.0136 | jakob nørmark, 0.0106",bornholm energy says museum area,1
+reg,13,20,"district heating, 0.0159 | electrolysis plant, 0.0155 | green fuels, 0.0138 | hydrogen production, 0.0138 | surplus heat, 0.0120",bornholm energy hydrogen powertox island,1
+reg,14,20,"wind farms, 0.0092 | 27 million, 0.0087 | offshore wind farms, 0.0077 | 20 billion, 0.0076 | offshore wind, 0.0075",energy bornholm wind island offshore,2
+reg,15,19,"people meeting, 0.0398 | says peter, 0.0224 | 42 000, 0.0140 | peter juel, 0.0122 | peter juel jensen, 0.0119",bornholm energy also island must,0
+reg,16,15,"baltic energy, 0.0159 | baltic energy island, 0.0132 | mikael benzon, 0.0125 | election campaign, 0.0110 | green transition, 0.0098",bornholm energy island green also,2
+reg,17,15,"offshore wind, 0.0239 | state aid, 0.0197 | north sea, 0.0186 | island north, 0.0118 | island north sea, 0.0118",energy bornholm wind offshore islands,1
+sci,0,126,"vsc hvdc, 0.0105 | ac grid, 0.0078 | hvdc system, 0.0066 | reactive power, 0.0064 | offshore ac, 0.0061",power control grid offshore voltage,1
+sci,1,61,"energy island, 0.0337 | energy islands, 0.0211 | smart grid, 0.0162 | energy systems, 0.0151 | north sea, 0.0141",energy power systems system grid,1
+sci,2,58,"north sea, 0.0083 | baltic seas, 0.0072 | wind farms, 0.0068 | north baltic, 0.0066 | north baltic seas, 0.0064",energy grid offshore wind north,2
+sci,3,57,"energy security, 0.0220 | offshore wind, 0.0148 | north sea, 0.0075 | baltic sea, 0.0065 | offshore energy, 0.0064",offshore energy wind grid power,2
+sci,4,29,"energy islands, 0.0688 | rights reserved, 0.0523 | energy island, 0.0515 | offshore grid, 0.0444 | sea surface, 0.0440",wave grid offshore water kelvin,1
+sci,5,27,"energy demand, 0.0223 | energy storage, 0.0143 | renewable energy, 0.0139 | energy consumption, 0.0132 | carbon emissions, 0.0124",energy system power renewable island,2
+sci,6,26,"offshore wind, 0.0159 | black start, 0.0157 | offshore power, 0.0137 | future offshore, 0.0128 | floating wind, 0.0092",offshore wind system grid transmission,1
+sci,7,22,"hydrogen production, 0.0434 | green hydrogen, 0.0349 | green hydrogen production, 0.0173 | offshore energy, 0.0165 | production costs, 0.0157",energy hydrogen offshore wind power,2
+sci,8,22,"north sea, 0.0198 | offshore wind, 0.0195 | legal framework, 0.0185 | offshore grid, 0.0143 | offshore wind energy, 0.0133",offshore wind grid energy paper,2
+sci,9,20,"renewable energy, 0.0446 | sustainable energy, 0.0289 | model developed, 0.0202 | energy system, 0.0185 | 2017 ieee, 0.0180",energy island renewable islands system,2
+sci,10,19,"numerical simulation, 0.0276 | energy source, 0.0261 | energy system, 0.0233 | electrical power, 0.0228 | hydrogen energy, 0.0208",energy system power operation based,1
+sci,11,18,"renewable energy, 0.0351 | renewable energy island, 0.0284 | island samsø, 0.0219 | transmission grid, 0.0192 | science technology, 0.0163",energy island harmonic grid transmission,3
+sci,12,18,"hainan island, 0.0445 | energy production, 0.0377 | 2011 ieee, 0.0354 | power plants, 0.0335 | energy island, 0.0301",energy wind power island offshore,2
+sci,13,15,"wind energy, 0.0291 | wind energy conversion, 0.0272 | energy conversion, 0.0221 | development offshore, 0.0197 | wind farms, 0.0184",offshore power wind grid energy,2
