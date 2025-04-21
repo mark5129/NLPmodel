@@ -12,7 +12,7 @@ with open('parameters.yaml', 'r') as file:
 set_style()
 
 embeddings = ['XLM_Roberta', 'Specter2Actually', 'MiniLm12']
-cluster_models = ['HDBSCAN', 'BERTopic']
+cluster_models = ['HDBSCAN'] # , 'BERTopic'
 sources = ['pro', 'reg', 'sci']
 
 for embedding in embeddings:

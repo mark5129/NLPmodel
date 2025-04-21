@@ -22,7 +22,7 @@ def naming_tableIndividual(Embedd_model, cluster_model):
     merged_df.drop_duplicates(subset=['Source', 'cluster'], inplace=True)
 
     # add a column that counts the number of words that are in both columns TF_IDF_topic_name and BERTopic_topic_name
-    merged_df['count_words'] = merged_df.apply(lambda row: len(set(row['TF_IDF_topic_name'].split()) & set(row['BERTopic_topic_name'].split())), axis=1)
+    #merged_df['count_words'] = merged_df.apply(lambda row: len(set(row['TF_IDF_topic_name'].split()) & set(row['BERTopic_topic_name'].split())), axis=1)
 
     # Save the merged DataFrame to a CSV file
     output_file = f"Visualizations/tables/namingtable_{Embedd_model}_{cluster_model}.csv"

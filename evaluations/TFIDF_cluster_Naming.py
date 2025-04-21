@@ -46,7 +46,7 @@ def TFIDF_cluster_topic(cluster_texts, other_texts,threshold, language='english'
         # Compute mean TF-IDF scores for cluster and other documents
         cluster_tf_idf = cluster_matrix.mean(axis=0).A1
         other_tf_idf = other_matrix.mean(axis=0).A1
-
+        
         # Compute the difference to find terms distinguishing the cluster
         tf_idf_diff = cluster_tf_idf - other_tf_idf
         terms = vectorizer.get_feature_names_out()
@@ -58,8 +58,18 @@ def TFIDF_cluster_topic(cluster_texts, other_texts,threshold, language='english'
         top_terms = [terms[i] for i in top_indices if tf_idf_diff[i] > threshold]
         top_values = [tf_idf_diff[i] for i in top_indices if tf_idf_diff[i] > threshold]
 
-        # Join the top terms and their values as a list of strings where each string contains "term, value"
-        top_terms = [f"{terms[i]}, {tf_idf_diff[i]:.4f}" for i in top_indices if tf_idf_diff[i] > threshold]
+        # Get the distinct occurrence count of top_terms in cluster texts (case insensitive)
+        term_counts = {term: sum(text.lower().count(term.lower()) for text in cluster_texts) for term in top_terms}
+
+        # Get the distinct occurrence count of top_terms in cluster texts (case insensitive)
+        document_counts = {term: sum(term.lower() in text.lower() for text in cluster_texts) for term in top_terms}
+
+        # Concatenate top_terms, top_values, and term_counts into a single string
+        top_terms_info = [
+            f"{terms[i]}, {tf_idf_diff[i]:.4f}, {document_counts[terms[i]]}, {term_counts[terms[i]]}" 
+            for i in top_indices if tf_idf_diff[i] > threshold
+        ]
+        top_terms = top_terms_info
 
         return top_terms
     except Exception as e:

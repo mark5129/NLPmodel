@@ -1,165 +1,165 @@
-Source,cluster,x,y,TF_IDF_topic_name,BERTopic_topic_name
-pro,1,8.42041,4.3822556,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.558888,3.177773,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.6052065,3.8441215,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.0353494,3.4124339,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.399818,3.82166,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.83596,4.007172,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,6.7446337,4.2866836,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,7.861211,6.1280894,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.140338,4.6060886,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,6.6596684,5.3728027,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,8.563503,5.734184,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,5.4475217,4.0835414,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.902801,5.637485,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.4350996,4.077413,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.8943205,4.856368,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.004966,5.147017,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,6.5262036,5.5155053,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,0,6.738423,5.491384,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,9.495893,3.4929147,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.857836,5.0335283,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.752924,4.4305673,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.6219015,4.1831813,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.672508,4.1026974,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.6425376,2.6079855,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.5357046,2.6501136,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.431156,3.9085293,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.569346,3.8465068,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.302295,3.673325,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,6.512398,4.2807684,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,5.4540977,4.0539503,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,5.8745475,3.7411108,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.605236,2.7048333,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.3002214,2.1868033,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.0935154,3.7647848,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.93494,2.650008,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.364815,2.8183856,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.322224,1.9086424,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.66313,2.400767,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.950976,4.350199,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,5.565869,3.8554893,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.025597,6.1151257,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.1028385,4.5375657,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,6.534258,4.8654113,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,9.109002,5.526656,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,5.795112,4.1266227,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.2652445,3.0622554,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.714764,5.806752,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.1873746,1.972869,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.049759,4.490425,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.6890745,2.2140126,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.6822762,2.266364,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.853597,2.5046532,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.743252,4.4239902,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.1851068,2.7220886,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,5.8117185,4.6096597,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,5.758265,3.408201,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,5.7504315,3.918691,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,5.7115245,3.598812,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.0571127,3.6417177,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,5.8634105,3.889262,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.739118,2.512877,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.948121,5.631937,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.623718,3.6374714,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.299561,5.5502954,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.2050934,2.849156,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.459604,3.9814212,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.165629,2.822199,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.2676334,3.2924523,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.024419,5.7139034,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,5.883297,4.9646378,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,0,7.5184083,5.322632,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,7.3807936,2.0000937,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,5.845196,4.843991,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,0,6.726649,5.5914044,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,9.055272,5.616301,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.990338,5.301589,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.2685723,3.5744162,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.374489,3.864138,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.782318,2.8054268,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,7.3412075,5.5675225,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,0,7.309531,5.01298,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,0,6.5815353,5.1772356,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,0,6.4246645,5.402164,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,7.613029,3.7993243,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,6.971578,5.503023,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,5.955818,2.6986623,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,6.7912145,4.721791,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,9.154857,3.2397702,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.989161,3.4840865,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.045173,6.203592,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,6.661576,5.3061223,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,7.249926,1.8480545,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.2948394,2.4034703,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.882529,3.7940419,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.477545,6.0766916,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.135387,4.706978,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.5381427,2.9679515,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.503476,2.3437214,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.427082,3.248059,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.512696,3.878327,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.134361,4.6692286,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.677905,4.400917,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.029952,2.83837,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.492187,4.3873496,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.102043,4.269187,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.729866,4.0138106,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.233537,2.9771008,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.052695,5.8752127,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.247153,3.028945,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.079339,2.3160362,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,7.395703,5.4905887,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,5.667,3.0710874,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.633072,3.57585,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.57954,4.4299574,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.412215,2.817562,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.6723657,2.1360354,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,7.2083163,4.6137886,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,8.459978,4.882534,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.448087,3.4064198,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,6.129522,4.8392897,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,0,7.0862184,5.656246,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,8.894098,5.6464286,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.23928,3.7120428,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,6.582837,4.7967134,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,8.380468,6.073993,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.616834,3.0653534,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.640905,3.6636887,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,5.653077,3.0569255,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.28975,6.017965,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.8867297,3.3313699,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.755356,3.3782277,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,5.7077327,3.6004224,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.451619,2.6276934,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.5016775,3.0643256,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,6.939084,4.8411236,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,6.9565005,2.6751237,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.4129925,5.913188,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.422172,1.7944998,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.705557,5.4521604,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.7753096,2.827749,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.978433,4.0255566,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.699117,4.341859,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,9.411779,3.9240224,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,5.761116,2.9075744,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.170818,2.7097678,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,5.8466916,2.8209312,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.3727536,4.4080405,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.644,5.3982024,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.4656925,5.2617464,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,6.4682894,4.53724,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,0,6.644962,5.416065,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,7.15317,3.0818133,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.09107,2.575543,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.049442,5.288868,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.319234,3.3841958,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,6.5551705,2.350354,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,7.379869,5.8361964,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,0,7.0440745,4.8903885,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,0,7.552582,5.2096853,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,9.031537,3.0567164,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,7.0361204,1.7769617,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,0,6.1560297,4.80145,"data center, 0.0139 | million tonnes, 0.0125 | million ton, 0.0093 | co2 emissions, 0.0088 | district heating, 0.0086",energy co2 climate green dkk
-pro,1,6.8896837,2.2073967,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
-pro,1,8.918099,2.7038832,"offshore wind, 0.0128 | energy islands, 0.0071 | wind turbines, 0.0057 | north sea, 0.0055 | islands bornholm, 0.0053",energy wind island islands offshore
+Source,cluster,x,y,TF_IDF_topic_name
+pro,1,8.42041,4.3822556,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.558888,3.177773,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.6052065,3.8441215,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.0353494,3.4124339,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.399818,3.82166,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.83596,4.007172,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,6.7446337,4.2866836,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,7.861211,6.1280894,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.140338,4.6060886,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,6.6596684,5.3728027,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,8.563503,5.734184,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,5.4475217,4.0835414,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.902801,5.637485,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.4350996,4.077413,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.8943205,4.856368,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.004966,5.147017,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,6.5262036,5.5155053,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,0,6.738423,5.491384,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,9.495893,3.4929147,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.857836,5.0335283,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.752924,4.4305673,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.6219015,4.1831813,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.672508,4.1026974,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.6425376,2.6079855,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.5357046,2.6501136,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.431156,3.9085293,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.569346,3.8465068,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.302295,3.673325,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,6.512398,4.2807684,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,5.4540977,4.0539503,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,5.8745475,3.7411108,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.605236,2.7048333,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.3002214,2.1868033,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.0935154,3.7647848,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.93494,2.650008,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.364815,2.8183856,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.322224,1.9086424,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.66313,2.400767,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.950976,4.350199,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,5.565869,3.8554893,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.025597,6.1151257,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.1028385,4.5375657,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,6.534258,4.8654113,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,9.109002,5.526656,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,5.795112,4.1266227,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.2652445,3.0622554,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.714764,5.806752,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.1873746,1.972869,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.049759,4.490425,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.6890745,2.2140126,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.6822762,2.266364,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.853597,2.5046532,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.743252,4.4239902,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.1851068,2.7220886,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,5.8117185,4.6096597,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,5.758265,3.408201,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,5.7504315,3.918691,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,5.7115245,3.598812,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.0571127,3.6417177,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,5.8634105,3.889262,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.739118,2.512877,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.948121,5.631937,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.623718,3.6374714,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.299561,5.5502954,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.2050934,2.849156,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.459604,3.9814212,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.165629,2.822199,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.2676334,3.2924523,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.024419,5.7139034,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,5.883297,4.9646378,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,0,7.5184083,5.322632,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,7.3807936,2.0000937,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,5.845196,4.843991,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,0,6.726649,5.5914044,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,9.055272,5.616301,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.990338,5.301589,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.2685723,3.5744162,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.374489,3.864138,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.782318,2.8054268,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,7.3412075,5.5675225,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,0,7.309531,5.01298,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,0,6.5815353,5.1772356,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,0,6.4246645,5.402164,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,7.613029,3.7993243,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,6.971578,5.503023,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,5.955818,2.6986623,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,6.7912145,4.721791,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,9.154857,3.2397702,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.989161,3.4840865,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.045173,6.203592,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,6.661576,5.3061223,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,7.249926,1.8480545,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.2948394,2.4034703,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.882529,3.7940419,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.477545,6.0766916,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.135387,4.706978,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.5381427,2.9679515,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.503476,2.3437214,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.427082,3.248059,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.512696,3.878327,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.134361,4.6692286,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.677905,4.400917,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.029952,2.83837,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.492187,4.3873496,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.102043,4.269187,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.729866,4.0138106,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.233537,2.9771008,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.052695,5.8752127,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.247153,3.028945,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.079339,2.3160362,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,7.395703,5.4905887,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,5.667,3.0710874,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.633072,3.57585,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.57954,4.4299574,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.412215,2.817562,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.6723657,2.1360354,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,7.2083163,4.6137886,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,8.459978,4.882534,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.448087,3.4064198,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,6.129522,4.8392897,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,0,7.0862184,5.656246,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,8.894098,5.6464286,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.23928,3.7120428,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,6.582837,4.7967134,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,8.380468,6.073993,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.616834,3.0653534,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.640905,3.6636887,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,5.653077,3.0569255,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.28975,6.017965,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.8867297,3.3313699,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.755356,3.3782277,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,5.7077327,3.6004224,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.451619,2.6276934,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.5016775,3.0643256,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,6.939084,4.8411236,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,6.9565005,2.6751237,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.4129925,5.913188,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.422172,1.7944998,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.705557,5.4521604,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.7753096,2.827749,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.978433,4.0255566,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.699117,4.341859,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,9.411779,3.9240224,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,5.761116,2.9075744,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.170818,2.7097678,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,5.8466916,2.8209312,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.3727536,4.4080405,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.644,5.3982024,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.4656925,5.2617464,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,6.4682894,4.53724,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,0,6.644962,5.416065,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,7.15317,3.0818133,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.09107,2.575543,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.049442,5.288868,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.319234,3.3841958,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,6.5551705,2.350354,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,7.379869,5.8361964,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,0,7.0440745,4.8903885,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,0,7.552582,5.2096853,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,9.031537,3.0567164,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,7.0361204,1.7769617,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,0,6.1560297,4.80145,"data center, 0.0139, 4, 42 | million tonnes, 0.0125, 10, 23 | million ton, 0.0093, 12, 27 | co2 emissions, 0.0088, 11, 28 | district heating, 0.0086, 9, 33"
+pro,1,6.8896837,2.2073967,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"
+pro,1,8.918099,2.7038832,"offshore wind, 0.0128, 100, 549 | energy islands, 0.0071, 114, 468 | wind turbines, 0.0057, 80, 208 | north sea, 0.0055, 77, 307 | islands bornholm, 0.0053, 39, 113"

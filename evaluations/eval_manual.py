@@ -10,7 +10,7 @@ with open('parameters.yaml', 'r') as file:
     parameters = yaml.safe_load(file)
 
 #Load embeddings from embeddings file
-which_model = ['XLM_Roberta']
+which_model = ['XLM_Roberta', 'Specter2Actually', 'MiniLm12'] # , 'Specter2Actually', 'MiniLm12'
 sources = ['pro', 'reg', 'sci']
 
 # Determine the latest run ID to know which embeddings to use
@@ -29,7 +29,7 @@ for model in which_model:
         #data_map = UMAP_reduction(embeddings, 'manualrun', 'merged_embeddings', model)
         #clustered_df, cluster_labels = run_hdbscan_from_data_map(data_map, 'manualrun', 'merged_embeddings', model)
         clustering_with_umap_hdbscan(df_file, embeddings, 'manualrun', 'merged_embeddings', model)
-        bertopic_clustering(df_file, embeddings, 'manualrun', 'merged_embeddings', model)
+        # bertopic_clustering(df_file, embeddings, 'manualrun', 'merged_embeddings', model)
     
     elif parameters['embeddings'] == 'Individual':
 
@@ -43,11 +43,11 @@ for model in which_model:
             HDBSCAN_Treshold = 0 # 0.01
 
             result_df, df_file = TFIDF_cluster_Naming(df_file, result_df, 'HDBSCAN', source, model, HDBSCAN_Treshold)
-            BERTopic_cluster_Naming(df_file, result_df, 'HDBSCAN', source, model)
+            # BERTopic_cluster_Naming(df_file, result_df, 'HDBSCAN', source, model)
 
-            BERTopic_Threshold = 0 # 0.005
+            # BERTopic_Threshold = 0 # 0.005
 
-            result_df, df_file = bertopic_clustering(df_file1, embeddings, 'manualrun', source, model)
+            # result_df, df_file = bertopic_clustering(df_file1, embeddings, 'manualrun', source, model)
 
-            result_df, df_file = TFIDF_cluster_Naming(df_file, result_df, 'BERTopic', source, model, BERTopic_Threshold)
-            BERTopic_cluster_Naming(df_file, result_df, 'BERTopic', source, model)
+            # result_df, df_file = TFIDF_cluster_Naming(df_file, result_df, 'BERTopic', source, model, BERTopic_Threshold)
+            # BERTopic_cluster_Naming(df_file, result_df, 'BERTopic', source, model)

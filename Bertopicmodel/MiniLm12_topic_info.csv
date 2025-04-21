@@ -1,0 +1,25 @@
+Topic,Count,Name,Source
+-1,6,-1_nuclear power_bent lauritzen_lack engineers_henrik garver,pro
+0,51,0_energy island_north sea_energy islands_offshore wind,pro
+1,39,1_climate council_million tonnes_climate act_green power,pro
+2,33,2_offshore wind_wind turbines_open door_energy islands,pro
+3,30,3_energy islands_islands bornholm_energy islands bornholm_energy island,pro
+4,22,4_la cour_natural gas_tejs vegge_hesselager pedersen,pro
+-1,182,-1_energy islands_energy island_energy islands bornholm_islands bornholm,reg
+0,65,0_national center_energy island_cultural identity_center green,reg
+1,54,1_local plan_high voltage_det er_local plan area,reg
+2,50,2_offshore wind_bornholm offshore wind_bornholm offshore_offshore wind farm,reg
+3,41,3_social democracy_anne thomas_søren schow_municipal council,reg
+4,39,4_corporate tax_savings catalog_electric buses_000 kroner,reg
+5,38,5_center bornholm_offshore wind_casper poulsen_lone reppien,reg
+6,32,6_energy island_lars aagaard_jacob trøst_climate energy,reg
+7,31,7_wind turbines_offshore wind_energy islands_offshore wind turbines,reg
+8,30,8_energy islands_energy islands bornholm_islands bornholm_energy island,reg
+9,29,9_social democracy_energy island_overall plan_municipal council,reg
+10,25,10_price zone_electricity grid_bornholm electricity_bornholm electricity grid,reg
+11,22,11_klaus vesløv_district heating_says klaus vesløv_says klaus,reg
+12,19,12_business park_business center_center bornholm_greenlab skive,reg
+13,19,13_home guard_baltic sea_security policy_critical infrastructure,reg
+-1,1,-1_wind power_photovoltaic wind_renewable energy_onshore wind,sci
+0,374,0_offshore grid_offshore wind_north sea_wind farms,sci
+1,169,1_energy islands_renewable energy_energy island_energy sources,sci

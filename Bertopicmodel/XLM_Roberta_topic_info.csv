@@ -1,0 +1,28 @@
+Topic,Count,Name,Source
+-1,32,-1_nuclear power_energy islands_data center_energy island,pro
+0,66,0_offshore wind_north sea_energy islands_energy island,pro
+1,44,1_offshore wind_energy islands_energy island_open door,pro
+2,39,2_offshore wind_million tonnes_energy islands_green power,pro
+-1,183,-1_energy island_offshore wind_energy islands_energy islands bornholm,reg
+0,144,0_energy island_business park_søren schow_business center,reg
+1,63,1_social democracy_unity list_anne thomas_municipal council,reg
+2,52,2_energy island_energy islands_energy islands bornholm_islands bornholm,reg
+3,44,3_energy islands_energy islands bornholm_islands bornholm_energy island,reg
+4,34,4_offshore wind_hydrogen production_wind farms_offshore wind farms,reg
+5,34,5_offshore wind_danish energy_electricity grid_energy agency,reg
+6,29,6_climate plan_energy island_offshore wind_bornholm climate,reg
+7,28,7_finn ole_bornholm museum_ole sonne nielsen_sonne nielsen,reg
+8,17,8_thomas bendtsen_offshore wind_sea plan_rønne harbor,reg
+9,17,9_baltic energy_baltic energy island_energy island_søren møller christensen,reg
+10,16,10_home guard_baltic sea_security policy_war ukraine,reg
+11,15,11_offshore wind_wind turbines_state aid_wind farms,reg
+-1,124,-1_offshore wind_transmission grid_harmonic distortion_renewable energy,sci
+0,90,0_hvdc converter_dc voltage_ac grid_offshore grid,sci
+1,84,1_north sea_offshore grid_offshore wind_kriegers flak,sci
+2,57,2_offshore wind_offshore grid_offshore wind energy_wind farms,sci
+3,52,3_heat recovery_nsf caes_hainan island_co2 emissions,sci
+4,43,4_hydrogen production_green hydrogen_small islands_renewable energy,sci
+5,40,5_energy islands_energy communities_energy systems_cost parameter,sci
+6,20,6_barrier islands_inter array_wind farms_offshore wind,sci
+7,17,7_controlled switching_time series_circuit breakers_long term,sci
+8,17,8_vsc hvdc_safety margin_converter station_dynamic capacity,sci

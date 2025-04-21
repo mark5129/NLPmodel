@@ -1,26 +1,26 @@
-Source,cluster,count,TF_IDF_topic_name,BERTopic_topic_name,count_words
-pro,0,34,offshore wind wind turbines open door wind energy global wind,wind energy offshore danish sea,3
-pro,1,71,nuclear power natural gas million tonnes electricity consumption green power,energy climate power electricity green,3
-pro,2,74,energy island energy islands north sea island north sea island north,energy island wind sea islands,4
-reg,0,25,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies,1
-reg,1,30,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production,2
-reg,2,53,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area,1
-reg,3,22,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also,2
-reg,4,52,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands,4
-reg,5,22,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island,2
-reg,6,41,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project,4
-reg,7,93,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy,1
-reg,8,17,north sea energy islands offshore wind make possible island first,energy bornholm wind island offshore,4
-reg,9,25,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green,3
-reg,10,18,rønne harbor baltic sea thomas bendtsen nexø harbor offshore wind,bornholm energy wind sea offshore,3
-reg,11,66,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also,3
-reg,12,24,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies,2
-reg,13,18,business park green business green business park greenlab skive skive municipality,bornholm energy business island green,2
-sci,0,141,vsc hvdc hvdc transmission ac grid high voltage hvdc system,offshore wind control grid system,2
-sci,1,222,renewable energy energy islands energy island energy system energy sources,energy power system island renewable,4
-sci,2,19,energy islands energy island rights reserved low energy qd growth,energy island growth 111 islands,4
-sci,3,16,sea surface grid spacing long term wave energy time series,grid wave offshore kelvin model,2
-sci,4,16,wind farms offshore grid offshore wind transmission system offshore wind farms,offshore wind grid transmission farms,5
-sci,5,61,offshore wind wind power north sea offshore grid baltic sea,offshore wind grid power energy,4
-sci,6,24,north sea offshore grid offshore wind energy legal framework wind energy,offshore grid energy wind north,5
-sci,7,27,offshore wind wind farm wind farms wind power offshore wind farms,offshore wind grid power energy,3
+Source,cluster,count,TF_IDF_topic_name
+pro,0,34,"offshore wind, 0.0222, 31, 237 | open door, 0.0107, 5, 31 | wind turbines, 0.0096, 29, 91 | global wind, 0.0086, 3, 9 | offshore wind turbines, 0.0073, 20, 34"
+pro,1,71,"nuclear power, 0.0107, 6, 56 | natural gas, 0.0072, 14, 42 | million tonnes, 0.0070, 13, 26 | electricity consumption, 0.0066, 16, 46 | la cour, 0.0062, 1, 21"
+pro,2,74,"energy island, 0.0171, 71, 649 | energy islands, 0.0105, 63, 355 | north sea, 0.0094, 55, 233 | data center, 0.0092, 5, 62 | artificial island, 0.0059, 17, 39"
+reg,0,25,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,1,30,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,2,53,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,3,22,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,4,52,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,5,22,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,6,41,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,7,93,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,8,17,"north sea, 0.0232, 11, 20 | make possible, 0.0152, 2, 2 | island first, 0.0149, 2, 2 | energy islands, 0.0145, 16, 74 | new year, 0.0138, 2, 2"
+reg,9,25,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,10,18,"rønne harbor, 0.0478, 14, 36 | baltic sea, 0.0355, 15, 50 | thomas bendtsen, 0.0259, 3, 11 | land facilities, 0.0147, 1, 2 | offshore wind, 0.0137, 12, 47"
+reg,11,66,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,12,24,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,13,18,"green business, 0.0279, 9, 34 | business park, 0.0243, 13, 47 | green business park, 0.0214, 9, 30 | greenlab skive, 0.0164, 4, 16 | skive municipality, 0.0146, 5, 13"
+sci,0,141,"vsc hvdc, 0.0109, 4, 5 | ac grid, 0.0076, 20, 40 | hvdc transmission, 0.0072, 22, 25 | offshore ac, 0.0063, 19, 33 | reactive power, 0.0061, 19, 42"
+sci,1,222,"renewable energy, 0.0169, 93, 149 | energy island, 0.0141, 128, 183 | energy islands, 0.0120, 59, 78 | sustainable energy, 0.0093, 19, 30 | energy system, 0.0091, 57, 116"
+sci,2,19,"energy islands, 0.1190, 2, 3 | rights reserved, 0.0792, 3, 3 | energy island, 0.0553, 9, 11 | qd growth, 0.0463, 1, 6 | low energy, 0.0434, 2, 3"
+sci,3,16,"energy island, 0.0697, 3, 3 | wave energy, 0.0603, 2, 3 | sea surface, 0.0585, 1, 2 | grid spacing, 0.0536, 3, 14 | long term, 0.0468, 0, 0"
+sci,4,16,"wind farms, 0.0334, 12, 19 | offshore grid, 0.0208, 13, 29 | offshore wind, 0.0179, 14, 24 | transmission system, 0.0164, 4, 10 | offshore wind farms, 0.0163, 8, 10"
+sci,5,61,"offshore wind, 0.0158, 46, 104 | wind power, 0.0122, 28, 61 | north sea, 0.0114, 27, 49 | offshore grid, 0.0086, 46, 79 | baltic sea, 0.0084, 14, 21"
+sci,6,24,"north sea, 0.0374, 19, 36 | offshore grid, 0.0244, 19, 42 | legal framework, 0.0201, 6, 8 | offshore wind energy, 0.0186, 5, 12 | wind energy, 0.0172, 6, 15"
+sci,7,27,"offshore wind, 0.0420, 25, 76 | wind farm, 0.0368, 19, 55 | wind farms, 0.0235, 17, 27 | wind power, 0.0171, 11, 31 | offshore wind farms, 0.0152, 15, 17"

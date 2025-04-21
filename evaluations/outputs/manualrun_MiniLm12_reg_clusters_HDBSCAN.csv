@@ -1,507 +1,507 @@
-Source,cluster,x,y,TF_IDF_topic_name,BERTopic_topic_name
-reg,4,2.5334804,7.791923,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,0,1.0369734,9.494361,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,11,0.090580165,11.024,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,10,0.87975156,11.203282,rønne harbor baltic sea thomas bendtsen nexø harbor offshore wind,bornholm energy wind sea offshore
-reg,8,0.09616948,10.531163,north sea energy islands offshore wind make possible island first,energy bornholm wind island offshore
-reg,1,0.3913903,10.762749,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,1,-0.9108142,10.431982,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,1,0.29680368,10.668847,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,11,-0.13467254,11.326842,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,11,0.062005125,11.353171,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,7,3.8535974,9.21207,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,8,0.08911653,10.460793,north sea energy islands offshore wind make possible island first,energy bornholm wind island offshore
-reg,3,1.3836633,10.450882,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,1,-0.8478521,10.583695,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,11,0.1202687,11.614114,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,11,-0.06393966,11.164904,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,0,1.7483957,9.902969,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,7,3.871504,9.252844,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,11,-0.35538912,11.318479,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,12,2.7051938,9.430929,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,1,-0.8237115,10.084808,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,7,4.2291374,7.6814203,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,10,0.9076499,11.21261,rønne harbor baltic sea thomas bendtsen nexø harbor offshore wind,bornholm energy wind sea offshore
-reg,13,2.816243,8.760893,business park green business green business park greenlab skive skive municipality,bornholm energy business island green
-reg,10,0.53967893,10.716906,rønne harbor baltic sea thomas bendtsen nexø harbor offshore wind,bornholm energy wind sea offshore
-reg,12,3.371252,9.360119,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,0,1.9068127,9.9641075,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,11,-0.07043118,11.871745,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,11,-0.07806983,11.903703,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,11,0.03851911,11.980341,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,5,-0.8381118,9.204572,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,11,-0.49653426,11.329132,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,12,3.06969,9.664405,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,12,3.1314723,9.69991,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,10,0.5968776,10.961233,rønne harbor baltic sea thomas bendtsen nexø harbor offshore wind,bornholm energy wind sea offshore
-reg,11,-0.12692565,11.422946,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,12,3.0081937,9.317847,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,8,0.27159145,10.130829,north sea energy islands offshore wind make possible island first,energy bornholm wind island offshore
-reg,8,0.1355497,10.180298,north sea energy islands offshore wind make possible island first,energy bornholm wind island offshore
-reg,12,3.0368652,9.758846,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,10,0.37096325,10.838176,rønne harbor baltic sea thomas bendtsen nexø harbor offshore wind,bornholm energy wind sea offshore
-reg,1,0.43246192,10.842478,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,4,2.5305316,7.537939,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,11,0.020206984,11.151323,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,1,-0.7998969,10.273956,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,12,3.120726,9.635033,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,10,0.9050677,11.298837,rønne harbor baltic sea thomas bendtsen nexø harbor offshore wind,bornholm energy wind sea offshore
-reg,10,0.7901569,10.949813,rønne harbor baltic sea thomas bendtsen nexø harbor offshore wind,bornholm energy wind sea offshore
-reg,7,4.76745,7.584093,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,10,0.026391001,10.855787,rønne harbor baltic sea thomas bendtsen nexø harbor offshore wind,bornholm energy wind sea offshore
-reg,1,-0.7901536,9.972177,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,12,2.654372,9.308826,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,5,-0.49850908,9.521247,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,5,-0.7320098,8.875939,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,6,-0.39923146,9.010027,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,7,4.777743,7.7671285,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,11,0.45092997,11.394009,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,4,2.059974,7.996843,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,2,1.091217,6.5605392,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,11,-0.27475393,11.841599,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,11,-0.5854124,11.520676,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,2,1.2224904,6.0741873,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,5,-0.65898377,9.000457,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,5,-0.42543963,9.49129,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,7,4.536991,7.3682966,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,8,0.15614565,10.286558,north sea energy islands offshore wind make possible island first,energy bornholm wind island offshore
-reg,2,1.2066139,6.2166066,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,0.97276396,6.7563605,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,11,-0.37151733,11.007403,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,7,4.54534,7.577805,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,0,2.1120281,10.120299,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,11,0.041272026,11.361735,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,5,-0.72595304,8.909834,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,2,1.1654083,6.462729,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,1.1986156,6.510511,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,0,0.8213241,9.464663,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,2,0.85519314,6.7028723,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,0,4.1503067,8.519617,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,2,0.9144919,6.6406274,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,11,-0.82190585,11.262679,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,4,1.6266443,7.2216334,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,3,1.3315582,10.167101,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,5,-0.20292194,9.596299,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,2,0.9810046,7.163954,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,11,-0.28979856,11.795589,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,10,0.8723823,11.164278,rønne harbor baltic sea thomas bendtsen nexø harbor offshore wind,bornholm energy wind sea offshore
-reg,11,-0.36135826,11.108711,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,11,-0.1482786,11.284259,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,4,2.1041112,6.728669,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,11,-0.6872222,11.400398,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,4,1.6861604,6.517108,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,11,-0.35054553,11.50067,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,0,1.2021419,9.825007,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,10,0.16049816,10.88324,rønne harbor baltic sea thomas bendtsen nexø harbor offshore wind,bornholm energy wind sea offshore
-reg,2,1.3131049,7.492038,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,1.1567905,6.351411,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,4,2.4018006,7.1106405,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,11,-0.18675546,11.919983,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,6,0.36115023,8.6214695,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,5,-0.51797473,9.452268,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,4,2.0732782,7.356067,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,2,0.9099124,7.036864,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,4,1.9963956,7.6214185,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,9,1.8690196,8.143848,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,4,2.333106,7.838871,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,10,-0.07266475,10.739679,rønne harbor baltic sea thomas bendtsen nexø harbor offshore wind,bornholm energy wind sea offshore
-reg,6,0.12259426,9.089806,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,12,2.8526525,9.839482,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,1,-0.32601902,10.510155,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,5,-0.49847224,9.493476,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,11,-0.0992829,11.200918,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,12,2.939162,9.387264,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,9,1.8740522,8.382089,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,5,-0.53928375,8.830269,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,11,-0.20269802,11.776374,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,11,-0.12859595,11.965063,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,3,1.7882414,10.545161,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,7,4.304367,8.910152,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,3,1.3875914,10.380211,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,2,1.3640369,6.9533978,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,11,-0.22515048,11.596141,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,8,-0.07025468,9.825792,north sea energy islands offshore wind make possible island first,energy bornholm wind island offshore
-reg,12,2.612895,9.770407,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,0,1.8732756,10.023914,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,6,0.13283446,8.494039,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,6,-0.028997563,8.724337,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,2,1.0956722,6.467289,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,11,-0.5488025,11.222504,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,11,-0.4403653,11.561394,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,7,4.573744,8.737475,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,11,0.06354867,11.740385,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,7,4.7724967,7.812972,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,6,-0.04564024,9.077512,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,7,4.732552,7.6230617,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,4,2.6682334,7.496578,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,11,-0.5329224,11.257118,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,2,1.0292574,7.017545,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,7,4.6159825,7.656268,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.801354,7.816316,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.727655,7.5946646,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.4553804,7.927654,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,0,1.3386796,9.590823,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,10,0.5153716,11.26147,rønne harbor baltic sea thomas bendtsen nexø harbor offshore wind,bornholm energy wind sea offshore
-reg,10,0.64935297,11.061222,rønne harbor baltic sea thomas bendtsen nexø harbor offshore wind,bornholm energy wind sea offshore
-reg,11,-0.2813212,11.537413,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,7,4.7804303,8.097475,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,9,1.7159014,8.438173,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,7,4.5109634,8.23255,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,4,2.1032314,7.8332806,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,5,-0.7339832,8.908753,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,9,0.99791586,8.507913,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,1,-0.7462894,10.513256,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,6,0.1995864,8.564247,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,4,2.2126987,6.8832264,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,4,2.244481,6.834007,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,9,0.8902738,8.680345,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,2,1.3562313,6.1997643,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,1.0915929,6.8243957,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,4,2.0295835,7.3847537,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,1,-0.7165329,10.312597,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,2,1.2117507,5.9728723,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,1.1455704,6.1380677,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,9,2.0318098,8.376971,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,2,1.1897517,6.194845,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,1.109865,6.086226,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,1.2120361,5.9396257,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,11,0.26921755,11.496043,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,1,-0.49533078,10.507788,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,7,4.7285376,7.748363,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,2,0.884967,7.389927,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,7,3.9974568,9.118106,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,4,1.6419294,7.5086503,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,9,1.6363202,8.377989,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,7,4.538453,7.445598,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,8,0.19588175,10.010166,north sea energy islands offshore wind make possible island first,energy bornholm wind island offshore
-reg,6,0.095983416,8.702766,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,13,2.9183514,9.043303,business park green business green business park greenlab skive skive municipality,bornholm energy business island green
-reg,3,1.6405325,10.594006,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,9,2.066679,8.303131,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,11,0.13687083,11.562084,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,1,-1.0500461,10.436641,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,13,3.0894454,9.160331,business park green business green business park greenlab skive skive municipality,bornholm energy business island green
-reg,9,1.0545149,8.508603,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,7,4.805022,7.6148834,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,13,2.9559007,8.854934,business park green business green business park greenlab skive skive municipality,bornholm energy business island green
-reg,11,-0.7630079,11.332413,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,2,0.90310806,6.3501487,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,1.0100776,6.7364364,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,6,-0.3287529,8.641064,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,2,1.2293155,5.9842563,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,1.166473,6.0127525,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,1.2098365,6.018227,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,1.5133588,6.186056,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,1.3077072,6.268205,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,1.2815126,7.288575,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,11,-0.19775282,11.488772,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,11,0.09243018,11.592608,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,11,-0.0317625,11.870269,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,4,2.2669451,6.821891,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,5,-0.7569583,8.928934,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,11,-0.08059529,11.319753,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,7,4.402946,8.425555,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.0255322,8.046196,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,3,1.650371,10.349457,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,13,2.9808998,8.7214,business park green business green business park greenlab skive skive municipality,bornholm energy business island green
-reg,7,4.419517,8.297343,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,3.2291756,8.1358,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,3.8325815,7.996335,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,2,0.93015105,6.7101593,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,4,2.4956515,7.3932915,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,4,2.1284308,7.4620957,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,5,-0.48899823,8.814067,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,5,-0.660978,8.799533,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,5,-0.70748895,8.8440485,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,4,2.274332,7.478481,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,6,0.17015132,8.566649,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,2,1.1602974,6.293232,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,13,2.6950703,8.423851,business park green business green business park greenlab skive skive municipality,bornholm energy business island green
-reg,2,1.2030858,6.2503037,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,4,1.6348022,7.545171,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,2,1.1111786,6.1102066,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,1.397572,6.208122,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,1.365023,6.13615,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,1.258828,6.1714377,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,7,4.6388226,8.437053,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,4,2.1599412,7.2665005,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,2,1.1122789,6.902165,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,4,2.8463225,7.860719,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,7,4.0023994,8.471567,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,13,2.618867,8.648663,business park green business green business park greenlab skive skive municipality,bornholm energy business island green
-reg,3,1.6739551,10.651471,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,10,1.1287857,11.263635,rønne harbor baltic sea thomas bendtsen nexø harbor offshore wind,bornholm energy wind sea offshore
-reg,2,1.0656974,6.862585,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,1.0806478,6.5916076,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,4,2.1086705,6.7472,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,4,2.0482483,6.701302,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,7,4.712522,7.7220044,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,2,1.1870703,6.822192,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,1.1768198,6.587355,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,4,2.2812479,7.079208,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,13,3.0902903,9.187364,business park green business green business park greenlab skive skive municipality,bornholm energy business island green
-reg,9,2.0306747,8.428868,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,4,1.3617542,7.586645,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,3,1.6999431,10.772059,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,6,0.4817888,8.383802,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,12,3.0366292,9.534642,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,0,2.235695,10.131317,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,7,4.1640396,8.830235,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,4,2.3751886,7.207605,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,1,-1.0988939,10.390675,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,10,0.97987473,11.074121,rønne harbor baltic sea thomas bendtsen nexø harbor offshore wind,bornholm energy wind sea offshore
-reg,9,1.6341829,8.153916,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,7,4.5501366,8.13334,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,1,-1.0957223,10.422557,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,4,2.4966774,7.2199006,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,9,1.1948838,8.461352,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,2,0.733535,7.0349817,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,11,-0.75527096,11.345481,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,4,2.5225885,7.250646,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,7,4.487594,8.049514,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,6,0.09222365,8.536289,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,6,0.20516568,8.70044,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,5,-0.6033768,8.756812,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,6,-0.020767514,8.576444,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,0,0.8271817,9.509265,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,6,-0.008579303,8.773635,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,2,1.1668833,6.566673,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,6,0.03923447,8.979754,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,0,1.0252072,9.473883,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,3,1.1100733,10.263853,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,7,4.103367,9.11343,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,4,2.4418807,7.2188306,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,1,-1.0722911,10.41895,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,13,2.6909316,9.309442,business park green business green business park greenlab skive skive municipality,bornholm energy business island green
-reg,1,-1.0587313,10.290885,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,4,2.9591324,7.883967,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,0,1.6530422,9.7919035,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,12,3.2934363,9.364074,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,1,1.5567129,8.885391,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,7,4.747253,7.653374,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,4,1.8826073,7.5170774,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,4,1.7824341,7.6086736,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,10,0.93145025,11.306874,rønne harbor baltic sea thomas bendtsen nexø harbor offshore wind,bornholm energy wind sea offshore
-reg,3,1.7242105,10.748183,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,4,3.113577,8.238855,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,1,-0.9224125,10.505292,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,4,1.8837035,7.542605,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,11,-0.30719936,12.031303,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,8,0.2965061,10.361043,north sea energy islands offshore wind make possible island first,energy bornholm wind island offshore
-reg,1,-0.9067096,10.584908,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,6,0.27323732,8.399813,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,8,-0.22658676,10.856513,north sea energy islands offshore wind make possible island first,energy bornholm wind island offshore
-reg,8,0.0018978381,10.582625,north sea energy islands offshore wind make possible island first,energy bornholm wind island offshore
-reg,8,-0.13064846,10.812336,north sea energy islands offshore wind make possible island first,energy bornholm wind island offshore
-reg,3,1.7604841,10.710404,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,4,1.6655382,7.6508055,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,12,2.7434387,9.2884,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,11,0.032247476,11.630283,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,6,0.07395672,8.865084,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,8,0.24253204,10.207908,north sea energy islands offshore wind make possible island first,energy bornholm wind island offshore
-reg,7,4.213299,8.526268,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,5,-0.43523166,9.408324,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,0,0.7284055,9.323566,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,6,-0.15628938,8.898397,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,3,1.5992585,10.680399,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,7,4.6130824,7.4641743,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,1,-1.0801512,10.361023,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,3,1.7507646,10.711939,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,8,0.27478203,9.927782,north sea energy islands offshore wind make possible island first,energy bornholm wind island offshore
-reg,3,1.7425858,10.78587,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,7,4.4858546,8.698344,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,8,0.060233254,9.96875,north sea energy islands offshore wind make possible island first,energy bornholm wind island offshore
-reg,7,4.6901913,8.535722,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,6,-0.05561007,8.763186,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,11,-0.14825201,11.217325,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,4,1.8093953,6.8386097,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,12,3.2240608,9.482192,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,7,4.4351306,7.964791,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.5043836,8.805402,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,9,1.169411,8.1734915,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,7,4.1831684,9.104321,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,5,-0.16732554,9.5440645,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,11,0.21221144,10.918999,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,11,0.3241989,11.406946,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,7,4.7115035,8.0262985,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.6600313,8.199062,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.4622545,8.930375,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,13,2.8792548,9.086817,business park green business green business park greenlab skive skive municipality,bornholm energy business island green
-reg,1,1.6584837,8.833187,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,1,-1.1496071,10.429289,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,7,4.3033085,8.98087,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.622762,8.690445,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.401265,8.834531,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,11,-0.25256684,11.233718,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,7,4.446641,8.608411,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,11,-0.40261433,11.30294,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,1,-1.0647055,10.35709,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,1,-0.94499785,10.273295,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,1,-1.0827683,10.415265,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,7,4.694621,7.775241,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.394091,8.613816,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.5467906,7.7900662,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,1,-1.0623178,10.412253,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,11,-0.29960266,11.9241495,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,2,1.2523981,6.564012,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,1.0510182,6.7124596,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,11,-0.5065314,11.507564,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,6,0.44810203,8.273187,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,4,1.8575385,7.5455427,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,9,1.6619178,8.204192,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,1,-1.1325862,10.394287,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,12,2.983751,9.568295,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,11,-0.22344427,11.951471,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,11,-0.014740723,11.374291,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,11,-0.21197602,12.033643,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,4,2.0182464,6.7052855,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,3,1.8107867,10.783167,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,11,0.10303767,11.816565,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,7,4.2897887,7.8008075,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,11,-0.6287374,11.546112,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,7,4.535458,8.978122,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,9,1.6547003,8.348122,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,4,2.0058928,7.619534,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,7,4.5408745,7.782973,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,3,1.8203415,10.306035,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,8,-0.031444486,9.824916,north sea energy islands offshore wind make possible island first,energy bornholm wind island offshore
-reg,11,-0.05789611,11.8983755,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,11,0.14225747,11.795016,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,9,1.4771091,8.240369,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,11,0.24791794,11.616743,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,0,1.5843812,9.695878,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,11,-0.09875445,12.056777,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,11,0.22503087,11.533134,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,0,1.5516325,9.758532,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,7,4.535317,8.534121,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,0,1.3986764,9.553585,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,1,-0.5501182,10.369793,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,7,3.9322546,8.211602,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,13,3.1048605,8.698008,business park green business green business park greenlab skive skive municipality,bornholm energy business island green
-reg,12,2.7011049,9.417545,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,4,1.7974831,7.552216,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,11,-0.21038437,11.162243,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,7,4.188552,8.554899,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,2,0.92016524,6.44769,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,0.98488414,6.5188575,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,2,0.8040544,6.561134,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,3,1.8097814,10.908332,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,6,0.020392887,8.398734,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,12,2.5892558,9.533229,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,4,2.712153,7.5415974,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,9,1.585278,8.434615,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,4,2.5309975,7.2411084,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,4,2.4876423,7.2008533,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,7,4.730469,7.817768,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.5977187,8.673528,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,6,0.30154634,8.477387,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,6,0.29126796,8.442886,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,6,0.27018565,8.969357,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,0,0.59642595,9.353229,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,7,4.5629807,8.526854,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,3,1.7616943,10.720847,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,10,0.6743065,11.073447,rønne harbor baltic sea thomas bendtsen nexø harbor offshore wind,bornholm energy wind sea offshore
-reg,2,1.1524293,6.4051733,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,7,4.6630864,7.812498,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.7100816,7.9690843,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,11,-0.20282817,12.054281,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,0,2.2220902,10.140852,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,9,1.2112805,8.387406,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,7,4.386319,8.876831,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.5847187,7.611872,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,3,1.7828072,10.384296,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,3,1.8683059,10.680797,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,3,1.5208029,10.541886,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,7,4.2034593,8.428633,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,9,1.2273892,8.527418,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,12,3.4442358,9.401247,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,7,4.9275737,8.0947485,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,0,1.3787652,10.275932,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,4,2.7262213,7.2031655,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,0,0.8421102,9.288365,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,7,4.6526275,7.6723714,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,1,-0.77050537,10.3164625,district heating hydrogen production klaus vesløv electrolysis plant green fuels,bornholm energy hydrogen wind production
-reg,4,2.6330357,7.419763,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,4,2.698596,7.350686,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,0,2.2534373,10.165756,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,7,4.2230973,7.792215,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,5,-0.832522,8.933876,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,4,2.6315215,7.240185,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,9,1.1778876,8.374002,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,11,-0.21433373,12.056943,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,5,-0.70256865,8.7870655,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,5,-0.773588,8.8948765,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,7,4.299492,8.969946,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,3.8580263,9.18873,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,4,2.5137877,7.2717676,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,9,0.8302062,8.216618,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,3,1.943107,10.618594,baltic sea security policy green transition home guard baltic bridge,bornholm baltic energy sea also
-reg,7,4.678861,8.432291,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.5242696,8.72566,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.224949,7.7864265,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.046885,8.313824,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.6319366,8.472164,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,6,0.25575656,8.389686,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,6,0.23407169,8.456745,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,0,1.3743974,10.097016,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,7,4.9273405,8.116236,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.479709,8.754198,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.5418634,8.678978,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.5828447,8.775737,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,12,3.2707984,9.460091,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,10,0.7508634,11.1347475,rønne harbor baltic sea thomas bendtsen nexø harbor offshore wind,bornholm energy wind sea offshore
-reg,0,1.4141912,9.8785925,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,12,3.2403364,9.37696,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,12,3.122195,9.113033,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,13,3.3561115,8.944496,business park green business green business park greenlab skive skive municipality,bornholm energy business island green
-reg,12,2.8738992,9.407011,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,13,3.4718602,9.003853,business park green business green business park greenlab skive skive municipality,bornholm energy business island green
-reg,11,0.42489734,11.296781,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,13,3.0004182,9.223103,business park green business green business park greenlab skive skive municipality,bornholm energy business island green
-reg,6,0.22743885,8.805995,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,13,3.0382988,9.198464,business park green business green business park greenlab skive skive municipality,bornholm energy business island green
-reg,13,2.662903,9.229144,business park green business green business park greenlab skive skive municipality,bornholm energy business island green
-reg,13,3.12276,8.691903,business park green business green business park greenlab skive skive municipality,bornholm energy business island green
-reg,13,3.1276276,9.15092,business park green business green business park greenlab skive skive municipality,bornholm energy business island green
-reg,4,2.1925342,8.0132,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,6,0.52691126,8.242834,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,7,4.692926,8.304631,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.500119,8.421065,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.4019957,8.464135,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,3.8394225,8.601557,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,2,1.4682329,7.0118217,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,9,1.0254478,8.483031,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,6,0.16115025,8.96064,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,9,1.4647614,8.562318,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,7,4.514515,8.959746,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.519126,8.153,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,3.7885444,8.197583,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,6,0.18977699,8.932925,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,7,4.7973213,7.557036,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,5,-0.65866023,8.837164,electricity grid bornholm electricity bornholm electricity grid net east price zone,bornholm energy electricity energinet island
-reg,6,0.4005901,8.538622,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,6,0.5450947,8.22419,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,9,1.1196723,8.623681,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,6,0.10664254,8.476192,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,9,1.4336445,8.45209,energy island green energy wind turbine jacob trøst wind turbine projects,bornholm energy island also green
-reg,6,0.10660815,9.040308,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,4,2.6228096,7.5050726,citizens association jacob trøst islands bornholm energy islands bornholm energy island,energy bornholm island says islands
-reg,12,2.7735646,9.40332,center bornholm business center business center bornholm bornholm business unique opportunity,bornholm energy business island companies
-reg,6,0.14564177,9.001736,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,7,4.3100476,8.541739,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,7,4.1948223,9.034471,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,6,0.061873063,9.023748,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,0,1.6060678,10.21396,renewable energy fossil fuels chresten andersen niels chresten niels chresten andersen,bornholm energy also must companies
-reg,7,4.526333,7.945254,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,6,0.058318842,9.143439,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,11,0.0023651556,11.289223,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,11,0.00084247364,11.751461,offshore wind bornholm offshore wind bornholm offshore wind turbines wind farm,bornholm wind energy offshore also
-reg,6,0.097114295,8.497461,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,7,4.7140145,7.5420203,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,8,-0.13241695,10.469906,north sea energy islands offshore wind make possible island first,energy bornholm wind island offshore
-reg,6,-0.34520653,8.974231,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,7,4.7689924,7.6981463,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
-reg,6,0.33317772,8.49445,energy islands energy islands bornholm islands bornholm energy island billion kroner,energy bornholm islands island project
-reg,2,1.0943018,6.121486,land plant high voltage local plan land facility voltage station,bornholm energinet energy plant area
-reg,8,-0.43359274,10.248135,north sea energy islands offshore wind make possible island first,energy bornholm wind island offshore
-reg,7,4.682448,7.6367936,social democracy municipal council unity list anne thomas climate plan,bornholm also climate business energy
+Source,cluster,x,y,TF_IDF_topic_name
+reg,4,2.5334804,7.791923,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,0,1.0369734,9.494361,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,11,0.090580165,11.024,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,10,0.87975156,11.203282,"rønne harbor, 0.0478, 14, 36 | baltic sea, 0.0355, 15, 50 | thomas bendtsen, 0.0259, 3, 11 | land facilities, 0.0147, 1, 2 | offshore wind, 0.0137, 12, 47"
+reg,8,0.09616948,10.531163,"north sea, 0.0232, 11, 20 | make possible, 0.0152, 2, 2 | island first, 0.0149, 2, 2 | energy islands, 0.0145, 16, 74 | new year, 0.0138, 2, 2"
+reg,1,0.3913903,10.762749,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,1,-0.9108142,10.431982,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,1,0.29680368,10.668847,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,11,-0.13467254,11.326842,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,11,0.062005125,11.353171,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,7,3.8535974,9.21207,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,8,0.08911653,10.460793,"north sea, 0.0232, 11, 20 | make possible, 0.0152, 2, 2 | island first, 0.0149, 2, 2 | energy islands, 0.0145, 16, 74 | new year, 0.0138, 2, 2"
+reg,3,1.3836633,10.450882,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,1,-0.8478521,10.583695,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,11,0.1202687,11.614114,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,11,-0.06393966,11.164904,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,0,1.7483957,9.902969,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,7,3.871504,9.252844,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,11,-0.35538912,11.318479,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,12,2.7051938,9.430929,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,1,-0.8237115,10.084808,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,7,4.2291374,7.6814203,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,10,0.9076499,11.21261,"rønne harbor, 0.0478, 14, 36 | baltic sea, 0.0355, 15, 50 | thomas bendtsen, 0.0259, 3, 11 | land facilities, 0.0147, 1, 2 | offshore wind, 0.0137, 12, 47"
+reg,13,2.816243,8.760893,"green business, 0.0279, 9, 34 | business park, 0.0243, 13, 47 | green business park, 0.0214, 9, 30 | greenlab skive, 0.0164, 4, 16 | skive municipality, 0.0146, 5, 13"
+reg,10,0.53967893,10.716906,"rønne harbor, 0.0478, 14, 36 | baltic sea, 0.0355, 15, 50 | thomas bendtsen, 0.0259, 3, 11 | land facilities, 0.0147, 1, 2 | offshore wind, 0.0137, 12, 47"
+reg,12,3.371252,9.360119,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,0,1.9068127,9.9641075,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,11,-0.07043118,11.871745,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,11,-0.07806983,11.903703,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,11,0.03851911,11.980341,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,5,-0.8381118,9.204572,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,11,-0.49653426,11.329132,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,12,3.06969,9.664405,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,12,3.1314723,9.69991,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,10,0.5968776,10.961233,"rønne harbor, 0.0478, 14, 36 | baltic sea, 0.0355, 15, 50 | thomas bendtsen, 0.0259, 3, 11 | land facilities, 0.0147, 1, 2 | offshore wind, 0.0137, 12, 47"
+reg,11,-0.12692565,11.422946,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,12,3.0081937,9.317847,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,8,0.27159145,10.130829,"north sea, 0.0232, 11, 20 | make possible, 0.0152, 2, 2 | island first, 0.0149, 2, 2 | energy islands, 0.0145, 16, 74 | new year, 0.0138, 2, 2"
+reg,8,0.1355497,10.180298,"north sea, 0.0232, 11, 20 | make possible, 0.0152, 2, 2 | island first, 0.0149, 2, 2 | energy islands, 0.0145, 16, 74 | new year, 0.0138, 2, 2"
+reg,12,3.0368652,9.758846,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,10,0.37096325,10.838176,"rønne harbor, 0.0478, 14, 36 | baltic sea, 0.0355, 15, 50 | thomas bendtsen, 0.0259, 3, 11 | land facilities, 0.0147, 1, 2 | offshore wind, 0.0137, 12, 47"
+reg,1,0.43246192,10.842478,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,4,2.5305316,7.537939,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,11,0.020206984,11.151323,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,1,-0.7998969,10.273956,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,12,3.120726,9.635033,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,10,0.9050677,11.298837,"rønne harbor, 0.0478, 14, 36 | baltic sea, 0.0355, 15, 50 | thomas bendtsen, 0.0259, 3, 11 | land facilities, 0.0147, 1, 2 | offshore wind, 0.0137, 12, 47"
+reg,10,0.7901569,10.949813,"rønne harbor, 0.0478, 14, 36 | baltic sea, 0.0355, 15, 50 | thomas bendtsen, 0.0259, 3, 11 | land facilities, 0.0147, 1, 2 | offshore wind, 0.0137, 12, 47"
+reg,7,4.76745,7.584093,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,10,0.026391001,10.855787,"rønne harbor, 0.0478, 14, 36 | baltic sea, 0.0355, 15, 50 | thomas bendtsen, 0.0259, 3, 11 | land facilities, 0.0147, 1, 2 | offshore wind, 0.0137, 12, 47"
+reg,1,-0.7901536,9.972177,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,12,2.654372,9.308826,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,5,-0.49850908,9.521247,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,5,-0.7320098,8.875939,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,6,-0.39923146,9.010027,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,7,4.777743,7.7671285,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,11,0.45092997,11.394009,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,4,2.059974,7.996843,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,2,1.091217,6.5605392,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,11,-0.27475393,11.841599,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,11,-0.5854124,11.520676,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,2,1.2224904,6.0741873,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,5,-0.65898377,9.000457,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,5,-0.42543963,9.49129,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,7,4.536991,7.3682966,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,8,0.15614565,10.286558,"north sea, 0.0232, 11, 20 | make possible, 0.0152, 2, 2 | island first, 0.0149, 2, 2 | energy islands, 0.0145, 16, 74 | new year, 0.0138, 2, 2"
+reg,2,1.2066139,6.2166066,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,0.97276396,6.7563605,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,11,-0.37151733,11.007403,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,7,4.54534,7.577805,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,0,2.1120281,10.120299,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,11,0.041272026,11.361735,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,5,-0.72595304,8.909834,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,2,1.1654083,6.462729,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,1.1986156,6.510511,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,0,0.8213241,9.464663,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,2,0.85519314,6.7028723,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,0,4.1503067,8.519617,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,2,0.9144919,6.6406274,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,11,-0.82190585,11.262679,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,4,1.6266443,7.2216334,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,3,1.3315582,10.167101,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,5,-0.20292194,9.596299,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,2,0.9810046,7.163954,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,11,-0.28979856,11.795589,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,10,0.8723823,11.164278,"rønne harbor, 0.0478, 14, 36 | baltic sea, 0.0355, 15, 50 | thomas bendtsen, 0.0259, 3, 11 | land facilities, 0.0147, 1, 2 | offshore wind, 0.0137, 12, 47"
+reg,11,-0.36135826,11.108711,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,11,-0.1482786,11.284259,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,4,2.1041112,6.728669,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,11,-0.6872222,11.400398,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,4,1.6861604,6.517108,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,11,-0.35054553,11.50067,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,0,1.2021419,9.825007,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,10,0.16049816,10.88324,"rønne harbor, 0.0478, 14, 36 | baltic sea, 0.0355, 15, 50 | thomas bendtsen, 0.0259, 3, 11 | land facilities, 0.0147, 1, 2 | offshore wind, 0.0137, 12, 47"
+reg,2,1.3131049,7.492038,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,1.1567905,6.351411,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,4,2.4018006,7.1106405,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,11,-0.18675546,11.919983,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,6,0.36115023,8.6214695,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,5,-0.51797473,9.452268,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,4,2.0732782,7.356067,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,2,0.9099124,7.036864,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,4,1.9963956,7.6214185,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,9,1.8690196,8.143848,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,4,2.333106,7.838871,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,10,-0.07266475,10.739679,"rønne harbor, 0.0478, 14, 36 | baltic sea, 0.0355, 15, 50 | thomas bendtsen, 0.0259, 3, 11 | land facilities, 0.0147, 1, 2 | offshore wind, 0.0137, 12, 47"
+reg,6,0.12259426,9.089806,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,12,2.8526525,9.839482,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,1,-0.32601902,10.510155,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,5,-0.49847224,9.493476,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,11,-0.0992829,11.200918,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,12,2.939162,9.387264,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,9,1.8740522,8.382089,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,5,-0.53928375,8.830269,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,11,-0.20269802,11.776374,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,11,-0.12859595,11.965063,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,3,1.7882414,10.545161,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,7,4.304367,8.910152,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,3,1.3875914,10.380211,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,2,1.3640369,6.9533978,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,11,-0.22515048,11.596141,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,8,-0.07025468,9.825792,"north sea, 0.0232, 11, 20 | make possible, 0.0152, 2, 2 | island first, 0.0149, 2, 2 | energy islands, 0.0145, 16, 74 | new year, 0.0138, 2, 2"
+reg,12,2.612895,9.770407,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,0,1.8732756,10.023914,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,6,0.13283446,8.494039,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,6,-0.028997563,8.724337,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,2,1.0956722,6.467289,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,11,-0.5488025,11.222504,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,11,-0.4403653,11.561394,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,7,4.573744,8.737475,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,11,0.06354867,11.740385,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,7,4.7724967,7.812972,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,6,-0.04564024,9.077512,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,7,4.732552,7.6230617,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,4,2.6682334,7.496578,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,11,-0.5329224,11.257118,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,2,1.0292574,7.017545,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,7,4.6159825,7.656268,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.801354,7.816316,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.727655,7.5946646,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.4553804,7.927654,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,0,1.3386796,9.590823,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,10,0.5153716,11.26147,"rønne harbor, 0.0478, 14, 36 | baltic sea, 0.0355, 15, 50 | thomas bendtsen, 0.0259, 3, 11 | land facilities, 0.0147, 1, 2 | offshore wind, 0.0137, 12, 47"
+reg,10,0.64935297,11.061222,"rønne harbor, 0.0478, 14, 36 | baltic sea, 0.0355, 15, 50 | thomas bendtsen, 0.0259, 3, 11 | land facilities, 0.0147, 1, 2 | offshore wind, 0.0137, 12, 47"
+reg,11,-0.2813212,11.537413,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,7,4.7804303,8.097475,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,9,1.7159014,8.438173,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,7,4.5109634,8.23255,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,4,2.1032314,7.8332806,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,5,-0.7339832,8.908753,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,9,0.99791586,8.507913,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,1,-0.7462894,10.513256,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,6,0.1995864,8.564247,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,4,2.2126987,6.8832264,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,4,2.244481,6.834007,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,9,0.8902738,8.680345,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,2,1.3562313,6.1997643,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,1.0915929,6.8243957,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,4,2.0295835,7.3847537,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,1,-0.7165329,10.312597,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,2,1.2117507,5.9728723,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,1.1455704,6.1380677,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,9,2.0318098,8.376971,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,2,1.1897517,6.194845,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,1.109865,6.086226,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,1.2120361,5.9396257,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,11,0.26921755,11.496043,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,1,-0.49533078,10.507788,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,7,4.7285376,7.748363,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,2,0.884967,7.389927,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,7,3.9974568,9.118106,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,4,1.6419294,7.5086503,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,9,1.6363202,8.377989,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,7,4.538453,7.445598,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,8,0.19588175,10.010166,"north sea, 0.0232, 11, 20 | make possible, 0.0152, 2, 2 | island first, 0.0149, 2, 2 | energy islands, 0.0145, 16, 74 | new year, 0.0138, 2, 2"
+reg,6,0.095983416,8.702766,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,13,2.9183514,9.043303,"green business, 0.0279, 9, 34 | business park, 0.0243, 13, 47 | green business park, 0.0214, 9, 30 | greenlab skive, 0.0164, 4, 16 | skive municipality, 0.0146, 5, 13"
+reg,3,1.6405325,10.594006,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,9,2.066679,8.303131,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,11,0.13687083,11.562084,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,1,-1.0500461,10.436641,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,13,3.0894454,9.160331,"green business, 0.0279, 9, 34 | business park, 0.0243, 13, 47 | green business park, 0.0214, 9, 30 | greenlab skive, 0.0164, 4, 16 | skive municipality, 0.0146, 5, 13"
+reg,9,1.0545149,8.508603,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,7,4.805022,7.6148834,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,13,2.9559007,8.854934,"green business, 0.0279, 9, 34 | business park, 0.0243, 13, 47 | green business park, 0.0214, 9, 30 | greenlab skive, 0.0164, 4, 16 | skive municipality, 0.0146, 5, 13"
+reg,11,-0.7630079,11.332413,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,2,0.90310806,6.3501487,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,1.0100776,6.7364364,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,6,-0.3287529,8.641064,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,2,1.2293155,5.9842563,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,1.166473,6.0127525,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,1.2098365,6.018227,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,1.5133588,6.186056,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,1.3077072,6.268205,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,1.2815126,7.288575,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,11,-0.19775282,11.488772,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,11,0.09243018,11.592608,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,11,-0.0317625,11.870269,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,4,2.2669451,6.821891,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,5,-0.7569583,8.928934,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,11,-0.08059529,11.319753,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,7,4.402946,8.425555,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.0255322,8.046196,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,3,1.650371,10.349457,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,13,2.9808998,8.7214,"green business, 0.0279, 9, 34 | business park, 0.0243, 13, 47 | green business park, 0.0214, 9, 30 | greenlab skive, 0.0164, 4, 16 | skive municipality, 0.0146, 5, 13"
+reg,7,4.419517,8.297343,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,3.2291756,8.1358,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,3.8325815,7.996335,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,2,0.93015105,6.7101593,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,4,2.4956515,7.3932915,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,4,2.1284308,7.4620957,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,5,-0.48899823,8.814067,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,5,-0.660978,8.799533,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,5,-0.70748895,8.8440485,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,4,2.274332,7.478481,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,6,0.17015132,8.566649,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,2,1.1602974,6.293232,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,13,2.6950703,8.423851,"green business, 0.0279, 9, 34 | business park, 0.0243, 13, 47 | green business park, 0.0214, 9, 30 | greenlab skive, 0.0164, 4, 16 | skive municipality, 0.0146, 5, 13"
+reg,2,1.2030858,6.2503037,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,4,1.6348022,7.545171,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,2,1.1111786,6.1102066,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,1.397572,6.208122,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,1.365023,6.13615,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,1.258828,6.1714377,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,7,4.6388226,8.437053,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,4,2.1599412,7.2665005,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,2,1.1122789,6.902165,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,4,2.8463225,7.860719,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,7,4.0023994,8.471567,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,13,2.618867,8.648663,"green business, 0.0279, 9, 34 | business park, 0.0243, 13, 47 | green business park, 0.0214, 9, 30 | greenlab skive, 0.0164, 4, 16 | skive municipality, 0.0146, 5, 13"
+reg,3,1.6739551,10.651471,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,10,1.1287857,11.263635,"rønne harbor, 0.0478, 14, 36 | baltic sea, 0.0355, 15, 50 | thomas bendtsen, 0.0259, 3, 11 | land facilities, 0.0147, 1, 2 | offshore wind, 0.0137, 12, 47"
+reg,2,1.0656974,6.862585,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,1.0806478,6.5916076,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,4,2.1086705,6.7472,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,4,2.0482483,6.701302,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,7,4.712522,7.7220044,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,2,1.1870703,6.822192,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,1.1768198,6.587355,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,4,2.2812479,7.079208,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,13,3.0902903,9.187364,"green business, 0.0279, 9, 34 | business park, 0.0243, 13, 47 | green business park, 0.0214, 9, 30 | greenlab skive, 0.0164, 4, 16 | skive municipality, 0.0146, 5, 13"
+reg,9,2.0306747,8.428868,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,4,1.3617542,7.586645,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,3,1.6999431,10.772059,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,6,0.4817888,8.383802,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,12,3.0366292,9.534642,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,0,2.235695,10.131317,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,7,4.1640396,8.830235,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,4,2.3751886,7.207605,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,1,-1.0988939,10.390675,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,10,0.97987473,11.074121,"rønne harbor, 0.0478, 14, 36 | baltic sea, 0.0355, 15, 50 | thomas bendtsen, 0.0259, 3, 11 | land facilities, 0.0147, 1, 2 | offshore wind, 0.0137, 12, 47"
+reg,9,1.6341829,8.153916,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,7,4.5501366,8.13334,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,1,-1.0957223,10.422557,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,4,2.4966774,7.2199006,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,9,1.1948838,8.461352,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,2,0.733535,7.0349817,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,11,-0.75527096,11.345481,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,4,2.5225885,7.250646,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,7,4.487594,8.049514,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,6,0.09222365,8.536289,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,6,0.20516568,8.70044,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,5,-0.6033768,8.756812,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,6,-0.020767514,8.576444,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,0,0.8271817,9.509265,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,6,-0.008579303,8.773635,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,2,1.1668833,6.566673,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,6,0.03923447,8.979754,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,0,1.0252072,9.473883,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,3,1.1100733,10.263853,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,7,4.103367,9.11343,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,4,2.4418807,7.2188306,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,1,-1.0722911,10.41895,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,13,2.6909316,9.309442,"green business, 0.0279, 9, 34 | business park, 0.0243, 13, 47 | green business park, 0.0214, 9, 30 | greenlab skive, 0.0164, 4, 16 | skive municipality, 0.0146, 5, 13"
+reg,1,-1.0587313,10.290885,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,4,2.9591324,7.883967,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,0,1.6530422,9.7919035,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,12,3.2934363,9.364074,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,1,1.5567129,8.885391,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,7,4.747253,7.653374,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,4,1.8826073,7.5170774,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,4,1.7824341,7.6086736,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,10,0.93145025,11.306874,"rønne harbor, 0.0478, 14, 36 | baltic sea, 0.0355, 15, 50 | thomas bendtsen, 0.0259, 3, 11 | land facilities, 0.0147, 1, 2 | offshore wind, 0.0137, 12, 47"
+reg,3,1.7242105,10.748183,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,4,3.113577,8.238855,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,1,-0.9224125,10.505292,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,4,1.8837035,7.542605,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,11,-0.30719936,12.031303,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,8,0.2965061,10.361043,"north sea, 0.0232, 11, 20 | make possible, 0.0152, 2, 2 | island first, 0.0149, 2, 2 | energy islands, 0.0145, 16, 74 | new year, 0.0138, 2, 2"
+reg,1,-0.9067096,10.584908,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,6,0.27323732,8.399813,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,8,-0.22658676,10.856513,"north sea, 0.0232, 11, 20 | make possible, 0.0152, 2, 2 | island first, 0.0149, 2, 2 | energy islands, 0.0145, 16, 74 | new year, 0.0138, 2, 2"
+reg,8,0.0018978381,10.582625,"north sea, 0.0232, 11, 20 | make possible, 0.0152, 2, 2 | island first, 0.0149, 2, 2 | energy islands, 0.0145, 16, 74 | new year, 0.0138, 2, 2"
+reg,8,-0.13064846,10.812336,"north sea, 0.0232, 11, 20 | make possible, 0.0152, 2, 2 | island first, 0.0149, 2, 2 | energy islands, 0.0145, 16, 74 | new year, 0.0138, 2, 2"
+reg,3,1.7604841,10.710404,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,4,1.6655382,7.6508055,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,12,2.7434387,9.2884,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,11,0.032247476,11.630283,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,6,0.07395672,8.865084,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,8,0.24253204,10.207908,"north sea, 0.0232, 11, 20 | make possible, 0.0152, 2, 2 | island first, 0.0149, 2, 2 | energy islands, 0.0145, 16, 74 | new year, 0.0138, 2, 2"
+reg,7,4.213299,8.526268,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,5,-0.43523166,9.408324,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,0,0.7284055,9.323566,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,6,-0.15628938,8.898397,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,3,1.5992585,10.680399,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,7,4.6130824,7.4641743,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,1,-1.0801512,10.361023,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,3,1.7507646,10.711939,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,8,0.27478203,9.927782,"north sea, 0.0232, 11, 20 | make possible, 0.0152, 2, 2 | island first, 0.0149, 2, 2 | energy islands, 0.0145, 16, 74 | new year, 0.0138, 2, 2"
+reg,3,1.7425858,10.78587,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,7,4.4858546,8.698344,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,8,0.060233254,9.96875,"north sea, 0.0232, 11, 20 | make possible, 0.0152, 2, 2 | island first, 0.0149, 2, 2 | energy islands, 0.0145, 16, 74 | new year, 0.0138, 2, 2"
+reg,7,4.6901913,8.535722,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,6,-0.05561007,8.763186,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,11,-0.14825201,11.217325,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,4,1.8093953,6.8386097,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,12,3.2240608,9.482192,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,7,4.4351306,7.964791,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.5043836,8.805402,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,9,1.169411,8.1734915,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,7,4.1831684,9.104321,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,5,-0.16732554,9.5440645,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,11,0.21221144,10.918999,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,11,0.3241989,11.406946,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,7,4.7115035,8.0262985,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.6600313,8.199062,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.4622545,8.930375,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,13,2.8792548,9.086817,"green business, 0.0279, 9, 34 | business park, 0.0243, 13, 47 | green business park, 0.0214, 9, 30 | greenlab skive, 0.0164, 4, 16 | skive municipality, 0.0146, 5, 13"
+reg,1,1.6584837,8.833187,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,1,-1.1496071,10.429289,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,7,4.3033085,8.98087,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.622762,8.690445,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.401265,8.834531,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,11,-0.25256684,11.233718,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,7,4.446641,8.608411,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,11,-0.40261433,11.30294,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,1,-1.0647055,10.35709,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,1,-0.94499785,10.273295,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,1,-1.0827683,10.415265,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,7,4.694621,7.775241,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.394091,8.613816,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.5467906,7.7900662,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,1,-1.0623178,10.412253,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,11,-0.29960266,11.9241495,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,2,1.2523981,6.564012,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,1.0510182,6.7124596,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,11,-0.5065314,11.507564,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,6,0.44810203,8.273187,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,4,1.8575385,7.5455427,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,9,1.6619178,8.204192,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,1,-1.1325862,10.394287,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,12,2.983751,9.568295,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,11,-0.22344427,11.951471,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,11,-0.014740723,11.374291,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,11,-0.21197602,12.033643,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,4,2.0182464,6.7052855,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,3,1.8107867,10.783167,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,11,0.10303767,11.816565,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,7,4.2897887,7.8008075,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,11,-0.6287374,11.546112,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,7,4.535458,8.978122,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,9,1.6547003,8.348122,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,4,2.0058928,7.619534,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,7,4.5408745,7.782973,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,3,1.8203415,10.306035,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,8,-0.031444486,9.824916,"north sea, 0.0232, 11, 20 | make possible, 0.0152, 2, 2 | island first, 0.0149, 2, 2 | energy islands, 0.0145, 16, 74 | new year, 0.0138, 2, 2"
+reg,11,-0.05789611,11.8983755,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,11,0.14225747,11.795016,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,9,1.4771091,8.240369,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,11,0.24791794,11.616743,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,0,1.5843812,9.695878,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,11,-0.09875445,12.056777,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,11,0.22503087,11.533134,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,0,1.5516325,9.758532,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,7,4.535317,8.534121,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,0,1.3986764,9.553585,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,1,-0.5501182,10.369793,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,7,3.9322546,8.211602,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,13,3.1048605,8.698008,"green business, 0.0279, 9, 34 | business park, 0.0243, 13, 47 | green business park, 0.0214, 9, 30 | greenlab skive, 0.0164, 4, 16 | skive municipality, 0.0146, 5, 13"
+reg,12,2.7011049,9.417545,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,4,1.7974831,7.552216,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,11,-0.21038437,11.162243,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,7,4.188552,8.554899,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,2,0.92016524,6.44769,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,0.98488414,6.5188575,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,2,0.8040544,6.561134,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,3,1.8097814,10.908332,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,6,0.020392887,8.398734,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,12,2.5892558,9.533229,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,4,2.712153,7.5415974,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,9,1.585278,8.434615,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,4,2.5309975,7.2411084,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,4,2.4876423,7.2008533,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,7,4.730469,7.817768,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.5977187,8.673528,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,6,0.30154634,8.477387,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,6,0.29126796,8.442886,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,6,0.27018565,8.969357,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,0,0.59642595,9.353229,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,7,4.5629807,8.526854,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,3,1.7616943,10.720847,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,10,0.6743065,11.073447,"rønne harbor, 0.0478, 14, 36 | baltic sea, 0.0355, 15, 50 | thomas bendtsen, 0.0259, 3, 11 | land facilities, 0.0147, 1, 2 | offshore wind, 0.0137, 12, 47"
+reg,2,1.1524293,6.4051733,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,7,4.6630864,7.812498,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.7100816,7.9690843,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,11,-0.20282817,12.054281,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,0,2.2220902,10.140852,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,9,1.2112805,8.387406,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,7,4.386319,8.876831,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.5847187,7.611872,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,3,1.7828072,10.384296,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,3,1.8683059,10.680797,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,3,1.5208029,10.541886,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,7,4.2034593,8.428633,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,9,1.2273892,8.527418,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,12,3.4442358,9.401247,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,7,4.9275737,8.0947485,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,0,1.3787652,10.275932,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,4,2.7262213,7.2031655,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,0,0.8421102,9.288365,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,7,4.6526275,7.6723714,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,1,-0.77050537,10.3164625,"district heating, 0.0263, 16, 39 | hydrogen production, 0.0200, 15, 43 | solar cells, 0.0170, 7, 8 | electrolysis plant, 0.0170, 13, 23 | klaus vesløv, 0.0156, 5, 23"
+reg,4,2.6330357,7.419763,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,4,2.698596,7.350686,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,0,2.2534373,10.165756,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,7,4.2230973,7.792215,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,5,-0.832522,8.933876,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,4,2.6315215,7.240185,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,9,1.1778876,8.374002,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,11,-0.21433373,12.056943,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,5,-0.70256865,8.7870655,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,5,-0.773588,8.8948765,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,7,4.299492,8.969946,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,3.8580263,9.18873,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,4,2.5137877,7.2717676,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,9,0.8302062,8.216618,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,3,1.943107,10.618594,"baltic sea, 0.0440, 18, 71 | home guard, 0.0243, 2, 20 | security policy, 0.0226, 8, 20 | critical infrastructure, 0.0178, 2, 5 | debate salon, 0.0155, 2, 7"
+reg,7,4.678861,8.432291,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.5242696,8.72566,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.224949,7.7864265,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.046885,8.313824,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.6319366,8.472164,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,6,0.25575656,8.389686,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,6,0.23407169,8.456745,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,0,1.3743974,10.097016,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,7,4.9273405,8.116236,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.479709,8.754198,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.5418634,8.678978,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.5828447,8.775737,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,12,3.2707984,9.460091,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,10,0.7508634,11.1347475,"rønne harbor, 0.0478, 14, 36 | baltic sea, 0.0355, 15, 50 | thomas bendtsen, 0.0259, 3, 11 | land facilities, 0.0147, 1, 2 | offshore wind, 0.0137, 12, 47"
+reg,0,1.4141912,9.8785925,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,12,3.2403364,9.37696,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,12,3.122195,9.113033,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,13,3.3561115,8.944496,"green business, 0.0279, 9, 34 | business park, 0.0243, 13, 47 | green business park, 0.0214, 9, 30 | greenlab skive, 0.0164, 4, 16 | skive municipality, 0.0146, 5, 13"
+reg,12,2.8738992,9.407011,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,13,3.4718602,9.003853,"green business, 0.0279, 9, 34 | business park, 0.0243, 13, 47 | green business park, 0.0214, 9, 30 | greenlab skive, 0.0164, 4, 16 | skive municipality, 0.0146, 5, 13"
+reg,11,0.42489734,11.296781,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,13,3.0004182,9.223103,"green business, 0.0279, 9, 34 | business park, 0.0243, 13, 47 | green business park, 0.0214, 9, 30 | greenlab skive, 0.0164, 4, 16 | skive municipality, 0.0146, 5, 13"
+reg,6,0.22743885,8.805995,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,13,3.0382988,9.198464,"green business, 0.0279, 9, 34 | business park, 0.0243, 13, 47 | green business park, 0.0214, 9, 30 | greenlab skive, 0.0164, 4, 16 | skive municipality, 0.0146, 5, 13"
+reg,13,2.662903,9.229144,"green business, 0.0279, 9, 34 | business park, 0.0243, 13, 47 | green business park, 0.0214, 9, 30 | greenlab skive, 0.0164, 4, 16 | skive municipality, 0.0146, 5, 13"
+reg,13,3.12276,8.691903,"green business, 0.0279, 9, 34 | business park, 0.0243, 13, 47 | green business park, 0.0214, 9, 30 | greenlab skive, 0.0164, 4, 16 | skive municipality, 0.0146, 5, 13"
+reg,13,3.1276276,9.15092,"green business, 0.0279, 9, 34 | business park, 0.0243, 13, 47 | green business park, 0.0214, 9, 30 | greenlab skive, 0.0164, 4, 16 | skive municipality, 0.0146, 5, 13"
+reg,4,2.1925342,8.0132,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,6,0.52691126,8.242834,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,7,4.692926,8.304631,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.500119,8.421065,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.4019957,8.464135,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,3.8394225,8.601557,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,2,1.4682329,7.0118217,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,9,1.0254478,8.483031,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,6,0.16115025,8.96064,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,9,1.4647614,8.562318,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,7,4.514515,8.959746,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.519126,8.153,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,3.7885444,8.197583,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,6,0.18977699,8.932925,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,7,4.7973213,7.557036,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,5,-0.65866023,8.837164,"electricity grid, 0.0300, 19, 75 | bornholm electricity, 0.0255, 15, 48 | net east, 0.0183, 8, 20 | bornholm electricity grid, 0.0157, 13, 33 | electricity network, 0.0156, 11, 21"
+reg,6,0.4005901,8.538622,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,6,0.5450947,8.22419,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,9,1.1196723,8.623681,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,6,0.10664254,8.476192,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,9,1.4336445,8.45209,"energy island, 0.0123, 25, 160 | green energy, 0.0106, 15, 23 | electricity prices, 0.0102, 1, 6 | wind turbine, 0.0074, 20, 46 | new jobs, 0.0070, 4, 5"
+reg,6,0.10660815,9.040308,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,4,2.6228096,7.5050726,"election campaign, 0.0105, 3, 8 | citizens association, 0.0089, 0, 0 | municipal elections, 0.0083, 2, 2 | energy island, 0.0080, 52, 371 | association energy, 0.0079, 12, 24"
+reg,12,2.7735646,9.40332,"really good, 0.0425, 3, 3 | business center, 0.0238, 10, 35 | business center bornholm, 0.0230, 10, 34 | center bornholm, 0.0230, 12, 43 | young people, 0.0171, 3, 14"
+reg,6,0.14564177,9.001736,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,7,4.3100476,8.541739,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,7,4.1948223,9.034471,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,6,0.061873063,9.023748,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,0,1.6060678,10.21396,"renewable energy, 0.0171, 11, 27 | chresten andersen, 0.0145, 2, 8 | niels chresten andersen, 0.0145, 2, 8 | niels chresten, 0.0145, 2, 8 | energy solutions, 0.0105, 3, 6"
+reg,7,4.526333,7.945254,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,6,0.058318842,9.143439,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,11,0.0023651556,11.289223,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,11,0.00084247364,11.751461,"offshore wind, 0.0381, 63, 553 | bornholm offshore wind, 0.0227, 9, 11 | bornholm offshore, 0.0222, 9, 11 | energy agency, 0.0133, 35, 122 | danish energy agency, 0.0133, 35, 122"
+reg,6,0.097114295,8.497461,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,7,4.7140145,7.5420203,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,8,-0.13241695,10.469906,"north sea, 0.0232, 11, 20 | make possible, 0.0152, 2, 2 | island first, 0.0149, 2, 2 | energy islands, 0.0145, 16, 74 | new year, 0.0138, 2, 2"
+reg,6,-0.34520653,8.974231,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,7,4.7689924,7.6981463,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
+reg,6,0.33317772,8.49445,"energy islands, 0.0176, 37, 236 | energy islands bornholm, 0.0151, 29, 182 | islands bornholm, 0.0151, 29, 182 | 20 billion, 0.0081, 5, 19 | energy island, 0.0081, 41, 416"
+reg,2,1.0943018,6.121486,"land plant, 0.0225, 33, 90 | high voltage, 0.0171, 14, 26 | local plan, 0.0156, 23, 75 | land facility, 0.0139, 30, 56 | voltage station, 0.0106, 21, 44"
+reg,8,-0.43359274,10.248135,"north sea, 0.0232, 11, 20 | make possible, 0.0152, 2, 2 | island first, 0.0149, 2, 2 | energy islands, 0.0145, 16, 74 | new year, 0.0138, 2, 2"
+reg,7,4.682448,7.6367936,"social democracy, 0.0240, 47, 236 | municipal council, 0.0187, 59, 227 | anne thomas, 0.0102, 9, 78 | unity list, 0.0089, 28, 131 | climate plan, 0.0086, 7, 49"
