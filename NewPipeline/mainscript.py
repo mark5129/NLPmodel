@@ -63,6 +63,10 @@ for model in models:
         df_text_column = df_file1['Content']
 
         embeddings = embedding_model.encode(df_text_column.tolist(), show_progress_bar=True)
+        # Convert embeddings to a DataFrame
+        embeddings_df = pd.DataFrame(embeddings)
+        # Save the embeddings to a CSV file
+        embeddings_df.to_csv(f'NewPipeline/clustering_outputs/{model}_{source}_embeddings.csv', index=False)
 
         reduced_embeddings = umap_model.fit_transform(embeddings, show_progress_bar=True)
 

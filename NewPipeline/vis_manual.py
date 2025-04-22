@@ -2,7 +2,7 @@ import pandas as pd
 
 from plots.Individual_embeddings_plot import individual_embeddings_plot
 from plots.Merged_embeddings_plot import merged_embeddings_plot
-from set_plot_style import set_style
+from NewPipeline.plots.set_plot_style import set_style
 
 import yaml
 with open('parameters.yaml', 'r') as file:
