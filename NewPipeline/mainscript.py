@@ -12,7 +12,7 @@ from sklearn.preprocessing import normalize
 from naming_scripts.TFIDF_cluster_Naming import TFIDF_cluster_Naming
 from naming_scripts.namingtables import naming_tableIndividual
 
-models = ['Specter2'] #['XLM_Roberta', 'Specter2', 'MiniLm12']
+models = ['XLM_Roberta', 'Specter2', 'MiniLm12']
 
 sources = ['pro', 'reg', 'sci']
 
@@ -30,7 +30,7 @@ for model in models:
     umap_model = umap.UMAP(
         n_neighbors=30, 
         min_dist=0.0, 
-        n_components=10, 
+        n_components=5, 
         metric='cosine', 
         random_state=42
     )
