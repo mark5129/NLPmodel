@@ -1,0 +1,13 @@
+Source,cluster,count,TF_IDF_topic_name
+pro,0,25,"la cour, 0.0156, 1, 21 | natural gas, 0.0115, 6, 22 | lars holmegaard, 0.0076, 1, 6 | cip foundation, 0.0073, 1, 10 | tonnes hydrogen, 0.0073, 3, 5"
+pro,1,28,"electricity consumption, 0.0126, 12, 36 | million tonnes, 0.0089, 5, 7 | turbines solar cells, 0.0086, 5, 7 | turbines solar, 0.0086, 5, 7 | wind turbines solar, 0.0086, 5, 7"
+pro,2,20,"north sea, 0.0162, 16, 85 | ørsted atp, 0.0148, 2, 7 | energy island, 0.0115, 20, 132 | converter stations, 0.0101, 3, 10 | morten hesselager pedersen, 0.0096, 2, 14"
+pro,3,55,"open door, 0.0068, 6, 44 | light pollution, 0.0067, 1, 15 | wave power, 0.0061, 1, 15 | energy islands bornholm, 0.0056, 22, 75 | islands bornholm, 0.0054, 22, 75"
+reg,0,16,"baltic sea, 0.0459, 12, 64 | critical infrastructure, 0.0354, 7, 13 | united states, 0.0328, 3, 11 | home guard, 0.0324, 2, 20 | security policy, 0.0294, 8, 21"
+reg,1,658,"offshore wind, 0.0084, 300, 1285 | energy island, 0.0055, 647, 3399 | social democracy, 0.0054, 92, 384 | municipal council, 0.0047, 191, 526 | regional municipality, 0.0046, 172, 314"
+sci,0,80,"renewable energy, 0.0177, 41, 71 | energy islands, 0.0124, 13, 14 | energy island, 0.0120, 36, 58 | hainan island, 0.0117, 2, 8 | hydrogen production, 0.0117, 12, 26"
+sci,1,17,"north sea, 0.0484, 3, 7 | paper analyses, 0.0294, 1, 1 | barrier islands, 0.0294, 1, 7 | simulations performed, 0.0283, 1, 1 | fetch limited, 0.0210, 0, 0"
+sci,2,180,"offshore wind, 0.0141, 98, 222 | offshore grid, 0.0126, 108, 191 | north sea, 0.0100, 68, 119 | wind energy, 0.0095, 39, 58 | energy security, 0.0075, 8, 17"
+sci,3,48,"pilot sites, 0.0189, 2, 7 | energy islands, 0.0163, 14, 17 | wastewater treatment, 0.0162, 2, 6 | energy systems, 0.0133, 8, 13 | renewable sources, 0.0118, 4, 5"
+sci,4,21,"2017 ieee, 0.0299, 1, 1 | vsc hvdc, 0.0228, 1, 1 | energy island, 0.0207, 13, 14 | new energy, 0.0162, 3, 11 | dynamic capacity, 0.0138, 1, 6"
+sci,5,108,"power plants, 0.0099, 21, 26 | ac grid, 0.0083, 17, 37 | dc voltage, 0.0073, 15, 27 | dc grid, 0.0068, 16, 34 | offshore ac, 0.0067, 15, 29"
