@@ -1,6 +1,6 @@
 import pandas as pd
 
-models = ['Specter2']  # Add other models if needed
+models = ['XLM_Roberta', 'Specter2', 'MiniLm12']
 
 for model in models:
     naming_table = pd.read_csv(f'NewPipeline/clustering_outputs/{model}_naming.csv')

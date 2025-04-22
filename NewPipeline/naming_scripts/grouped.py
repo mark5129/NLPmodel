@@ -1,7 +1,7 @@
 import pandas as pd
 import ast
 
-models = ['Specter2']  # Add other models if needed
+models = ['XLM_Roberta', 'Specter2', 'MiniLm12']
 
 def format_tf_idf_field_as_nested_table(value):
     entries = value.split(" ; ")
