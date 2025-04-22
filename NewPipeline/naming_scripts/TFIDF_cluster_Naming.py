@@ -71,7 +71,7 @@ def TFIDF_cluster_topic(cluster_texts, other_texts,threshold, language='english'
         ]
         top_terms = top_terms_info
 
-        return top_terms
+        return top_terms, document_counts
     except Exception as e:
         print(f"Error in TFIDF_cluster_topic: {e}")
     return []
@@ -93,7 +93,7 @@ def TFIDF_cluster_Naming(df_file, result_df, threshold):
 
         cluster_texts = df_file['Content'].iloc[indices].astype(str).tolist()
         other_texts = df_file['Content'].iloc[other_indices].astype(str).tolist()
-        top_terms = TFIDF_cluster_topic(cluster_texts, other_texts, threshold)
+        top_terms, document_counts = TFIDF_cluster_topic(cluster_texts, other_texts, threshold)
 
         topic_name = None
         # Select the 5 most defining terms
@@ -111,5 +111,14 @@ def TFIDF_cluster_Naming(df_file, result_df, threshold):
 
         # Assign topic names using aligned indices
         result_df.loc[result_df.index[indices], 'TF_IDF_topic_name'] = topic_name
+
+        
+        counts = list(document_counts.values())[:How_many_terms]
+        weights = np.linspace(1, 1 / len(counts), len(counts))
+        weighted_average = np.average(counts, weights=weights)
+
+        percentage_of_documents = (weighted_average / len(indices))
+        result_df.loc[result_df.index[indices], 'percentage_of_documents'] = round(percentage_of_documents, 4)
+        result_df.loc[result_df.index[indices], 'percentage_limit'] = [int(1) if percentage_of_documents >= 0.2 else int(0)] * len(indices)
 
     return result_df
