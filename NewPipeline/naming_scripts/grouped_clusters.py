@@ -5,6 +5,17 @@ models = ['Specter2']  # Add other models if needed
 
 # the naming groups contains columns: Group, Rows, Average Score
 
+def format_tf_idf_field(value):
+    entries = value.split(" ; ")
+    header = "Term ; TF-IDF ; Doc Count ; Word Count"
+    lines = [header]
+    for entry in entries:
+        parts = entry.strip().split(", ")
+        if len(parts) == 4:
+            term, tfidf, doc, word = parts
+            lines.append(f"{term} ; {tfidf} ; {doc} ; {word}")
+    return "<br>".join(lines)
+
 for model in models:
     naming_groups = pd.read_csv(f'NewPipeline/clustering_outputs/{model}_naming_groups.csv')
     naming_table = pd.read_csv(f'NewPipeline/clustering_outputs/{model}_naming.csv')
@@ -30,6 +41,8 @@ for model in models:
 
             # Write the table rows
             for _, row in group_rows.iterrows():
+                row = row.copy()  # Avoid SettingWithCopyWarning
+                row['TF_IDF_topic_name'] = format_tf_idf_field(row['TF_IDF_topic_name'])
                 md_file.write("| " + " | ".join(map(str, row.values)) + " |\n")
 
             md_file.write("\n")
