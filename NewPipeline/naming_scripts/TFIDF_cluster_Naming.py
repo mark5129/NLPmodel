@@ -57,6 +57,7 @@ def TFIDF_cluster_topic(cluster_texts, other_texts,threshold, language='english'
         # Get top terms with positive differences above the threshold
         top_terms = [terms[i] for i in top_indices if tf_idf_diff[i] > threshold]
         top_values = [tf_idf_diff[i] for i in top_indices if tf_idf_diff[i] > threshold]
+        top_terms1 = top_terms
 
         # Get the distinct occurrence count of top_terms in cluster texts (case insensitive)
         term_counts = {term: sum(text.lower().count(term.lower()) for text in cluster_texts) for term in top_terms}
@@ -71,7 +72,7 @@ def TFIDF_cluster_topic(cluster_texts, other_texts,threshold, language='english'
         ]
         top_terms = top_terms_info
 
-        return top_terms, document_counts
+        return top_terms, document_counts, top_terms1
     except Exception as e:
         print(f"Error in TFIDF_cluster_topic: {e}")
     return []
@@ -93,7 +94,7 @@ def TFIDF_cluster_Naming(df_file, result_df, threshold):
 
         cluster_texts = df_file['Content'].iloc[indices].astype(str).tolist()
         other_texts = df_file['Content'].iloc[other_indices].astype(str).tolist()
-        top_terms, document_counts = TFIDF_cluster_topic(cluster_texts, other_texts, threshold)
+        top_terms, document_counts, top_terms1 = TFIDF_cluster_topic(cluster_texts, other_texts, threshold)
 
         topic_name = None
         # Select the 5 most defining terms
@@ -102,9 +103,12 @@ def TFIDF_cluster_Naming(df_file, result_df, threshold):
         if len(top_terms) > 0:
             try:
                 top_terms = top_terms[:How_many_terms]
-                topic_name = " | ".join(top_terms)
+                topic_name = " ; ".join(top_terms)
+                top_terms1 = top_terms1[:How_many_terms]
+                topic_name1 = " ; ".join(top_terms1)
             except:
-                topic_name = " | ".join(top_terms)
+                topic_name = " ; ".join(top_terms)
+                topic_name1 = " ; ".join(top_terms1)
 
         if topic_name is None:
             topic_name = f"No words found for cluster {label}"
@@ -120,5 +124,8 @@ def TFIDF_cluster_Naming(df_file, result_df, threshold):
         percentage_of_documents = (weighted_average / len(indices))
         result_df.loc[result_df.index[indices], 'percentage_of_documents'] = round(percentage_of_documents, 4)
         result_df.loc[result_df.index[indices], 'percentage_limit'] = [int(1) if percentage_of_documents >= 0.2 else int(0)] * len(indices)
+
+        # Assign topic names using aligned indices
+        result_df.loc[result_df.index[indices], 'Topic_terms'] = topic_name1
 
     return result_df

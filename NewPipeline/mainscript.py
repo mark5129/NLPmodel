@@ -121,59 +121,60 @@ for model in models:
 
     print(f"\nNaming table for {model} saved.\n")
 
-    text_info = {
-        'pro': pd.DataFrame(),
-        'reg': pd.DataFrame(),
-        'sci': pd.DataFrame()
-    }
+    if False:
+        text_info = {
+            'pro': pd.DataFrame(),
+            'reg': pd.DataFrame(),
+            'sci': pd.DataFrame()
+        }
 
-    for source in sources:
+        for source in sources:
 
-        df_file1 = pd.read_csv(f'data/{source}_media_cleaned_eng.csv')
+            df_file1 = pd.read_csv(f'data/{source}_media_cleaned_eng.csv')
 
-        df_file1['Source'] = source
+            df_file1['Source'] = source
 
-        text_info[source] = df_file1
-    
-    merged_text = pd.concat([text_info['pro'], text_info['reg'], text_info['sci']], ignore_index=True)
+            text_info[source] = df_file1
+        
+        merged_text = pd.concat([text_info['pro'], text_info['reg'], text_info['sci']], ignore_index=True)
 
-    df_text_column = merged_text['Content']
+        df_text_column = merged_text['Content']
 
-    embeddings = embedding_model.encode(df_text_column.tolist(), show_progress_bar=True)
+        embeddings = embedding_model.encode(df_text_column.tolist(), show_progress_bar=True)
 
-    # Convert embeddings to a DataFrame
-    embeddings_df = pd.DataFrame(embeddings)
+        # Convert embeddings to a DataFrame
+        embeddings_df = pd.DataFrame(embeddings)
 
-    reduced_embeddings = umap_model.fit_transform(embeddings, show_progress_bar=True)
+        reduced_embeddings = umap_model.fit_transform(embeddings, show_progress_bar=True)
 
-    norm_data = normalize(reduced_embeddings, norm='l2')
+        norm_data = normalize(reduced_embeddings, norm='l2')
 
-    cluster_labels = hdbscan_model.fit_predict(norm_data)
+        cluster_labels = hdbscan_model.fit_predict(norm_data)
 
-    # UMAP for 2D visualization
-    umap_vis = umap.UMAP(n_neighbors=30, min_dist=0.0, n_components=2, metric='cosine', random_state=42)
-    vis_2d = umap_vis.fit_transform(embeddings)
+        # UMAP for 2D visualization
+        umap_vis = umap.UMAP(n_neighbors=30, min_dist=0.0, n_components=2, metric='cosine', random_state=42)
+        vis_2d = umap_vis.fit_transform(embeddings)
 
-    cluster_info = pd.DataFrame({
-        'cluster': cluster_labels,
-        'Source': merged_text['Source'],
-        'x': vis_2d[:, 0],
-        'y': vis_2d[:, 1]
-    })
+        cluster_info = pd.DataFrame({
+            'cluster': cluster_labels,
+            'Source': merged_text['Source'],
+            'x': vis_2d[:, 0],
+            'y': vis_2d[:, 1]
+        })
 
-    # Filter out noise points (cluster = -1)
-    cluster_df = cluster_info[cluster_info['cluster'] != -1]
-    embeddings_df = embeddings_df[cluster_info['cluster'] != -1]
+        # Filter out noise points (cluster = -1)
+        cluster_df = cluster_info[cluster_info['cluster'] != -1]
+        embeddings_df = embeddings_df[cluster_info['cluster'] != -1]
 
-    cluster_df.to_csv(f'NewPipeline/clustering_outputs/{model}_merged_clustering.csv', index=False)
+        cluster_df.to_csv(f'NewPipeline/clustering_outputs/{model}_merged_clustering.csv', index=False)
 
-    print(f"\nBERTopic clustering for {model} saved.\n")
+        print(f"\nBERTopic clustering for {model} saved.\n")
 
-    # Save the embeddings to a CSV file
-    embeddings_df.to_csv(f'NewPipeline/clustering_outputs/{model}_merged_embeddings.csv', index=False)
+        # Save the embeddings to a CSV file
+        embeddings_df.to_csv(f'NewPipeline/clustering_outputs/{model}_merged_embeddings.csv', index=False)
 
-    print(f"\nBERTopic embedding for {model} saved.\n")
-    
-    
+        print(f"\nBERTopic embedding for {model} saved.\n")
+        
+        
 
 
