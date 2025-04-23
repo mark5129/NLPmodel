@@ -1,7 +1,7 @@
 import pandas as pd
 import ast
 
-models = ['XLM_Roberta', 'Specter2', 'MiniLm12']
+models = ['MiniLm12', 'Specter2', 'XLM_Roberta']
 
 def format_tf_idf_field_as_nested_table(value):
     entries = value.split(" ; ")
@@ -33,10 +33,10 @@ def format_tf_idf_field_as_nested_table(value):
     return nested_html
 
 for model in models:
-    naming_groups = pd.read_csv(f'NewPipeline/clustering_outputs/{model}_naming_groups.csv')
-    naming_table = pd.read_csv(f'NewPipeline/clustering_outputs/{model}_naming.csv')
+    naming_groups = pd.read_csv(f'NewPipeline/clustering_outputs/{model}_merged_naming_groups.csv')
+    naming_table = pd.read_csv(f'NewPipeline/clustering_outputs/{model}_merged_naming.csv')
 
-    with open(f'NewPipeline/clustering_outputs/{model}_output.html', 'w') as html_file:
+    with open(f'NewPipeline/clustering_outputs/{model}_merged_output.html', 'w') as html_file:
         # Global styles for the HTML
         html_file.write("""
         <html>

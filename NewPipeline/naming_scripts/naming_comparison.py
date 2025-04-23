@@ -1,9 +1,9 @@
 import pandas as pd
 
-models = ['XLM_Roberta', 'Specter2', 'MiniLm12']
+models = ['MiniLm12', 'Specter2', 'XLM_Roberta']
 
 for model in models:
-    naming_table = pd.read_csv(f'NewPipeline/clustering_outputs/{model}_naming.csv')
+    naming_table = pd.read_csv(f'NewPipeline/clustering_outputs/{model}_merged_naming.csv')
 
     naming_table = naming_table[naming_table['percentage_limit'] > 0.5]
 
@@ -37,7 +37,7 @@ for model in models:
     scoring_df = pd.DataFrame(scoring_matrix, columns=naming_table.index, index=naming_table.index)
 
     # Save the scoring matrix to a CSV file
-    #scoring_df.to_csv(f'NewPipeline/clustering_outputs/{model}_naming_score.csv')
+    #scoring_df.to_csv(f'NewPipeline/clustering_outputs/{model}_merged_naming_score.csv')
 
     #print(f"Scoring matrix for model {model} saved to NewPipeline/clustering_outputs/{model}_scoring_matrix.csv")
 
@@ -48,7 +48,7 @@ for model in models:
 
     for i in range(num_rows):
         for j in range(i + 1, num_rows):  # Only consider the upper triangular part
-            if scoring_matrix[i][j] > 4:
+            if scoring_matrix[i][j] > 8:
                 if group_id not in groups:
                     groups[group_id] = set()
                 groups[group_id].add(i)
@@ -84,8 +84,8 @@ for model in models:
     group_df['Group'] = group_df['Group'].map(group_mapping)
 
     # Save the group assignments to a CSV file
-    group_df.to_csv(f'NewPipeline/clustering_outputs/{model}_naming_groups.csv', index=False)
+    group_df.to_csv(f'NewPipeline/clustering_outputs/{model}_merged_naming_groups.csv', index=False)
 
-    print(f"Group assignments for model {model} saved to NewPipeline/clustering_outputs/{model}_group_assignments.csv")
+    print(f"Group assignments for model {model} saved to NewPipeline/clustering_outputs/{model}_merged_group_assignments.csv")
 
 
