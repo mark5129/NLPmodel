@@ -11,8 +11,10 @@ from sklearn.preprocessing import normalize
 
 from naming_scripts.TFIDF_cluster_Naming import TFIDF_cluster_Naming
 from naming_scripts.namingtables import naming_tableIndividual
+from cosine_matrix_cluster import cluster_embeddings_with_affinity_propagation
+from cosine_matrix_cluster import merged_naming_table
 
-models = ['XLM_Roberta', 'Specter2', 'MiniLm12']
+models = ['MiniLm12', 'Specter2', 'XLM_Roberta']
 
 sources = ['pro', 'reg', 'sci']
 
@@ -42,86 +44,89 @@ for model in models:
         prediction_data=True  # Enable prediction data
     )
 
-    
-    # list of dataframes to store topic information
-    cluster_info = {
-        'pro': pd.DataFrame(),
-        'reg': pd.DataFrame(),
-        'sci': pd.DataFrame()
-    }
+    if True:
 
-    naming_info = {
-        'pro': pd.DataFrame(),
-        'reg': pd.DataFrame(),
-        'sci': pd.DataFrame()
-    }
+        # list of dataframes to store topic information
+        cluster_info = {
+            'pro': pd.DataFrame(),
+            'reg': pd.DataFrame(),
+            'sci': pd.DataFrame()
+        }
 
-    embedding_info = {
-        'pro': pd.DataFrame(),
-        'reg': pd.DataFrame(),
-        'sci': pd.DataFrame()
-    }
+        naming_info = {
+            'pro': pd.DataFrame(),
+            'reg': pd.DataFrame(),
+            'sci': pd.DataFrame()
+        }
 
-    for source in sources:
+        embedding_info = {
+            'pro': pd.DataFrame(),
+            'reg': pd.DataFrame(),
+            'sci': pd.DataFrame()
+        }
 
-        df_file1 = pd.read_csv(f'data/{source}_media_cleaned_eng.csv')
+        for source in sources:
 
-        df_text_column = df_file1['Content']
+            df_file1 = pd.read_csv(f'data/{source}_media_cleaned_eng.csv')
 
-        embeddings = embedding_model.encode(df_text_column.tolist(), show_progress_bar=True)
-        # Convert embeddings to a DataFrame
-        embeddings_df = pd.DataFrame(embeddings)
-    
-        reduced_embeddings = umap_model.fit_transform(embeddings, show_progress_bar=True)
+            df_text_column = df_file1['Content']
 
-        norm_data = normalize(reduced_embeddings, norm='l2')
-
-        cluster_labels = hdbscan_model.fit_predict(norm_data)
-
-        # UMAP for 2D visualization
-        umap_vis = umap.UMAP(n_neighbors=30, min_dist=0.0, n_components=2, metric='cosine', random_state=42)
-        vis_2d = umap_vis.fit_transform(embeddings)
-
-        topic_info = pd.DataFrame({
-            'cluster': cluster_labels,
-            'Source': source,
-            'x': vis_2d[:, 0],
-            'y': vis_2d[:, 1]
-        })
-
-        # Filter out noise points (cluster = -1)
-        filtered_df = topic_info[topic_info['cluster'] != -1]
-        embeddings_df = embeddings_df[topic_info['cluster'] != -1]
-        df_file = df_file1[topic_info['cluster'] != -1]
+            embeddings = embedding_model.encode(df_text_column.tolist(), show_progress_bar=True)
+            # Convert embeddings to a DataFrame
+            embeddings_df = pd.DataFrame(embeddings)
         
-        cluster_info[source] = filtered_df
-        embedding_info[source] = embeddings_df
+            reduced_embeddings = umap_model.fit_transform(embeddings, show_progress_bar=True)
 
-        result_df = TFIDF_cluster_Naming(df_file, filtered_df, threshold = 0)
-        naming_info[source] = result_df
+            norm_data = normalize(reduced_embeddings, norm='l2')
 
-    # Merge the DataFrames
-    merged_naming = pd.concat([naming_info['pro'], naming_info['reg'], naming_info['sci']], ignore_index=True)
-    merged_clustering = pd.concat([cluster_info['pro'], cluster_info['reg'], cluster_info['sci']], ignore_index=True)
-    merged_embedding = pd.concat([embedding_info['pro'], embedding_info['reg'], embedding_info['sci']], ignore_index=True)
+            cluster_id = cluster_embeddings_with_affinity_propagation(embeddings)
 
-    merged_clustering.to_csv(f'NewPipeline/clustering_outputs/{model}_clustering.csv', index=False)
+            cluster_labels = hdbscan_model.fit_predict(norm_data)
 
-    print(f"\nBERTopic clustering for {model} saved.\n")
+            # UMAP for 2D visualization
+            umap_vis = umap.UMAP(n_neighbors=30, min_dist=0.0, n_components=2, metric='cosine', random_state=42)
+            vis_2d = umap_vis.fit_transform(embeddings)
 
-    # Save the embeddings to a CSV file
-    merged_embedding.to_csv(f'NewPipeline/clustering_outputs/{model}_embeddings.csv', index=False)
+            topic_info = pd.DataFrame({
+                'cluster': cluster_id,
+                'Source': source,
+                'x': vis_2d[:, 0],
+                'y': vis_2d[:, 1]
+            })
 
-    print(f"\nBERTopic embedding for {model} saved.\n")
+            # Filter out noise points (cluster = -1)
+            filtered_df = topic_info[topic_info['cluster'] != -1]
+            embeddings_df = embeddings_df[topic_info['cluster'] != -1]
+            df_file = df_file1[topic_info['cluster'] != -1]
+            
+            cluster_info[source] = filtered_df
+            embedding_info[source] = embeddings_df
 
-    merged_naming.drop(columns=['x', 'y'], inplace=True)
+            result_df = TFIDF_cluster_Naming(df_file, filtered_df, threshold = 0)
+            naming_info[source] = result_df
 
-    merged_naming = naming_tableIndividual(merged_naming)
-    merged_naming.to_csv(f'NewPipeline/clustering_outputs/{model}_naming.csv', index=False)
+        # Merge the DataFrames
+        merged_naming = pd.concat([naming_info['pro'], naming_info['reg'], naming_info['sci']], ignore_index=True)
+        merged_clustering = pd.concat([cluster_info['pro'], cluster_info['reg'], cluster_info['sci']], ignore_index=True)
+        merged_embedding = pd.concat([embedding_info['pro'], embedding_info['reg'], embedding_info['sci']], ignore_index=True)
 
-    print(f"\nNaming table for {model} saved.\n")
+        merged_clustering.to_csv(f'NewPipeline/clustering_outputs/{model}_clustering.csv', index=False)
 
-    if False:
+        print(f"\nBERTopic clustering for {model} saved.\n")
+
+        # Save the embeddings to a CSV file
+        merged_embedding.to_csv(f'NewPipeline/clustering_outputs/{model}_embeddings.csv', index=False)
+
+        print(f"\nBERTopic embedding for {model} saved.\n")
+
+        merged_naming.drop(columns=['x', 'y'], inplace=True)
+
+        merged_naming = naming_tableIndividual(merged_naming)
+        merged_naming.to_csv(f'NewPipeline/clustering_outputs/{model}_naming.csv', index=False)
+
+        print(f"\nNaming table for {model} saved.\n")
+
+    if True:
         text_info = {
             'pro': pd.DataFrame(),
             'reg': pd.DataFrame(),
@@ -145,6 +150,8 @@ for model in models:
         # Convert embeddings to a DataFrame
         embeddings_df = pd.DataFrame(embeddings)
 
+        cluster_id = cluster_embeddings_with_affinity_propagation(embeddings)
+
         reduced_embeddings = umap_model.fit_transform(embeddings, show_progress_bar=True)
 
         norm_data = normalize(reduced_embeddings, norm='l2')
@@ -156,7 +163,7 @@ for model in models:
         vis_2d = umap_vis.fit_transform(embeddings)
 
         cluster_info = pd.DataFrame({
-            'cluster': cluster_labels,
+            'cluster': cluster_id,
             'Source': merged_text['Source'],
             'x': vis_2d[:, 0],
             'y': vis_2d[:, 1]
@@ -164,16 +171,44 @@ for model in models:
 
         # Filter out noise points (cluster = -1)
         cluster_df = cluster_info[cluster_info['cluster'] != -1]
-        embeddings_df = embeddings_df[cluster_info['cluster'] != -1]
+        embeddings_df = embeddings_df[cluster_info['cluster'] != -1].reset_index(drop=True)
+        merged_text = merged_text[cluster_info['cluster'] != -1].reset_index(drop=True)
 
+        # Ensure df_file is defined correctly
+        df_file = merged_text.copy()
+
+        # Generate the result DataFrame
+        result_df = TFIDF_cluster_Naming(df_file, cluster_df, threshold=0)
+
+        # Save clustering results
         cluster_df.to_csv(f'NewPipeline/clustering_outputs/{model}_merged_clustering.csv', index=False)
-
         print(f"\nBERTopic clustering for {model} saved.\n")
+
+        # Save the embeddings to a CSV file
+        embeddings_df.to_csv(f'NewPipeline/clustering_outputs/{model}_merged_embeddings.csv', index=False)
+        print(f"\nBERTopic embedding for {model} saved.\n")
+
+        # Generate and save the naming table
+        merged_naming = naming_tableIndividual(result_df)
+        merged_naming.to_csv(f'NewPipeline/clustering_outputs/{model}_merged_naming.csv', index=False)
+        print(f"\nNaming table for {model} saved.\n")
 
         # Save the embeddings to a CSV file
         embeddings_df.to_csv(f'NewPipeline/clustering_outputs/{model}_merged_embeddings.csv', index=False)
 
         print(f"\nBERTopic embedding for {model} saved.\n")
+
+        merged_naming = naming_tableIndividual(result_df)
+
+        merged_naming_df = merged_naming_table(merged_naming)
+
+        # Reorder the columns in the desired order
+        column_order = ['cluster', 'pro', 'reg', 'sci', 'TF_IDF_topic_name', 'percentage_of_documents', 'percentage_limit', 'Topic_terms']
+        merged_naming_df = merged_naming_df[column_order]
+
+        merged_naming_df.to_csv(f'NewPipeline/clustering_outputs/{model}_merged_naming_clusters.csv', index=False)
+
+
         
         
 
