@@ -5,6 +5,8 @@ models = ['XLM_Roberta', 'Specter2', 'MiniLm12']
 for model in models:
     naming_table = pd.read_csv(f'NewPipeline/clustering_outputs/{model}_naming.csv')
 
+    naming_table = naming_table[naming_table['percentage_limit'] > 0.5]
+
     # Initialize an empty scoring matrix
     num_rows = len(naming_table)
     scoring_matrix = [[0] * num_rows for _ in range(num_rows)]

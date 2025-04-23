@@ -10,7 +10,7 @@ with open('parameters.yaml', 'r') as file:
 
 set_style()
 
-models = ['Specter2'] # , 'XLM_Roberta', 'MiniLm12'
+models = ['Specter2', 'XLM_Roberta', 'MiniLm12'] # , 'XLM_Roberta', 'MiniLm12'
 sources = ['pro', 'reg', 'sci']
 
 for model in models:
