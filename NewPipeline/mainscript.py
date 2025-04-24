@@ -16,6 +16,10 @@ from cosine_matrix_cluster import merged_naming_table
 
 models = ['MiniLm12', 'Specter2', 'XLM_Roberta']
 
+clustering = 'AP'
+
+clustering = 'hdbscan'
+
 sources = ['pro', 'reg', 'sci']
 
 for model in models:
@@ -44,7 +48,7 @@ for model in models:
         prediction_data=True  # Enable prediction data
     )
 
-    if True:
+    if False:
 
         # list of dataframes to store topic information
         cluster_info = {
@@ -81,7 +85,7 @@ for model in models:
 
             cluster_id = cluster_embeddings_with_affinity_propagation(embeddings)
 
-            cluster_labels = hdbscan_model.fit_predict(norm_data)
+            cluster_labels = hdbscan_model.fit_predict(reduced_embeddings)
 
             # UMAP for 2D visualization
             umap_vis = umap.UMAP(n_neighbors=30, min_dist=0.0, n_components=2, metric='cosine', random_state=42)
@@ -150,13 +154,18 @@ for model in models:
         # Convert embeddings to a DataFrame
         embeddings_df = pd.DataFrame(embeddings)
 
-        cluster_id = cluster_embeddings_with_affinity_propagation(embeddings)
-
         reduced_embeddings = umap_model.fit_transform(embeddings, show_progress_bar=True)
 
         norm_data = normalize(reduced_embeddings, norm='l2')
 
-        cluster_labels = hdbscan_model.fit_predict(norm_data)
+        if clustering == 'AP':
+            # Affinity Propagation clustering
+            cluster_id = cluster_embeddings_with_affinity_propagation(embeddings)
+            
+        elif clustering == 'hdbscan':
+            # HDBSCAN clustering
+            cluster_id = hdbscan_model.fit_predict(reduced_embeddings)
+
 
         # UMAP for 2D visualization
         umap_vis = umap.UMAP(n_neighbors=30, min_dist=0.0, n_components=2, metric='cosine', random_state=42)
@@ -181,32 +190,28 @@ for model in models:
         result_df = TFIDF_cluster_Naming(df_file, cluster_df, threshold=0)
 
         # Save clustering results
-        cluster_df.to_csv(f'NewPipeline/clustering_outputs/{model}_merged_clustering.csv', index=False)
+        cluster_df.to_csv(f'NewPipeline/clustering_outputs/{model}_{clustering}_merged_clustering.csv', index=False)
         print(f"\nBERTopic clustering for {model} saved.\n")
 
         # Save the embeddings to a CSV file
-        embeddings_df.to_csv(f'NewPipeline/clustering_outputs/{model}_merged_embeddings.csv', index=False)
+        embeddings_df.to_csv(f'NewPipeline/clustering_outputs/{model}_{clustering}_merged_embeddings.csv', index=False)
         print(f"\nBERTopic embedding for {model} saved.\n")
 
         # Generate and save the naming table
         merged_naming = naming_tableIndividual(result_df)
-        merged_naming.to_csv(f'NewPipeline/clustering_outputs/{model}_merged_naming.csv', index=False)
+
+        merged_naming.to_csv(f'NewPipeline/clustering_outputs/{model}_{clustering}_merged_naming.csv', index=False)
         print(f"\nNaming table for {model} saved.\n")
 
-        # Save the embeddings to a CSV file
-        embeddings_df.to_csv(f'NewPipeline/clustering_outputs/{model}_merged_embeddings.csv', index=False)
+        if clustering == 'AP':
 
-        print(f"\nBERTopic embedding for {model} saved.\n")
+            merged_naming_df = merged_naming_table(merged_naming)
 
-        merged_naming = naming_tableIndividual(result_df)
+            # Reorder the columns in the desired order
+            column_order = ['cluster', 'pro', 'reg', 'sci', 'TF_IDF_topic_name', 'percentage_of_documents', 'percentage_limit', 'Topic_terms']
+            merged_naming_df = merged_naming_df[column_order]
 
-        merged_naming_df = merged_naming_table(merged_naming)
-
-        # Reorder the columns in the desired order
-        column_order = ['cluster', 'pro', 'reg', 'sci', 'TF_IDF_topic_name', 'percentage_of_documents', 'percentage_limit', 'Topic_terms']
-        merged_naming_df = merged_naming_df[column_order]
-
-        merged_naming_df.to_csv(f'NewPipeline/clustering_outputs/{model}_merged_naming_clusters.csv', index=False)
+            merged_naming_df.to_csv(f'NewPipeline/clustering_outputs/{model}_{clustering}_merged_naming_clusters.csv', index=False)
 
 
         
