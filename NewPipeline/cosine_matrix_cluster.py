@@ -3,9 +3,11 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.cluster import AffinityPropagation
 
+
 def cluster_embeddings_with_affinity_propagation(embeddings):
     """
     Clusters embeddings using cosine similarity and Affinity Propagation.
+    The preference value is scaled internally to reduce the number of clusters.
 
     Args:
         embeddings (numpy.ndarray): A 2D array of shape (n_samples, n_features).
@@ -16,21 +18,24 @@ def cluster_embeddings_with_affinity_propagation(embeddings):
     # Compute the cosine similarity matrix
     similarity_matrix = cosine_similarity(embeddings)
 
-    # Set the preference (diagonal values)
-    # Use the median of off-diagonal similarities as a neutral preference
+    # Calculate base preference from off-diagonal similarities
     n = similarity_matrix.shape[0]
     mask = ~np.eye(n, dtype=bool)
-    preference = np.median(similarity_matrix[mask])
-    np.fill_diagonal(similarity_matrix, preference)
+    base_preference = np.median(similarity_matrix[mask])
 
-    # Apply Affinity Propagation
+    # Scale the preference to control cluster count (lower = fewer clusters)
+    preference_scale = 0.25  # You can adjust this to 0.5, 0.1, etc. if needed
+    scaled_preference = base_preference * preference_scale
+
+    # Set diagonal to the scaled preference
+    np.fill_diagonal(similarity_matrix, scaled_preference)
+
+    # Apply Affinity Propagation with precomputed similarity
     affinity_propagation = AffinityPropagation(affinity='precomputed', random_state=42)
     affinity_propagation.fit(similarity_matrix)
 
-    # Get the cluster IDs
-    cluster_id = affinity_propagation.labels_
+    return affinity_propagation.labels_
 
-    return cluster_id
 
 def merged_naming_table(merged_naming):
     """
@@ -42,11 +47,10 @@ def merged_naming_table(merged_naming):
     Returns:
         pd.DataFrame: A simplified DataFrame with cluster information, source counts, and topic details.
     """
-
-    # First, pivot the document counts per source
+    # Pivot the document counts per source
     doc_counts = merged_naming.groupby(['cluster', 'Source'])['count'].sum().unstack(fill_value=0)
 
-    # Now group and extract first values for the other columns
+    # Group and extract first values for metadata columns
     meta_info = merged_naming.groupby('cluster').agg({
         'TF_IDF_topic_name': 'first',
         'percentage_of_documents': 'first',
@@ -54,28 +58,20 @@ def merged_naming_table(merged_naming):
         'Topic_terms': 'first'
     })
 
-    # Merge both DataFrames on cluster index
+    # Merge metadata and counts
     result = meta_info.join(doc_counts).reset_index()
 
-
-    # Sort by cluster
+    # Sort by cluster ID
     result = result.sort_values(by='cluster').reset_index(drop=True)
 
     return result
 
 
-
+# Example usage loop (uncomment and adapt as needed)
 # models = ['MiniLm12', 'Specter2', 'XLM_Roberta']
-
 # for model in models:
-
 #     merged_naming = pd.read_csv(f'NewPipeline/clustering_outputs/hdbscan_{model}_merged_naming.csv')
-
 #     merged_naming_df = merged_naming_table(merged_naming)
-
-#     # Reorder the columns in the desired order
 #     column_order = ['cluster', 'pro', 'reg', 'sci', 'TF_IDF_topic_name', 'percentage_of_documents', 'percentage_limit', 'Topic_terms']
 #     merged_naming_df = merged_naming_df[column_order]
-
 #     merged_naming_df.to_csv(f'NewPipeline/clustering_outputs/hdbscan_{model}_merged_naming_cluster.csv')
-
