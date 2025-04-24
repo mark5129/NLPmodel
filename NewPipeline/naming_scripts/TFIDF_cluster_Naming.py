@@ -57,11 +57,21 @@ def TFIDF_cluster_topic(cluster_texts, other_texts,threshold, language='english'
         # Get top terms with positive differences above the threshold
         top_terms = [terms[i] for i in top_indices if tf_idf_diff[i] > threshold]
 
+        # Get the distinct occurrence count of top_terms in cluster texts (case insensitive)
+        document_counts = {term: sum(term.lower() in text.lower() for text in cluster_texts) for term in top_terms}
+ 
         # Filter out bigrams that are already represented in a trigram
         filtered_top_terms = []
+        bigrams = [term for term in top_terms if len(term.split()) == 2]
+        trigrams = [term for term in top_terms if len(term.split()) == 3]
+
         for term in top_terms:
-            if len(term.split()) == 2:  # Check if the term is a bigram
-                if not any(term in trigram for trigram in top_terms if len(trigram.split()) == 3):
+            if term in bigrams:  # Check if the term is a bigram2
+                matching_trigram = next((trigram for trigram in trigrams if term in trigram), None)
+                if matching_trigram:
+                    if document_counts.get(term, 0) > document_counts.get(matching_trigram, 0) + 1:
+                        filtered_top_terms.append(term)
+                else:
                     filtered_top_terms.append(term)
             else:
                 filtered_top_terms.append(term)
