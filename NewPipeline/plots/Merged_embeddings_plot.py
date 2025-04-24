@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import os
 from scipy.spatial import ConvexHull  # Add this import
 
-def merged_embeddings_plot(embedding, cluster_model):
+def merged_embeddings_plot(embedding, model, cluster_model):
     """
     Load and visualize the merged embeddings from BERTopic clustering.
     
@@ -47,14 +47,14 @@ def merged_embeddings_plot(embedding, cluster_model):
                     linewidth=0.5, 
                     marker='o')
         
-    plt.title(f'{cluster_model}')
+    plt.title(f'{model}')
     plt.xlabel('UMAP 1')
     plt.ylabel('UMAP 2')
 
     # Save the cluster-colored plot
-    plt.savefig(f'NewPipeline/plots/{cluster_model}_merged_cluster_plot.png')
+    plt.savefig(f'NewPipeline/plots/{cluster_model}_{model}_merged_cluster_plot.png')
     plt.close()
-    print(f"Cluster plot saved for '{cluster_model}'")
+    print(f"Cluster plot saved for {cluster_model}_{model}")
 
     # Create a scatter plot colored by source
     plt.figure(figsize=(10, 6))
@@ -77,12 +77,12 @@ def merged_embeddings_plot(embedding, cluster_model):
                     alpha=0.8, 
                     color=ggplot_palette[i % len(ggplot_palette)]
                 )
-    plt.title(f'{cluster_model}')
+    plt.title(f'{model}')
     plt.xlabel('UMAP 1')
     plt.ylabel('UMAP 2')
     plt.legend()
 
 
-    plt.savefig(f'NewPipeline/plots/{cluster_model}_merged_source_plot.png')
+    plt.savefig(f'NewPipeline/plots/{cluster_model}_{model}_merged_source_plot.png')
     plt.close()
-    print(f"Source plot saved for '{cluster_model}'")
+    print(f"Source plot saved for {cluster_model}_{model}")
