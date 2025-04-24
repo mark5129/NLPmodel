@@ -1,11 +1,16 @@
 import pandas as pd
 import numpy as np
+import os
 from sklearn.metrics.pairwise import cosine_similarity
 
 # === KONFIGURASJON ===
 MODELS = ["Specter2", "MiniLm12", "XLM_Roberta"]
 BASE_PATH = "NewPipeline/clustering_outputs"
+RESULTS_PATH = "NewPipeline/results"
 SOURCES = ["sci", "pro", "reg"]
+
+# Sørg for at resultatsmappen eksisterer
+os.makedirs(RESULTS_PATH, exist_ok=True)
 
 results = []
 
@@ -13,8 +18,8 @@ for model in MODELS:
     print(f"\n🔍 Behandler modell: {model}")
 
     # === Last inn embeddings og clustering
-    embed_path = f"{BASE_PATH}/{model}_merged_embeddings.csv"
-    cluster_path = f"{BASE_PATH}/{model}_merged_clustering.csv"
+    embed_path = f"{BASE_PATH}/hdbscan_{model}_merged_embeddings.csv"
+    cluster_path = f"{BASE_PATH}/hdbscan_{model}_merged_clustering.csv"
 
     embeddings = pd.read_csv(embed_path)
     clustering = pd.read_csv(cluster_path)
@@ -57,3 +62,6 @@ latex_table += "\\bottomrule\n\\end{tabular}"
 
 print("\n\n=== LATEX-TABELL ===\n")
 print(latex_table)
+
+# === Lagre resultater som CSV
+results_df.to_csv(f"{RESULTS_PATH}/intra_source_similarity_results.csv", index=False)

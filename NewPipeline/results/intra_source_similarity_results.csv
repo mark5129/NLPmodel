@@ -1,0 +1,10 @@
+Model,Source,Size,Intra-source Cosine Similarity
+MiniLm12,pro,142,0.4799
+MiniLm12,reg,495,0.5065
+MiniLm12,sci,478,0.4371
+Specter2,pro,181,0.9187
+Specter2,reg,674,0.9135
+Specter2,sci,544,0.8813
+XLM_Roberta,pro,181,0.581
+XLM_Roberta,reg,674,0.5558
+XLM_Roberta,sci,544,0.6012

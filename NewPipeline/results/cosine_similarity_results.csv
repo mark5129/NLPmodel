@@ -1,0 +1,10 @@
+Model,Pair,Sample Size,Average Cosine Similarity
+MiniLm12,pro-reg,142,0.4
+MiniLm12,sci-pro,142,0.3481
+MiniLm12,sci-reg,478,0.2696
+Specter2,pro-reg,181,0.9064
+Specter2,sci-pro,181,0.8435
+Specter2,sci-reg,544,0.8226
+XLM_Roberta,pro-reg,181,0.5491
+XLM_Roberta,sci-pro,181,0.4924
+XLM_Roberta,sci-reg,544,0.4598
