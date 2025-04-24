@@ -202,15 +202,13 @@ for clustering in clusterings:
             merged_naming.to_csv(f'NewPipeline/clustering_outputs/{clustering}_{model}_merged_naming.csv', index=False)
             print(f"\nNaming table for {model} saved.\n")
 
-            if clustering == 'AP':
+            merged_naming_df = merged_naming_table(merged_naming)
 
-                merged_naming_df = merged_naming_table(merged_naming)
+            # Reorder the columns in the desired order
+            column_order = ['cluster', 'pro', 'reg', 'sci', 'TF_IDF_topic_name', 'percentage_of_documents', 'percentage_limit', 'Topic_terms']
+            merged_naming_df = merged_naming_df[column_order]
 
-                # Reorder the columns in the desired order
-                column_order = ['cluster', 'pro', 'reg', 'sci', 'TF_IDF_topic_name', 'percentage_of_documents', 'percentage_limit', 'Topic_terms']
-                merged_naming_df = merged_naming_df[column_order]
-
-                merged_naming_df.to_csv(f'NewPipeline/clustering_outputs/{clustering}_{model}_merged_naming_clusters.csv', index=False)
+            merged_naming_df.to_csv(f'NewPipeline/clustering_outputs/{clustering}_{model}_merged_naming_clusters.csv', index=False)
 
 
             
