@@ -1,0 +1,3 @@
+cluster,pro,reg,sci,TF_IDF_topic_name,percentage_of_documents,percentage_limit,Topic_terms
+0,167,669,27,"islands bornholm, 0.0119, 427, 1187 ; energy islands bornholm, 0.0119, 427, 1187 ; municipal council, 0.0072, 195, 532 ; green transition, 0.0061, 237, 444 ; baltic sea, 0.0061, 229, 505",0.3964,1.0,islands bornholm ; energy islands bornholm ; municipal council ; green transition ; baltic sea
+1,14,5,517,"offshore grid, 0.0417, 229, 364 ; wind power, 0.0182, 119, 228 ; renewable energy, 0.0180, 124, 202 ; rights reserved, 0.0174, 73, 73 ; offshore wind, 0.0151, 227, 482",0.2943,1.0,offshore grid ; wind power ; renewable energy ; rights reserved ; offshore wind
