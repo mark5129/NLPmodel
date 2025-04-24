@@ -5,7 +5,7 @@ models = ['MiniLm12', 'Specter2', 'XLM_Roberta']
 
 for cluster in clustering:
     for model in models:
-        naming_table = pd.read_csv(f'NewPipeline/clustering_outputs/{cluster}_{model}_merged_naming.csv')
+        naming_table = pd.read_csv(f'NewPipeline/clustering_outputs/{cluster}_{model}_merged_naming_clusters.csv')
 
         naming_table = naming_table[naming_table['percentage_limit'] > 0.5]
 

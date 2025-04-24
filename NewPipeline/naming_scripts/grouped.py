@@ -36,7 +36,7 @@ def format_tf_idf_field_as_nested_table(value):
 for cluster in clustering:
     for model in models:
         naming_groups = pd.read_csv(f'NewPipeline/clustering_outputs/{cluster}_{model}_merged_naming_groups.csv')
-        naming_table = pd.read_csv(f'NewPipeline/clustering_outputs/{cluster}_{model}_merged_naming.csv')
+        naming_table = pd.read_csv(f'NewPipeline/clustering_outputs/{cluster}_{model}_merged_naming_clusters.csv')
 
         with open(f'NewPipeline/clustering_outputs/{cluster}_{model}_merged_output.html', 'w') as html_file:
             # Global styles for the HTML
