@@ -77,4 +77,11 @@ def merged_naming_table(merged_naming):
 #     column_order = ['cluster', 'pro', 'reg', 'sci', 'TF_IDF_topic_name', 'percentage_of_documents', 'percentage_limit', 'Topic_terms']
 #     merged_naming_df = merged_naming_df[column_order]
 
-#     merged_naming_df.to_csv(f'NewPipeline/clustering_outputs/{model}_merged_naming_clusters.csv', index=False)
+#     merged_naming = pd.read_csv(f'NewPipeline/clustering_outputs/{model}_merged_naming.csv')
+
+# merged_naming = pd.read_csv(f'NewPipeline/clustering_outputs/MiniLm12_merged_naming_clusters.csv')
+
+# # Create a new DataFrame with the desired columns
+# new_df = merged_naming[['cluster', 'pro', 'reg', 'sci', 'Topic_terms']]
+
+# new_df.to_csv(f'NewPipeline/clustering_outputs/MiniLm12_cluster_evaluation.csv', index=False)
