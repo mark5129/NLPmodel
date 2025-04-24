@@ -62,7 +62,7 @@ for cluster in clustering:
         # Add a final group for rows not in any group
         unassigned_rows = set(range(num_rows)) - rows_in_groups
         if unassigned_rows:
-            groups[group_id] = unassigned_rows
+            groups['Unassigned clusters'] = unassigned_rows
 
         # Calculate the average score for each group
         group_averages = {}
@@ -81,9 +81,9 @@ for cluster in clustering:
         ]
         group_df = pd.DataFrame(group_assignments)
 
-        # Rename group numbers from 1 to the number of groups
-        group_mapping = {old_id: new_id for new_id, old_id in enumerate(groups.keys(), start=1)}
-        group_df['Group'] = group_df['Group'].map(group_mapping)
+        # Rename group numbers from 1 to the number of groups, excluding the last group
+        group_mapping = {old_id: new_id for new_id, old_id in enumerate(groups.keys(), start=1) if old_id != 'Unassigned clusters'}
+        group_df['Group'] = group_df['Group'].map(lambda x: group_mapping.get(x, x))  # Keep 'Unassigned clusters' unchanged
 
         # Save the group assignments to a CSV file
         group_df.to_csv(f'NewPipeline/clustering_outputs/{cluster}_{model}_merged_naming_groups.csv', index=False)
