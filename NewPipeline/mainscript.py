@@ -47,7 +47,7 @@ for clustering in clusterings:
             prediction_data=True  # Enable prediction data
         )
 
-        if False:
+        if True:
 
             # list of dataframes to store topic information
             cluster_info = {
@@ -113,23 +113,23 @@ for clustering in clusterings:
             merged_clustering = pd.concat([cluster_info['pro'], cluster_info['reg'], cluster_info['sci']], ignore_index=True)
             merged_embedding = pd.concat([embedding_info['pro'], embedding_info['reg'], embedding_info['sci']], ignore_index=True)
 
-            merged_clustering.to_csv(f'NewPipeline/clustering_outputs/{model}_clustering.csv', index=False)
+            merged_clustering.to_csv(f'NewPipeline/clustering_outputs/indiv/{model}_clustering.csv', index=False)
 
             print(f"\nBERTopic clustering for {model} saved.\n")
 
             # Save the embeddings to a CSV file
-            merged_embedding.to_csv(f'NewPipeline/clustering_outputs/{model}_embeddings.csv', index=False)
+            merged_embedding.to_csv(f'NewPipeline/clustering_outputs/indiv/{model}_embeddings.csv', index=False)
 
             print(f"\nBERTopic embedding for {model} saved.\n")
 
             merged_naming.drop(columns=['x', 'y'], inplace=True)
 
             merged_naming = naming_tableIndividual(merged_naming)
-            merged_naming.to_csv(f'NewPipeline/clustering_outputs/{model}_naming.csv', index=False)
+            merged_naming.to_csv(f'NewPipeline/clustering_outputs/indiv/{model}_naming.csv', index=False)
 
             print(f"\nNaming table for {model} saved.\n")
 
-        if True:
+        if False:
             text_info = {
                 'pro': pd.DataFrame(),
                 'reg': pd.DataFrame(),
