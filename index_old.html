@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualization Browser</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 40px; }
+        .menu { margin-bottom: 10px; }
+        .menu-item { margin: 10px 0; }
+        .menu button { font-size: 18px; padding: 10px 20px; }
+    </style>
+</head>
+<body>
+    <h1>NLP model Bachelor</h1>
+
+    <div class="container">
+        <div class="menu">
+            <button onclick="showContent('home')" id="btn-home">Home</button>
+            <button onclick="showContent('plots1')" id="btn-plots">Version 1 Plots</button>
+            <button onclick="showContent('plots2')" id="btn-plots">Version 2 Plots</button>
+            <button onclick="showContent('plots3')" id="btn-plots">Plots for thesis</button>
+            <button onclick="showContent('plots4')" id="btn-plots">New plots</button>
+            <button onclick="showContent('services')" id="btn-services">About</button>
+            <button onclick="showContent('contact')" id="btn-contact">State of Log file</button>
+        </div>
+
+        <div class="content">
+            <div id="home"> 
+                <h2>Home</h2> 
+                <p>Welcome to the homepage for our bachelor project! It is created in order to have a better medium to communicate the development of the project as well as the results generated in the processs. Every time our GIT repo is updated, this page will be updated as well with the latest visualizations and other things that we choose to show.</p> 
+                <h3>Webpage description</h3>
+                <ul>
+                    <li>Home</li>
+                        <ul>
+                            <li>Project and pipeline description</li>
+                        </ul>
+                    <li>Data Map plots</li>
+                    <p>These pages are generically the same, but there is a slight difference in the process of generating the embeddings for each document. This is exploratory to figure out the differences and test a hypothesis</p>
+                        <ul>
+                            <li>Version 1 Data map plot</li>
+                                <ul>
+                                    <li>(Baseline) Documents from 3 sources are merged before embeddings are generated</li>
+                                </ul>
+                            <li>Version 2 Data map plot</li>
+                                <ul>
+                                    <li>Embeddings are generated for each source individually and then embeddings are merged</li>
+                                    <li>We want to test whether the differences from the sources appear clearer from embedding individually</li>
+                                    <li>Hypethesis is that differences are bigger when embedded seperately</li>
+                                </ul>
+                        </ul>
+                    <li>About</li>
+                        <ul>
+                            <li>Info about the team</li>
+                        </ul>
+                    <li>State of log file</li>
+                        <ul>
+                            <li>See the when the latest run is from and parameters</li>
+                        </ul>
+                  </ul>
+                
+                <h3>Project Description: (written by ChatGPT)</h3>
+                <p>This project investigates the discourse surrounding Denmark’s energy islands initiative by analyzing how the topic is discussed across scientific literature, professional media, and regional media. Using Natural Language Processing (NLP) techniques, particularly topic modeling methods such as BERTopic and Latent Dirichlet Allocation (LDA), the study aims to identify key themes, trends, and differences in how energy islands are framed in different contexts. The project contributes to the European Research Center (ERC) project Goodbye Devising, which seeks to integrate local citizen values and environmental concerns into the early stages of green energy planning. By applying NLP-based text analysis, this research provides insights for policymakers, scientists, and communicators to bridge the gap between expert knowledge and public understanding of Denmark’s energy transition.</p>
+                <a href="https://www.good-by-devicing.org" target="_blank">Good-by-Devicing</a>
+                <h3>The Pipeline: (written by us)</h3>
+                <p>
+                    Initially some preprocessing is done to the data to prepare it for the Language models to calculate the embeddings. The preprocessing consists of Translation, Stop word removal and Stemming. 
+                    Then the various models (XLM-Roberta, Specter 2, MiniLM12), are calculating their document embeddings, placing each document (1429 documents) in a 383 dimensional vector space.
+                </p>
+                <p>
+                    Based on these embeddings k-means clustering is conducted to find clusters of documents, which are close to each other in the vector space, reflecting a similar semantic representation.
+                </p>    
+                <p>
+                    For each cluster Latent Dirichlet Allocation (LDA) is used to come up with a topic for the cluster based on the bag of words which is an output of LDA. This is visualized in 2D in the Data map plot pane.
+                </p>    
+                <p>
+                    After this clustering it is interesting to investigate what the source is for the documents in each cluster. Therefore a simple grouped bar plot is created to show where the documents in each cluster originate - meaning which source it comes from.
+                </p>    
+                <p>
+                    Below you can find our Git repo, which is the source for all our code, this webpage included
+                </p>
+                    
+                <a href="https://github.com/mark5129/NLPmodel" target="_blank">Repository</a>
+                
+            </div>
+            <div id="plots1" style="display: none;"> 
+                <h2>Data Map Plots Version 1</h2> 
+                <p>In the first version our "Baseline" we have merged the documents from the various sources before feeding them to the LLM's to generate embeddings.
+                    This was to have them all embedded in the same vector space and therefore be able to compare the embeddings generated by the different models for each source.
+                    It though raised the question whether we are loosing some of the semantic differences from feeding the model all the texts at once, why we have version 2 also.
+                </p>
+                <p>Various models are used for generating embeddings, among those XLM-Roberta, MiniLm12 and Specter2. They generate slightly different embeddings which can be visualised below. 
+                    Once embeddings are generated k-means clustering is applied to the 383 vectorspace in order to cluster the documents into "Topics" with similar semantics.
+                    When these cluster "Topics" are made we want to put a title on each Cluster. Currently TF-IDF is used, but we are testing the results of using BERTopic for bag of words and then 
+                    generating the titles based on this.</p>
+                <p></p>
+                <h3>When clicking the button please let it run for a couple of seconds</h3>
+                <p>The plots shown are quite large. Also you have to "deselect" a model after viewing it before going to the next one</p>
+                <button onclick="togglePlot('plot11')">XLM Roberta</button>
+                <button onclick="togglePlot('plot12')">MiniLm12</button>
+                <button onclick="togglePlot('plot13')">Specter2</button>
+                <button onclick="togglePlot('plot14')">Source plot</button>
+                <button onclick="togglePlot('plot15')">Outline Plot</button>
+                <p></p>
+                <div id="plot11" style="display: none;">
+                    <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
+                    <object data="Visualizations/Outputs/manualrun_merged_XLM_Roberta_datamapplot.html" width="100%" height="800"></object>
+
+                    <p>In the plot above different clusters are shown, and a LDA model is currently used to give each cluster a name. We are though interested in investigating which source the documents in each cluster come from
+                        and therefore we have made a source plot below. This plot shows the same clusters as the datamap plot, but with the source of the documents in each cluster.
+                    </p>
+                    <img src="Visualizations/Outputs/manualrun_merged_XLM_Roberta_sourceplot.png" alt="XLM_roberta_sourceplot" style="width:1000px;height:auto;">
+                </div>
+                <div id="plot12" style="display: none;">
+                    <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
+                    <object data="Visualizations/Outputs/manualrun_merged_MiniLm12_datamapplot.html" width="100%" height="800"></object>
+
+                    <p>In the plot above different clusters are shown, and a LDA model is currently used to give each cluster a name. We are though interested in investigating which source the documents in each cluster come from
+                        and therefore we have made a source plot below. This plot shows the same clusters as the datamap plot, but with the source of the documents in each cluster.
+                    </p>
+                    <img src="Visualizations/Outputs/manualrun_merged_MiniLm12_sourceplot.png" alt="MiniLm12_sourceplot" style="width:1000px;height:auto;">
+                </div>
+                <div id="plot13" style="display: none;">
+                    <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
+                    <object data="Visualizations/Outputs/manualrun_merged_Specter2Actually_datamapplot.html" width="100%" height="800"></object>
+
+                    <p>In the plot above different clusters are shown, and a LDA model is currently used to give each cluster a name. We are though interested in investigating which source the documents in each cluster come from
+                        and therefore we have made a source plot below. This plot shows the same clusters as the datamap plot, but with the source of the documents in each cluster.
+                    </p>
+                    <img src="Visualizations/Outputs/manualrun_merged_Specter2Actually_sourceplot.png" alt="Specter2Actually_sourceplot" style="width:1000px;height:auto;">
+                </div>
+                <div id="plot14" style="display: none;">
+                    <p>
+                        Below you can see a comparison of the different models we have tested. The comparison is made by looking at the source of the documents in each cluster. The source is shown in the legend, and the different models are shown in different colors.
+                        The comparison is made to see if the different models are able to cluster the documents in a similar way, and if the source of the documents in each cluster is similar.
+                    </p>
+                    <img src="Visualizations/Outputs/manualrun_merged_XLM_Roberta_sourceplot.png" alt="XLM_roberta_sourceplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Outputs/manualrun_merged_MiniLm12_sourceplot.png" alt="MiniLm12_sourceplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Outputs/manualrun_merged_Specter2Actually_sourceplot.png" alt="Specter2Actually_sourceplot" style="width:1000px;height:auto;">
+                </div>
+                <div id="plot15" style="display: none;">
+                    <p>
+                        Since interactions are not possible in the report, we have tried to create a plot that shows the different sources distribution within each cluster
+                    </p>
+                    <img src="Visualizations/Outputs/manualrun_merged_XLM_Roberta_outlineplot.png" alt="XLM_roberta_sourceplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Outputs/manualrun_merged_MiniLm12_outlineplot.png" alt="MiniLm12_sourceplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Outputs/manualrun_merged_Specter2Actually_outlineplot.png" alt="Specter2Actually_sourceplot" style="width:1000px;height:auto;">
+                </div>
+            </div>
+            <div id="plots2" style="display: none;"> 
+                <h2>Data Map Plots Version 2</h2> 
+                <p>In the second version we have fed the documents from each source indivually to the LLM's and then generated embeddings.
+                    Our Hypethesis is that this will make the differences between the sources more clear in the embeddings.
+                </p>
+                <p>Various models are used for generating embeddings, among those XLM-Roberta, MiniLm12 and Specter2. They generate slightly different embeddings which can be visualised below. 
+                    Once embeddings are generated k-means clustering is applied to the 383 vectorspace in order to cluster the documents into "Topics" with similar semantics.
+                    When these cluster "Topics" are made we want to put a title on each Cluster. Currently TF-IDF is used, but we are testing the results of using BERTopic for bag of words and then 
+                    generating the titles based on this.</p>
+                <h3>When clicking the button please let it run for a couple of seconds</h3>
+                <p>The plots shown are quite large. Also you have to "deselect" a model after viewing it before going to the next one</p>
+                <button onclick="togglePlot('plot1')">XLM Roberta</button>
+                <button onclick="togglePlot('plot2')">MiniLm12</button>
+                <button onclick="togglePlot('plot3')">Specter2</button>
+                <button onclick="togglePlot('plot4')">Source plot</button>
+                <button onclick="togglePlot('plot5')">Outline Plot</button>
+                <p></p>
+                <div id="plot1" style="display: none;">
+                    <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
+                    <object data="Visualizations/Outputs/manualrun_merged_embeddings_XLM_Roberta_datamapplot.html" width="100%" height="800"></object>
+
+                    <p>In the plot above different clusters are shown, and a LDA model is currently used to give each cluster a name. We are though interested in investigating which source the documents in each cluster come from
+                        and therefore we have made a source plot below. This plot shows the same clusters as the datamap plot, but with the source of the documents in each cluster.
+                    </p>
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_XLM_Roberta_sourceplot.png" alt="XLM_roberta_sourceplot" style="width:1000px;height:auto;">
+                </div>
+                <div id="plot2" style="display: none;">
+                    <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
+                    <object data="Visualizations/Outputs/manualrun_merged_embeddings_MiniLm12_datamapplot.html" width="100%" height="800"></object>
+
+                    <p>In the plot above different clusters are shown, and a LDA model is currently used to give each cluster a name. We are though interested in investigating which source the documents in each cluster come from
+                        and therefore we have made a source plot below. This plot shows the same clusters as the datamap plot, but with the source of the documents in each cluster.
+                    </p>
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_MiniLm12_sourceplot.png" alt="MiniLm12_sourceplot" style="width:1000px;height:auto;">
+                </div>
+                <div id="plot3" style="display: none;">
+                    <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
+                    <object data="Visualizations/Outputs/manualrun_merged_embeddings_Specter2Actually_datamapplot.html" width="100%" height="800"></object>
+
+                    <p>In the plot above different clusters are shown, and a LDA model is currently used to give each cluster a name. We are though interested in investigating which source the documents in each cluster come from
+                        and therefore we have made a source plot below. This plot shows the same clusters as the datamap plot, but with the source of the documents in each cluster.
+                    </p>
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_Specter2Actually_sourceplot.png" alt="Specter2Actually_sourceplot" style="width:1000px;height:auto;">
+                </div>
+                <div id="plot4" style="display: none;">
+                    <p>
+                        Below you can see a comparison of the different models we have tested. The comparison is made by looking at the source of the documents in each cluster. The source is shown in the legend, and the different models are shown in different colors.
+                        The comparison is made to see if the different models are able to cluster the documents in a similar way, and if the source of the documents in each cluster is similar.
+                    </p>
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_XLM_Roberta_sourceplot.png" alt="XLM_roberta_sourceplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_MiniLm12_sourceplot.png" alt="MiniLm12_sourceplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_Specter2Actually_sourceplot.png" alt="Specter2Actually_sourceplot" style="width:1000px;height:auto;">
+                </div>
+                <div id="plot5" style="display: none;">
+                    <p>
+                        Since interactions are not possible in the report, we have tried to create a plot that shows the different sources distribution within each cluster
+                    </p>
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_XLM_Roberta_outlineplot.png" alt="XLM_roberta_sourceplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_MiniLm12_outlineplot.png" alt="MiniLm12_sourceplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_Specter2Actually_outlineplot.png" alt="Specter2Actually_sourceplot" style="width:1000px;height:auto;">
+                </div>
+            </div>
+            <div id="plots3" style="display: none;"> 
+                <h2>Plots for thesis based on merged embeddings (Version 2)</h2> 
+
+                <button onclick="togglePlot('plot111')">XLM Roberta</button>
+                <button onclick="togglePlot('plot112')">MiniLm12</button>
+                <button onclick="togglePlot('plot113')">Specter2</button>
+                <p></p>
+                <div id="plot111" style="display: none;">
+                    <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
+
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_XLM_Roberta_clusterplot.png" alt="XLM_roberta_clusterplot" style="width:1000px;height:auto;">                    
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_XLM_Roberta_clusterplot50.png" alt="XLM_roberta_clusterplot50" style="width:1000px;height:auto;">                    
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_XLM_Roberta_outlineplot.png" alt="XLM_roberta_sourceplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_XLM_Roberta_sourceplot.png" alt="XLM_roberta_sourceplot" style="width:1000px;height:auto;">
+                </div>
+                <div id="plot112" style="display: none;">
+                    <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
+
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_MiniLm12_clusterplot.png" alt="MiniLm12_clusterplot" style="width:1000px;height:auto;">                    
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_MiniLm12_clusterplot50.png" alt="MiniLm12_clusterplot50" style="width:1000px;height:auto;">                     
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_MiniLm12_outlineplot.png" alt="MiniLm12_sourceplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_MiniLm12_sourceplot.png" alt="MiniLm12_sourceplot" style="width:1000px;height:auto;">
+                </div>
+                <div id="plot113" style="display: none;">
+                    <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
+
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_Specter2Actually_clusterplot.png" alt="Specter2Actually_clusterplot" style="width:1000px;height:auto;">                    
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_Specter2Actually_clusterplot50.png" alt="Specter2Actually_clusterplot50" style="width:1000px;height:auto;">                    
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_Specter2Actually_outlineplot.png" alt="Specter2Actually_sourceplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Outputs/manualrun_merged_embeddings_Specter2Actually_sourceplot.png" alt="Specter2Actually_sourceplot" style="width:1000px;height:auto;">
+                </div>
+            </div>
+            <div id="plots4" style="display: none;"> 
+                <h2>Plots for thesis where each source is analysed individually</h2> 
+
+                <button onclick="togglePlot('plot1111')">XLM Roberta</button>
+                <button onclick="togglePlot('plot1112')">MiniLm12</button>
+                <button onclick="togglePlot('plot1113')">Specter2</button>
+                <p></p>
+                <div id="plot1111" style="display: none;">
+                    <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
+
+                    <img src="Visualizations/Plots/manualrun_XLM_Roberta_BERTopic_merged_embeddings_source_plot.png" alt="XLM_Robertasourceplot" style="width:1000px;height:auto;">
+
+                    <h2>Bertopic Clustering</h2>
+                    <img src="Visualizations/Plots/manualrun_XLM_Roberta_BERTopic_pro_cluster_plot.png" alt="XLM_Roberta_proplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_XLM_Roberta_BERTopic_reg_cluster_plot.png" alt="XLM_Roberta_regplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_XLM_Roberta_BERTopic_sci_cluster_plot.png" alt="XLM_Roberta_sciplot" style="width:1000px;height:auto;">
+                    
+
+                    <h2>HDBSCAN Clustering</h2>
+                    <img src="Visualizations/Plots/manualrun_XLM_Roberta_HDBSCAN_pro_cluster_plot.png" alt="XLM_Roberta_proplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_XLM_Roberta_HDBSCAN_reg_cluster_plot.png" alt="XLM_Roberta_regplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_XLM_Roberta_HDBSCAN_sci_cluster_plot.png" alt="XLM_Roberta_sciplot" style="width:1000px;height:auto;">
+                </div>
+                <div id="plot1112" style="display: none;">
+                    <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
+
+                    <img src="Visualizations/Plots/manualrun_MiniLm12_BERTopic_merged_embeddings_source_plot.png" alt="MiniLm12sourceplot" style="width:1000px;height:auto;">
+
+                    <h2>Bertopic Clustering</h2>
+                    <img src="Visualizations/Plots/manualrun_MiniLm12_BERTopic_pro_cluster_plot.png" alt="MiniLm12_proplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_MiniLm12_BERTopic_reg_cluster_plot.png" alt="MiniLm12_regplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_MiniLm12_BERTopic_sci_cluster_plot.png" alt="MiniLm12_sciplot" style="width:1000px;height:auto;">
+                    
+
+                    <h2>HDBSCAN Clustering</h2>
+                    <img src="Visualizations/Plots/manualrun_MiniLm12_HDBSCAN_pro_cluster_plot.png" alt="MiniLm12_proplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_MiniLm12_HDBSCAN_reg_cluster_plot.png" alt="MiniLm12_regplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_MiniLm12_HDBSCAN_sci_cluster_plot.png" alt="MiniLm12_sciplot" style="width:1000px;height:auto;">
+                </div>
+                <div id="plot1113" style="display: none;">
+                    <p>First we show the 2D visualization of the document embeddings originally being a 383 dimensional vectorspace.</p>
+
+                    <img src="Visualizations/Plots/manualrun_Specter2Actually_BERTopic_merged_embeddings_source_plot.png" alt="Specter2sourceplot" style="width:1000px;height:auto;">                    
+
+                    <h2>Bertopic Clustering</h2>
+                    <img src="Visualizations/Plots/manualrun_Specter2Actually_BERTopic_pro_cluster_plot.png" alt="Specter2Actually_proplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_Specter2Actually_BERTopic_reg_cluster_plot.png" alt="Specter2Actually_regplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_Specter2Actually_BERTopic_sci_cluster_plot.png" alt="Specter2Actually_sciplot" style="width:1000px;height:auto;">
+                    
+
+                    <h2>HDBSCAN Clustering</h2>
+                    <img src="Visualizations/Plots/manualrun_Specter2Actually_HDBSCAN_pro_cluster_plot.png" alt="Specter2Actually_proplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_Specter2Actually_HDBSCAN_reg_cluster_plot.png" alt="Specter2Actually_regplot" style="width:1000px;height:auto;">
+                    <img src="Visualizations/Plots/manualrun_Specter2Actually_HDBSCAN_sci_cluster_plot.png" alt="Specter2Actually_sciplot" style="width:1000px;height:auto;">
+                </div>
+            </div>
+            <div id="services" style="display: none;"> 
+                <h2>About</h2> 
+                <p>We are three friends from DTU collaborating together on this bachelor supervised by Anders Kristian Munk</p> 
+                <a href="https://www.dtu.dk/english/person/anders-kristian-munk?id=34141&entity=profile" target="_blank">Anders Kristian Munk</a>
+
+                <h3>Simen Fjeld</h3> 
+                <p>S224920@dtu.dk</p>
+                <a href="https://www.linkedin.com/in/simen-fjeld-28a04424a/" target="_blank">Linked-in</a>
+                <p></p>
+                <img src="Webpage/Pictures/Simen.png" alt="Simen Fjeld" style="width:200px;height:auto;">
+
+                <h3>Markus Heuer</h3>
+                <p>S224933@dtu.dk</p>
+                <a href="https://www.linkedin.com/in/markus-kaad-heuer-b99205155/" target="_blank">Linked-in</a>
+                <p></p>
+                <img src="Webpage/Pictures/Markus.png" alt="Markus Heuer" style="width:200px;height:auto;">
+
+                <h3>Jonas Sætre</h3>
+                <p>S224941@dtu.dk</p>
+                <a href="https://www.linkedin.com/in/jonas-sætre-871a291a3/" target="_blank">Linked-in</a>
+                <p></p>
+                <img src="Webpage/Pictures/Jonas.png" alt="Jonas Sætre" style="width:200px;height:auto;">
+                
+            </div>
+            <div id="contact" style="display: none;"> 
+                <h2>Log Data</h2>
+                <p>Below you can see the latest version of the log file, and see when the data on the page was last run</p>
+                <iframe src="modelling/outputs/log.csv" width="100%" height="500"></iframe>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        function showContent(sectionId) {
+            // Hide all content sections
+            document.querySelectorAll(".content div").forEach(div => div.style.display = "none");
+
+            // Show the selected section
+            document.getElementById(sectionId).style.display = "block";
+
+            // Reset all button styles
+            document.querySelectorAll(".menu button").forEach(btn => btn.style.backgroundColor = "");
+
+            // Highlight the active menu button
+            document.getElementById(`btn-${sectionId}`).style.backgroundColor = "lightblue";
+        }
+
+        function togglePlot(plotId, button) {
+            var plot = document.getElementById(plotId);
+            var buttons = document.querySelectorAll('button');
+            
+            // Toggle visibility of the plot
+            if (plot.style.display === "none") {
+                plot.style.display = "block";
+            } else {
+                plot.style.display = "none";
+            }
+
+            // Reset all button styles
+            document.querySelectorAll('button').forEach(btn => btn.style.backgroundColor = "");
+
+            // Highlight the active menu button
+            document.getElementById(`btn-${plotId}`).style.backgroundColor = "lightblue";
+        }
+    </script>
+</body>
+</html>
