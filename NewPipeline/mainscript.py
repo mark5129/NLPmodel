@@ -11,8 +11,8 @@ from sklearn.preprocessing import normalize
 
 from naming_scripts.TFIDF_cluster_Naming import TFIDF_cluster_Naming
 from naming_scripts.namingtables import naming_tableIndividual
-from cosine_matrix_cluster import cluster_embeddings_with_affinity_propagation
-from cosine_matrix_cluster import merged_naming_table
+from cluster_scripts.cosine_matrix_cluster import cluster_embeddings_with_affinity_propagation
+from cluster_scripts.cosine_matrix_cluster import merged_naming_table
 
 models = ['MiniLm12', 'Specter2', 'XLM_Roberta']
 
