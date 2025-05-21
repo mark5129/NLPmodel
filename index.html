@@ -19,6 +19,7 @@
             <button onclick="showContent('home')" id="btn-home">Home</button>
             <button onclick="showContent('results')" id="btn-plots">Final Results</button>
             <button onclick="showContent('plots3')" id="btn-plots">Final plots</button>
+            <button onclick="showContent('Groups')" id="btn-plots">Cluster investigation</button>
             <button onclick="showContent('plots2')" id="btn-plots">Version 2 plots</button>
             <button onclick="showContent('plots1')" id="btn-plots">Version 1 plots</button>
             <button onclick="showContent('services')" id="btn-services">About</button>
@@ -92,6 +93,28 @@
                 <div id="plot1113" style="display: none;">
                     
                     <iframe src="Results/AP_Specter2_Results.html" style="width:100%; height:800px; border:none;"></iframe>
+                </div>
+            </div>
+            <div id="Groups" style="display: none;"> 
+                <h2>Cluster investigation</h2> 
+                <p>In order to investigate the many clusters generated, we investigated how to group the clusters with similar BoW representations. The idea was to group the clusters in order for the qualitative analysis to become easier. Many issues with the grouping was found and therefore it was abandoned since, it would take substantial time to develop. Therefore it was abandoned, and therefore what is presented is WIP.</p>
+
+                <button onclick="togglePlot('plot11111')">XLM Roberta</button>
+                <button onclick="togglePlot('plot11112')">MiniLm12</button>
+                <button onclick="togglePlot('plot11113')">Specter2</button>
+                <p></p>
+                <div id="plot11111" style="display: none;">
+                    <iframe src="NewPipeline/clustering_outputs/AP_XLM_Roberta_merged_output.html" style="width:100%; height:800px; border:none;"></iframe>
+
+                </div>
+                <div id="plot11112" style="display: none;">
+
+                    <iframe src="NewPipeline/clustering_outputs/AP_MiniLm12_merged_output.html" style="width:100%; height:800px; border:none;"></iframe>
+
+                </div>
+                <div id="plot11113" style="display: none;">
+                    
+                    <iframe src="NewPipeline/clustering_outputs/AP_Specter2_merged_output.html" style="width:100%; height:800px; border:none;"></iframe>
                 </div>
             </div>
             <div id="plots1" style="display: none;"> 
