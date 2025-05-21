@@ -1,7 +1,10 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+from plots.set_plot_style import set_style
 
+
+set_style()
 # Load your data
 minilm_df = pd.read_csv('NewPipeline/clustering_outputs/AP_MiniLm12_merged_naming_clusters.csv')
 specter_df = pd.read_csv('NewPipeline/clustering_outputs/AP_Specter2_merged_naming_clusters.csv')
@@ -54,17 +57,20 @@ comparison_df = pd.DataFrame(stats)
 print(comparison_df)
 comparison_df.to_csv('NewPipeline/model_comparison_table.csv', index=False)
 
-# Create the box plot with fully transparent boxes
+# Create the box plot using plt
 plt.figure(figsize=(10, 6))
-box_plot = sns.boxplot(data=combined_df, x='Model', y='Cluster Size', palette=None)
-for patch in box_plot.artists:
-    patch.set_facecolor('none')  # Make the boxes transparent
-    patch.set_edgecolor('black')  # Set the edge color to black for visibility
+
+# Prepare data for plotting
+models = combined_df['Model'].unique()
+data = [combined_df[combined_df['Model'] == model]['Cluster Size'] for model in models]
+
+# Create the box plot
+plt.boxplot(data, labels=models, patch_artist=True, boxprops=dict(facecolor='none', color='black'),medianprops=dict(color='red'))
+
+# Add titles and labels
 plt.title('Distribution of Cluster Sizes by Model', fontsize=16)
-plt.xlabel('Model', fontsize=12)
-plt.ylabel('Cluster Size', fontsize=12)
-plt.xticks(fontsize=10)
-plt.yticks(fontsize=10)
+#plt.xlabel('Model')
+plt.ylabel('Cluster Size')
 plt.grid(axis='y', linestyle='--', alpha=0.7)
 plt.tight_layout()
 
