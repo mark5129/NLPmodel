@@ -139,10 +139,17 @@ def TFIDF_cluster_Naming(df_file, result_df, threshold):
 
         
         counts = list(document_counts.values())[:How_many_terms]
-        weights = np.linspace(1, 1 / len(counts), len(counts))
-        weighted_average = np.average(counts, weights=weights)
+        if len(counts) == 0:
+            percentage_of_documents = 0
+            result_df.loc[result_df.index[indices], 'percentage_of_documents'] = 0
+            result_df.loc[result_df.index[indices], 'percentage_limit'] = 0
+            result_df.loc[result_df.index[indices], 'Topic_terms'] = topic_name1 if topic_name1 else ''
+        else:
+            weights = np.linspace(1, 1 / len(counts), len(counts))
+            weighted_average = np.average(counts, weights=weights)
+            percentage_of_documents = (weighted_average / len(indices))
+        
 
-        percentage_of_documents = (weighted_average / len(indices))
         result_df.loc[result_df.index[indices], 'percentage_of_documents'] = round(percentage_of_documents, 4)
         result_df.loc[result_df.index[indices], 'percentage_limit'] = [int(1) if percentage_of_documents >= 0.2 else int(0)] * len(indices)
 
