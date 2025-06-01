@@ -149,7 +149,11 @@ for clustering in clusterings:
 
                 #df_file1 = pd.read_csv(f'data/{source}_media_cleaned_eng.csv') # translated and stopword removed data
 
-                df_file1 = pd.read_csv(f'raw_data/{source}_media.csv') # Raw data
+                if source == 'sci':
+                    df_file1 = pd.read_csv(f'raw_data/{source}_media.csv') # Raw data
+                
+                else:
+                    df_file1 = pd.read_csv(f'data/{source}_media_translated.csv')
 
                 df_file1['Source'] = source
 
