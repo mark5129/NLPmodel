@@ -216,18 +216,18 @@ for clustering in clusterings:
             print(f"\nBERTopic embedding for {model} saved.\n")
 
             # Generate and save the naming table
-            merged_naming = naming_tableIndividual(result_df)
+            #merged_naming = naming_tableIndividual(result_df)
 
-            merged_naming.to_csv(f'NewPipeline/clustering_outputs/No_stop_words_removed_{clustering}_{model}_merged_naming_.csv', index=False)
-            print(f"\nNaming table for {model} saved.\n")
+            #merged_naming.to_csv(f'NewPipeline/clustering_outputs/No_stop_words_removed_{clustering}_{model}_merged_naming_.csv', index=False)
+            #print(f"\nNaming table for {model} saved.\n")
 
-            merged_naming_df = merged_naming_table(merged_naming)
+            #merged_naming_df = merged_naming_table(merged_naming)
 
             # Reorder the columns in the desired order
-            column_order = ['cluster', 'pro', 'reg', 'sci', 'TF_IDF_topic_name', 'percentage_of_documents', 'percentage_limit', 'Topic_terms']
-            merged_naming_df = merged_naming_df[column_order]
+            #column_order = ['cluster', 'pro', 'reg', 'sci', 'TF_IDF_topic_name', 'percentage_of_documents', 'percentage_limit', 'Topic_terms']
+            #merged_naming_df = merged_naming_df[column_order]
 
-            merged_naming_df.to_csv(f'NewPipeline/clustering_outputs/No_stop_words_removed_{clustering}_{model}_merged_naming_clusters.csv', index=False)
+            #merged_naming_df.to_csv(f'NewPipeline/clustering_outputs/No_stop_words_removed_{clustering}_{model}_merged_naming_clusters.csv', index=False)
 
 
             
