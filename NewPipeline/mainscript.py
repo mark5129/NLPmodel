@@ -1,14 +1,16 @@
 import pandas as pd
 
 # Load the BERTopic library
-from bertopic import BERTopic
+#from bertopic import BERTopic
 
+print('Loading necessary libraries...\n')
 from sentence_transformers import SentenceTransformer
 import umap
 import hdbscan
-from sklearn.feature_extraction.text import TfidfVectorizer
+#from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.preprocessing import normalize
 
+print('Libraries loaded successfully.\n')
 from naming_scripts.TFIDF_cluster_Naming import TFIDF_cluster_Naming
 from naming_scripts.namingtables import naming_tableIndividual
 from cluster_scripts.cosine_matrix_cluster import cluster_embeddings_with_affinity_propagation
@@ -16,9 +18,11 @@ from cluster_scripts.cosine_matrix_cluster import merged_naming_table
 
 models = ['MiniLm12', 'Specter2', 'XLM_Roberta']
 
-clusterings = ['AP', 'hdbscan']
+clusterings = ['AP'] #, 'hdbscan'
 
 sources = ['pro', 'reg', 'sci']
+
+print('Starting the clustering process...\n')
 
 for clustering in clusterings:
     for model in models:
@@ -31,6 +35,8 @@ for clustering in clusterings:
         elif model == 'MiniLm12':
             embedding_model = SentenceTransformer("sentence-transformers/all-MiniLM-L12-v2")
 
+        print(f'\n{model} model loaded.\n')
+
         # Define dimensions for umap
         umap_model = umap.UMAP(
             n_neighbors=30, 
@@ -39,6 +45,7 @@ for clustering in clusterings:
             metric='cosine', 
             random_state=42
         )
+        print('UMAP model created.\n')
         
         hdbscan_model = hdbscan.HDBSCAN(
             min_cluster_size=15, 
@@ -46,8 +53,9 @@ for clustering in clusterings:
             metric='euclidean',
             prediction_data=True  # Enable prediction data
         )
+        print('HDBSCAN model created.\n')
 
-        if True:
+        if False:
 
             # list of dataframes to store topic information
             cluster_info = {
@@ -129,7 +137,8 @@ for clustering in clusterings:
 
             print(f"\nNaming table for {model} saved.\n")
 
-        if False:
+        if True:
+            
             text_info = {
                 'pro': pd.DataFrame(),
                 'reg': pd.DataFrame(),
@@ -138,11 +147,14 @@ for clustering in clusterings:
 
             for source in sources:
 
-                df_file1 = pd.read_csv(f'data/{source}_media_cleaned_eng.csv')
+                #df_file1 = pd.read_csv(f'data/{source}_media_cleaned_eng.csv') # translated and stopword removed data
+
+                df_file1 = pd.read_csv(f'raw_data/{source}_media.csv') # Raw data
 
                 df_file1['Source'] = source
 
                 text_info[source] = df_file1
+                print(f'\n{source} data loaded.\n')
             
             merged_text = pd.concat([text_info['pro'], text_info['reg'], text_info['sci']], ignore_index=True)
 
@@ -157,9 +169,12 @@ for clustering in clusterings:
 
             norm_data = normalize(reduced_embeddings, norm='l2')
 
+            print('Data loaded and embeddings created.\n')
+
             if clustering == 'AP':
                 # Affinity Propagation clustering
                 cluster_id = cluster_embeddings_with_affinity_propagation(embeddings)
+                print('Affinity Propagation clustering completed.\n')
                 
             elif clustering == 'hdbscan':
                 # HDBSCAN clustering
