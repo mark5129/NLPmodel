@@ -208,17 +208,17 @@ for clustering in clusterings:
             result_df = TFIDF_cluster_Naming(df_file, cluster_df, threshold=0)
 
             # Save clustering results
-            cluster_df.to_csv(f'NewPipeline/clustering_outputs/{clustering}_{model}_merged_clustering.csv', index=False)
+            cluster_df.to_csv(f'NewPipeline/clustering_outputs/No_stop_words_removed_{clustering}_{model}_merged_clustering.csv', index=False)
             print(f"\nBERTopic clustering for {model} saved.\n")
 
             # Save the embeddings to a CSV file
-            embeddings_df.to_csv(f'NewPipeline/clustering_outputs/{clustering}_{model}_merged_embeddings.csv', index=False)
+            embeddings_df.to_csv(f'NewPipeline/clustering_outputs/No_stop_words_removed_{clustering}_{model}_merged_embeddings.csv', index=False)
             print(f"\nBERTopic embedding for {model} saved.\n")
 
             # Generate and save the naming table
             merged_naming = naming_tableIndividual(result_df)
 
-            merged_naming.to_csv(f'NewPipeline/clustering_outputs/{clustering}_{model}_merged_naming.csv', index=False)
+            merged_naming.to_csv(f'NewPipeline/clustering_outputs/No_stop_words_removed_{clustering}_{model}_merged_naming_.csv', index=False)
             print(f"\nNaming table for {model} saved.\n")
 
             merged_naming_df = merged_naming_table(merged_naming)
@@ -227,7 +227,7 @@ for clustering in clusterings:
             column_order = ['cluster', 'pro', 'reg', 'sci', 'TF_IDF_topic_name', 'percentage_of_documents', 'percentage_limit', 'Topic_terms']
             merged_naming_df = merged_naming_df[column_order]
 
-            merged_naming_df.to_csv(f'NewPipeline/clustering_outputs/{clustering}_{model}_merged_naming_clusters.csv', index=False)
+            merged_naming_df.to_csv(f'NewPipeline/clustering_outputs/No_stop_words_removed_{clustering}_{model}_merged_naming_clusters.csv', index=False)
 
 
             
