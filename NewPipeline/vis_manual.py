@@ -10,13 +10,20 @@ with open('parameters.yaml', 'r') as file:
 
 set_style()
 
-clustering = ['AP', 'hdbscan']
+clustering = ['AP'] # , 'hdbscan'
 models = ['Specter2', 'XLM_Roberta', 'MiniLm12'] # , 'XLM_Roberta', 'MiniLm12'
 sources = ['pro', 'reg', 'sci']
 
 for cluster in clustering:
     for model in models:
-        merged_clusters = pd.read_csv(f'NewPipeline/clustering_outputs/{cluster}_{model}_merged_clustering.csv')
+        merged_clusters = pd.read_csv(f'NewPipeline/clustering_outputs/raw_data_{cluster}_{model}_merged_clustering.csv')
+
+        # if model == 'Specter2':
+        #     merged_clusters = merged_clusters[merged_clusters['x'] >= 0]
+        # elif model == 'XLM_Roberta':
+        #     merged_clusters = merged_clusters[merged_clusters['x'] <= 10]
+        # elif model == 'MiniLm12':
+        #     merged_clusters = merged_clusters[merged_clusters['x'] >= 10]
 
         merged_embeddings_plot(merged_clusters, model, cluster)
 

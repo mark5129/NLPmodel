@@ -52,7 +52,7 @@ def merged_embeddings_plot(embedding, model, cluster_model):
     plt.ylabel('UMAP 2')
 
     # Save the cluster-colored plot
-    plt.savefig(f'NewPipeline/plots/{cluster_model}_{model}_merged_cluster_plot.png')
+    plt.savefig(f'NewPipeline/plots/raw_data_{cluster_model}_{model}_merged_cluster_plot.png')
     plt.close()
     print(f"Cluster plot saved for {cluster_model}_{model}")
 
@@ -83,6 +83,6 @@ def merged_embeddings_plot(embedding, model, cluster_model):
     plt.legend()
 
 
-    plt.savefig(f'NewPipeline/plots/{cluster_model}_{model}_merged_source_plot.png')
+    plt.savefig(f'NewPipeline/plots/raw_data_{cluster_model}_{model}_merged_source_plot.png')
     plt.close()
     print(f"Source plot saved for {cluster_model}_{model}")
