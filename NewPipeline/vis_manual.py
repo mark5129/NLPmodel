@@ -18,12 +18,12 @@ for cluster in clustering:
     for model in models:
         merged_clusters = pd.read_csv(f'NewPipeline/clustering_outputs/raw_data_{cluster}_{model}_merged_clustering.csv')
 
-        # if model == 'Specter2':
-        #     merged_clusters = merged_clusters[merged_clusters['x'] >= 0]
-        # elif model == 'XLM_Roberta':
-        #     merged_clusters = merged_clusters[merged_clusters['x'] <= 10]
-        # elif model == 'MiniLm12':
-        #     merged_clusters = merged_clusters[merged_clusters['x'] >= 10]
+        if model == 'Specter2':
+             merged_clusters = merged_clusters[merged_clusters['y'] <= 10]
+        elif model == 'XLM_Roberta':
+             merged_clusters = merged_clusters[merged_clusters['x'] <= 10]
+        elif model == 'MiniLm12':
+             merged_clusters = merged_clusters[merged_clusters['y'] >= 1]
 
         merged_embeddings_plot(merged_clusters, model, cluster)
 
